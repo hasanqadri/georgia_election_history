@@ -1,4 +1,4 @@
-**Team Name**:  TBD
+**Team Name**:  The Gerrymanderers
 
 **Members**: Omar Hayek, Aadil Omar, Hasan Qadri, Charlie Bryant
 
