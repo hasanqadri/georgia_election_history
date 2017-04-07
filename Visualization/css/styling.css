@@ -4,6 +4,18 @@ body{
     height: 900px;
 }
 
+h1 {
+  font-family:arial;
+  font-size:2em;
+  color:#333;
+}
+
+#info {
+  position:absolute;
+  top: 10px;
+  left: 10px;
+}
+
 .ga-map {
     width: 600px;
 }
