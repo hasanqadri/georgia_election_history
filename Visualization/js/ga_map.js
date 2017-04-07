@@ -21,6 +21,8 @@ var projection = d3.geo.mercator()
 var path = d3.geo.path()
         .projection(projection);
 
+
+
 d3.json('/Data/Geo/ga.json', function(error, data) {
 //	console.log(topojson.feature(data, data.objects.states));
 	console.log(data);
@@ -40,8 +42,8 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
 		.attr('class', 'counties')
 		.attr('d', path)
 		.on('mouseover', function(d){
-			var name = d.properties.NAME_2;
-			return document.getElementById('name').innerHTML=name;
+			var countyName = d.properties.NAME_2;
+			return document.getElementById('name').innerHTML=countyName;
 		});
 
    // svg.append('path')
