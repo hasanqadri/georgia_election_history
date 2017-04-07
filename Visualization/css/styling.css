@@ -22,3 +22,7 @@ body{
   stroke-width:2px;
 }
 
+
+.counties:hover {
+  fill: steelblue;
+}
