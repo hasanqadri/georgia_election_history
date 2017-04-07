@@ -23,7 +23,7 @@ var path = d3.geo.path()
 
 d3.json('/Data/Geo/ga.json', function(error, data) {
 //	console.log(topojson.feature(data, data.objects.states));
-
+	console.log(data);
 	chartData.georgia = topojson.feature(data, data.objects.states);
 	//console.log(chartData)
     chartData.counties = topojson.feature(data, data.objects.counties);
@@ -39,6 +39,10 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
 		.append('path')
 		.attr('class', 'counties')
 		.attr('d', path)
+		.on('mouseover', function(d){
+			var name = d.properties.NAME_2;
+			return document.getElementById('name').innerHTML=name;
+		});
 
    // svg.append('path')
    //    .datum(topojson.mesh(data, data.objects.counties, function(a, b) { return a.properties.NAME_2 !== b.properties.NAME_2;}))
