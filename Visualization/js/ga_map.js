@@ -60,16 +60,25 @@ function displayStatistics(countyName) {
 	// CSV title. So, we get rid of spaces and replace with underscore.
 	countyName = countyName.replace(' ', '_');
 
-	var csvName = '/Data/2016/20161108__ga__general__' + countyName +
-	 							'__precinct.csv';
+	// Getting the value of the dropdown. Got it from:
+	// stackoverflow.com/questions/1085801/get-selected-value-in-
+	// dropdown-list-using-javascript
+	var yearDropdown = document.getElementById("yearDropdown");
+	var yearSelected = yearDropdown.options[yearDropdown.selectedIndex].text;
+
+	var electionDate = getElectionDate("President", yearSelected);
+
+	console.log(yearSelected);
+
+	var csvName = '/Data/' + yearSelected + '/' + yearSelected
+								+ electionDate + '__ga__general__' + countyName + '__precinct.csv';
+
 	d3.csv(csvName, function(error, data) {
 		//console.log("opened data csv file!");
-		console.log(data[1]);
 		var groupByOffice = d3.nest()
 													.key(function(d) {return d.office})
 													.entries(data);
 		presCandidateVotes = getVotesByOffice(groupByOffice, 'President of the United States');
-		console.log(presCandidateVotes);
 		var voteSummaryString = ''
 		for (var i = 0; i < presCandidateVotes.length; i++) {
 			candidate = presCandidateVotes[i].candidate;
@@ -81,6 +90,18 @@ function displayStatistics(countyName) {
 		}
 		document.getElementById('voteInfoName').innerHTML = voteSummaryString;
 	});
+
+	// This function determines what date the election was held based on
+	// The year and the office
+	function getElectionDate(office, year) {
+		if (office == 'President') {
+			if (year == 2016) return '1108';
+			if (year == 2012) return '1106';
+			if (year == 2008) return '1104';
+			if (year == 2004) return '1102';
+			if (year == 2000) return '1107';
+		}
+	}
 
 	// This function takes an array that has all the votes by office of a
 	// certain county.
@@ -95,7 +116,6 @@ function displayStatistics(countyName) {
 				});
 			}
 		}
-
 	}
 
 }
