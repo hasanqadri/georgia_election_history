@@ -10,8 +10,13 @@ h1 {
   color:#333;
 }
 
+h3 {
+  font-family:arial;  
+  color:#333;
+}
+
 #info {
-  position:absolute;
+  position:relative;
   top: 10px;
   left: 10px;
 }
