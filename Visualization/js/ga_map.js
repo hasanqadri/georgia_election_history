@@ -24,10 +24,8 @@ var path = d3.geo.path()
 
 
 d3.json('/Data/Geo/ga.json', function(error, data) {
-//	console.log(topojson.feature(data, data.objects.states));
 	console.log(data);
 	chartData.georgia = topojson.feature(data, data.objects.states);
-	//console.log(chartData)
   chartData.counties = topojson.feature(data, data.objects.counties);
 
 	svg.append('path')
@@ -68,13 +66,10 @@ function displayStatistics(countyName) {
 
 	var electionDate = getElectionDate("President", yearSelected);
 
-	console.log(yearSelected);
-
 	var csvName = '/Data/' + yearSelected + '/' + yearSelected
 								+ electionDate + '__ga__general__' + countyName + '__precinct.csv';
 
 	d3.csv(csvName, function(error, data) {
-		//console.log("opened data csv file!");
 		var groupByOffice = d3.nest()
 													.key(function(d) {return d.office})
 													.entries(data);
@@ -83,9 +78,7 @@ function displayStatistics(countyName) {
 		for (var i = 0; i < presCandidateVotes.length; i++) {
 			candidate = presCandidateVotes[i].candidate;
 			candidateVotes = presCandidateVotes[i].votes;
-			console.log(candidateVotes);
 			voteSummaryString += candidate + ': ' + candidateVotes + '<br>';
-			console.log(voteSummaryString);
 
 		}
 		document.getElementById('voteInfoName').innerHTML = voteSummaryString;
@@ -107,7 +100,6 @@ function displayStatistics(countyName) {
 	// certain county.
 	function getVotesByOffice(groupedVotes, office) {
 		for (var i = 0; i < groupedVotes.length; i++) {
-			console.log(groupedVotes[i].key== office);
 			if (groupedVotes[i].key == office) {
 				// The csv files are structured such that rows that have no
 				// 'precinct' values are aggregate rows.
