@@ -1,34 +1,34 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-McDuffie,,President of the United States,,,DONALD J. TRUMP,5432,273,1886,3273,0
-McDuffie,Queen of Angels,President of the United States,,,DONALD J. TRUMP,134,14,40,80,0
-McDuffie,Augusta Tech,President of the United States,,,DONALD J. TRUMP,871,46,274,551,0
-McDuffie,Fort Creek,President of the United States,,,DONALD J. TRUMP,466,19,177,270,0
-McDuffie,Dearing UMC,President of the United States,,,DONALD J. TRUMP,905,23,359,523,0
-McDuffie,Vanderhorst,President of the United States,,,DONALD J. TRUMP,477,31,130,316,0
-McDuffie,Sweetwater Activity Center,President of the United States,,,DONALD J. TRUMP,1306,80,386,840,0
-McDuffie,Thomson Depot,President of the United States,,,DONALD J. TRUMP,160,14,49,97,0
-McDuffie,Marshall Church,President of the United States,,,DONALD J. TRUMP,703,27,283,393,0
-McDuffie,Whiteoak,President of the United States,,,DONALD J. TRUMP,410,19,188,203,0
-McDuffie,,President of the United States,,,HILLARY CLINTON,3699,290,1411,1998,0
-McDuffie,Queen of Angels,President of the United States,,,HILLARY CLINTON,527,41,221,265,0
-McDuffie,Augusta Tech,President of the United States,,,HILLARY CLINTON,101,8,29,64,0
-McDuffie,Fort Creek,President of the United States,,,HILLARY CLINTON,220,24,88,108,0
-McDuffie,Dearing UMC,President of the United States,,,HILLARY CLINTON,253,19,99,135,0
-McDuffie,Vanderhorst,President of the United States,,,HILLARY CLINTON,722,78,235,409,0
-McDuffie,Sweetwater Activity Center,President of the United States,,,HILLARY CLINTON,610,34,227,349,0
-McDuffie,Thomson Depot,President of the United States,,,HILLARY CLINTON,885,70,334,481,0
-McDuffie,Marshall Church,President of the United States,,,HILLARY CLINTON,141,8,60,73,0
-McDuffie,Whiteoak,President of the United States,,,HILLARY CLINTON,240,8,118,114,0
-McDuffie,,President of the United States,,,GARY JOHNSON,137,13,55,69,0
-McDuffie,Queen of Angels,President of the United States,,,GARY JOHNSON,8,0,4,4,0
-McDuffie,Augusta Tech,President of the United States,,,GARY JOHNSON,17,2,9,6,0
-McDuffie,Fort Creek,President of the United States,,,GARY JOHNSON,12,1,6,5,0
-McDuffie,Dearing UMC,President of the United States,,,GARY JOHNSON,21,2,10,9,0
-McDuffie,Vanderhorst,President of the United States,,,GARY JOHNSON,17,1,5,11,0
-McDuffie,Sweetwater Activity Center,President of the United States,,,GARY JOHNSON,29,1,10,18,0
-McDuffie,Thomson Depot,President of the United States,,,GARY JOHNSON,6,1,1,4,0
-McDuffie,Marshall Church,President of the United States,,,GARY JOHNSON,13,4,2,7,0
-McDuffie,Whiteoak,President of the United States,,,GARY JOHNSON,14,1,8,5,0
+McDuffie,,President of the United States,,REP,DONALD J. TRUMP,5432,273,1886,3273,0
+McDuffie,Queen of Angels,President of the United States,,REP,DONALD J. TRUMP,134,14,40,80,0
+McDuffie,Augusta Tech,President of the United States,,REP,DONALD J. TRUMP,871,46,274,551,0
+McDuffie,Fort Creek,President of the United States,,REP,DONALD J. TRUMP,466,19,177,270,0
+McDuffie,Dearing UMC,President of the United States,,REP,DONALD J. TRUMP,905,23,359,523,0
+McDuffie,Vanderhorst,President of the United States,,REP,DONALD J. TRUMP,477,31,130,316,0
+McDuffie,Sweetwater Activity Center,President of the United States,,REP,DONALD J. TRUMP,1306,80,386,840,0
+McDuffie,Thomson Depot,President of the United States,,REP,DONALD J. TRUMP,160,14,49,97,0
+McDuffie,Marshall Church,President of the United States,,REP,DONALD J. TRUMP,703,27,283,393,0
+McDuffie,Whiteoak,President of the United States,,REP,DONALD J. TRUMP,410,19,188,203,0
+McDuffie,,President of the United States,,DEM,HILLARY CLINTON,3699,290,1411,1998,0
+McDuffie,Queen of Angels,President of the United States,,DEM,HILLARY CLINTON,527,41,221,265,0
+McDuffie,Augusta Tech,President of the United States,,DEM,HILLARY CLINTON,101,8,29,64,0
+McDuffie,Fort Creek,President of the United States,,DEM,HILLARY CLINTON,220,24,88,108,0
+McDuffie,Dearing UMC,President of the United States,,DEM,HILLARY CLINTON,253,19,99,135,0
+McDuffie,Vanderhorst,President of the United States,,DEM,HILLARY CLINTON,722,78,235,409,0
+McDuffie,Sweetwater Activity Center,President of the United States,,DEM,HILLARY CLINTON,610,34,227,349,0
+McDuffie,Thomson Depot,President of the United States,,DEM,HILLARY CLINTON,885,70,334,481,0
+McDuffie,Marshall Church,President of the United States,,DEM,HILLARY CLINTON,141,8,60,73,0
+McDuffie,Whiteoak,President of the United States,,DEM,HILLARY CLINTON,240,8,118,114,0
+McDuffie,,President of the United States,,IND,GARY JOHNSON,137,13,55,69,0
+McDuffie,Queen of Angels,President of the United States,,IND,GARY JOHNSON,8,0,4,4,0
+McDuffie,Augusta Tech,President of the United States,,IND,GARY JOHNSON,17,2,9,6,0
+McDuffie,Fort Creek,President of the United States,,IND,GARY JOHNSON,12,1,6,5,0
+McDuffie,Dearing UMC,President of the United States,,IND,GARY JOHNSON,21,2,10,9,0
+McDuffie,Vanderhorst,President of the United States,,IND,GARY JOHNSON,17,1,5,11,0
+McDuffie,Sweetwater Activity Center,President of the United States,,IND,GARY JOHNSON,29,1,10,18,0
+McDuffie,Thomson Depot,President of the United States,,IND,GARY JOHNSON,6,1,1,4,0
+McDuffie,Marshall Church,President of the United States,,IND,GARY JOHNSON,13,4,2,7,0
+McDuffie,Whiteoak,President of the United States,,IND,GARY JOHNSON,14,1,8,5,0
 McDuffie,,United States Senator,,,JOHNNY ISAKSON ,5253,287,1821,3145,0
 McDuffie,Queen of Angels,United States Senator,,,JOHNNY ISAKSON ,144,14,49,81,0
 McDuffie,Augusta Tech,United States Senator,,,JOHNNY ISAKSON ,818,43,253,522,0

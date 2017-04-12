@@ -1,58 +1,58 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Houston,,President of the United States,,,DONALD J. TRUMP,35430,1478,10481,23416,55
-Houston,ANNX,President of the United States,,,DONALD J. TRUMP,2077,114,486,1476,1
-Houston,BMS,President of the United States,,,DONALD J. TRUMP,3875,165,1184,2525,1
-Houston,CENT,President of the United States,,,DONALD J. TRUMP,2791,113,965,1706,7
-Houston,CGTC,President of the United States,,,DONALD J. TRUMP,1820,64,362,1391,3
-Houston,FMMS,President of the United States,,,DONALD J. TRUMP,3105,104,1025,1972,4
-Houston,HAFS,President of the United States,,,DONALD J. TRUMP,810,17,376,417,0
-Houston,HCTC,President of the United States,,,DONALD J. TRUMP,1929,153,534,1240,2
-Houston,HEFS,President of the United States,,,DONALD J. TRUMP,502,16,223,262,1
-Houston,HHPC,President of the United States,,,DONALD J. TRUMP,1920,99,520,1295,6
-Houston,MCMS,President of the United States,,,DONALD J. TRUMP,3345,106,900,2322,17
-Houston,MILL,President of the United States,,,DONALD J. TRUMP,819,38,352,428,1
-Houston,NSES,President of the United States,,,DONALD J. TRUMP,1002,53,408,540,1
-Houston,RECR,President of the United States,,,DONALD J. TRUMP,983,56,348,576,3
-Houston,ROZR,President of the United States,,,DONALD J. TRUMP,4961,191,1080,3690,0
-Houston,TMS,President of the United States,,,DONALD J. TRUMP,1292,53,418,818,3
-Houston,TWPK,President of the United States,,,DONALD J. TRUMP,1797,69,566,1159,3
-Houston,VHS,President of the United States,,,DONALD J. TRUMP,2402,67,734,1599,2
-Houston,,President of the United States,,,HILLARY CLINTON,22553,1085,7537,13860,71
-Houston,ANNX,President of the United States,,,HILLARY CLINTON,828,33,218,575,2
-Houston,BMS,President of the United States,,,HILLARY CLINTON,1500,77,423,1000,0
-Houston,CENT,President of the United States,,,HILLARY CLINTON,1519,63,528,924,4
-Houston,CGTC,President of the United States,,,HILLARY CLINTON,855,33,200,622,0
-Houston,FMMS,President of the United States,,,HILLARY CLINTON,2100,88,637,1373,2
-Houston,HAFS,President of the United States,,,HILLARY CLINTON,253,14,111,126,2
-Houston,HCTC,President of the United States,,,HILLARY CLINTON,1495,99,517,874,5
-Houston,HEFS,President of the United States,,,HILLARY CLINTON,282,11,163,106,2
-Houston,HHPC,President of the United States,,,HILLARY CLINTON,1881,74,639,1152,16
-Houston,MCMS,President of the United States,,,HILLARY CLINTON,1733,74,451,1195,13
-Houston,MILL,President of the United States,,,HILLARY CLINTON,470,23,211,234,2
-Houston,NSES,President of the United States,,,HILLARY CLINTON,521,16,178,326,1
-Houston,RECR,President of the United States,,,HILLARY CLINTON,3187,175,1360,1645,7
-Houston,ROZR,President of the United States,,,HILLARY CLINTON,2475,157,733,1581,4
-Houston,TMS,President of the United States,,,HILLARY CLINTON,1495,65,533,893,4
-Houston,TWPK,President of the United States,,,HILLARY CLINTON,1060,47,353,658,2
-Houston,VHS,President of the United States,,,HILLARY CLINTON,899,36,282,576,5
-Houston,,President of the United States,,,GARY JOHNSON,1761,99,791,861,10
-Houston,ANNX,President of the United States,,,GARY JOHNSON,98,17,35,45,1
-Houston,BMS,President of the United States,,,GARY JOHNSON,155,10,71,74,0
-Houston,CENT,President of the United States,,,GARY JOHNSON,130,6,75,49,0
-Houston,CGTC,President of the United States,,,GARY JOHNSON,96,3,37,56,0
-Houston,FMMS,President of the United States,,,GARY JOHNSON,185,9,81,92,3
-Houston,HAFS,President of the United States,,,GARY JOHNSON,15,1,8,6,0
-Houston,HCTC,President of the United States,,,GARY JOHNSON,139,5,70,63,1
-Houston,HEFS,President of the United States,,,GARY JOHNSON,10,2,5,3,0
-Houston,HHPC,President of the United States,,,GARY JOHNSON,124,5,68,49,2
-Houston,MCMS,President of the United States,,,GARY JOHNSON,160,10,59,88,3
-Houston,MILL,President of the United States,,,GARY JOHNSON,39,5,18,16,0
-Houston,NSES,President of the United States,,,GARY JOHNSON,28,1,15,12,0
-Houston,RECR,President of the United States,,,GARY JOHNSON,105,5,55,45,0
-Houston,ROZR,President of the United States,,,GARY JOHNSON,195,10,70,115,0
-Houston,TMS,President of the United States,,,GARY JOHNSON,87,3,45,39,0
-Houston,TWPK,President of the United States,,,GARY JOHNSON,106,4,40,62,0
-Houston,VHS,President of the United States,,,GARY JOHNSON,89,3,39,47,0
+Houston,,President of the United States,,REP,DONALD J. TRUMP,35430,1478,10481,23416,55
+Houston,ANNX,President of the United States,,REP,DONALD J. TRUMP,2077,114,486,1476,1
+Houston,BMS,President of the United States,,REP,DONALD J. TRUMP,3875,165,1184,2525,1
+Houston,CENT,President of the United States,,REP,DONALD J. TRUMP,2791,113,965,1706,7
+Houston,CGTC,President of the United States,,REP,DONALD J. TRUMP,1820,64,362,1391,3
+Houston,FMMS,President of the United States,,REP,DONALD J. TRUMP,3105,104,1025,1972,4
+Houston,HAFS,President of the United States,,REP,DONALD J. TRUMP,810,17,376,417,0
+Houston,HCTC,President of the United States,,REP,DONALD J. TRUMP,1929,153,534,1240,2
+Houston,HEFS,President of the United States,,REP,DONALD J. TRUMP,502,16,223,262,1
+Houston,HHPC,President of the United States,,REP,DONALD J. TRUMP,1920,99,520,1295,6
+Houston,MCMS,President of the United States,,REP,DONALD J. TRUMP,3345,106,900,2322,17
+Houston,MILL,President of the United States,,REP,DONALD J. TRUMP,819,38,352,428,1
+Houston,NSES,President of the United States,,REP,DONALD J. TRUMP,1002,53,408,540,1
+Houston,RECR,President of the United States,,REP,DONALD J. TRUMP,983,56,348,576,3
+Houston,ROZR,President of the United States,,REP,DONALD J. TRUMP,4961,191,1080,3690,0
+Houston,TMS,President of the United States,,REP,DONALD J. TRUMP,1292,53,418,818,3
+Houston,TWPK,President of the United States,,REP,DONALD J. TRUMP,1797,69,566,1159,3
+Houston,VHS,President of the United States,,REP,DONALD J. TRUMP,2402,67,734,1599,2
+Houston,,President of the United States,,DEM,HILLARY CLINTON,22553,1085,7537,13860,71
+Houston,ANNX,President of the United States,,DEM,HILLARY CLINTON,828,33,218,575,2
+Houston,BMS,President of the United States,,DEM,HILLARY CLINTON,1500,77,423,1000,0
+Houston,CENT,President of the United States,,DEM,HILLARY CLINTON,1519,63,528,924,4
+Houston,CGTC,President of the United States,,DEM,HILLARY CLINTON,855,33,200,622,0
+Houston,FMMS,President of the United States,,DEM,HILLARY CLINTON,2100,88,637,1373,2
+Houston,HAFS,President of the United States,,DEM,HILLARY CLINTON,253,14,111,126,2
+Houston,HCTC,President of the United States,,DEM,HILLARY CLINTON,1495,99,517,874,5
+Houston,HEFS,President of the United States,,DEM,HILLARY CLINTON,282,11,163,106,2
+Houston,HHPC,President of the United States,,DEM,HILLARY CLINTON,1881,74,639,1152,16
+Houston,MCMS,President of the United States,,DEM,HILLARY CLINTON,1733,74,451,1195,13
+Houston,MILL,President of the United States,,DEM,HILLARY CLINTON,470,23,211,234,2
+Houston,NSES,President of the United States,,DEM,HILLARY CLINTON,521,16,178,326,1
+Houston,RECR,President of the United States,,DEM,HILLARY CLINTON,3187,175,1360,1645,7
+Houston,ROZR,President of the United States,,DEM,HILLARY CLINTON,2475,157,733,1581,4
+Houston,TMS,President of the United States,,DEM,HILLARY CLINTON,1495,65,533,893,4
+Houston,TWPK,President of the United States,,DEM,HILLARY CLINTON,1060,47,353,658,2
+Houston,VHS,President of the United States,,DEM,HILLARY CLINTON,899,36,282,576,5
+Houston,,President of the United States,,IND,GARY JOHNSON,1761,99,791,861,10
+Houston,ANNX,President of the United States,,IND,GARY JOHNSON,98,17,35,45,1
+Houston,BMS,President of the United States,,IND,GARY JOHNSON,155,10,71,74,0
+Houston,CENT,President of the United States,,IND,GARY JOHNSON,130,6,75,49,0
+Houston,CGTC,President of the United States,,IND,GARY JOHNSON,96,3,37,56,0
+Houston,FMMS,President of the United States,,IND,GARY JOHNSON,185,9,81,92,3
+Houston,HAFS,President of the United States,,IND,GARY JOHNSON,15,1,8,6,0
+Houston,HCTC,President of the United States,,IND,GARY JOHNSON,139,5,70,63,1
+Houston,HEFS,President of the United States,,IND,GARY JOHNSON,10,2,5,3,0
+Houston,HHPC,President of the United States,,IND,GARY JOHNSON,124,5,68,49,2
+Houston,MCMS,President of the United States,,IND,GARY JOHNSON,160,10,59,88,3
+Houston,MILL,President of the United States,,IND,GARY JOHNSON,39,5,18,16,0
+Houston,NSES,President of the United States,,IND,GARY JOHNSON,28,1,15,12,0
+Houston,RECR,President of the United States,,IND,GARY JOHNSON,105,5,55,45,0
+Houston,ROZR,President of the United States,,IND,GARY JOHNSON,195,10,70,115,0
+Houston,TMS,President of the United States,,IND,GARY JOHNSON,87,3,45,39,0
+Houston,TWPK,President of the United States,,IND,GARY JOHNSON,106,4,40,62,0
+Houston,VHS,President of the United States,,IND,GARY JOHNSON,89,3,39,47,0
 Houston,,United States Senator,,,JOHNNY ISAKSON ,35289,1571,10594,23069,55
 Houston,ANNX,United States Senator,,,JOHNNY ISAKSON ,2058,129,503,1425,1
 Houston,BMS,United States Senator,,,JOHNNY ISAKSON ,3822,171,1172,2478,1

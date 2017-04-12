@@ -1,49 +1,49 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Paulding,,President of the United States,,,DONALD J. TRUMP,44662,2136,12163,30350,13
-Paulding,SAMMY MCCLURE MID SC,President of the United States,,,DONALD J. TRUMP,5443,254,1347,3840,2
-Paulding,NORTHSIDE ELEM SCH,President of the United States,,,DONALD J. TRUMP,1242,42,370,830,0
-Paulding,MOSES MIDDLE SCHOOL,President of the United States,,,DONALD J. TRUMP,2893,109,839,1945,0
-Paulding,RUSSOM ELEM SCH,President of the United States,,,DONALD J. TRUMP,4527,288,1327,2911,1
-Paulding,MT TABOR PARK,President of the United States,,,DONALD J. TRUMP,4231,193,1087,2949,2
-Paulding,WATSON GOVT COMPLEX,President of the United States,,,DONALD J. TRUMP,2997,188,634,2174,1
-Paulding,P B RITCH MIDD SCH,President of the United States,,,DONALD J. TRUMP,2531,162,707,1662,0
-Paulding,SARA RAGSDALE ELM SC,President of the United States,,,DONALD J. TRUMP,3038,132,988,1916,2
-Paulding,PAULDING CO HIGH SC,President of the United States,,,DONALD J. TRUMP,2235,114,591,1530,0
-Paulding,HIRAM HIGH SCHOOL,President of the United States,,,DONALD J. TRUMP,2275,110,579,1586,0
-Paulding,TAYLOR FARM PARK,President of the United States,,,DONALD J. TRUMP,3532,163,788,2579,2
-Paulding,AUSTIN MIDDLE SCHOOL,President of the United States,,,DONALD J. TRUMP,3768,179,1000,2588,1
-Paulding,NEBO ELEMENTARY SCH,President of the United States,,,DONALD J. TRUMP,3606,122,1099,2383,2
-Paulding,CARL SCOGGINS MID SC,President of the United States,,,DONALD J. TRUMP,2344,80,807,1457,0
-Paulding,,President of the United States,,,HILLARY CLINTON,18025,889,5688,11437,11
-Paulding,SAMMY MCCLURE MID SC,President of the United States,,,HILLARY CLINTON,1303,82,358,863,0
-Paulding,NORTHSIDE ELEM SCH,President of the United States,,,HILLARY CLINTON,268,9,93,165,1
-Paulding,MOSES MIDDLE SCHOOL,President of the United States,,,HILLARY CLINTON,971,46,337,588,0
-Paulding,RUSSOM ELEM SCH,President of the United States,,,HILLARY CLINTON,1781,93,561,1127,0
-Paulding,MT TABOR PARK,President of the United States,,,HILLARY CLINTON,1351,55,385,910,1
-Paulding,WATSON GOVT COMPLEX,President of the United States,,,HILLARY CLINTON,1674,109,437,1124,4
-Paulding,P B RITCH MIDD SCH,President of the United States,,,HILLARY CLINTON,1945,87,595,1262,1
-Paulding,SARA RAGSDALE ELM SC,President of the United States,,,HILLARY CLINTON,725,50,236,438,1
-Paulding,PAULDING CO HIGH SC,President of the United States,,,HILLARY CLINTON,999,45,287,667,0
-Paulding,HIRAM HIGH SCHOOL,President of the United States,,,HILLARY CLINTON,1704,71,594,1038,1
-Paulding,TAYLOR FARM PARK,President of the United States,,,HILLARY CLINTON,2350,100,763,1487,0
-Paulding,AUSTIN MIDDLE SCHOOL,President of the United States,,,HILLARY CLINTON,1508,70,502,934,2
-Paulding,NEBO ELEMENTARY SCH,President of the United States,,,HILLARY CLINTON,1054,46,381,627,0
-Paulding,CARL SCOGGINS MID SC,President of the United States,,,HILLARY CLINTON,392,26,159,207,0
-Paulding,,President of the United States,,,GARY JOHNSON,1954,88,890,974,2
-Paulding,SAMMY MCCLURE MID SC,President of the United States,,,GARY JOHNSON,224,19,86,119,0
-Paulding,NORTHSIDE ELEM SCH,President of the United States,,,GARY JOHNSON,36,0,14,22,0
-Paulding,MOSES MIDDLE SCHOOL,President of the United States,,,GARY JOHNSON,120,1,63,55,1
-Paulding,RUSSOM ELEM SCH,President of the United States,,,GARY JOHNSON,225,14,108,103,0
-Paulding,MT TABOR PARK,President of the United States,,,GARY JOHNSON,201,9,86,106,0
-Paulding,WATSON GOVT COMPLEX,President of the United States,,,GARY JOHNSON,152,5,67,80,0
-Paulding,P B RITCH MIDD SCH,President of the United States,,,GARY JOHNSON,128,2,71,55,0
-Paulding,SARA RAGSDALE ELM SC,President of the United States,,,GARY JOHNSON,109,6,53,50,0
-Paulding,PAULDING CO HIGH SC,President of the United States,,,GARY JOHNSON,119,2,55,62,0
-Paulding,HIRAM HIGH SCHOOL,President of the United States,,,GARY JOHNSON,97,1,53,43,0
-Paulding,TAYLOR FARM PARK,President of the United States,,,GARY JOHNSON,168,14,62,92,0
-Paulding,AUSTIN MIDDLE SCHOOL,President of the United States,,,GARY JOHNSON,166,7,66,93,0
-Paulding,NEBO ELEMENTARY SCH,President of the United States,,,GARY JOHNSON,143,3,71,68,1
-Paulding,CARL SCOGGINS MID SC,President of the United States,,,GARY JOHNSON,66,5,35,26,0
+Paulding,,President of the United States,,REP,DONALD J. TRUMP,44662,2136,12163,30350,13
+Paulding,SAMMY MCCLURE MID SC,President of the United States,,REP,DONALD J. TRUMP,5443,254,1347,3840,2
+Paulding,NORTHSIDE ELEM SCH,President of the United States,,REP,DONALD J. TRUMP,1242,42,370,830,0
+Paulding,MOSES MIDDLE SCHOOL,President of the United States,,REP,DONALD J. TRUMP,2893,109,839,1945,0
+Paulding,RUSSOM ELEM SCH,President of the United States,,REP,DONALD J. TRUMP,4527,288,1327,2911,1
+Paulding,MT TABOR PARK,President of the United States,,REP,DONALD J. TRUMP,4231,193,1087,2949,2
+Paulding,WATSON GOVT COMPLEX,President of the United States,,REP,DONALD J. TRUMP,2997,188,634,2174,1
+Paulding,P B RITCH MIDD SCH,President of the United States,,REP,DONALD J. TRUMP,2531,162,707,1662,0
+Paulding,SARA RAGSDALE ELM SC,President of the United States,,REP,DONALD J. TRUMP,3038,132,988,1916,2
+Paulding,PAULDING CO HIGH SC,President of the United States,,REP,DONALD J. TRUMP,2235,114,591,1530,0
+Paulding,HIRAM HIGH SCHOOL,President of the United States,,REP,DONALD J. TRUMP,2275,110,579,1586,0
+Paulding,TAYLOR FARM PARK,President of the United States,,REP,DONALD J. TRUMP,3532,163,788,2579,2
+Paulding,AUSTIN MIDDLE SCHOOL,President of the United States,,REP,DONALD J. TRUMP,3768,179,1000,2588,1
+Paulding,NEBO ELEMENTARY SCH,President of the United States,,REP,DONALD J. TRUMP,3606,122,1099,2383,2
+Paulding,CARL SCOGGINS MID SC,President of the United States,,REP,DONALD J. TRUMP,2344,80,807,1457,0
+Paulding,,President of the United States,,DEM,HILLARY CLINTON,18025,889,5688,11437,11
+Paulding,SAMMY MCCLURE MID SC,President of the United States,,DEM,HILLARY CLINTON,1303,82,358,863,0
+Paulding,NORTHSIDE ELEM SCH,President of the United States,,DEM,HILLARY CLINTON,268,9,93,165,1
+Paulding,MOSES MIDDLE SCHOOL,President of the United States,,DEM,HILLARY CLINTON,971,46,337,588,0
+Paulding,RUSSOM ELEM SCH,President of the United States,,DEM,HILLARY CLINTON,1781,93,561,1127,0
+Paulding,MT TABOR PARK,President of the United States,,DEM,HILLARY CLINTON,1351,55,385,910,1
+Paulding,WATSON GOVT COMPLEX,President of the United States,,DEM,HILLARY CLINTON,1674,109,437,1124,4
+Paulding,P B RITCH MIDD SCH,President of the United States,,DEM,HILLARY CLINTON,1945,87,595,1262,1
+Paulding,SARA RAGSDALE ELM SC,President of the United States,,DEM,HILLARY CLINTON,725,50,236,438,1
+Paulding,PAULDING CO HIGH SC,President of the United States,,DEM,HILLARY CLINTON,999,45,287,667,0
+Paulding,HIRAM HIGH SCHOOL,President of the United States,,DEM,HILLARY CLINTON,1704,71,594,1038,1
+Paulding,TAYLOR FARM PARK,President of the United States,,DEM,HILLARY CLINTON,2350,100,763,1487,0
+Paulding,AUSTIN MIDDLE SCHOOL,President of the United States,,DEM,HILLARY CLINTON,1508,70,502,934,2
+Paulding,NEBO ELEMENTARY SCH,President of the United States,,DEM,HILLARY CLINTON,1054,46,381,627,0
+Paulding,CARL SCOGGINS MID SC,President of the United States,,DEM,HILLARY CLINTON,392,26,159,207,0
+Paulding,,President of the United States,,IND,GARY JOHNSON,1954,88,890,974,2
+Paulding,SAMMY MCCLURE MID SC,President of the United States,,IND,GARY JOHNSON,224,19,86,119,0
+Paulding,NORTHSIDE ELEM SCH,President of the United States,,IND,GARY JOHNSON,36,0,14,22,0
+Paulding,MOSES MIDDLE SCHOOL,President of the United States,,IND,GARY JOHNSON,120,1,63,55,1
+Paulding,RUSSOM ELEM SCH,President of the United States,,IND,GARY JOHNSON,225,14,108,103,0
+Paulding,MT TABOR PARK,President of the United States,,IND,GARY JOHNSON,201,9,86,106,0
+Paulding,WATSON GOVT COMPLEX,President of the United States,,IND,GARY JOHNSON,152,5,67,80,0
+Paulding,P B RITCH MIDD SCH,President of the United States,,IND,GARY JOHNSON,128,2,71,55,0
+Paulding,SARA RAGSDALE ELM SC,President of the United States,,IND,GARY JOHNSON,109,6,53,50,0
+Paulding,PAULDING CO HIGH SC,President of the United States,,IND,GARY JOHNSON,119,2,55,62,0
+Paulding,HIRAM HIGH SCHOOL,President of the United States,,IND,GARY JOHNSON,97,1,53,43,0
+Paulding,TAYLOR FARM PARK,President of the United States,,IND,GARY JOHNSON,168,14,62,92,0
+Paulding,AUSTIN MIDDLE SCHOOL,President of the United States,,IND,GARY JOHNSON,166,7,66,93,0
+Paulding,NEBO ELEMENTARY SCH,President of the United States,,IND,GARY JOHNSON,143,3,71,68,1
+Paulding,CARL SCOGGINS MID SC,President of the United States,,IND,GARY JOHNSON,66,5,35,26,0
 Paulding,,United States Senator,,,JOHNNY ISAKSON ,42974,2129,11839,28994,12
 Paulding,SAMMY MCCLURE MID SC,United States Senator,,,JOHNNY ISAKSON ,5323,262,1319,3740,2
 Paulding,NORTHSIDE ELEM SCH,United States Senator,,,JOHNNY ISAKSON ,1151,37,340,774,0

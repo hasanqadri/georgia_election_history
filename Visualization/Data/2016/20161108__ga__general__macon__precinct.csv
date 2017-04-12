@@ -1,22 +1,22 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Macon,,President of the United States,,,DONALD J. TRUMP,1540,68,493,979,0
-Macon,Ideal,President of the United States,,,DONALD J. TRUMP,490,20,174,296,0
-Macon,Oglethorpe,President of the United States,,,DONALD J. TRUMP,287,13,59,215,0
-Macon,Marshallville,President of the United States,,,DONALD J. TRUMP,304,16,160,128,0
-Macon,Montezuma 4,President of the United States,,,DONALD J. TRUMP,315,14,66,235,0
-Macon,Montezuma 5,President of the United States,,,DONALD J. TRUMP,144,5,34,105,0
-Macon,,President of the United States,,,HILLARY CLINTON,2705,177,1295,1233,0
-Macon,Ideal,President of the United States,,,HILLARY CLINTON,397,30,155,212,0
-Macon,Oglethorpe,President of the United States,,,HILLARY CLINTON,487,27,166,294,0
-Macon,Marshallville,President of the United States,,,HILLARY CLINTON,531,21,391,119,0
-Macon,Montezuma 4,President of the United States,,,HILLARY CLINTON,632,42,279,311,0
-Macon,Montezuma 5,President of the United States,,,HILLARY CLINTON,658,57,304,297,0
-Macon,,President of the United States,,,GARY JOHNSON,42,4,24,14,0
-Macon,Ideal,President of the United States,,,GARY JOHNSON,8,1,3,4,0
-Macon,Oglethorpe,President of the United States,,,GARY JOHNSON,15,1,8,6,0
-Macon,Marshallville,President of the United States,,,GARY JOHNSON,7,1,5,1,0
-Macon,Montezuma 4,President of the United States,,,GARY JOHNSON,8,1,4,3,0
-Macon,Montezuma 5,President of the United States,,,GARY JOHNSON,4,0,4,0,0
+Macon,,President of the United States,,REP,DONALD J. TRUMP,1540,68,493,979,0
+Macon,Ideal,President of the United States,,REP,DONALD J. TRUMP,490,20,174,296,0
+Macon,Oglethorpe,President of the United States,,REP,DONALD J. TRUMP,287,13,59,215,0
+Macon,Marshallville,President of the United States,,REP,DONALD J. TRUMP,304,16,160,128,0
+Macon,Montezuma 4,President of the United States,,REP,DONALD J. TRUMP,315,14,66,235,0
+Macon,Montezuma 5,President of the United States,,REP,DONALD J. TRUMP,144,5,34,105,0
+Macon,,President of the United States,,DEM,HILLARY CLINTON,2705,177,1295,1233,0
+Macon,Ideal,President of the United States,,DEM,HILLARY CLINTON,397,30,155,212,0
+Macon,Oglethorpe,President of the United States,,DEM,HILLARY CLINTON,487,27,166,294,0
+Macon,Marshallville,President of the United States,,DEM,HILLARY CLINTON,531,21,391,119,0
+Macon,Montezuma 4,President of the United States,,DEM,HILLARY CLINTON,632,42,279,311,0
+Macon,Montezuma 5,President of the United States,,DEM,HILLARY CLINTON,658,57,304,297,0
+Macon,,President of the United States,,IND,GARY JOHNSON,42,4,24,14,0
+Macon,Ideal,President of the United States,,IND,GARY JOHNSON,8,1,3,4,0
+Macon,Oglethorpe,President of the United States,,IND,GARY JOHNSON,15,1,8,6,0
+Macon,Marshallville,President of the United States,,IND,GARY JOHNSON,7,1,5,1,0
+Macon,Montezuma 4,President of the United States,,IND,GARY JOHNSON,8,1,4,3,0
+Macon,Montezuma 5,President of the United States,,IND,GARY JOHNSON,4,0,4,0,0
 Macon,,United States Senator,,,JOHNNY ISAKSON ,1678,82,587,1009,0
 Macon,Ideal,United States Senator,,,JOHNNY ISAKSON ,477,18,177,282,0
 Macon,Oglethorpe,United States Senator,,,JOHNNY ISAKSON ,307,15,74,218,0

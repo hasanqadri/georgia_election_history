@@ -1,31 +1,31 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Pierce,,President of the United States,,,DONALD J. TRUMP,6302,277,1732,4292,1
-Pierce,Hacklebarney/Cason,President of the United States,,,DONALD J. TRUMP,1491,60,334,1097,0
-Pierce,Blackshear,President of the United States,,,DONALD J. TRUMP,1556,77,368,1111,0
-Pierce,St Johns/Blackshear,President of the United States,,,DONALD J. TRUMP,905,28,234,643,0
-Pierce,Otter Creek,President of the United States,,,DONALD J. TRUMP,754,25,322,407,0
-Pierce,Patterson,President of the United States,,,DONALD J. TRUMP,623,22,255,345,1
-Pierce,Mershon,President of the United States,,,DONALD J. TRUMP,273,28,63,182,0
-Pierce,Alabaha,President of the United States,,,DONALD J. TRUMP,511,25,125,361,0
-Pierce,Sunset/Sweat,President of the United States,,,DONALD J. TRUMP,189,12,31,146,0
-Pierce,,President of the United States,,,HILLARY CLINTON,903,65,270,568,0
-Pierce,Hacklebarney/Cason,President of the United States,,,HILLARY CLINTON,375,28,99,248,0
-Pierce,Blackshear,President of the United States,,,HILLARY CLINTON,188,11,53,124,0
-Pierce,St Johns/Blackshear,President of the United States,,,HILLARY CLINTON,77,10,23,44,0
-Pierce,Otter Creek,President of the United States,,,HILLARY CLINTON,71,5,25,41,0
-Pierce,Patterson,President of the United States,,,HILLARY CLINTON,115,5,51,59,0
-Pierce,Mershon,President of the United States,,,HILLARY CLINTON,26,4,7,15,0
-Pierce,Alabaha,President of the United States,,,HILLARY CLINTON,47,2,12,33,0
-Pierce,Sunset/Sweat,President of the United States,,,HILLARY CLINTON,4,0,0,4,0
-Pierce,,President of the United States,,,GARY JOHNSON,93,8,37,48,0
-Pierce,Hacklebarney/Cason,President of the United States,,,GARY JOHNSON,25,1,11,13,0
-Pierce,Blackshear,President of the United States,,,GARY JOHNSON,30,5,12,13,0
-Pierce,St Johns/Blackshear,President of the United States,,,GARY JOHNSON,8,1,2,5,0
-Pierce,Otter Creek,President of the United States,,,GARY JOHNSON,15,1,7,7,0
-Pierce,Patterson,President of the United States,,,GARY JOHNSON,9,0,4,5,0
-Pierce,Mershon,President of the United States,,,GARY JOHNSON,2,0,0,2,0
-Pierce,Alabaha,President of the United States,,,GARY JOHNSON,3,0,1,2,0
-Pierce,Sunset/Sweat,President of the United States,,,GARY JOHNSON,1,0,0,1,0
+Pierce,,President of the United States,,REP,DONALD J. TRUMP,6302,277,1732,4292,1
+Pierce,Hacklebarney/Cason,President of the United States,,REP,DONALD J. TRUMP,1491,60,334,1097,0
+Pierce,Blackshear,President of the United States,,REP,DONALD J. TRUMP,1556,77,368,1111,0
+Pierce,St Johns/Blackshear,President of the United States,,REP,DONALD J. TRUMP,905,28,234,643,0
+Pierce,Otter Creek,President of the United States,,REP,DONALD J. TRUMP,754,25,322,407,0
+Pierce,Patterson,President of the United States,,REP,DONALD J. TRUMP,623,22,255,345,1
+Pierce,Mershon,President of the United States,,REP,DONALD J. TRUMP,273,28,63,182,0
+Pierce,Alabaha,President of the United States,,REP,DONALD J. TRUMP,511,25,125,361,0
+Pierce,Sunset/Sweat,President of the United States,,REP,DONALD J. TRUMP,189,12,31,146,0
+Pierce,,President of the United States,,DEM,HILLARY CLINTON,903,65,270,568,0
+Pierce,Hacklebarney/Cason,President of the United States,,DEM,HILLARY CLINTON,375,28,99,248,0
+Pierce,Blackshear,President of the United States,,DEM,HILLARY CLINTON,188,11,53,124,0
+Pierce,St Johns/Blackshear,President of the United States,,DEM,HILLARY CLINTON,77,10,23,44,0
+Pierce,Otter Creek,President of the United States,,DEM,HILLARY CLINTON,71,5,25,41,0
+Pierce,Patterson,President of the United States,,DEM,HILLARY CLINTON,115,5,51,59,0
+Pierce,Mershon,President of the United States,,DEM,HILLARY CLINTON,26,4,7,15,0
+Pierce,Alabaha,President of the United States,,DEM,HILLARY CLINTON,47,2,12,33,0
+Pierce,Sunset/Sweat,President of the United States,,DEM,HILLARY CLINTON,4,0,0,4,0
+Pierce,,President of the United States,,IND,GARY JOHNSON,93,8,37,48,0
+Pierce,Hacklebarney/Cason,President of the United States,,IND,GARY JOHNSON,25,1,11,13,0
+Pierce,Blackshear,President of the United States,,IND,GARY JOHNSON,30,5,12,13,0
+Pierce,St Johns/Blackshear,President of the United States,,IND,GARY JOHNSON,8,1,2,5,0
+Pierce,Otter Creek,President of the United States,,IND,GARY JOHNSON,15,1,7,7,0
+Pierce,Patterson,President of the United States,,IND,GARY JOHNSON,9,0,4,5,0
+Pierce,Mershon,President of the United States,,IND,GARY JOHNSON,2,0,0,2,0
+Pierce,Alabaha,President of the United States,,IND,GARY JOHNSON,3,0,1,2,0
+Pierce,Sunset/Sweat,President of the United States,,IND,GARY JOHNSON,1,0,0,1,0
 Pierce,,United States Senator,,,JOHNNY ISAKSON ,5817,291,1595,3931,0
 Pierce,Hacklebarney/Cason,United States Senator,,,JOHNNY ISAKSON ,1381,57,313,1011,0
 Pierce,Blackshear,United States Senator,,,JOHNNY ISAKSON ,1406,80,337,989,0

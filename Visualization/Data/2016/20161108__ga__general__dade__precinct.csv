@@ -1,28 +1,28 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Dade,,President of the United States,,,DONALD J. TRUMP,5051,115,2547,2385,4
-Dade,SOUTH DADE,President of the United States,,,DONALD J. TRUMP,445,12,254,179,0
-Dade,NEW SALEM,President of the United States,,,DONALD J. TRUMP,590,18,346,226,0
-Dade,DAVIS,President of the United States,,,DONALD J. TRUMP,967,16,521,430,0
-Dade,NEW HOME,President of the United States,,,DONALD J. TRUMP,348,0,247,101,0
-Dade,WEST BROW,President of the United States,,,DONALD J. TRUMP,538,12,366,159,1
-Dade,TRENTON,President of the United States,,,DONALD J. TRUMP,1348,38,450,857,3
-Dade,NORTH DADE,President of the United States,,,DONALD J. TRUMP,815,19,363,433,0
-Dade,,President of the United States,,,HILLARY CLINTON,965,54,434,477,0
-Dade,SOUTH DADE,President of the United States,,,HILLARY CLINTON,94,1,39,54,0
-Dade,NEW SALEM,President of the United States,,,HILLARY CLINTON,140,5,68,67,0
-Dade,DAVIS,President of the United States,,,HILLARY CLINTON,119,11,64,44,0
-Dade,NEW HOME,President of the United States,,,HILLARY CLINTON,45,2,28,15,0
-Dade,WEST BROW,President of the United States,,,HILLARY CLINTON,131,11,74,46,0
-Dade,TRENTON,President of the United States,,,HILLARY CLINTON,210,12,65,133,0
-Dade,NORTH DADE,President of the United States,,,HILLARY CLINTON,226,12,96,118,0
-Dade,,President of the United States,,,GARY JOHNSON,226,7,145,74,0
-Dade,SOUTH DADE,President of the United States,,,GARY JOHNSON,15,0,7,8,0
-Dade,NEW SALEM,President of the United States,,,GARY JOHNSON,27,2,19,6,0
-Dade,DAVIS,President of the United States,,,GARY JOHNSON,29,0,21,8,0
-Dade,NEW HOME,President of the United States,,,GARY JOHNSON,13,0,10,3,0
-Dade,WEST BROW,President of the United States,,,GARY JOHNSON,53,3,42,8,0
-Dade,TRENTON,President of the United States,,,GARY JOHNSON,55,1,26,28,0
-Dade,NORTH DADE,President of the United States,,,GARY JOHNSON,34,1,20,13,0
+Dade,,President of the United States,,REP,DONALD J. TRUMP,5051,115,2547,2385,4
+Dade,SOUTH DADE,President of the United States,,REP,DONALD J. TRUMP,445,12,254,179,0
+Dade,NEW SALEM,President of the United States,,REP,DONALD J. TRUMP,590,18,346,226,0
+Dade,DAVIS,President of the United States,,REP,DONALD J. TRUMP,967,16,521,430,0
+Dade,NEW HOME,President of the United States,,REP,DONALD J. TRUMP,348,0,247,101,0
+Dade,WEST BROW,President of the United States,,REP,DONALD J. TRUMP,538,12,366,159,1
+Dade,TRENTON,President of the United States,,REP,DONALD J. TRUMP,1348,38,450,857,3
+Dade,NORTH DADE,President of the United States,,REP,DONALD J. TRUMP,815,19,363,433,0
+Dade,,President of the United States,,DEM,HILLARY CLINTON,965,54,434,477,0
+Dade,SOUTH DADE,President of the United States,,DEM,HILLARY CLINTON,94,1,39,54,0
+Dade,NEW SALEM,President of the United States,,DEM,HILLARY CLINTON,140,5,68,67,0
+Dade,DAVIS,President of the United States,,DEM,HILLARY CLINTON,119,11,64,44,0
+Dade,NEW HOME,President of the United States,,DEM,HILLARY CLINTON,45,2,28,15,0
+Dade,WEST BROW,President of the United States,,DEM,HILLARY CLINTON,131,11,74,46,0
+Dade,TRENTON,President of the United States,,DEM,HILLARY CLINTON,210,12,65,133,0
+Dade,NORTH DADE,President of the United States,,DEM,HILLARY CLINTON,226,12,96,118,0
+Dade,,President of the United States,,IND,GARY JOHNSON,226,7,145,74,0
+Dade,SOUTH DADE,President of the United States,,IND,GARY JOHNSON,15,0,7,8,0
+Dade,NEW SALEM,President of the United States,,IND,GARY JOHNSON,27,2,19,6,0
+Dade,DAVIS,President of the United States,,IND,GARY JOHNSON,29,0,21,8,0
+Dade,NEW HOME,President of the United States,,IND,GARY JOHNSON,13,0,10,3,0
+Dade,WEST BROW,President of the United States,,IND,GARY JOHNSON,53,3,42,8,0
+Dade,TRENTON,President of the United States,,IND,GARY JOHNSON,55,1,26,28,0
+Dade,NORTH DADE,President of the United States,,IND,GARY JOHNSON,34,1,20,13,0
 Dade,,United States Senator,,,JOHNNY ISAKSON ,4448,114,2241,2091,2
 Dade,SOUTH DADE,United States Senator,,,JOHNNY ISAKSON ,372,12,203,157,0
 Dade,NEW SALEM,United States Senator,,,JOHNNY ISAKSON ,531,17,304,210,0

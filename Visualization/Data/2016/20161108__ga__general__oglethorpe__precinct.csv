@@ -1,16 +1,16 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Oglethorpe,,President of the United States,,,DONALD J. TRUMP,4625,280,1521,2823,1
-Oglethorpe,Beaverdam,President of the United States,,,DONALD J. TRUMP,1471,74,697,699,1
-Oglethorpe,Crawford,President of the United States,,,DONALD J. TRUMP,1214,70,379,765,0
-Oglethorpe,Lexington,President of the United States,,,DONALD J. TRUMP,1940,136,445,1359,0
-Oglethorpe,,President of the United States,,,HILLARY CLINTON,1831,81,707,1042,1
-Oglethorpe,Beaverdam,President of the United States,,,HILLARY CLINTON,483,21,253,209,0
-Oglethorpe,Crawford,President of the United States,,,HILLARY CLINTON,539,24,204,311,0
-Oglethorpe,Lexington,President of the United States,,,HILLARY CLINTON,809,36,250,522,1
-Oglethorpe,,President of the United States,,,GARY JOHNSON,199,11,103,85,0
-Oglethorpe,Beaverdam,President of the United States,,,GARY JOHNSON,63,4,41,18,0
-Oglethorpe,Crawford,President of the United States,,,GARY JOHNSON,60,1,35,24,0
-Oglethorpe,Lexington,President of the United States,,,GARY JOHNSON,76,6,27,43,0
+Oglethorpe,,President of the United States,,REP,DONALD J. TRUMP,4625,280,1521,2823,1
+Oglethorpe,Beaverdam,President of the United States,,REP,DONALD J. TRUMP,1471,74,697,699,1
+Oglethorpe,Crawford,President of the United States,,REP,DONALD J. TRUMP,1214,70,379,765,0
+Oglethorpe,Lexington,President of the United States,,REP,DONALD J. TRUMP,1940,136,445,1359,0
+Oglethorpe,,President of the United States,,DEM,HILLARY CLINTON,1831,81,707,1042,1
+Oglethorpe,Beaverdam,President of the United States,,DEM,HILLARY CLINTON,483,21,253,209,0
+Oglethorpe,Crawford,President of the United States,,DEM,HILLARY CLINTON,539,24,204,311,0
+Oglethorpe,Lexington,President of the United States,,DEM,HILLARY CLINTON,809,36,250,522,1
+Oglethorpe,,President of the United States,,IND,GARY JOHNSON,199,11,103,85,0
+Oglethorpe,Beaverdam,President of the United States,,IND,GARY JOHNSON,63,4,41,18,0
+Oglethorpe,Crawford,President of the United States,,IND,GARY JOHNSON,60,1,35,24,0
+Oglethorpe,Lexington,President of the United States,,IND,GARY JOHNSON,76,6,27,43,0
 Oglethorpe,,United States Senator,,,JOHNNY ISAKSON ,4502,276,1503,2722,1
 Oglethorpe,Beaverdam,United States Senator,,,JOHNNY ISAKSON ,1460,78,697,684,1
 Oglethorpe,Crawford,United States Senator,,,JOHNNY ISAKSON ,1159,70,366,723,0

@@ -1,10 +1,10 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Warren,,President of the United States,,,DONALD J. TRUMP,991,75,303,613,0
-Warren,Warrenton,President of the United States,,,DONALD J. TRUMP,991,75,303,613,0
-Warren,,President of the United States,,,HILLARY CLINTON,1314,62,654,597,1
-Warren,Warrenton,President of the United States,,,HILLARY CLINTON,1314,62,654,597,1
-Warren,,President of the United States,,,GARY JOHNSON,28,2,10,16,0
-Warren,Warrenton,President of the United States,,,GARY JOHNSON,28,2,10,16,0
+Warren,,President of the United States,,REP,DONALD J. TRUMP,991,75,303,613,0
+Warren,Warrenton,President of the United States,,REP,DONALD J. TRUMP,991,75,303,613,0
+Warren,,President of the United States,,DEM,HILLARY CLINTON,1314,62,654,597,1
+Warren,Warrenton,President of the United States,,DEM,HILLARY CLINTON,1314,62,654,597,1
+Warren,,President of the United States,,IND,GARY JOHNSON,28,2,10,16,0
+Warren,Warrenton,President of the United States,,IND,GARY JOHNSON,28,2,10,16,0
 Warren,,United States Senator,,,JOHNNY ISAKSON ,993,69,311,613,0
 Warren,Warrenton,United States Senator,,,JOHNNY ISAKSON ,993,69,311,613,0
 Warren,,United States Senator,,,JIM BARKSDALE,1110,58,566,485,1

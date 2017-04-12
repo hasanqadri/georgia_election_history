@@ -1,28 +1,28 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Talbot,,President of the United States,,,DONALD J. TRUMP,1196,100,746,350,0
-Talbot,ONEAL,President of the United States,,,DONALD J. TRUMP,171,9,106,56,0
-Talbot,VALLEY,President of the United States,,,DONALD J. TRUMP,243,9,157,77,0
-Talbot,JUNCTION CITY,President of the United States,,,DONALD J. TRUMP,106,21,48,37,0
-Talbot,GENEVA,President of the United States,,,DONALD J. TRUMP,129,21,88,20,0
-Talbot,TALBOTTON,President of the United States,,,DONALD J. TRUMP,106,13,61,32,0
-Talbot,BOX SPRINGS,President of the United States,,,DONALD J. TRUMP,166,10,137,19,0
-Talbot,FLINT HILL,President of the United States,,,DONALD J. TRUMP,275,17,149,109,0
-Talbot,,President of the United States,,,HILLARY CLINTON,2002,448,1089,465,0
-Talbot,ONEAL,President of the United States,,,HILLARY CLINTON,230,21,145,64,0
-Talbot,VALLEY,President of the United States,,,HILLARY CLINTON,277,61,166,50,0
-Talbot,JUNCTION CITY,President of the United States,,,HILLARY CLINTON,207,87,100,20,0
-Talbot,GENEVA,President of the United States,,,HILLARY CLINTON,215,82,115,18,0
-Talbot,TALBOTTON,President of the United States,,,HILLARY CLINTON,488,103,238,147,0
-Talbot,BOX SPRINGS,President of the United States,,,HILLARY CLINTON,121,21,82,18,0
-Talbot,FLINT HILL,President of the United States,,,HILLARY CLINTON,464,73,243,148,0
-Talbot,,President of the United States,,,GARY JOHNSON,46,11,25,10,0
-Talbot,ONEAL,President of the United States,,,GARY JOHNSON,3,0,2,1,0
-Talbot,VALLEY,President of the United States,,,GARY JOHNSON,6,0,6,0,0
-Talbot,JUNCTION CITY,President of the United States,,,GARY JOHNSON,7,4,3,0,0
-Talbot,GENEVA,President of the United States,,,GARY JOHNSON,3,1,2,0,0
-Talbot,TALBOTTON,President of the United States,,,GARY JOHNSON,6,5,1,0,0
-Talbot,BOX SPRINGS,President of the United States,,,GARY JOHNSON,6,0,5,1,0
-Talbot,FLINT HILL,President of the United States,,,GARY JOHNSON,15,1,6,8,0
+Talbot,,President of the United States,,REP,DONALD J. TRUMP,1196,100,746,350,0
+Talbot,ONEAL,President of the United States,,REP,DONALD J. TRUMP,171,9,106,56,0
+Talbot,VALLEY,President of the United States,,REP,DONALD J. TRUMP,243,9,157,77,0
+Talbot,JUNCTION CITY,President of the United States,,REP,DONALD J. TRUMP,106,21,48,37,0
+Talbot,GENEVA,President of the United States,,REP,DONALD J. TRUMP,129,21,88,20,0
+Talbot,TALBOTTON,President of the United States,,REP,DONALD J. TRUMP,106,13,61,32,0
+Talbot,BOX SPRINGS,President of the United States,,REP,DONALD J. TRUMP,166,10,137,19,0
+Talbot,FLINT HILL,President of the United States,,REP,DONALD J. TRUMP,275,17,149,109,0
+Talbot,,President of the United States,,DEM,HILLARY CLINTON,2002,448,1089,465,0
+Talbot,ONEAL,President of the United States,,DEM,HILLARY CLINTON,230,21,145,64,0
+Talbot,VALLEY,President of the United States,,DEM,HILLARY CLINTON,277,61,166,50,0
+Talbot,JUNCTION CITY,President of the United States,,DEM,HILLARY CLINTON,207,87,100,20,0
+Talbot,GENEVA,President of the United States,,DEM,HILLARY CLINTON,215,82,115,18,0
+Talbot,TALBOTTON,President of the United States,,DEM,HILLARY CLINTON,488,103,238,147,0
+Talbot,BOX SPRINGS,President of the United States,,DEM,HILLARY CLINTON,121,21,82,18,0
+Talbot,FLINT HILL,President of the United States,,DEM,HILLARY CLINTON,464,73,243,148,0
+Talbot,,President of the United States,,IND,GARY JOHNSON,46,11,25,10,0
+Talbot,ONEAL,President of the United States,,IND,GARY JOHNSON,3,0,2,1,0
+Talbot,VALLEY,President of the United States,,IND,GARY JOHNSON,6,0,6,0,0
+Talbot,JUNCTION CITY,President of the United States,,IND,GARY JOHNSON,7,4,3,0,0
+Talbot,GENEVA,President of the United States,,IND,GARY JOHNSON,3,1,2,0,0
+Talbot,TALBOTTON,President of the United States,,IND,GARY JOHNSON,6,5,1,0,0
+Talbot,BOX SPRINGS,President of the United States,,IND,GARY JOHNSON,6,0,5,1,0
+Talbot,FLINT HILL,President of the United States,,IND,GARY JOHNSON,15,1,6,8,0
 Talbot,,United States Senator,,,JOHNNY ISAKSON ,1228,130,732,366,0
 Talbot,ONEAL,United States Senator,,,JOHNNY ISAKSON ,168,9,107,52,0
 Talbot,VALLEY,United States Senator,,,JOHNNY ISAKSON ,240,11,156,73,0

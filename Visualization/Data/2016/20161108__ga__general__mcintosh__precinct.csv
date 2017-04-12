@@ -1,25 +1,25 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-McIntosh,,President of the United States,,,DONALD J. TRUMP,3487,375,1254,1853,5
-McIntosh,Sapelo Island,President of the United States,,,DONALD J. TRUMP,10,0,6,4,0
-McIntosh,Townsend,President of the United States,,,DONALD J. TRUMP,293,109,119,65,0
-McIntosh,Crescent,President of the United States,,,DONALD J. TRUMP,406,19,135,252,0
-McIntosh,Darien,President of the United States,,,DONALD J. TRUMP,925,117,255,550,3
-McIntosh,South Newport,President of the United States,,,DONALD J. TRUMP,1009,69,451,489,0
-McIntosh,North Darien,President of the United States,,,DONALD J. TRUMP,844,61,288,493,2
-McIntosh,,President of the United States,,,HILLARY CLINTON,2303,228,956,1114,5
-McIntosh,Sapelo Island,President of the United States,,,HILLARY CLINTON,39,5,26,8,0
-McIntosh,Townsend,President of the United States,,,HILLARY CLINTON,116,25,43,48,0
-McIntosh,Crescent,President of the United States,,,HILLARY CLINTON,799,75,349,374,1
-McIntosh,Darien,President of the United States,,,HILLARY CLINTON,582,56,213,309,4
-McIntosh,South Newport,President of the United States,,,HILLARY CLINTON,358,35,159,164,0
-McIntosh,North Darien,President of the United States,,,HILLARY CLINTON,409,32,166,211,0
-McIntosh,,President of the United States,,,GARY JOHNSON,113,12,57,44,0
-McIntosh,Sapelo Island,President of the United States,,,GARY JOHNSON,0,0,0,0,0
-McIntosh,Townsend,President of the United States,,,GARY JOHNSON,1,0,1,0,0
-McIntosh,Crescent,President of the United States,,,GARY JOHNSON,10,0,6,4,0
-McIntosh,Darien,President of the United States,,,GARY JOHNSON,29,3,11,15,0
-McIntosh,South Newport,President of the United States,,,GARY JOHNSON,35,4,20,11,0
-McIntosh,North Darien,President of the United States,,,GARY JOHNSON,38,5,19,14,0
+McIntosh,,President of the United States,,REP,DONALD J. TRUMP,3487,375,1254,1853,5
+McIntosh,Sapelo Island,President of the United States,,REP,DONALD J. TRUMP,10,0,6,4,0
+McIntosh,Townsend,President of the United States,,REP,DONALD J. TRUMP,293,109,119,65,0
+McIntosh,Crescent,President of the United States,,REP,DONALD J. TRUMP,406,19,135,252,0
+McIntosh,Darien,President of the United States,,REP,DONALD J. TRUMP,925,117,255,550,3
+McIntosh,South Newport,President of the United States,,REP,DONALD J. TRUMP,1009,69,451,489,0
+McIntosh,North Darien,President of the United States,,REP,DONALD J. TRUMP,844,61,288,493,2
+McIntosh,,President of the United States,,DEM,HILLARY CLINTON,2303,228,956,1114,5
+McIntosh,Sapelo Island,President of the United States,,DEM,HILLARY CLINTON,39,5,26,8,0
+McIntosh,Townsend,President of the United States,,DEM,HILLARY CLINTON,116,25,43,48,0
+McIntosh,Crescent,President of the United States,,DEM,HILLARY CLINTON,799,75,349,374,1
+McIntosh,Darien,President of the United States,,DEM,HILLARY CLINTON,582,56,213,309,4
+McIntosh,South Newport,President of the United States,,DEM,HILLARY CLINTON,358,35,159,164,0
+McIntosh,North Darien,President of the United States,,DEM,HILLARY CLINTON,409,32,166,211,0
+McIntosh,,President of the United States,,IND,GARY JOHNSON,113,12,57,44,0
+McIntosh,Sapelo Island,President of the United States,,IND,GARY JOHNSON,0,0,0,0,0
+McIntosh,Townsend,President of the United States,,IND,GARY JOHNSON,1,0,1,0,0
+McIntosh,Crescent,President of the United States,,IND,GARY JOHNSON,10,0,6,4,0
+McIntosh,Darien,President of the United States,,IND,GARY JOHNSON,29,3,11,15,0
+McIntosh,South Newport,President of the United States,,IND,GARY JOHNSON,35,4,20,11,0
+McIntosh,North Darien,President of the United States,,IND,GARY JOHNSON,38,5,19,14,0
 McIntosh,,United States Senator,,,JOHNNY ISAKSON ,3420,391,1225,1798,6
 McIntosh,Sapelo Island,United States Senator,,,JOHNNY ISAKSON ,11,0,6,5,0
 McIntosh,Townsend,United States Senator,,,JOHNNY ISAKSON ,283,111,108,64,0

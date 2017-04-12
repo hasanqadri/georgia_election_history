@@ -1,43 +1,43 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Harris,,President of the United States,,,DONALD J. TRUMP,11936,457,5029,6449,1
-Harris,CATAULA,President of the United States,,,DONALD J. TRUMP,1454,49,556,849,0
-Harris,ELLERSLIE,President of the United States,,,DONALD J. TRUMP,2022,82,822,1118,0
-Harris,GOODMAN,President of the United States,,,DONALD J. TRUMP,638,16,246,376,0
-Harris,HAMILTON,President of the United States,,,DONALD J. TRUMP,987,28,251,708,0
-Harris,LOWER 19TH,President of the United States,,,DONALD J. TRUMP,1327,48,657,622,0
-Harris,MULBERRY GROVE,President of the United States,,,DONALD J. TRUMP,1617,87,580,949,1
-Harris,PINE MOUNTAIN VALLEY,President of the United States,,,DONALD J. TRUMP,599,19,271,309,0
-Harris,SKINNER,President of the United States,,,DONALD J. TRUMP,361,8,277,76,0
-Harris,UPPER 19TH,President of the United States,,,DONALD J. TRUMP,823,43,360,420,0
-Harris,VALLEY PLAINS,President of the United States,,,DONALD J. TRUMP,316,3,169,144,0
-Harris,WAVERLY HALL,President of the United States,,,DONALD J. TRUMP,1112,50,521,541,0
-Harris,WHITESVILLE,President of the United States,,,DONALD J. TRUMP,680,24,319,337,0
-Harris,,President of the United States,,,HILLARY CLINTON,4086,225,1733,2128,0
-Harris,CATAULA,President of the United States,,,HILLARY CLINTON,379,17,141,221,0
-Harris,ELLERSLIE,President of the United States,,,HILLARY CLINTON,701,38,233,430,0
-Harris,GOODMAN,President of the United States,,,HILLARY CLINTON,369,11,194,164,0
-Harris,HAMILTON,President of the United States,,,HILLARY CLINTON,509,21,137,351,0
-Harris,LOWER 19TH,President of the United States,,,HILLARY CLINTON,346,24,161,161,0
-Harris,MULBERRY GROVE,President of the United States,,,HILLARY CLINTON,317,21,116,180,0
-Harris,PINE MOUNTAIN VALLEY,President of the United States,,,HILLARY CLINTON,119,9,45,65,0
-Harris,SKINNER,President of the United States,,,HILLARY CLINTON,207,10,146,51,0
-Harris,UPPER 19TH,President of the United States,,,HILLARY CLINTON,150,5,81,64,0
-Harris,VALLEY PLAINS,President of the United States,,,HILLARY CLINTON,152,6,95,51,0
-Harris,WAVERLY HALL,President of the United States,,,HILLARY CLINTON,609,51,263,295,0
-Harris,WHITESVILLE,President of the United States,,,HILLARY CLINTON,228,12,121,95,0
-Harris,,President of the United States,,,GARY JOHNSON,379,23,200,156,0
-Harris,CATAULA,President of the United States,,,GARY JOHNSON,50,4,25,21,0
-Harris,ELLERSLIE,President of the United States,,,GARY JOHNSON,57,0,31,26,0
-Harris,GOODMAN,President of the United States,,,GARY JOHNSON,21,1,11,9,0
-Harris,HAMILTON,President of the United States,,,GARY JOHNSON,39,1,16,22,0
-Harris,LOWER 19TH,President of the United States,,,GARY JOHNSON,43,1,24,18,0
-Harris,MULBERRY GROVE,President of the United States,,,GARY JOHNSON,41,2,22,17,0
-Harris,PINE MOUNTAIN VALLEY,President of the United States,,,GARY JOHNSON,19,3,11,5,0
-Harris,SKINNER,President of the United States,,,GARY JOHNSON,18,0,17,1,0
-Harris,UPPER 19TH,President of the United States,,,GARY JOHNSON,20,3,11,6,0
-Harris,VALLEY PLAINS,President of the United States,,,GARY JOHNSON,6,1,4,1,0
-Harris,WAVERLY HALL,President of the United States,,,GARY JOHNSON,46,6,16,24,0
-Harris,WHITESVILLE,President of the United States,,,GARY JOHNSON,19,1,12,6,0
+Harris,,President of the United States,,REP,DONALD J. TRUMP,11936,457,5029,6449,1
+Harris,CATAULA,President of the United States,,REP,DONALD J. TRUMP,1454,49,556,849,0
+Harris,ELLERSLIE,President of the United States,,REP,DONALD J. TRUMP,2022,82,822,1118,0
+Harris,GOODMAN,President of the United States,,REP,DONALD J. TRUMP,638,16,246,376,0
+Harris,HAMILTON,President of the United States,,REP,DONALD J. TRUMP,987,28,251,708,0
+Harris,LOWER 19TH,President of the United States,,REP,DONALD J. TRUMP,1327,48,657,622,0
+Harris,MULBERRY GROVE,President of the United States,,REP,DONALD J. TRUMP,1617,87,580,949,1
+Harris,PINE MOUNTAIN VALLEY,President of the United States,,REP,DONALD J. TRUMP,599,19,271,309,0
+Harris,SKINNER,President of the United States,,REP,DONALD J. TRUMP,361,8,277,76,0
+Harris,UPPER 19TH,President of the United States,,REP,DONALD J. TRUMP,823,43,360,420,0
+Harris,VALLEY PLAINS,President of the United States,,REP,DONALD J. TRUMP,316,3,169,144,0
+Harris,WAVERLY HALL,President of the United States,,REP,DONALD J. TRUMP,1112,50,521,541,0
+Harris,WHITESVILLE,President of the United States,,REP,DONALD J. TRUMP,680,24,319,337,0
+Harris,,President of the United States,,DEM,HILLARY CLINTON,4086,225,1733,2128,0
+Harris,CATAULA,President of the United States,,DEM,HILLARY CLINTON,379,17,141,221,0
+Harris,ELLERSLIE,President of the United States,,DEM,HILLARY CLINTON,701,38,233,430,0
+Harris,GOODMAN,President of the United States,,DEM,HILLARY CLINTON,369,11,194,164,0
+Harris,HAMILTON,President of the United States,,DEM,HILLARY CLINTON,509,21,137,351,0
+Harris,LOWER 19TH,President of the United States,,DEM,HILLARY CLINTON,346,24,161,161,0
+Harris,MULBERRY GROVE,President of the United States,,DEM,HILLARY CLINTON,317,21,116,180,0
+Harris,PINE MOUNTAIN VALLEY,President of the United States,,DEM,HILLARY CLINTON,119,9,45,65,0
+Harris,SKINNER,President of the United States,,DEM,HILLARY CLINTON,207,10,146,51,0
+Harris,UPPER 19TH,President of the United States,,DEM,HILLARY CLINTON,150,5,81,64,0
+Harris,VALLEY PLAINS,President of the United States,,DEM,HILLARY CLINTON,152,6,95,51,0
+Harris,WAVERLY HALL,President of the United States,,DEM,HILLARY CLINTON,609,51,263,295,0
+Harris,WHITESVILLE,President of the United States,,DEM,HILLARY CLINTON,228,12,121,95,0
+Harris,,President of the United States,,IND,GARY JOHNSON,379,23,200,156,0
+Harris,CATAULA,President of the United States,,IND,GARY JOHNSON,50,4,25,21,0
+Harris,ELLERSLIE,President of the United States,,IND,GARY JOHNSON,57,0,31,26,0
+Harris,GOODMAN,President of the United States,,IND,GARY JOHNSON,21,1,11,9,0
+Harris,HAMILTON,President of the United States,,IND,GARY JOHNSON,39,1,16,22,0
+Harris,LOWER 19TH,President of the United States,,IND,GARY JOHNSON,43,1,24,18,0
+Harris,MULBERRY GROVE,President of the United States,,IND,GARY JOHNSON,41,2,22,17,0
+Harris,PINE MOUNTAIN VALLEY,President of the United States,,IND,GARY JOHNSON,19,3,11,5,0
+Harris,SKINNER,President of the United States,,IND,GARY JOHNSON,18,0,17,1,0
+Harris,UPPER 19TH,President of the United States,,IND,GARY JOHNSON,20,3,11,6,0
+Harris,VALLEY PLAINS,President of the United States,,IND,GARY JOHNSON,6,1,4,1,0
+Harris,WAVERLY HALL,President of the United States,,IND,GARY JOHNSON,46,6,16,24,0
+Harris,WHITESVILLE,President of the United States,,IND,GARY JOHNSON,19,1,12,6,0
 Harris,,United States Senator,,,JOHNNY ISAKSON ,11608,482,4915,6210,1
 Harris,CATAULA,United States Senator,,,JOHNNY ISAKSON ,1441,51,560,830,0
 Harris,ELLERSLIE,United States Senator,,,JOHNNY ISAKSON ,1988,84,803,1101,0

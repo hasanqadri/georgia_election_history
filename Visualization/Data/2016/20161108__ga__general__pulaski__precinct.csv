@@ -1,10 +1,10 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Pulaski,,President of the United States,,,DONALD J. TRUMP,2437,106,535,1795,1
-Pulaski,COURTHOUSE ANNEX,President of the United States,,,DONALD J. TRUMP,2437,106,535,1795,1
-Pulaski,,President of the United States,,,HILLARY CLINTON,1104,96,342,666,0
-Pulaski,COURTHOUSE ANNEX,President of the United States,,,HILLARY CLINTON,1104,96,342,666,0
-Pulaski,,President of the United States,,,GARY JOHNSON,58,3,15,40,0
-Pulaski,COURTHOUSE ANNEX,President of the United States,,,GARY JOHNSON,58,3,15,40,0
+Pulaski,,President of the United States,,REP,DONALD J. TRUMP,2437,106,535,1795,1
+Pulaski,COURTHOUSE ANNEX,President of the United States,,REP,DONALD J. TRUMP,2437,106,535,1795,1
+Pulaski,,President of the United States,,DEM,HILLARY CLINTON,1104,96,342,666,0
+Pulaski,COURTHOUSE ANNEX,President of the United States,,DEM,HILLARY CLINTON,1104,96,342,666,0
+Pulaski,,President of the United States,,IND,GARY JOHNSON,58,3,15,40,0
+Pulaski,COURTHOUSE ANNEX,President of the United States,,IND,GARY JOHNSON,58,3,15,40,0
 Pulaski,,United States Senator,,,JOHNNY ISAKSON ,2415,119,548,1747,1
 Pulaski,COURTHOUSE ANNEX,United States Senator,,,JOHNNY ISAKSON ,2415,119,548,1747,1
 Pulaski,,United States Senator,,,JIM BARKSDALE,871,76,266,529,0

@@ -1,46 +1,46 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Pickens,,President of the United States,,,DONALD J. TRUMP,11651,203,4425,7022,1
-Pickens,YELLOW CREEK,President of the United States,,,DONALD J. TRUMP,1725,43,668,1014,0
-Pickens,SHARPTOP,President of the United States,,,DONALD J. TRUMP,1434,39,469,926,0
-Pickens,APPALACHIAN,President of the United States,,,DONALD J. TRUMP,970,15,266,689,0
-Pickens,REFUGE,President of the United States,,,DONALD J. TRUMP,1259,25,396,838,0
-Pickens,HILL,President of the United States,,,DONALD J. TRUMP,913,13,324,576,0
-Pickens,HINTON,President of the United States,,,DONALD J. TRUMP,404,1,236,167,0
-Pickens,JERUSALEM,President of the United States,,,DONALD J. TRUMP,538,6,339,193,0
-Pickens,LUDVILLE,President of the United States,,,DONALD J. TRUMP,343,2,211,130,0
-Pickens,NELSON,President of the United States,,,DONALD J. TRUMP,750,11,335,404,0
-Pickens,TALKING ROCK,President of the United States,,,DONALD J. TRUMP,933,14,366,553,0
-Pickens,JASPER,President of the United States,,,DONALD J. TRUMP,1024,22,292,710,0
-Pickens,TATE - 14,President of the United States,,,DONALD J. TRUMP,935,10,365,559,1
-Pickens,TATE - 09,President of the United States,,,DONALD J. TRUMP,423,2,158,263,0
-Pickens,,President of the United States,,,HILLARY CLINTON,1979,70,670,1237,2
-Pickens,YELLOW CREEK,President of the United States,,,HILLARY CLINTON,365,14,120,230,1
-Pickens,SHARPTOP,President of the United States,,,HILLARY CLINTON,340,15,84,241,0
-Pickens,APPALACHIAN,President of the United States,,,HILLARY CLINTON,167,7,45,115,0
-Pickens,REFUGE,President of the United States,,,HILLARY CLINTON,169,3,47,119,0
-Pickens,HILL,President of the United States,,,HILLARY CLINTON,158,5,62,91,0
-Pickens,HINTON,President of the United States,,,HILLARY CLINTON,47,2,20,25,0
-Pickens,JERUSALEM,President of the United States,,,HILLARY CLINTON,67,1,33,33,0
-Pickens,LUDVILLE,President of the United States,,,HILLARY CLINTON,24,0,12,12,0
-Pickens,NELSON,President of the United States,,,HILLARY CLINTON,118,0,64,54,0
-Pickens,TALKING ROCK,President of the United States,,,HILLARY CLINTON,104,5,41,58,0
-Pickens,JASPER,President of the United States,,,HILLARY CLINTON,246,12,79,155,0
-Pickens,TATE - 14,President of the United States,,,HILLARY CLINTON,105,2,35,68,0
-Pickens,TATE - 09,President of the United States,,,HILLARY CLINTON,69,4,28,36,1
-Pickens,,President of the United States,,,GARY JOHNSON,354,10,185,159,0
-Pickens,YELLOW CREEK,President of the United States,,,GARY JOHNSON,36,2,18,16,0
-Pickens,SHARPTOP,President of the United States,,,GARY JOHNSON,46,2,22,22,0
-Pickens,APPALACHIAN,President of the United States,,,GARY JOHNSON,33,2,17,14,0
-Pickens,REFUGE,President of the United States,,,GARY JOHNSON,29,0,16,13,0
-Pickens,HILL,President of the United States,,,GARY JOHNSON,42,1,26,15,0
-Pickens,HINTON,President of the United States,,,GARY JOHNSON,16,0,10,6,0
-Pickens,JERUSALEM,President of the United States,,,GARY JOHNSON,12,2,7,3,0
-Pickens,LUDVILLE,President of the United States,,,GARY JOHNSON,10,0,9,1,0
-Pickens,NELSON,President of the United States,,,GARY JOHNSON,25,0,21,4,0
-Pickens,TALKING ROCK,President of the United States,,,GARY JOHNSON,19,0,3,16,0
-Pickens,JASPER,President of the United States,,,GARY JOHNSON,44,0,24,20,0
-Pickens,TATE - 14,President of the United States,,,GARY JOHNSON,31,1,9,21,0
-Pickens,TATE - 09,President of the United States,,,GARY JOHNSON,11,0,3,8,0
+Pickens,,President of the United States,,REP,DONALD J. TRUMP,11651,203,4425,7022,1
+Pickens,YELLOW CREEK,President of the United States,,REP,DONALD J. TRUMP,1725,43,668,1014,0
+Pickens,SHARPTOP,President of the United States,,REP,DONALD J. TRUMP,1434,39,469,926,0
+Pickens,APPALACHIAN,President of the United States,,REP,DONALD J. TRUMP,970,15,266,689,0
+Pickens,REFUGE,President of the United States,,REP,DONALD J. TRUMP,1259,25,396,838,0
+Pickens,HILL,President of the United States,,REP,DONALD J. TRUMP,913,13,324,576,0
+Pickens,HINTON,President of the United States,,REP,DONALD J. TRUMP,404,1,236,167,0
+Pickens,JERUSALEM,President of the United States,,REP,DONALD J. TRUMP,538,6,339,193,0
+Pickens,LUDVILLE,President of the United States,,REP,DONALD J. TRUMP,343,2,211,130,0
+Pickens,NELSON,President of the United States,,REP,DONALD J. TRUMP,750,11,335,404,0
+Pickens,TALKING ROCK,President of the United States,,REP,DONALD J. TRUMP,933,14,366,553,0
+Pickens,JASPER,President of the United States,,REP,DONALD J. TRUMP,1024,22,292,710,0
+Pickens,TATE - 14,President of the United States,,REP,DONALD J. TRUMP,935,10,365,559,1
+Pickens,TATE - 09,President of the United States,,REP,DONALD J. TRUMP,423,2,158,263,0
+Pickens,,President of the United States,,DEM,HILLARY CLINTON,1979,70,670,1237,2
+Pickens,YELLOW CREEK,President of the United States,,DEM,HILLARY CLINTON,365,14,120,230,1
+Pickens,SHARPTOP,President of the United States,,DEM,HILLARY CLINTON,340,15,84,241,0
+Pickens,APPALACHIAN,President of the United States,,DEM,HILLARY CLINTON,167,7,45,115,0
+Pickens,REFUGE,President of the United States,,DEM,HILLARY CLINTON,169,3,47,119,0
+Pickens,HILL,President of the United States,,DEM,HILLARY CLINTON,158,5,62,91,0
+Pickens,HINTON,President of the United States,,DEM,HILLARY CLINTON,47,2,20,25,0
+Pickens,JERUSALEM,President of the United States,,DEM,HILLARY CLINTON,67,1,33,33,0
+Pickens,LUDVILLE,President of the United States,,DEM,HILLARY CLINTON,24,0,12,12,0
+Pickens,NELSON,President of the United States,,DEM,HILLARY CLINTON,118,0,64,54,0
+Pickens,TALKING ROCK,President of the United States,,DEM,HILLARY CLINTON,104,5,41,58,0
+Pickens,JASPER,President of the United States,,DEM,HILLARY CLINTON,246,12,79,155,0
+Pickens,TATE - 14,President of the United States,,DEM,HILLARY CLINTON,105,2,35,68,0
+Pickens,TATE - 09,President of the United States,,DEM,HILLARY CLINTON,69,4,28,36,1
+Pickens,,President of the United States,,IND,GARY JOHNSON,354,10,185,159,0
+Pickens,YELLOW CREEK,President of the United States,,IND,GARY JOHNSON,36,2,18,16,0
+Pickens,SHARPTOP,President of the United States,,IND,GARY JOHNSON,46,2,22,22,0
+Pickens,APPALACHIAN,President of the United States,,IND,GARY JOHNSON,33,2,17,14,0
+Pickens,REFUGE,President of the United States,,IND,GARY JOHNSON,29,0,16,13,0
+Pickens,HILL,President of the United States,,IND,GARY JOHNSON,42,1,26,15,0
+Pickens,HINTON,President of the United States,,IND,GARY JOHNSON,16,0,10,6,0
+Pickens,JERUSALEM,President of the United States,,IND,GARY JOHNSON,12,2,7,3,0
+Pickens,LUDVILLE,President of the United States,,IND,GARY JOHNSON,10,0,9,1,0
+Pickens,NELSON,President of the United States,,IND,GARY JOHNSON,25,0,21,4,0
+Pickens,TALKING ROCK,President of the United States,,IND,GARY JOHNSON,19,0,3,16,0
+Pickens,JASPER,President of the United States,,IND,GARY JOHNSON,44,0,24,20,0
+Pickens,TATE - 14,President of the United States,,IND,GARY JOHNSON,31,1,9,21,0
+Pickens,TATE - 09,President of the United States,,IND,GARY JOHNSON,11,0,3,8,0
 Pickens,,United States Senator,,,JOHNNY ISAKSON ,11001,215,4138,6648,0
 Pickens,YELLOW CREEK,United States Senator,,,JOHNNY ISAKSON ,1677,47,651,979,0
 Pickens,SHARPTOP,United States Senator,,,JOHNNY ISAKSON ,1382,44,437,901,0

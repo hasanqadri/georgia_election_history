@@ -1,49 +1,49 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Camden,,President of the United States,,,DONALD J. TRUMP,12310,608,4876,6813,13
-Camden,Tarboro,President of the United States,,,DONALD J. TRUMP,415,20,174,220,1
-Camden,Waverly,President of the United States,,,DONALD J. TRUMP,670,48,310,311,1
-Camden,Woodbine,President of the United States,,,DONALD J. TRUMP,703,19,239,444,1
-Camden,Browntown,President of the United States,,,DONALD J. TRUMP,336,13,208,113,2
-Camden,Harrietts Bluff,President of the United States,,,DONALD J. TRUMP,910,35,473,402,0
-Camden,West Kingsland,President of the United States,,,DONALD J. TRUMP,1090,44,423,623,0
-Camden,North Kingsland,President of the United States,,,DONALD J. TRUMP,627,23,257,346,1
-Camden,Kingsland,President of the United States,,,DONALD J. TRUMP,700,29,237,433,1
-Camden,East Kingsland,President of the United States,,,DONALD J. TRUMP,2075,105,708,1260,2
-Camden,North St Marys,President of the United States,,,DONALD J. TRUMP,450,26,197,225,2
-Camden,Mary Lee Clark,President of the United States,,,DONALD J. TRUMP,1075,61,508,505,1
-Camden,South St Marys,President of the United States,,,DONALD J. TRUMP,779,35,236,508,0
-Camden,Mush Bluff,President of the United States,,,DONALD J. TRUMP,964,39,472,453,0
-Camden,West Saint Marys,President of the United States,,,DONALD J. TRUMP,1516,111,434,970,1
-Camden,,President of the United States,,,HILLARY CLINTON,5930,466,2092,3364,8
-Camden,Tarboro,President of the United States,,,HILLARY CLINTON,177,19,74,84,0
-Camden,Waverly,President of the United States,,,HILLARY CLINTON,273,29,121,123,0
-Camden,Woodbine,President of the United States,,,HILLARY CLINTON,453,53,126,274,0
-Camden,Browntown,President of the United States,,,HILLARY CLINTON,70,11,37,21,1
-Camden,Harrietts Bluff,President of the United States,,,HILLARY CLINTON,230,20,92,116,2
-Camden,West Kingsland,President of the United States,,,HILLARY CLINTON,363,23,144,195,1
-Camden,North Kingsland,President of the United States,,,HILLARY CLINTON,650,53,224,372,1
-Camden,Kingsland,President of the United States,,,HILLARY CLINTON,376,25,125,226,0
-Camden,East Kingsland,President of the United States,,,HILLARY CLINTON,983,58,303,621,1
-Camden,North St Marys,President of the United States,,,HILLARY CLINTON,346,19,169,156,2
-Camden,Mary Lee Clark,President of the United States,,,HILLARY CLINTON,620,35,246,339,0
-Camden,South St Marys,President of the United States,,,HILLARY CLINTON,437,46,122,269,0
-Camden,Mush Bluff,President of the United States,,,HILLARY CLINTON,425,24,175,226,0
-Camden,West Saint Marys,President of the United States,,,HILLARY CLINTON,527,51,134,342,0
-Camden,,President of the United States,,,GARY JOHNSON,629,48,331,250,0
-Camden,Tarboro,President of the United States,,,GARY JOHNSON,13,2,5,6,0
-Camden,Waverly,President of the United States,,,GARY JOHNSON,12,0,9,3,0
-Camden,Woodbine,President of the United States,,,GARY JOHNSON,22,3,10,9,0
-Camden,Browntown,President of the United States,,,GARY JOHNSON,11,2,8,1,0
-Camden,Harrietts Bluff,President of the United States,,,GARY JOHNSON,29,3,15,11,0
-Camden,West Kingsland,President of the United States,,,GARY JOHNSON,47,2,31,14,0
-Camden,North Kingsland,President of the United States,,,GARY JOHNSON,32,1,20,11,0
-Camden,Kingsland,President of the United States,,,GARY JOHNSON,44,1,26,17,0
-Camden,East Kingsland,President of the United States,,,GARY JOHNSON,138,8,59,71,0
-Camden,North St Marys,President of the United States,,,GARY JOHNSON,48,4,30,14,0
-Camden,Mary Lee Clark,President of the United States,,,GARY JOHNSON,78,6,47,25,0
-Camden,South St Marys,President of the United States,,,GARY JOHNSON,48,1,20,27,0
-Camden,Mush Bluff,President of the United States,,,GARY JOHNSON,53,5,28,20,0
-Camden,West Saint Marys,President of the United States,,,GARY JOHNSON,54,10,23,21,0
+Camden,,President of the United States,,REP,DONALD J. TRUMP,12310,608,4876,6813,13
+Camden,Tarboro,President of the United States,,REP,DONALD J. TRUMP,415,20,174,220,1
+Camden,Waverly,President of the United States,,REP,DONALD J. TRUMP,670,48,310,311,1
+Camden,Woodbine,President of the United States,,REP,DONALD J. TRUMP,703,19,239,444,1
+Camden,Browntown,President of the United States,,REP,DONALD J. TRUMP,336,13,208,113,2
+Camden,Harrietts Bluff,President of the United States,,REP,DONALD J. TRUMP,910,35,473,402,0
+Camden,West Kingsland,President of the United States,,REP,DONALD J. TRUMP,1090,44,423,623,0
+Camden,North Kingsland,President of the United States,,REP,DONALD J. TRUMP,627,23,257,346,1
+Camden,Kingsland,President of the United States,,REP,DONALD J. TRUMP,700,29,237,433,1
+Camden,East Kingsland,President of the United States,,REP,DONALD J. TRUMP,2075,105,708,1260,2
+Camden,North St Marys,President of the United States,,REP,DONALD J. TRUMP,450,26,197,225,2
+Camden,Mary Lee Clark,President of the United States,,REP,DONALD J. TRUMP,1075,61,508,505,1
+Camden,South St Marys,President of the United States,,REP,DONALD J. TRUMP,779,35,236,508,0
+Camden,Mush Bluff,President of the United States,,REP,DONALD J. TRUMP,964,39,472,453,0
+Camden,West Saint Marys,President of the United States,,REP,DONALD J. TRUMP,1516,111,434,970,1
+Camden,,President of the United States,,DEM,HILLARY CLINTON,5930,466,2092,3364,8
+Camden,Tarboro,President of the United States,,DEM,HILLARY CLINTON,177,19,74,84,0
+Camden,Waverly,President of the United States,,DEM,HILLARY CLINTON,273,29,121,123,0
+Camden,Woodbine,President of the United States,,DEM,HILLARY CLINTON,453,53,126,274,0
+Camden,Browntown,President of the United States,,DEM,HILLARY CLINTON,70,11,37,21,1
+Camden,Harrietts Bluff,President of the United States,,DEM,HILLARY CLINTON,230,20,92,116,2
+Camden,West Kingsland,President of the United States,,DEM,HILLARY CLINTON,363,23,144,195,1
+Camden,North Kingsland,President of the United States,,DEM,HILLARY CLINTON,650,53,224,372,1
+Camden,Kingsland,President of the United States,,DEM,HILLARY CLINTON,376,25,125,226,0
+Camden,East Kingsland,President of the United States,,DEM,HILLARY CLINTON,983,58,303,621,1
+Camden,North St Marys,President of the United States,,DEM,HILLARY CLINTON,346,19,169,156,2
+Camden,Mary Lee Clark,President of the United States,,DEM,HILLARY CLINTON,620,35,246,339,0
+Camden,South St Marys,President of the United States,,DEM,HILLARY CLINTON,437,46,122,269,0
+Camden,Mush Bluff,President of the United States,,DEM,HILLARY CLINTON,425,24,175,226,0
+Camden,West Saint Marys,President of the United States,,DEM,HILLARY CLINTON,527,51,134,342,0
+Camden,,President of the United States,,IND,GARY JOHNSON,629,48,331,250,0
+Camden,Tarboro,President of the United States,,IND,GARY JOHNSON,13,2,5,6,0
+Camden,Waverly,President of the United States,,IND,GARY JOHNSON,12,0,9,3,0
+Camden,Woodbine,President of the United States,,IND,GARY JOHNSON,22,3,10,9,0
+Camden,Browntown,President of the United States,,IND,GARY JOHNSON,11,2,8,1,0
+Camden,Harrietts Bluff,President of the United States,,IND,GARY JOHNSON,29,3,15,11,0
+Camden,West Kingsland,President of the United States,,IND,GARY JOHNSON,47,2,31,14,0
+Camden,North Kingsland,President of the United States,,IND,GARY JOHNSON,32,1,20,11,0
+Camden,Kingsland,President of the United States,,IND,GARY JOHNSON,44,1,26,17,0
+Camden,East Kingsland,President of the United States,,IND,GARY JOHNSON,138,8,59,71,0
+Camden,North St Marys,President of the United States,,IND,GARY JOHNSON,48,4,30,14,0
+Camden,Mary Lee Clark,President of the United States,,IND,GARY JOHNSON,78,6,47,25,0
+Camden,South St Marys,President of the United States,,IND,GARY JOHNSON,48,1,20,27,0
+Camden,Mush Bluff,President of the United States,,IND,GARY JOHNSON,53,5,28,20,0
+Camden,West Saint Marys,President of the United States,,IND,GARY JOHNSON,54,10,23,21,0
 Camden,,United States Senator,,,JOHNNY ISAKSON ,11454,634,4420,6388,12
 Camden,Tarboro,United States Senator,,,JOHNNY ISAKSON ,378,23,158,197,0
 Camden,Waverly,United States Senator,,,JOHNNY ISAKSON ,628,48,285,294,1

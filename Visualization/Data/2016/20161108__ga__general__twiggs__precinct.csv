@@ -1,22 +1,22 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Twiggs,,President of the United States,,,DONALD J. TRUMP,2035,87,1154,793,1
-Twiggs,DRY BRANCH,President of the United States,,,DONALD J. TRUMP,660,23,449,188,0
-Twiggs,GOLDEN ISLES,President of the United States,,,DONALD J. TRUMP,434,18,253,163,0
-Twiggs,HIGGSVILLE,President of the United States,,,DONALD J. TRUMP,342,16,197,129,0
-Twiggs,JEFFERSONVILLE/WARE,President of the United States,,,DONALD J. TRUMP,354,20,135,198,1
-Twiggs,SHADY GROVE/TARVERS,President of the United States,,,DONALD J. TRUMP,245,10,120,115,0
-Twiggs,,President of the United States,,,HILLARY CLINTON,1971,240,960,771,0
-Twiggs,DRY BRANCH,President of the United States,,,HILLARY CLINTON,200,19,118,63,0
-Twiggs,GOLDEN ISLES,President of the United States,,,HILLARY CLINTON,631,56,362,213,0
-Twiggs,HIGGSVILLE,President of the United States,,,HILLARY CLINTON,138,12,82,44,0
-Twiggs,JEFFERSONVILLE/WARE,President of the United States,,,HILLARY CLINTON,698,126,255,317,0
-Twiggs,SHADY GROVE/TARVERS,President of the United States,,,HILLARY CLINTON,304,27,143,134,0
-Twiggs,,President of the United States,,,GARY JOHNSON,50,4,32,14,0
-Twiggs,DRY BRANCH,President of the United States,,,GARY JOHNSON,11,2,9,0,0
-Twiggs,GOLDEN ISLES,President of the United States,,,GARY JOHNSON,10,0,7,3,0
-Twiggs,HIGGSVILLE,President of the United States,,,GARY JOHNSON,14,1,7,6,0
-Twiggs,JEFFERSONVILLE/WARE,President of the United States,,,GARY JOHNSON,9,1,6,2,0
-Twiggs,SHADY GROVE/TARVERS,President of the United States,,,GARY JOHNSON,6,0,3,3,0
+Twiggs,,President of the United States,,REP,DONALD J. TRUMP,2035,87,1154,793,1
+Twiggs,DRY BRANCH,President of the United States,,REP,DONALD J. TRUMP,660,23,449,188,0
+Twiggs,GOLDEN ISLES,President of the United States,,REP,DONALD J. TRUMP,434,18,253,163,0
+Twiggs,HIGGSVILLE,President of the United States,,REP,DONALD J. TRUMP,342,16,197,129,0
+Twiggs,JEFFERSONVILLE/WARE,President of the United States,,REP,DONALD J. TRUMP,354,20,135,198,1
+Twiggs,SHADY GROVE/TARVERS,President of the United States,,REP,DONALD J. TRUMP,245,10,120,115,0
+Twiggs,,President of the United States,,DEM,HILLARY CLINTON,1971,240,960,771,0
+Twiggs,DRY BRANCH,President of the United States,,DEM,HILLARY CLINTON,200,19,118,63,0
+Twiggs,GOLDEN ISLES,President of the United States,,DEM,HILLARY CLINTON,631,56,362,213,0
+Twiggs,HIGGSVILLE,President of the United States,,DEM,HILLARY CLINTON,138,12,82,44,0
+Twiggs,JEFFERSONVILLE/WARE,President of the United States,,DEM,HILLARY CLINTON,698,126,255,317,0
+Twiggs,SHADY GROVE/TARVERS,President of the United States,,DEM,HILLARY CLINTON,304,27,143,134,0
+Twiggs,,President of the United States,,IND,GARY JOHNSON,50,4,32,14,0
+Twiggs,DRY BRANCH,President of the United States,,IND,GARY JOHNSON,11,2,9,0,0
+Twiggs,GOLDEN ISLES,President of the United States,,IND,GARY JOHNSON,10,0,7,3,0
+Twiggs,HIGGSVILLE,President of the United States,,IND,GARY JOHNSON,14,1,7,6,0
+Twiggs,JEFFERSONVILLE/WARE,President of the United States,,IND,GARY JOHNSON,9,1,6,2,0
+Twiggs,SHADY GROVE/TARVERS,President of the United States,,IND,GARY JOHNSON,6,0,3,3,0
 Twiggs,,United States Senator,,,JOHNNY ISAKSON ,1975,98,1112,764,1
 Twiggs,DRY BRANCH,United States Senator,,,JOHNNY ISAKSON ,612,30,412,170,0
 Twiggs,GOLDEN ISLES,United States Senator,,,JOHNNY ISAKSON ,419,20,243,156,0

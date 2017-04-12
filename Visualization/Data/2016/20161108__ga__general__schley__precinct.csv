@@ -1,10 +1,10 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Schley,,President of the United States,,,DONALD J. TRUMP,1472,49,422,1001,0
-Schley,Precinct One,President of the United States,,,DONALD J. TRUMP,1472,49,422,1001,0
-Schley,,President of the United States,,,HILLARY CLINTON,401,35,146,220,0
-Schley,Precinct One,President of the United States,,,HILLARY CLINTON,401,35,146,220,0
-Schley,,President of the United States,,,GARY JOHNSON,36,3,20,13,0
-Schley,Precinct One,President of the United States,,,GARY JOHNSON,36,3,20,13,0
+Schley,,President of the United States,,REP,DONALD J. TRUMP,1472,49,422,1001,0
+Schley,Precinct One,President of the United States,,REP,DONALD J. TRUMP,1472,49,422,1001,0
+Schley,,President of the United States,,DEM,HILLARY CLINTON,401,35,146,220,0
+Schley,Precinct One,President of the United States,,DEM,HILLARY CLINTON,401,35,146,220,0
+Schley,,President of the United States,,IND,GARY JOHNSON,36,3,20,13,0
+Schley,Precinct One,President of the United States,,IND,GARY JOHNSON,36,3,20,13,0
 Schley,,United States Senator,,,JOHNNY ISAKSON ,1445,53,421,971,0
 Schley,Precinct One,United States Senator,,,JOHNNY ISAKSON ,1445,53,421,971,0
 Schley,,United States Senator,,,JIM BARKSDALE,345,31,123,191,0

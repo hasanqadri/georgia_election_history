@@ -1,28 +1,28 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Habersham,,President of the United States,,,DONALD J. TRUMP,13190,744,2545,9898,3
-Habersham,Habersham North,President of the United States,,,DONALD J. TRUMP,4642,261,633,3747,1
-Habersham,Habersham South,President of the United States,,,DONALD J. TRUMP,2632,149,494,1988,1
-Habersham,Demorest,President of the United States,,,DONALD J. TRUMP,2384,130,473,1780,1
-Habersham,Town of Mount Airy,President of the United States,,,DONALD J. TRUMP,334,21,118,195,0
-Habersham,City of Baldwin,President of the United States,,,DONALD J. TRUMP,310,15,110,185,0
-Habersham,Mud Creek,President of the United States,,,DONALD J. TRUMP,2073,123,481,1469,0
-Habersham,Amys Creek,President of the United States,,,DONALD J. TRUMP,815,45,236,534,0
-Habersham,,President of the United States,,,HILLARY CLINTON,2483,203,592,1688,0
-Habersham,Habersham North,President of the United States,,,HILLARY CLINTON,819,78,115,626,0
-Habersham,Habersham South,President of the United States,,,HILLARY CLINTON,610,47,158,405,0
-Habersham,Demorest,President of the United States,,,HILLARY CLINTON,375,28,95,252,0
-Habersham,Town of Mount Airy,President of the United States,,,HILLARY CLINTON,69,5,25,39,0
-Habersham,City of Baldwin,President of the United States,,,HILLARY CLINTON,114,4,53,57,0
-Habersham,Mud Creek,President of the United States,,,HILLARY CLINTON,322,29,105,188,0
-Habersham,Amys Creek,President of the United States,,,HILLARY CLINTON,174,12,41,121,0
-Habersham,,President of the United States,,,GARY JOHNSON,461,28,183,250,0
-Habersham,Habersham North,President of the United States,,,GARY JOHNSON,171,12,58,101,0
-Habersham,Habersham South,President of the United States,,,GARY JOHNSON,95,3,34,58,0
-Habersham,Demorest,President of the United States,,,GARY JOHNSON,71,4,35,32,0
-Habersham,Town of Mount Airy,President of the United States,,,GARY JOHNSON,11,2,3,6,0
-Habersham,City of Baldwin,President of the United States,,,GARY JOHNSON,24,1,12,11,0
-Habersham,Mud Creek,President of the United States,,,GARY JOHNSON,61,1,30,30,0
-Habersham,Amys Creek,President of the United States,,,GARY JOHNSON,28,5,11,12,0
+Habersham,,President of the United States,,REP,DONALD J. TRUMP,13190,744,2545,9898,3
+Habersham,Habersham North,President of the United States,,REP,DONALD J. TRUMP,4642,261,633,3747,1
+Habersham,Habersham South,President of the United States,,REP,DONALD J. TRUMP,2632,149,494,1988,1
+Habersham,Demorest,President of the United States,,REP,DONALD J. TRUMP,2384,130,473,1780,1
+Habersham,Town of Mount Airy,President of the United States,,REP,DONALD J. TRUMP,334,21,118,195,0
+Habersham,City of Baldwin,President of the United States,,REP,DONALD J. TRUMP,310,15,110,185,0
+Habersham,Mud Creek,President of the United States,,REP,DONALD J. TRUMP,2073,123,481,1469,0
+Habersham,Amys Creek,President of the United States,,REP,DONALD J. TRUMP,815,45,236,534,0
+Habersham,,President of the United States,,DEM,HILLARY CLINTON,2483,203,592,1688,0
+Habersham,Habersham North,President of the United States,,DEM,HILLARY CLINTON,819,78,115,626,0
+Habersham,Habersham South,President of the United States,,DEM,HILLARY CLINTON,610,47,158,405,0
+Habersham,Demorest,President of the United States,,DEM,HILLARY CLINTON,375,28,95,252,0
+Habersham,Town of Mount Airy,President of the United States,,DEM,HILLARY CLINTON,69,5,25,39,0
+Habersham,City of Baldwin,President of the United States,,DEM,HILLARY CLINTON,114,4,53,57,0
+Habersham,Mud Creek,President of the United States,,DEM,HILLARY CLINTON,322,29,105,188,0
+Habersham,Amys Creek,President of the United States,,DEM,HILLARY CLINTON,174,12,41,121,0
+Habersham,,President of the United States,,IND,GARY JOHNSON,461,28,183,250,0
+Habersham,Habersham North,President of the United States,,IND,GARY JOHNSON,171,12,58,101,0
+Habersham,Habersham South,President of the United States,,IND,GARY JOHNSON,95,3,34,58,0
+Habersham,Demorest,President of the United States,,IND,GARY JOHNSON,71,4,35,32,0
+Habersham,Town of Mount Airy,President of the United States,,IND,GARY JOHNSON,11,2,3,6,0
+Habersham,City of Baldwin,President of the United States,,IND,GARY JOHNSON,24,1,12,11,0
+Habersham,Mud Creek,President of the United States,,IND,GARY JOHNSON,61,1,30,30,0
+Habersham,Amys Creek,President of the United States,,IND,GARY JOHNSON,28,5,11,12,0
 Habersham,,United States Senator,,,JOHNNY ISAKSON ,12493,733,2388,9369,3
 Habersham,Habersham North,United States Senator,,,JOHNNY ISAKSON ,4457,266,606,3584,1
 Habersham,Habersham South,United States Senator,,,JOHNNY ISAKSON ,2468,150,461,1856,1

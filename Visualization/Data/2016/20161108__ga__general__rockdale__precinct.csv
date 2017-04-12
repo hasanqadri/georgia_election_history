@@ -1,61 +1,61 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Rockdale,,President of the United States,,,DONALD J. TRUMP,13478,615,3724,9132,7
-Rockdale,Barksdale,President of the United States,,,DONALD J. TRUMP,1396,50,390,956,0
-Rockdale,Bethel,President of the United States,,,DONALD J. TRUMP,668,25,303,339,1
-Rockdale,Conyers,President of the United States,,,DONALD J. TRUMP,439,12,129,298,0
-Rockdale,Fieldstone,President of the United States,,,DONALD J. TRUMP,390,19,83,288,0
-Rockdale,Flat Shoals,President of the United States,,,DONALD J. TRUMP,641,46,145,450,0
-Rockdale,Honey Creek,President of the United States,,,DONALD J. TRUMP,883,33,212,638,0
-Rockdale,Hightower,President of the United States,,,DONALD J. TRUMP,799,31,239,528,1
-Rockdale,The Lakes,President of the United States,,,DONALD J. TRUMP,326,16,88,221,1
-Rockdale,Lorraine,President of the United States,,,DONALD J. TRUMP,1239,61,469,709,0
-Rockdale,Magnet,President of the United States,,,DONALD J. TRUMP,1038,26,326,684,2
-Rockdale,Milstead,President of the United States,,,DONALD J. TRUMP,526,26,151,349,0
-Rockdale,Olde Towne,President of the United States,,,DONALD J. TRUMP,513,40,125,348,0
-Rockdale,Rockdale,President of the United States,,,DONALD J. TRUMP,867,40,170,657,0
-Rockdale,Salem,President of the United States,,,DONALD J. TRUMP,674,52,143,478,1
-Rockdale,Sheffield,President of the United States,,,DONALD J. TRUMP,874,33,300,541,0
-Rockdale,Smyrna,President of the United States,,,DONALD J. TRUMP,821,40,166,614,1
-Rockdale,St. Pius,President of the United States,,,DONALD J. TRUMP,372,17,66,289,0
-Rockdale,Stanton,President of the United States,,,DONALD J. TRUMP,1012,48,219,745,0
-Rockdale,,President of the United States,,,HILLARY CLINTON,23255,780,6190,16260,25
-Rockdale,Barksdale,President of the United States,,,HILLARY CLINTON,1659,41,443,1172,3
-Rockdale,Bethel,President of the United States,,,HILLARY CLINTON,278,18,75,185,0
-Rockdale,Conyers,President of the United States,,,HILLARY CLINTON,1269,51,412,805,1
-Rockdale,Fieldstone,President of the United States,,,HILLARY CLINTON,2022,57,570,1393,2
-Rockdale,Flat Shoals,President of the United States,,,HILLARY CLINTON,1739,55,428,1256,0
-Rockdale,Honey Creek,President of the United States,,,HILLARY CLINTON,625,30,146,447,2
-Rockdale,Hightower,President of the United States,,,HILLARY CLINTON,1176,44,318,814,0
-Rockdale,The Lakes,President of the United States,,,HILLARY CLINTON,670,29,234,405,2
-Rockdale,Lorraine,President of the United States,,,HILLARY CLINTON,1354,30,344,977,3
-Rockdale,Magnet,President of the United States,,,HILLARY CLINTON,776,36,230,510,0
-Rockdale,Milstead,President of the United States,,,HILLARY CLINTON,1530,38,442,1050,0
-Rockdale,Olde Towne,President of the United States,,,HILLARY CLINTON,2424,74,760,1588,2
-Rockdale,Rockdale,President of the United States,,,HILLARY CLINTON,1713,65,389,1258,1
-Rockdale,Salem,President of the United States,,,HILLARY CLINTON,1521,50,374,1093,4
-Rockdale,Sheffield,President of the United States,,,HILLARY CLINTON,483,22,182,279,0
-Rockdale,Smyrna,President of the United States,,,HILLARY CLINTON,1834,60,384,1386,4
-Rockdale,St. Pius,President of the United States,,,HILLARY CLINTON,1165,41,240,884,0
-Rockdale,Stanton,President of the United States,,,HILLARY CLINTON,1017,39,219,758,1
-Rockdale,,President of the United States,,,GARY JOHNSON,923,41,396,485,1
-Rockdale,Barksdale,President of the United States,,,GARY JOHNSON,95,7,34,54,0
-Rockdale,Bethel,President of the United States,,,GARY JOHNSON,17,2,7,8,0
-Rockdale,Conyers,President of the United States,,,GARY JOHNSON,40,3,17,20,0
-Rockdale,Fieldstone,President of the United States,,,GARY JOHNSON,56,3,19,33,1
-Rockdale,Flat Shoals,President of the United States,,,GARY JOHNSON,45,0,15,30,0
-Rockdale,Honey Creek,President of the United States,,,GARY JOHNSON,49,1,24,24,0
-Rockdale,Hightower,President of the United States,,,GARY JOHNSON,42,1,19,22,0
-Rockdale,The Lakes,President of the United States,,,GARY JOHNSON,43,2,25,16,0
-Rockdale,Lorraine,President of the United States,,,GARY JOHNSON,61,5,26,30,0
-Rockdale,Magnet,President of the United States,,,GARY JOHNSON,55,0,24,31,0
-Rockdale,Milstead,President of the United States,,,GARY JOHNSON,49,2,22,25,0
-Rockdale,Olde Towne,President of the United States,,,GARY JOHNSON,69,3,37,29,0
-Rockdale,Rockdale,President of the United States,,,GARY JOHNSON,53,2,21,30,0
-Rockdale,Salem,President of the United States,,,GARY JOHNSON,57,3,26,28,0
-Rockdale,Sheffield,President of the United States,,,GARY JOHNSON,48,2,29,17,0
-Rockdale,Smyrna,President of the United States,,,GARY JOHNSON,54,2,19,33,0
-Rockdale,St. Pius,President of the United States,,,GARY JOHNSON,31,1,10,20,0
-Rockdale,Stanton,President of the United States,,,GARY JOHNSON,59,2,22,35,0
+Rockdale,,President of the United States,,REP,DONALD J. TRUMP,13478,615,3724,9132,7
+Rockdale,Barksdale,President of the United States,,REP,DONALD J. TRUMP,1396,50,390,956,0
+Rockdale,Bethel,President of the United States,,REP,DONALD J. TRUMP,668,25,303,339,1
+Rockdale,Conyers,President of the United States,,REP,DONALD J. TRUMP,439,12,129,298,0
+Rockdale,Fieldstone,President of the United States,,REP,DONALD J. TRUMP,390,19,83,288,0
+Rockdale,Flat Shoals,President of the United States,,REP,DONALD J. TRUMP,641,46,145,450,0
+Rockdale,Honey Creek,President of the United States,,REP,DONALD J. TRUMP,883,33,212,638,0
+Rockdale,Hightower,President of the United States,,REP,DONALD J. TRUMP,799,31,239,528,1
+Rockdale,The Lakes,President of the United States,,REP,DONALD J. TRUMP,326,16,88,221,1
+Rockdale,Lorraine,President of the United States,,REP,DONALD J. TRUMP,1239,61,469,709,0
+Rockdale,Magnet,President of the United States,,REP,DONALD J. TRUMP,1038,26,326,684,2
+Rockdale,Milstead,President of the United States,,REP,DONALD J. TRUMP,526,26,151,349,0
+Rockdale,Olde Towne,President of the United States,,REP,DONALD J. TRUMP,513,40,125,348,0
+Rockdale,Rockdale,President of the United States,,REP,DONALD J. TRUMP,867,40,170,657,0
+Rockdale,Salem,President of the United States,,REP,DONALD J. TRUMP,674,52,143,478,1
+Rockdale,Sheffield,President of the United States,,REP,DONALD J. TRUMP,874,33,300,541,0
+Rockdale,Smyrna,President of the United States,,REP,DONALD J. TRUMP,821,40,166,614,1
+Rockdale,St. Pius,President of the United States,,REP,DONALD J. TRUMP,372,17,66,289,0
+Rockdale,Stanton,President of the United States,,REP,DONALD J. TRUMP,1012,48,219,745,0
+Rockdale,,President of the United States,,DEM,HILLARY CLINTON,23255,780,6190,16260,25
+Rockdale,Barksdale,President of the United States,,DEM,HILLARY CLINTON,1659,41,443,1172,3
+Rockdale,Bethel,President of the United States,,DEM,HILLARY CLINTON,278,18,75,185,0
+Rockdale,Conyers,President of the United States,,DEM,HILLARY CLINTON,1269,51,412,805,1
+Rockdale,Fieldstone,President of the United States,,DEM,HILLARY CLINTON,2022,57,570,1393,2
+Rockdale,Flat Shoals,President of the United States,,DEM,HILLARY CLINTON,1739,55,428,1256,0
+Rockdale,Honey Creek,President of the United States,,DEM,HILLARY CLINTON,625,30,146,447,2
+Rockdale,Hightower,President of the United States,,DEM,HILLARY CLINTON,1176,44,318,814,0
+Rockdale,The Lakes,President of the United States,,DEM,HILLARY CLINTON,670,29,234,405,2
+Rockdale,Lorraine,President of the United States,,DEM,HILLARY CLINTON,1354,30,344,977,3
+Rockdale,Magnet,President of the United States,,DEM,HILLARY CLINTON,776,36,230,510,0
+Rockdale,Milstead,President of the United States,,DEM,HILLARY CLINTON,1530,38,442,1050,0
+Rockdale,Olde Towne,President of the United States,,DEM,HILLARY CLINTON,2424,74,760,1588,2
+Rockdale,Rockdale,President of the United States,,DEM,HILLARY CLINTON,1713,65,389,1258,1
+Rockdale,Salem,President of the United States,,DEM,HILLARY CLINTON,1521,50,374,1093,4
+Rockdale,Sheffield,President of the United States,,DEM,HILLARY CLINTON,483,22,182,279,0
+Rockdale,Smyrna,President of the United States,,DEM,HILLARY CLINTON,1834,60,384,1386,4
+Rockdale,St. Pius,President of the United States,,DEM,HILLARY CLINTON,1165,41,240,884,0
+Rockdale,Stanton,President of the United States,,DEM,HILLARY CLINTON,1017,39,219,758,1
+Rockdale,,President of the United States,,IND,GARY JOHNSON,923,41,396,485,1
+Rockdale,Barksdale,President of the United States,,IND,GARY JOHNSON,95,7,34,54,0
+Rockdale,Bethel,President of the United States,,IND,GARY JOHNSON,17,2,7,8,0
+Rockdale,Conyers,President of the United States,,IND,GARY JOHNSON,40,3,17,20,0
+Rockdale,Fieldstone,President of the United States,,IND,GARY JOHNSON,56,3,19,33,1
+Rockdale,Flat Shoals,President of the United States,,IND,GARY JOHNSON,45,0,15,30,0
+Rockdale,Honey Creek,President of the United States,,IND,GARY JOHNSON,49,1,24,24,0
+Rockdale,Hightower,President of the United States,,IND,GARY JOHNSON,42,1,19,22,0
+Rockdale,The Lakes,President of the United States,,IND,GARY JOHNSON,43,2,25,16,0
+Rockdale,Lorraine,President of the United States,,IND,GARY JOHNSON,61,5,26,30,0
+Rockdale,Magnet,President of the United States,,IND,GARY JOHNSON,55,0,24,31,0
+Rockdale,Milstead,President of the United States,,IND,GARY JOHNSON,49,2,22,25,0
+Rockdale,Olde Towne,President of the United States,,IND,GARY JOHNSON,69,3,37,29,0
+Rockdale,Rockdale,President of the United States,,IND,GARY JOHNSON,53,2,21,30,0
+Rockdale,Salem,President of the United States,,IND,GARY JOHNSON,57,3,26,28,0
+Rockdale,Sheffield,President of the United States,,IND,GARY JOHNSON,48,2,29,17,0
+Rockdale,Smyrna,President of the United States,,IND,GARY JOHNSON,54,2,19,33,0
+Rockdale,St. Pius,President of the United States,,IND,GARY JOHNSON,31,1,10,20,0
+Rockdale,Stanton,President of the United States,,IND,GARY JOHNSON,59,2,22,35,0
 Rockdale,,United States Senator,,,JOHNNY ISAKSON ,13893,675,3723,9486,9
 Rockdale,Barksdale,United States Senator,,,JOHNNY ISAKSON ,1459,52,405,1002,0
 Rockdale,Bethel,United States Senator,,,JOHNNY ISAKSON ,646,28,281,336,1

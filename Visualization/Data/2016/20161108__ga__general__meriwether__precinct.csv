@@ -1,49 +1,49 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Meriwether,,President of the United States,,,DONALD J. TRUMP,5222,200,2967,2052,3
-Meriwether,CHALYBEATE,President of the United States,,,DONALD J. TRUMP,262,10,191,61,0
-Meriwether,MANCHESTER GILL I,President of the United States,,,DONALD J. TRUMP,624,23,407,194,0
-Meriwether,MANCHESTER GILL II,President of the United States,,,DONALD J. TRUMP,116,7,58,51,0
-Meriwether,ODESSADALE,President of the United States,,,DONALD J. TRUMP,114,6,54,54,0
-Meriwether,GREENVILLE,President of the United States,,,DONALD J. TRUMP,561,20,200,341,0
-Meriwether,LONE OAK,President of the United States,,,DONALD J. TRUMP,344,12,164,167,1
-Meriwether,LUTHERSVILLE,President of the United States,,,DONALD J. TRUMP,855,35,469,350,1
-Meriwether,ALVATON,President of the United States,,,DONALD J. TRUMP,535,13,310,212,0
-Meriwether,GAY,President of the United States,,,DONALD J. TRUMP,182,3,124,54,1
-Meriwether,WOODBURY,President of the United States,,,DONALD J. TRUMP,418,25,217,176,0
-Meriwether,WARM SPRINGS,President of the United States,,,DONALD J. TRUMP,520,21,295,204,0
-Meriwether,DURAND,President of the United States,,,DONALD J. TRUMP,284,9,182,93,0
-Meriwether,RALEIGH,President of the United States,,,DONALD J. TRUMP,266,12,177,77,0
-Meriwether,COVE,President of the United States,,,DONALD J. TRUMP,141,4,119,18,0
-Meriwether,,President of the United States,,,HILLARY CLINTON,3804,199,2275,1327,3
-Meriwether,CHALYBEATE,President of the United States,,,HILLARY CLINTON,43,2,32,9,0
-Meriwether,MANCHESTER GILL I,President of the United States,,,HILLARY CLINTON,299,13,218,68,0
-Meriwether,MANCHESTER GILL II,President of the United States,,,HILLARY CLINTON,478,53,311,114,0
-Meriwether,ODESSADALE,President of the United States,,,HILLARY CLINTON,76,1,54,21,0
-Meriwether,GREENVILLE,President of the United States,,,HILLARY CLINTON,607,25,226,356,0
-Meriwether,LONE OAK,President of the United States,,,HILLARY CLINTON,368,21,184,160,3
-Meriwether,LUTHERSVILLE,President of the United States,,,HILLARY CLINTON,639,27,331,281,0
-Meriwether,ALVATON,President of the United States,,,HILLARY CLINTON,322,10,229,83,0
-Meriwether,GAY,President of the United States,,,HILLARY CLINTON,66,3,41,22,0
-Meriwether,WOODBURY,President of the United States,,,HILLARY CLINTON,420,25,309,86,0
-Meriwether,WARM SPRINGS,President of the United States,,,HILLARY CLINTON,252,6,188,58,0
-Meriwether,DURAND,President of the United States,,,HILLARY CLINTON,152,7,93,52,0
-Meriwether,RALEIGH,President of the United States,,,HILLARY CLINTON,66,4,48,14,0
-Meriwether,COVE,President of the United States,,,HILLARY CLINTON,16,2,11,3,0
-Meriwether,,President of the United States,,,GARY JOHNSON,165,8,104,53,0
-Meriwether,CHALYBEATE,President of the United States,,,GARY JOHNSON,7,1,6,0,0
-Meriwether,MANCHESTER GILL I,President of the United States,,,GARY JOHNSON,25,0,18,7,0
-Meriwether,MANCHESTER GILL II,President of the United States,,,GARY JOHNSON,9,2,6,1,0
-Meriwether,ODESSADALE,President of the United States,,,GARY JOHNSON,1,0,1,0,0
-Meriwether,GREENVILLE,President of the United States,,,GARY JOHNSON,20,2,8,10,0
-Meriwether,LONE OAK,President of the United States,,,GARY JOHNSON,9,0,6,3,0
-Meriwether,LUTHERSVILLE,President of the United States,,,GARY JOHNSON,30,3,14,13,0
-Meriwether,ALVATON,President of the United States,,,GARY JOHNSON,17,0,11,6,0
-Meriwether,GAY,President of the United States,,,GARY JOHNSON,10,0,8,2,0
-Meriwether,WOODBURY,President of the United States,,,GARY JOHNSON,7,0,3,4,0
-Meriwether,WARM SPRINGS,President of the United States,,,GARY JOHNSON,21,0,15,6,0
-Meriwether,DURAND,President of the United States,,,GARY JOHNSON,4,0,4,0,0
-Meriwether,RALEIGH,President of the United States,,,GARY JOHNSON,3,0,2,1,0
-Meriwether,COVE,President of the United States,,,GARY JOHNSON,2,0,2,0,0
+Meriwether,,President of the United States,,REP,DONALD J. TRUMP,5222,200,2967,2052,3
+Meriwether,CHALYBEATE,President of the United States,,REP,DONALD J. TRUMP,262,10,191,61,0
+Meriwether,MANCHESTER GILL I,President of the United States,,REP,DONALD J. TRUMP,624,23,407,194,0
+Meriwether,MANCHESTER GILL II,President of the United States,,REP,DONALD J. TRUMP,116,7,58,51,0
+Meriwether,ODESSADALE,President of the United States,,REP,DONALD J. TRUMP,114,6,54,54,0
+Meriwether,GREENVILLE,President of the United States,,REP,DONALD J. TRUMP,561,20,200,341,0
+Meriwether,LONE OAK,President of the United States,,REP,DONALD J. TRUMP,344,12,164,167,1
+Meriwether,LUTHERSVILLE,President of the United States,,REP,DONALD J. TRUMP,855,35,469,350,1
+Meriwether,ALVATON,President of the United States,,REP,DONALD J. TRUMP,535,13,310,212,0
+Meriwether,GAY,President of the United States,,REP,DONALD J. TRUMP,182,3,124,54,1
+Meriwether,WOODBURY,President of the United States,,REP,DONALD J. TRUMP,418,25,217,176,0
+Meriwether,WARM SPRINGS,President of the United States,,REP,DONALD J. TRUMP,520,21,295,204,0
+Meriwether,DURAND,President of the United States,,REP,DONALD J. TRUMP,284,9,182,93,0
+Meriwether,RALEIGH,President of the United States,,REP,DONALD J. TRUMP,266,12,177,77,0
+Meriwether,COVE,President of the United States,,REP,DONALD J. TRUMP,141,4,119,18,0
+Meriwether,,President of the United States,,DEM,HILLARY CLINTON,3804,199,2275,1327,3
+Meriwether,CHALYBEATE,President of the United States,,DEM,HILLARY CLINTON,43,2,32,9,0
+Meriwether,MANCHESTER GILL I,President of the United States,,DEM,HILLARY CLINTON,299,13,218,68,0
+Meriwether,MANCHESTER GILL II,President of the United States,,DEM,HILLARY CLINTON,478,53,311,114,0
+Meriwether,ODESSADALE,President of the United States,,DEM,HILLARY CLINTON,76,1,54,21,0
+Meriwether,GREENVILLE,President of the United States,,DEM,HILLARY CLINTON,607,25,226,356,0
+Meriwether,LONE OAK,President of the United States,,DEM,HILLARY CLINTON,368,21,184,160,3
+Meriwether,LUTHERSVILLE,President of the United States,,DEM,HILLARY CLINTON,639,27,331,281,0
+Meriwether,ALVATON,President of the United States,,DEM,HILLARY CLINTON,322,10,229,83,0
+Meriwether,GAY,President of the United States,,DEM,HILLARY CLINTON,66,3,41,22,0
+Meriwether,WOODBURY,President of the United States,,DEM,HILLARY CLINTON,420,25,309,86,0
+Meriwether,WARM SPRINGS,President of the United States,,DEM,HILLARY CLINTON,252,6,188,58,0
+Meriwether,DURAND,President of the United States,,DEM,HILLARY CLINTON,152,7,93,52,0
+Meriwether,RALEIGH,President of the United States,,DEM,HILLARY CLINTON,66,4,48,14,0
+Meriwether,COVE,President of the United States,,DEM,HILLARY CLINTON,16,2,11,3,0
+Meriwether,,President of the United States,,IND,GARY JOHNSON,165,8,104,53,0
+Meriwether,CHALYBEATE,President of the United States,,IND,GARY JOHNSON,7,1,6,0,0
+Meriwether,MANCHESTER GILL I,President of the United States,,IND,GARY JOHNSON,25,0,18,7,0
+Meriwether,MANCHESTER GILL II,President of the United States,,IND,GARY JOHNSON,9,2,6,1,0
+Meriwether,ODESSADALE,President of the United States,,IND,GARY JOHNSON,1,0,1,0,0
+Meriwether,GREENVILLE,President of the United States,,IND,GARY JOHNSON,20,2,8,10,0
+Meriwether,LONE OAK,President of the United States,,IND,GARY JOHNSON,9,0,6,3,0
+Meriwether,LUTHERSVILLE,President of the United States,,IND,GARY JOHNSON,30,3,14,13,0
+Meriwether,ALVATON,President of the United States,,IND,GARY JOHNSON,17,0,11,6,0
+Meriwether,GAY,President of the United States,,IND,GARY JOHNSON,10,0,8,2,0
+Meriwether,WOODBURY,President of the United States,,IND,GARY JOHNSON,7,0,3,4,0
+Meriwether,WARM SPRINGS,President of the United States,,IND,GARY JOHNSON,21,0,15,6,0
+Meriwether,DURAND,President of the United States,,IND,GARY JOHNSON,4,0,4,0,0
+Meriwether,RALEIGH,President of the United States,,IND,GARY JOHNSON,3,0,2,1,0
+Meriwether,COVE,President of the United States,,IND,GARY JOHNSON,2,0,2,0,0
 Meriwether,,United States Senator,,,JOHNNY ISAKSON ,5158,213,2889,2054,2
 Meriwether,CHALYBEATE,United States Senator,,,JOHNNY ISAKSON ,253,9,181,63,0
 Meriwether,MANCHESTER GILL I,United States Senator,,,JOHNNY ISAKSON ,601,23,385,193,0

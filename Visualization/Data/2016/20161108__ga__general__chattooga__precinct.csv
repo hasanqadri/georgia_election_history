@@ -1,46 +1,46 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Chattooga,,President of the United States,,,DONALD J. TRUMP,6462,144,3034,3279,5
-Chattooga,CLOUDLAND,President of the United States,,,DONALD J. TRUMP,158,9,106,43,0
-Chattooga,PENNVILLE,President of the United States,,,DONALD J. TRUMP,272,8,125,139,0
-Chattooga,COLDWATER,President of the United States,,,DONALD J. TRUMP,106,3,52,51,0
-Chattooga,DIRTSELLER,President of the United States,,,DONALD J. TRUMP,106,3,61,42,0
-Chattooga,HAYWOOD,President of the United States,,,DONALD J. TRUMP,89,0,74,15,0
-Chattooga,LYERLY,President of the United States,,,DONALD J. TRUMP,445,7,252,186,0
-Chattooga,TRION,President of the United States,,,DONALD J. TRUMP,1589,25,702,861,1
-Chattooga,SUMMERVILLE,President of the United States,,,DONALD J. TRUMP,2099,59,648,1390,2
-Chattooga,TELOGA,President of the United States,,,DONALD J. TRUMP,320,5,187,128,0
-Chattooga,DIRTTOWN,President of the United States,,,DONALD J. TRUMP,455,7,280,166,2
-Chattooga,SEMINOLE,President of the United States,,,DONALD J. TRUMP,77,0,56,21,0
-Chattooga,SUBLIGNA,President of the United States,,,DONALD J. TRUMP,295,5,199,91,0
-Chattooga,ALPINE,President of the United States,,,DONALD J. TRUMP,451,13,292,146,0
-Chattooga,,President of the United States,,,HILLARY CLINTON,1613,82,703,827,1
-Chattooga,CLOUDLAND,President of the United States,,,HILLARY CLINTON,58,3,25,30,0
-Chattooga,PENNVILLE,President of the United States,,,HILLARY CLINTON,48,3,24,21,0
-Chattooga,COLDWATER,President of the United States,,,HILLARY CLINTON,53,1,42,10,0
-Chattooga,DIRTSELLER,President of the United States,,,HILLARY CLINTON,16,0,13,3,0
-Chattooga,HAYWOOD,President of the United States,,,HILLARY CLINTON,15,2,12,1,0
-Chattooga,LYERLY,President of the United States,,,HILLARY CLINTON,94,4,56,34,0
-Chattooga,TRION,President of the United States,,,HILLARY CLINTON,306,14,116,176,0
-Chattooga,SUMMERVILLE,President of the United States,,,HILLARY CLINTON,759,40,265,453,1
-Chattooga,TELOGA,President of the United States,,,HILLARY CLINTON,40,3,23,14,0
-Chattooga,DIRTTOWN,President of the United States,,,HILLARY CLINTON,96,8,53,35,0
-Chattooga,SEMINOLE,President of the United States,,,HILLARY CLINTON,5,0,3,2,0
-Chattooga,SUBLIGNA,President of the United States,,,HILLARY CLINTON,30,0,18,12,0
-Chattooga,ALPINE,President of the United States,,,HILLARY CLINTON,93,4,53,36,0
-Chattooga,,President of the United States,,,GARY JOHNSON,177,6,102,69,0
-Chattooga,CLOUDLAND,President of the United States,,,GARY JOHNSON,5,0,2,3,0
-Chattooga,PENNVILLE,President of the United States,,,GARY JOHNSON,3,0,2,1,0
-Chattooga,COLDWATER,President of the United States,,,GARY JOHNSON,3,0,2,1,0
-Chattooga,DIRTSELLER,President of the United States,,,GARY JOHNSON,0,0,0,0,0
-Chattooga,HAYWOOD,President of the United States,,,GARY JOHNSON,3,0,2,1,0
-Chattooga,LYERLY,President of the United States,,,GARY JOHNSON,12,0,10,2,0
-Chattooga,TRION,President of the United States,,,GARY JOHNSON,36,1,23,12,0
-Chattooga,SUMMERVILLE,President of the United States,,,GARY JOHNSON,67,4,31,32,0
-Chattooga,TELOGA,President of the United States,,,GARY JOHNSON,10,0,2,8,0
-Chattooga,DIRTTOWN,President of the United States,,,GARY JOHNSON,11,0,9,2,0
-Chattooga,SEMINOLE,President of the United States,,,GARY JOHNSON,5,0,3,2,0
-Chattooga,SUBLIGNA,President of the United States,,,GARY JOHNSON,5,0,5,0,0
-Chattooga,ALPINE,President of the United States,,,GARY JOHNSON,17,1,11,5,0
+Chattooga,,President of the United States,,REP,DONALD J. TRUMP,6462,144,3034,3279,5
+Chattooga,CLOUDLAND,President of the United States,,REP,DONALD J. TRUMP,158,9,106,43,0
+Chattooga,PENNVILLE,President of the United States,,REP,DONALD J. TRUMP,272,8,125,139,0
+Chattooga,COLDWATER,President of the United States,,REP,DONALD J. TRUMP,106,3,52,51,0
+Chattooga,DIRTSELLER,President of the United States,,REP,DONALD J. TRUMP,106,3,61,42,0
+Chattooga,HAYWOOD,President of the United States,,REP,DONALD J. TRUMP,89,0,74,15,0
+Chattooga,LYERLY,President of the United States,,REP,DONALD J. TRUMP,445,7,252,186,0
+Chattooga,TRION,President of the United States,,REP,DONALD J. TRUMP,1589,25,702,861,1
+Chattooga,SUMMERVILLE,President of the United States,,REP,DONALD J. TRUMP,2099,59,648,1390,2
+Chattooga,TELOGA,President of the United States,,REP,DONALD J. TRUMP,320,5,187,128,0
+Chattooga,DIRTTOWN,President of the United States,,REP,DONALD J. TRUMP,455,7,280,166,2
+Chattooga,SEMINOLE,President of the United States,,REP,DONALD J. TRUMP,77,0,56,21,0
+Chattooga,SUBLIGNA,President of the United States,,REP,DONALD J. TRUMP,295,5,199,91,0
+Chattooga,ALPINE,President of the United States,,REP,DONALD J. TRUMP,451,13,292,146,0
+Chattooga,,President of the United States,,DEM,HILLARY CLINTON,1613,82,703,827,1
+Chattooga,CLOUDLAND,President of the United States,,DEM,HILLARY CLINTON,58,3,25,30,0
+Chattooga,PENNVILLE,President of the United States,,DEM,HILLARY CLINTON,48,3,24,21,0
+Chattooga,COLDWATER,President of the United States,,DEM,HILLARY CLINTON,53,1,42,10,0
+Chattooga,DIRTSELLER,President of the United States,,DEM,HILLARY CLINTON,16,0,13,3,0
+Chattooga,HAYWOOD,President of the United States,,DEM,HILLARY CLINTON,15,2,12,1,0
+Chattooga,LYERLY,President of the United States,,DEM,HILLARY CLINTON,94,4,56,34,0
+Chattooga,TRION,President of the United States,,DEM,HILLARY CLINTON,306,14,116,176,0
+Chattooga,SUMMERVILLE,President of the United States,,DEM,HILLARY CLINTON,759,40,265,453,1
+Chattooga,TELOGA,President of the United States,,DEM,HILLARY CLINTON,40,3,23,14,0
+Chattooga,DIRTTOWN,President of the United States,,DEM,HILLARY CLINTON,96,8,53,35,0
+Chattooga,SEMINOLE,President of the United States,,DEM,HILLARY CLINTON,5,0,3,2,0
+Chattooga,SUBLIGNA,President of the United States,,DEM,HILLARY CLINTON,30,0,18,12,0
+Chattooga,ALPINE,President of the United States,,DEM,HILLARY CLINTON,93,4,53,36,0
+Chattooga,,President of the United States,,IND,GARY JOHNSON,177,6,102,69,0
+Chattooga,CLOUDLAND,President of the United States,,IND,GARY JOHNSON,5,0,2,3,0
+Chattooga,PENNVILLE,President of the United States,,IND,GARY JOHNSON,3,0,2,1,0
+Chattooga,COLDWATER,President of the United States,,IND,GARY JOHNSON,3,0,2,1,0
+Chattooga,DIRTSELLER,President of the United States,,IND,GARY JOHNSON,0,0,0,0,0
+Chattooga,HAYWOOD,President of the United States,,IND,GARY JOHNSON,3,0,2,1,0
+Chattooga,LYERLY,President of the United States,,IND,GARY JOHNSON,12,0,10,2,0
+Chattooga,TRION,President of the United States,,IND,GARY JOHNSON,36,1,23,12,0
+Chattooga,SUMMERVILLE,President of the United States,,IND,GARY JOHNSON,67,4,31,32,0
+Chattooga,TELOGA,President of the United States,,IND,GARY JOHNSON,10,0,2,8,0
+Chattooga,DIRTTOWN,President of the United States,,IND,GARY JOHNSON,11,0,9,2,0
+Chattooga,SEMINOLE,President of the United States,,IND,GARY JOHNSON,5,0,3,2,0
+Chattooga,SUBLIGNA,President of the United States,,IND,GARY JOHNSON,5,0,5,0,0
+Chattooga,ALPINE,President of the United States,,IND,GARY JOHNSON,17,1,11,5,0
 Chattooga,,United States Senator,,,JOHNNY ISAKSON ,5827,147,2697,2981,2
 Chattooga,CLOUDLAND,United States Senator,,,JOHNNY ISAKSON ,134,8,89,37,0
 Chattooga,PENNVILLE,United States Senator,,,JOHNNY ISAKSON ,238,8,109,121,0

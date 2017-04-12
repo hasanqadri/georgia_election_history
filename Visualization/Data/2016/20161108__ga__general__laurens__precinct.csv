@@ -1,58 +1,58 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Laurens,,President of the United States,,,DONALD J. TRUMP,12411,641,6409,5359,2
-Laurens,Family Life Center,President of the United States,,,DONALD J. TRUMP,1767,140,490,1137,0
-Laurens,Calhoun Park,President of the United States,,,DONALD J. TRUMP,745,75,264,406,0
-Laurens,Fire Dept Sta #5,President of the United States,,,DONALD J. TRUMP,1810,109,618,1082,1
-Laurens,Bailey,President of the United States,,,DONALD J. TRUMP,681,40,372,269,0
-Laurens,Buckeye,President of the United States,,,DONALD J. TRUMP,329,4,202,123,0
-Laurens,Burch,President of the United States,,,DONALD J. TRUMP,213,4,172,37,0
-Laurens,Burgamy,President of the United States,,,DONALD J. TRUMP,326,24,192,110,0
-Laurens,Cadwell,President of the United States,,,DONALD J. TRUMP,407,7,311,89,0
-Laurens,Brewton,President of the United States,,,DONALD J. TRUMP,784,21,485,278,0
-Laurens,Dudley,President of the United States,,,DONALD J. TRUMP,628,33,401,194,0
-Laurens,Hampton Mill,President of the United States,,,DONALD J. TRUMP,975,22,693,260,0
-Laurens,Harvard,President of the United States,,,DONALD J. TRUMP,123,3,102,18,0
-Laurens,Minter,President of the United States,,,DONALD J. TRUMP,516,21,348,147,0
-Laurens,Rural Fire Sta #17,President of the United States,,,DONALD J. TRUMP,930,44,496,390,0
-Laurens,Reedy Springs,President of the United States,,,DONALD J. TRUMP,475,10,361,104,0
-Laurens,Smith,President of the United States,,,DONALD J. TRUMP,933,55,486,391,1
-Laurens,LCFS 10 (Valambrosia),President of the United States,,,DONALD J. TRUMP,769,29,416,324,0
-Laurens,,President of the United States,,,HILLARY CLINTON,6752,469,3273,3009,1
-Laurens,Family Life Center,President of the United States,,,HILLARY CLINTON,850,54,291,505,0
-Laurens,Calhoun Park,President of the United States,,,HILLARY CLINTON,2214,157,1072,985,0
-Laurens,Fire Dept Sta #5,President of the United States,,,HILLARY CLINTON,551,27,185,339,0
-Laurens,Bailey,President of the United States,,,HILLARY CLINTON,143,15,62,66,0
-Laurens,Buckeye,President of the United States,,,HILLARY CLINTON,290,22,148,120,0
-Laurens,Burch,President of the United States,,,HILLARY CLINTON,54,9,32,13,0
-Laurens,Burgamy,President of the United States,,,HILLARY CLINTON,294,35,154,105,0
-Laurens,Cadwell,President of the United States,,,HILLARY CLINTON,68,5,50,13,0
-Laurens,Brewton,President of the United States,,,HILLARY CLINTON,205,10,120,75,0
-Laurens,Dudley,President of the United States,,,HILLARY CLINTON,152,17,84,51,0
-Laurens,Hampton Mill,President of the United States,,,HILLARY CLINTON,150,12,94,44,0
-Laurens,Harvard,President of the United States,,,HILLARY CLINTON,120,5,95,20,0
-Laurens,Minter,President of the United States,,,HILLARY CLINTON,34,1,24,9,0
-Laurens,Rural Fire Sta #17,President of the United States,,,HILLARY CLINTON,316,17,161,138,0
-Laurens,Reedy Springs,President of the United States,,,HILLARY CLINTON,87,10,52,25,0
-Laurens,Smith,President of the United States,,,HILLARY CLINTON,782,45,445,292,0
-Laurens,LCFS 10 (Valambrosia),President of the United States,,,HILLARY CLINTON,442,28,204,209,1
-Laurens,,President of the United States,,,GARY JOHNSON,313,26,171,116,0
-Laurens,Family Life Center,President of the United States,,,GARY JOHNSON,60,6,28,26,0
-Laurens,Calhoun Park,President of the United States,,,GARY JOHNSON,42,4,22,16,0
-Laurens,Fire Dept Sta #5,President of the United States,,,GARY JOHNSON,50,6,23,21,0
-Laurens,Bailey,President of the United States,,,GARY JOHNSON,10,0,5,5,0
-Laurens,Buckeye,President of the United States,,,GARY JOHNSON,5,0,3,2,0
-Laurens,Burch,President of the United States,,,GARY JOHNSON,8,0,8,0,0
-Laurens,Burgamy,President of the United States,,,GARY JOHNSON,10,0,6,4,0
-Laurens,Cadwell,President of the United States,,,GARY JOHNSON,4,0,3,1,0
-Laurens,Brewton,President of the United States,,,GARY JOHNSON,14,0,11,3,0
-Laurens,Dudley,President of the United States,,,GARY JOHNSON,16,2,6,8,0
-Laurens,Hampton Mill,President of the United States,,,GARY JOHNSON,8,2,4,2,0
-Laurens,Harvard,President of the United States,,,GARY JOHNSON,1,0,1,0,0
-Laurens,Minter,President of the United States,,,GARY JOHNSON,13,1,10,2,0
-Laurens,Rural Fire Sta #17,President of the United States,,,GARY JOHNSON,17,0,10,7,0
-Laurens,Reedy Springs,President of the United States,,,GARY JOHNSON,9,0,7,2,0
-Laurens,Smith,President of the United States,,,GARY JOHNSON,32,3,17,12,0
-Laurens,LCFS 10 (Valambrosia),President of the United States,,,GARY JOHNSON,14,2,7,5,0
+Laurens,,President of the United States,,REP,DONALD J. TRUMP,12411,641,6409,5359,2
+Laurens,Family Life Center,President of the United States,,REP,DONALD J. TRUMP,1767,140,490,1137,0
+Laurens,Calhoun Park,President of the United States,,REP,DONALD J. TRUMP,745,75,264,406,0
+Laurens,Fire Dept Sta #5,President of the United States,,REP,DONALD J. TRUMP,1810,109,618,1082,1
+Laurens,Bailey,President of the United States,,REP,DONALD J. TRUMP,681,40,372,269,0
+Laurens,Buckeye,President of the United States,,REP,DONALD J. TRUMP,329,4,202,123,0
+Laurens,Burch,President of the United States,,REP,DONALD J. TRUMP,213,4,172,37,0
+Laurens,Burgamy,President of the United States,,REP,DONALD J. TRUMP,326,24,192,110,0
+Laurens,Cadwell,President of the United States,,REP,DONALD J. TRUMP,407,7,311,89,0
+Laurens,Brewton,President of the United States,,REP,DONALD J. TRUMP,784,21,485,278,0
+Laurens,Dudley,President of the United States,,REP,DONALD J. TRUMP,628,33,401,194,0
+Laurens,Hampton Mill,President of the United States,,REP,DONALD J. TRUMP,975,22,693,260,0
+Laurens,Harvard,President of the United States,,REP,DONALD J. TRUMP,123,3,102,18,0
+Laurens,Minter,President of the United States,,REP,DONALD J. TRUMP,516,21,348,147,0
+Laurens,Rural Fire Sta #17,President of the United States,,REP,DONALD J. TRUMP,930,44,496,390,0
+Laurens,Reedy Springs,President of the United States,,REP,DONALD J. TRUMP,475,10,361,104,0
+Laurens,Smith,President of the United States,,REP,DONALD J. TRUMP,933,55,486,391,1
+Laurens,LCFS 10 (Valambrosia),President of the United States,,REP,DONALD J. TRUMP,769,29,416,324,0
+Laurens,,President of the United States,,DEM,HILLARY CLINTON,6752,469,3273,3009,1
+Laurens,Family Life Center,President of the United States,,DEM,HILLARY CLINTON,850,54,291,505,0
+Laurens,Calhoun Park,President of the United States,,DEM,HILLARY CLINTON,2214,157,1072,985,0
+Laurens,Fire Dept Sta #5,President of the United States,,DEM,HILLARY CLINTON,551,27,185,339,0
+Laurens,Bailey,President of the United States,,DEM,HILLARY CLINTON,143,15,62,66,0
+Laurens,Buckeye,President of the United States,,DEM,HILLARY CLINTON,290,22,148,120,0
+Laurens,Burch,President of the United States,,DEM,HILLARY CLINTON,54,9,32,13,0
+Laurens,Burgamy,President of the United States,,DEM,HILLARY CLINTON,294,35,154,105,0
+Laurens,Cadwell,President of the United States,,DEM,HILLARY CLINTON,68,5,50,13,0
+Laurens,Brewton,President of the United States,,DEM,HILLARY CLINTON,205,10,120,75,0
+Laurens,Dudley,President of the United States,,DEM,HILLARY CLINTON,152,17,84,51,0
+Laurens,Hampton Mill,President of the United States,,DEM,HILLARY CLINTON,150,12,94,44,0
+Laurens,Harvard,President of the United States,,DEM,HILLARY CLINTON,120,5,95,20,0
+Laurens,Minter,President of the United States,,DEM,HILLARY CLINTON,34,1,24,9,0
+Laurens,Rural Fire Sta #17,President of the United States,,DEM,HILLARY CLINTON,316,17,161,138,0
+Laurens,Reedy Springs,President of the United States,,DEM,HILLARY CLINTON,87,10,52,25,0
+Laurens,Smith,President of the United States,,DEM,HILLARY CLINTON,782,45,445,292,0
+Laurens,LCFS 10 (Valambrosia),President of the United States,,DEM,HILLARY CLINTON,442,28,204,209,1
+Laurens,,President of the United States,,IND,GARY JOHNSON,313,26,171,116,0
+Laurens,Family Life Center,President of the United States,,IND,GARY JOHNSON,60,6,28,26,0
+Laurens,Calhoun Park,President of the United States,,IND,GARY JOHNSON,42,4,22,16,0
+Laurens,Fire Dept Sta #5,President of the United States,,IND,GARY JOHNSON,50,6,23,21,0
+Laurens,Bailey,President of the United States,,IND,GARY JOHNSON,10,0,5,5,0
+Laurens,Buckeye,President of the United States,,IND,GARY JOHNSON,5,0,3,2,0
+Laurens,Burch,President of the United States,,IND,GARY JOHNSON,8,0,8,0,0
+Laurens,Burgamy,President of the United States,,IND,GARY JOHNSON,10,0,6,4,0
+Laurens,Cadwell,President of the United States,,IND,GARY JOHNSON,4,0,3,1,0
+Laurens,Brewton,President of the United States,,IND,GARY JOHNSON,14,0,11,3,0
+Laurens,Dudley,President of the United States,,IND,GARY JOHNSON,16,2,6,8,0
+Laurens,Hampton Mill,President of the United States,,IND,GARY JOHNSON,8,2,4,2,0
+Laurens,Harvard,President of the United States,,IND,GARY JOHNSON,1,0,1,0,0
+Laurens,Minter,President of the United States,,IND,GARY JOHNSON,13,1,10,2,0
+Laurens,Rural Fire Sta #17,President of the United States,,IND,GARY JOHNSON,17,0,10,7,0
+Laurens,Reedy Springs,President of the United States,,IND,GARY JOHNSON,9,0,7,2,0
+Laurens,Smith,President of the United States,,IND,GARY JOHNSON,32,3,17,12,0
+Laurens,LCFS 10 (Valambrosia),President of the United States,,IND,GARY JOHNSON,14,2,7,5,0
 Laurens,,United States Senator,,,JOHNNY ISAKSON ,12449,690,6417,5340,2
 Laurens,Family Life Center,United States Senator,,,JOHNNY ISAKSON ,1825,153,519,1153,0
 Laurens,Calhoun Park,United States Senator,,,JOHNNY ISAKSON ,914,87,328,499,0

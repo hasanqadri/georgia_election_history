@@ -1,10 +1,10 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Rabun,,President of the United States,,,DONALD J. TRUMP,6287,657,1097,4533,0
-Rabun,Rabun,President of the United States,,,DONALD J. TRUMP,6287,657,1097,4533,0
-Rabun,,President of the United States,,,HILLARY CLINTON,1444,216,221,1007,0
-Rabun,Rabun,President of the United States,,,HILLARY CLINTON,1444,216,221,1007,0
-Rabun,,President of the United States,,,GARY JOHNSON,219,23,64,132,0
-Rabun,Rabun,President of the United States,,,GARY JOHNSON,219,23,64,132,0
+Rabun,,President of the United States,,REP,DONALD J. TRUMP,6287,657,1097,4533,0
+Rabun,Rabun,President of the United States,,REP,DONALD J. TRUMP,6287,657,1097,4533,0
+Rabun,,President of the United States,,DEM,HILLARY CLINTON,1444,216,221,1007,0
+Rabun,Rabun,President of the United States,,DEM,HILLARY CLINTON,1444,216,221,1007,0
+Rabun,,President of the United States,,IND,GARY JOHNSON,219,23,64,132,0
+Rabun,Rabun,President of the United States,,IND,GARY JOHNSON,219,23,64,132,0
 Rabun,,United States Senator,,,JOHNNY ISAKSON ,5977,678,1035,4264,0
 Rabun,Rabun,United States Senator,,,JOHNNY ISAKSON ,5977,678,1035,4264,0
 Rabun,,United States Senator,,,JIM BARKSDALE,1256,194,199,863,0

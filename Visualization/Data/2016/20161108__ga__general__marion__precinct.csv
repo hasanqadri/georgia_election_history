@@ -1,22 +1,22 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Marion,,President of the United States,,,DONALD J. TRUMP,1921,75,1089,757,0
-Marion,Pineknot,President of the United States,,,DONALD J. TRUMP,499,12,363,124,0
-Marion,Buena Vista,President of the United States,,,DONALD J. TRUMP,602,29,178,395,0
-Marion,Tazewell,President of the United States,,,DONALD J. TRUMP,189,6,148,35,0
-Marion,Brantley,President of the United States,,,DONALD J. TRUMP,268,12,158,98,0
-Marion,Ft. Perry,President of the United States,,,DONALD J. TRUMP,363,16,242,105,0
-Marion,,President of the United States,,,HILLARY CLINTON,1213,188,496,529,0
-Marion,Pineknot,President of the United States,,,HILLARY CLINTON,69,2,40,27,0
-Marion,Buena Vista,President of the United States,,,HILLARY CLINTON,962,165,339,458,0
-Marion,Tazewell,President of the United States,,,HILLARY CLINTON,49,4,36,9,0
-Marion,Brantley,President of the United States,,,HILLARY CLINTON,33,9,14,10,0
-Marion,Ft. Perry,President of the United States,,,HILLARY CLINTON,100,8,67,25,0
-Marion,,President of the United States,,,GARY JOHNSON,49,3,22,24,0
-Marion,Pineknot,President of the United States,,,GARY JOHNSON,9,1,5,3,0
-Marion,Buena Vista,President of the United States,,,GARY JOHNSON,20,1,6,13,0
-Marion,Tazewell,President of the United States,,,GARY JOHNSON,6,0,2,4,0
-Marion,Brantley,President of the United States,,,GARY JOHNSON,4,0,2,2,0
-Marion,Ft. Perry,President of the United States,,,GARY JOHNSON,10,1,7,2,0
+Marion,,President of the United States,,REP,DONALD J. TRUMP,1921,75,1089,757,0
+Marion,Pineknot,President of the United States,,REP,DONALD J. TRUMP,499,12,363,124,0
+Marion,Buena Vista,President of the United States,,REP,DONALD J. TRUMP,602,29,178,395,0
+Marion,Tazewell,President of the United States,,REP,DONALD J. TRUMP,189,6,148,35,0
+Marion,Brantley,President of the United States,,REP,DONALD J. TRUMP,268,12,158,98,0
+Marion,Ft. Perry,President of the United States,,REP,DONALD J. TRUMP,363,16,242,105,0
+Marion,,President of the United States,,DEM,HILLARY CLINTON,1213,188,496,529,0
+Marion,Pineknot,President of the United States,,DEM,HILLARY CLINTON,69,2,40,27,0
+Marion,Buena Vista,President of the United States,,DEM,HILLARY CLINTON,962,165,339,458,0
+Marion,Tazewell,President of the United States,,DEM,HILLARY CLINTON,49,4,36,9,0
+Marion,Brantley,President of the United States,,DEM,HILLARY CLINTON,33,9,14,10,0
+Marion,Ft. Perry,President of the United States,,DEM,HILLARY CLINTON,100,8,67,25,0
+Marion,,President of the United States,,IND,GARY JOHNSON,49,3,22,24,0
+Marion,Pineknot,President of the United States,,IND,GARY JOHNSON,9,1,5,3,0
+Marion,Buena Vista,President of the United States,,IND,GARY JOHNSON,20,1,6,13,0
+Marion,Tazewell,President of the United States,,IND,GARY JOHNSON,6,0,2,4,0
+Marion,Brantley,President of the United States,,IND,GARY JOHNSON,4,0,2,2,0
+Marion,Ft. Perry,President of the United States,,IND,GARY JOHNSON,10,1,7,2,0
 Marion,,United States Senator,,,JOHNNY ISAKSON ,1845,74,1028,743,0
 Marion,Pineknot,United States Senator,,,JOHNNY ISAKSON ,458,13,325,120,0
 Marion,Buena Vista,United States Senator,,,JOHNNY ISAKSON ,621,28,186,407,0

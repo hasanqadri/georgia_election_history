@@ -1,10 +1,10 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Bleckley,,President of the United States,,,DONALD J. TRUMP,3719,136,1505,2076,2
-Bleckley,FAIRGROUND,President of the United States,,,DONALD J. TRUMP,3719,136,1505,2076,2
-Bleckley,,President of the United States,,,HILLARY CLINTON,1101,113,479,502,7
-Bleckley,FAIRGROUND,President of the United States,,,HILLARY CLINTON,1101,113,479,502,7
-Bleckley,,President of the United States,,,GARY JOHNSON,123,1,56,66,0
-Bleckley,FAIRGROUND,President of the United States,,,GARY JOHNSON,123,1,56,66,0
+Bleckley,,President of the United States,,REP,DONALD J. TRUMP,3719,136,1505,2076,2
+Bleckley,FAIRGROUND,President of the United States,,REP,DONALD J. TRUMP,3719,136,1505,2076,2
+Bleckley,,President of the United States,,DEM,HILLARY CLINTON,1101,113,479,502,7
+Bleckley,FAIRGROUND,President of the United States,,DEM,HILLARY CLINTON,1101,113,479,502,7
+Bleckley,,President of the United States,,IND,GARY JOHNSON,123,1,56,66,0
+Bleckley,FAIRGROUND,President of the United States,,IND,GARY JOHNSON,123,1,56,66,0
 Bleckley,,United States Senator,,,JOHNNY ISAKSON ,3698,133,1518,2045,2
 Bleckley,FAIRGROUND,United States Senator,,,JOHNNY ISAKSON ,3698,133,1518,2045,2
 Bleckley,,United States Senator,,,JIM BARKSDALE,923,104,403,410,6

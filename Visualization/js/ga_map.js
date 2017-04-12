@@ -69,7 +69,6 @@ function displayStatistics(countyName) {
 			candidate = presCandidateVotes[i].candidate;
 			candidateVotes = presCandidateVotes[i].votes;
 			voteSummaryString += candidate + ': ' + candidateVotes + '<br>';
-
 		}
 		document.getElementById('voteInfoName').innerHTML = voteSummaryString;
 	});

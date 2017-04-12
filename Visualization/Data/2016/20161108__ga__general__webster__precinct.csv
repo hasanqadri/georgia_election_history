@@ -1,10 +1,10 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Webster,,President of the United States,,,DONALD J. TRUMP,630,66,241,323,0
-Webster,Preston 1,President of the United States,,,DONALD J. TRUMP,630,66,241,323,0
-Webster,,President of the United States,,,HILLARY CLINTON,473,61,241,169,2
-Webster,Preston 1,President of the United States,,,HILLARY CLINTON,473,61,241,169,2
-Webster,,President of the United States,,,GARY JOHNSON,13,0,6,7,0
-Webster,Preston 1,President of the United States,,,GARY JOHNSON,13,0,6,7,0
+Webster,,President of the United States,,REP,DONALD J. TRUMP,630,66,241,323,0
+Webster,Preston 1,President of the United States,,REP,DONALD J. TRUMP,630,66,241,323,0
+Webster,,President of the United States,,DEM,HILLARY CLINTON,473,61,241,169,2
+Webster,Preston 1,President of the United States,,DEM,HILLARY CLINTON,473,61,241,169,2
+Webster,,President of the United States,,IND,GARY JOHNSON,13,0,6,7,0
+Webster,Preston 1,President of the United States,,IND,GARY JOHNSON,13,0,6,7,0
 Webster,,United States Senator,,,JOHNNY ISAKSON ,649,67,251,331,0
 Webster,Preston 1,United States Senator,,,JOHNNY ISAKSON ,649,67,251,331,0
 Webster,,United States Senator,,,JIM BARKSDALE,387,59,187,140,1

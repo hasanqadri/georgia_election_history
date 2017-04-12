@@ -1,22 +1,22 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Baker,,President of the United States,,,DONALD J. TRUMP,775,76,396,302,1
-Baker,Anna,President of the United States,,,DONALD J. TRUMP,73,2,59,12,0
-Baker,Elmodel,President of the United States,,,DONALD J. TRUMP,124,7,67,50,0
-Baker,Hoggard Mill,President of the United States,,,DONALD J. TRUMP,92,5,57,30,0
-Baker,Milford,President of the United States,,,DONALD J. TRUMP,133,16,90,27,0
-Baker,Newton,President of the United States,,,DONALD J. TRUMP,353,46,123,183,1
-Baker,,President of the United States,,,HILLARY CLINTON,650,69,319,261,1
-Baker,Anna,President of the United States,,,HILLARY CLINTON,32,2,24,6,0
-Baker,Elmodel,President of the United States,,,HILLARY CLINTON,133,15,50,68,0
-Baker,Hoggard Mill,President of the United States,,,HILLARY CLINTON,105,15,63,26,1
-Baker,Milford,President of the United States,,,HILLARY CLINTON,74,4,55,15,0
-Baker,Newton,President of the United States,,,HILLARY CLINTON,306,33,127,146,0
-Baker,,President of the United States,,,GARY JOHNSON,15,1,11,3,0
-Baker,Anna,President of the United States,,,GARY JOHNSON,0,0,0,0,0
-Baker,Elmodel,President of the United States,,,GARY JOHNSON,4,1,1,2,0
-Baker,Hoggard Mill,President of the United States,,,GARY JOHNSON,3,0,3,0,0
-Baker,Milford,President of the United States,,,GARY JOHNSON,2,0,2,0,0
-Baker,Newton,President of the United States,,,GARY JOHNSON,6,0,5,1,0
+Baker,,President of the United States,,REP,DONALD J. TRUMP,775,76,396,302,1
+Baker,Anna,President of the United States,,REP,DONALD J. TRUMP,73,2,59,12,0
+Baker,Elmodel,President of the United States,,REP,DONALD J. TRUMP,124,7,67,50,0
+Baker,Hoggard Mill,President of the United States,,REP,DONALD J. TRUMP,92,5,57,30,0
+Baker,Milford,President of the United States,,REP,DONALD J. TRUMP,133,16,90,27,0
+Baker,Newton,President of the United States,,REP,DONALD J. TRUMP,353,46,123,183,1
+Baker,,President of the United States,,DEM,HILLARY CLINTON,650,69,319,261,1
+Baker,Anna,President of the United States,,DEM,HILLARY CLINTON,32,2,24,6,0
+Baker,Elmodel,President of the United States,,DEM,HILLARY CLINTON,133,15,50,68,0
+Baker,Hoggard Mill,President of the United States,,DEM,HILLARY CLINTON,105,15,63,26,1
+Baker,Milford,President of the United States,,DEM,HILLARY CLINTON,74,4,55,15,0
+Baker,Newton,President of the United States,,DEM,HILLARY CLINTON,306,33,127,146,0
+Baker,,President of the United States,,IND,GARY JOHNSON,15,1,11,3,0
+Baker,Anna,President of the United States,,IND,GARY JOHNSON,0,0,0,0,0
+Baker,Elmodel,President of the United States,,IND,GARY JOHNSON,4,1,1,2,0
+Baker,Hoggard Mill,President of the United States,,IND,GARY JOHNSON,3,0,3,0,0
+Baker,Milford,President of the United States,,IND,GARY JOHNSON,2,0,2,0,0
+Baker,Newton,President of the United States,,IND,GARY JOHNSON,6,0,5,1,0
 Baker,,United States Senator,,,JOHNNY ISAKSON ,763,75,388,299,1
 Baker,Anna,United States Senator,,,JOHNNY ISAKSON ,71,3,58,10,0
 Baker,Elmodel,United States Senator,,,JOHNNY ISAKSON ,119,7,62,50,0

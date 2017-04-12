@@ -1,22 +1,22 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Dooly,,President of the United States,,,DONALD J. TRUMP,1951,68,815,1059,9
-Dooly,LILLY,President of the United States,,,DONALD J. TRUMP,161,1,83,75,2
-Dooly,BYROMVILLE,President of the United States,,,DONALD J. TRUMP,212,5,136,71,0
-Dooly,UNADILLA,President of the United States,,,DONALD J. TRUMP,501,22,265,207,7
-Dooly,VIENNA,President of the United States,,,DONALD J. TRUMP,829,35,182,612,0
-Dooly,PINEHURST,President of the United States,,,DONALD J. TRUMP,248,5,149,94,0
-Dooly,,President of the United States,,,HILLARY CLINTON,1872,109,1026,728,9
-Dooly,LILLY,President of the United States,,,HILLARY CLINTON,175,9,106,57,3
-Dooly,BYROMVILLE,President of the United States,,,HILLARY CLINTON,233,23,164,45,1
-Dooly,UNADILLA,President of the United States,,,HILLARY CLINTON,521,34,350,135,2
-Dooly,VIENNA,President of the United States,,,HILLARY CLINTON,840,38,342,459,1
-Dooly,PINEHURST,President of the United States,,,HILLARY CLINTON,103,5,64,32,2
-Dooly,,President of the United States,,,GARY JOHNSON,36,4,19,12,1
-Dooly,LILLY,President of the United States,,,GARY JOHNSON,4,0,3,1,0
-Dooly,BYROMVILLE,President of the United States,,,GARY JOHNSON,4,0,2,2,0
-Dooly,UNADILLA,President of the United States,,,GARY JOHNSON,11,2,6,2,1
-Dooly,VIENNA,President of the United States,,,GARY JOHNSON,12,1,5,6,0
-Dooly,PINEHURST,President of the United States,,,GARY JOHNSON,5,1,3,1,0
+Dooly,,President of the United States,,REP,DONALD J. TRUMP,1951,68,815,1059,9
+Dooly,LILLY,President of the United States,,REP,DONALD J. TRUMP,161,1,83,75,2
+Dooly,BYROMVILLE,President of the United States,,REP,DONALD J. TRUMP,212,5,136,71,0
+Dooly,UNADILLA,President of the United States,,REP,DONALD J. TRUMP,501,22,265,207,7
+Dooly,VIENNA,President of the United States,,REP,DONALD J. TRUMP,829,35,182,612,0
+Dooly,PINEHURST,President of the United States,,REP,DONALD J. TRUMP,248,5,149,94,0
+Dooly,,President of the United States,,DEM,HILLARY CLINTON,1872,109,1026,728,9
+Dooly,LILLY,President of the United States,,DEM,HILLARY CLINTON,175,9,106,57,3
+Dooly,BYROMVILLE,President of the United States,,DEM,HILLARY CLINTON,233,23,164,45,1
+Dooly,UNADILLA,President of the United States,,DEM,HILLARY CLINTON,521,34,350,135,2
+Dooly,VIENNA,President of the United States,,DEM,HILLARY CLINTON,840,38,342,459,1
+Dooly,PINEHURST,President of the United States,,DEM,HILLARY CLINTON,103,5,64,32,2
+Dooly,,President of the United States,,IND,GARY JOHNSON,36,4,19,12,1
+Dooly,LILLY,President of the United States,,IND,GARY JOHNSON,4,0,3,1,0
+Dooly,BYROMVILLE,President of the United States,,IND,GARY JOHNSON,4,0,2,2,0
+Dooly,UNADILLA,President of the United States,,IND,GARY JOHNSON,11,2,6,2,1
+Dooly,VIENNA,President of the United States,,IND,GARY JOHNSON,12,1,5,6,0
+Dooly,PINEHURST,President of the United States,,IND,GARY JOHNSON,5,1,3,1,0
 Dooly,,United States Senator,,,JOHNNY ISAKSON ,2022,81,851,1082,8
 Dooly,LILLY,United States Senator,,,JOHNNY ISAKSON ,163,1,82,78,2
 Dooly,BYROMVILLE,United States Senator,,,JOHNNY ISAKSON ,213,4,137,72,0

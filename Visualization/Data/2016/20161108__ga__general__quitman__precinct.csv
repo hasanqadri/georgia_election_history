@@ -1,13 +1,13 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Quitman,,President of the United States,,,DONALD J. TRUMP,575,36,235,304,0
-Quitman,Georgetown,President of the United States,,,DONALD J. TRUMP,525,28,206,291,0
-Quitman,Morris,President of the United States,,,DONALD J. TRUMP,50,8,29,13,0
-Quitman,,President of the United States,,,HILLARY CLINTON,461,18,246,197,0
-Quitman,Georgetown,President of the United States,,,HILLARY CLINTON,426,18,219,189,0
-Quitman,Morris,President of the United States,,,HILLARY CLINTON,35,0,27,8,0
-Quitman,,President of the United States,,,GARY JOHNSON,8,0,3,5,0
-Quitman,Georgetown,President of the United States,,,GARY JOHNSON,7,0,2,5,0
-Quitman,Morris,President of the United States,,,GARY JOHNSON,1,0,1,0,0
+Quitman,,President of the United States,,REP,DONALD J. TRUMP,575,36,235,304,0
+Quitman,Georgetown,President of the United States,,REP,DONALD J. TRUMP,525,28,206,291,0
+Quitman,Morris,President of the United States,,REP,DONALD J. TRUMP,50,8,29,13,0
+Quitman,,President of the United States,,DEM,HILLARY CLINTON,461,18,246,197,0
+Quitman,Georgetown,President of the United States,,DEM,HILLARY CLINTON,426,18,219,189,0
+Quitman,Morris,President of the United States,,DEM,HILLARY CLINTON,35,0,27,8,0
+Quitman,,President of the United States,,IND,GARY JOHNSON,8,0,3,5,0
+Quitman,Georgetown,President of the United States,,IND,GARY JOHNSON,7,0,2,5,0
+Quitman,Morris,President of the United States,,IND,GARY JOHNSON,1,0,1,0,0
 Quitman,,United States Senator,,,JOHNNY ISAKSON ,501,33,209,259,0
 Quitman,Georgetown,United States Senator,,,JOHNNY ISAKSON ,457,26,185,246,0
 Quitman,Morris,United States Senator,,,JOHNNY ISAKSON ,44,7,24,13,0

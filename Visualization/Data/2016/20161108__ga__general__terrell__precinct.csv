@@ -1,25 +1,25 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Terrell,,President of the United States,,,DONALD J. TRUMP,1874,96,870,906,2
-Terrell,Dawson,President of the United States,,,DONALD J. TRUMP,427,44,125,258,0
-Terrell,Sasser,President of the United States,,,DONALD J. TRUMP,610,18,285,305,2
-Terrell,Bronwood,President of the United States,,,DONALD J. TRUMP,290,14,151,125,0
-Terrell,Parrott,President of the United States,,,DONALD J. TRUMP,183,11,107,65,0
-Terrell,Graves,President of the United States,,,DONALD J. TRUMP,258,6,139,113,0
-Terrell,Herod-Dover,President of the United States,,,DONALD J. TRUMP,106,3,63,40,0
-Terrell,,President of the United States,,,HILLARY CLINTON,2267,164,1093,1010,0
-Terrell,Dawson,President of the United States,,,HILLARY CLINTON,1395,105,624,666,0
-Terrell,Sasser,President of the United States,,,HILLARY CLINTON,286,13,144,129,0
-Terrell,Bronwood,President of the United States,,,HILLARY CLINTON,258,24,142,92,0
-Terrell,Parrott,President of the United States,,,HILLARY CLINTON,116,6,72,38,0
-Terrell,Graves,President of the United States,,,HILLARY CLINTON,129,10,56,63,0
-Terrell,Herod-Dover,President of the United States,,,HILLARY CLINTON,83,6,55,22,0
-Terrell,,President of the United States,,,GARY JOHNSON,40,2,28,10,0
-Terrell,Dawson,President of the United States,,,GARY JOHNSON,14,1,9,4,0
-Terrell,Sasser,President of the United States,,,GARY JOHNSON,11,1,7,3,0
-Terrell,Bronwood,President of the United States,,,GARY JOHNSON,7,0,6,1,0
-Terrell,Parrott,President of the United States,,,GARY JOHNSON,3,0,2,1,0
-Terrell,Graves,President of the United States,,,GARY JOHNSON,2,0,2,0,0
-Terrell,Herod-Dover,President of the United States,,,GARY JOHNSON,3,0,2,1,0
+Terrell,,President of the United States,,REP,DONALD J. TRUMP,1874,96,870,906,2
+Terrell,Dawson,President of the United States,,REP,DONALD J. TRUMP,427,44,125,258,0
+Terrell,Sasser,President of the United States,,REP,DONALD J. TRUMP,610,18,285,305,2
+Terrell,Bronwood,President of the United States,,REP,DONALD J. TRUMP,290,14,151,125,0
+Terrell,Parrott,President of the United States,,REP,DONALD J. TRUMP,183,11,107,65,0
+Terrell,Graves,President of the United States,,REP,DONALD J. TRUMP,258,6,139,113,0
+Terrell,Herod-Dover,President of the United States,,REP,DONALD J. TRUMP,106,3,63,40,0
+Terrell,,President of the United States,,DEM,HILLARY CLINTON,2267,164,1093,1010,0
+Terrell,Dawson,President of the United States,,DEM,HILLARY CLINTON,1395,105,624,666,0
+Terrell,Sasser,President of the United States,,DEM,HILLARY CLINTON,286,13,144,129,0
+Terrell,Bronwood,President of the United States,,DEM,HILLARY CLINTON,258,24,142,92,0
+Terrell,Parrott,President of the United States,,DEM,HILLARY CLINTON,116,6,72,38,0
+Terrell,Graves,President of the United States,,DEM,HILLARY CLINTON,129,10,56,63,0
+Terrell,Herod-Dover,President of the United States,,DEM,HILLARY CLINTON,83,6,55,22,0
+Terrell,,President of the United States,,IND,GARY JOHNSON,40,2,28,10,0
+Terrell,Dawson,President of the United States,,IND,GARY JOHNSON,14,1,9,4,0
+Terrell,Sasser,President of the United States,,IND,GARY JOHNSON,11,1,7,3,0
+Terrell,Bronwood,President of the United States,,IND,GARY JOHNSON,7,0,6,1,0
+Terrell,Parrott,President of the United States,,IND,GARY JOHNSON,3,0,2,1,0
+Terrell,Graves,President of the United States,,IND,GARY JOHNSON,2,0,2,0,0
+Terrell,Herod-Dover,President of the United States,,IND,GARY JOHNSON,3,0,2,1,0
 Terrell,,United States Senator,,,JOHNNY ISAKSON ,1997,107,918,970,2
 Terrell,Dawson,United States Senator,,,JOHNNY ISAKSON ,530,50,165,315,0
 Terrell,Sasser,United States Senator,,,JOHNNY ISAKSON ,613,20,284,307,2

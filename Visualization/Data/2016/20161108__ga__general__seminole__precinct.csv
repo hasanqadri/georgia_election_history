@@ -1,22 +1,22 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Seminole,,President of the United States,,,DONALD J. TRUMP,2345,114,1267,962,2
-Seminole,Precinct 1,President of the United States,,,DONALD J. TRUMP,573,25,283,265,0
-Seminole,Precinct 2,President of the United States,,,DONALD J. TRUMP,490,32,211,246,1
-Seminole,Precinct 3,President of the United States,,,DONALD J. TRUMP,92,6,44,42,0
-Seminole,Precinct 4,President of the United States,,,DONALD J. TRUMP,565,21,345,199,0
-Seminole,Precinct 5,President of the United States,,,DONALD J. TRUMP,625,30,384,210,1
-Seminole,,President of the United States,,,HILLARY CLINTON,1189,54,682,450,3
-Seminole,Precinct 1,President of the United States,,,HILLARY CLINTON,229,17,107,105,0
-Seminole,Precinct 2,President of the United States,,,HILLARY CLINTON,232,7,119,105,1
-Seminole,Precinct 3,President of the United States,,,HILLARY CLINTON,501,13,324,163,1
-Seminole,Precinct 4,President of the United States,,,HILLARY CLINTON,144,5,99,39,1
-Seminole,Precinct 5,President of the United States,,,HILLARY CLINTON,83,12,33,38,0
-Seminole,,President of the United States,,,GARY JOHNSON,48,3,35,10,0
-Seminole,Precinct 1,President of the United States,,,GARY JOHNSON,11,0,8,3,0
-Seminole,Precinct 2,President of the United States,,,GARY JOHNSON,10,1,5,4,0
-Seminole,Precinct 3,President of the United States,,,GARY JOHNSON,5,0,5,0,0
-Seminole,Precinct 4,President of the United States,,,GARY JOHNSON,10,0,7,3,0
-Seminole,Precinct 5,President of the United States,,,GARY JOHNSON,12,2,10,0,0
+Seminole,,President of the United States,,REP,DONALD J. TRUMP,2345,114,1267,962,2
+Seminole,Precinct 1,President of the United States,,REP,DONALD J. TRUMP,573,25,283,265,0
+Seminole,Precinct 2,President of the United States,,REP,DONALD J. TRUMP,490,32,211,246,1
+Seminole,Precinct 3,President of the United States,,REP,DONALD J. TRUMP,92,6,44,42,0
+Seminole,Precinct 4,President of the United States,,REP,DONALD J. TRUMP,565,21,345,199,0
+Seminole,Precinct 5,President of the United States,,REP,DONALD J. TRUMP,625,30,384,210,1
+Seminole,,President of the United States,,DEM,HILLARY CLINTON,1189,54,682,450,3
+Seminole,Precinct 1,President of the United States,,DEM,HILLARY CLINTON,229,17,107,105,0
+Seminole,Precinct 2,President of the United States,,DEM,HILLARY CLINTON,232,7,119,105,1
+Seminole,Precinct 3,President of the United States,,DEM,HILLARY CLINTON,501,13,324,163,1
+Seminole,Precinct 4,President of the United States,,DEM,HILLARY CLINTON,144,5,99,39,1
+Seminole,Precinct 5,President of the United States,,DEM,HILLARY CLINTON,83,12,33,38,0
+Seminole,,President of the United States,,IND,GARY JOHNSON,48,3,35,10,0
+Seminole,Precinct 1,President of the United States,,IND,GARY JOHNSON,11,0,8,3,0
+Seminole,Precinct 2,President of the United States,,IND,GARY JOHNSON,10,1,5,4,0
+Seminole,Precinct 3,President of the United States,,IND,GARY JOHNSON,5,0,5,0,0
+Seminole,Precinct 4,President of the United States,,IND,GARY JOHNSON,10,0,7,3,0
+Seminole,Precinct 5,President of the United States,,IND,GARY JOHNSON,12,2,10,0,0
 Seminole,,United States Senator,,,JOHNNY ISAKSON ,2070,115,1112,842,1
 Seminole,Precinct 1,United States Senator,,,JOHNNY ISAKSON ,521,26,252,243,0
 Seminole,Precinct 2,United States Senator,,,JOHNNY ISAKSON ,444,31,193,219,1

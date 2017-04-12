@@ -1,22 +1,22 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Calhoun,,President of the United States,,,DONALD J. TRUMP,830,44,445,340,1
-Calhoun,Leary,President of the United States,,,DONALD J. TRUMP,212,13,120,79,0
-Calhoun,Morgan,President of the United States,,,DONALD J. TRUMP,304,24,128,151,1
-Calhoun,Edison,President of the United States,,,DONALD J. TRUMP,48,1,33,14,0
-Calhoun,Edison-Arlington,President of the United States,,,DONALD J. TRUMP,159,3,103,53,0
-Calhoun,Arlington,President of the United States,,,DONALD J. TRUMP,107,3,61,43,0
-Calhoun,,President of the United States,,,HILLARY CLINTON,1179,106,751,321,1
-Calhoun,Leary,President of the United States,,,HILLARY CLINTON,274,18,202,54,0
-Calhoun,Morgan,President of the United States,,,HILLARY CLINTON,130,16,61,53,0
-Calhoun,Edison,President of the United States,,,HILLARY CLINTON,240,13,167,60,0
-Calhoun,Edison-Arlington,President of the United States,,,HILLARY CLINTON,228,9,121,98,0
-Calhoun,Arlington,President of the United States,,,HILLARY CLINTON,307,50,200,56,1
-Calhoun,,President of the United States,,,GARY JOHNSON,16,0,13,3,0
-Calhoun,Leary,President of the United States,,,GARY JOHNSON,5,0,4,1,0
-Calhoun,Morgan,President of the United States,,,GARY JOHNSON,4,0,2,2,0
-Calhoun,Edison,President of the United States,,,GARY JOHNSON,2,0,2,0,0
-Calhoun,Edison-Arlington,President of the United States,,,GARY JOHNSON,2,0,2,0,0
-Calhoun,Arlington,President of the United States,,,GARY JOHNSON,3,0,3,0,0
+Calhoun,,President of the United States,,REP,DONALD J. TRUMP,830,44,445,340,1
+Calhoun,Leary,President of the United States,,REP,DONALD J. TRUMP,212,13,120,79,0
+Calhoun,Morgan,President of the United States,,REP,DONALD J. TRUMP,304,24,128,151,1
+Calhoun,Edison,President of the United States,,REP,DONALD J. TRUMP,48,1,33,14,0
+Calhoun,Edison-Arlington,President of the United States,,REP,DONALD J. TRUMP,159,3,103,53,0
+Calhoun,Arlington,President of the United States,,REP,DONALD J. TRUMP,107,3,61,43,0
+Calhoun,,President of the United States,,DEM,HILLARY CLINTON,1179,106,751,321,1
+Calhoun,Leary,President of the United States,,DEM,HILLARY CLINTON,274,18,202,54,0
+Calhoun,Morgan,President of the United States,,DEM,HILLARY CLINTON,130,16,61,53,0
+Calhoun,Edison,President of the United States,,DEM,HILLARY CLINTON,240,13,167,60,0
+Calhoun,Edison-Arlington,President of the United States,,DEM,HILLARY CLINTON,228,9,121,98,0
+Calhoun,Arlington,President of the United States,,DEM,HILLARY CLINTON,307,50,200,56,1
+Calhoun,,President of the United States,,IND,GARY JOHNSON,16,0,13,3,0
+Calhoun,Leary,President of the United States,,IND,GARY JOHNSON,5,0,4,1,0
+Calhoun,Morgan,President of the United States,,IND,GARY JOHNSON,4,0,2,2,0
+Calhoun,Edison,President of the United States,,IND,GARY JOHNSON,2,0,2,0,0
+Calhoun,Edison-Arlington,President of the United States,,IND,GARY JOHNSON,2,0,2,0,0
+Calhoun,Arlington,President of the United States,,IND,GARY JOHNSON,3,0,3,0,0
 Calhoun,,United States Senator,,,JOHNNY ISAKSON ,862,48,469,345,0
 Calhoun,Leary,United States Senator,,,JOHNNY ISAKSON ,210,15,121,74,0
 Calhoun,Morgan,United States Senator,,,JOHNNY ISAKSON ,305,24,130,151,0

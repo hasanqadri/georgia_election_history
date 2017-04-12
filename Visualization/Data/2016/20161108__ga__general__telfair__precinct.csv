@@ -1,25 +1,25 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Telfair,,President of the United States,,,DONALD J. TRUMP,2450,109,1303,1037,1
-Telfair,Helena,President of the United States,,,DONALD J. TRUMP,401,13,201,187,0
-Telfair,Jacksonville,President of the United States,,,DONALD J. TRUMP,307,11,188,108,0
-Telfair,Lumber-City,President of the United States,,,DONALD J. TRUMP,348,10,234,104,0
-Telfair,McRae,President of the United States,,,DONALD J. TRUMP,762,47,260,454,1
-Telfair,Milan,President of the United States,,,DONALD J. TRUMP,474,27,305,142,0
-Telfair,Scotland,President of the United States,,,DONALD J. TRUMP,158,1,115,42,0
-Telfair,,President of the United States,,,HILLARY CLINTON,1313,225,657,431,0
-Telfair,Helena,President of the United States,,,HILLARY CLINTON,195,9,118,68,0
-Telfair,Jacksonville,President of the United States,,,HILLARY CLINTON,116,24,64,28,0
-Telfair,Lumber-City,President of the United States,,,HILLARY CLINTON,283,114,130,39,0
-Telfair,McRae,President of the United States,,,HILLARY CLINTON,612,72,270,270,0
-Telfair,Milan,President of the United States,,,HILLARY CLINTON,62,4,44,14,0
-Telfair,Scotland,President of the United States,,,HILLARY CLINTON,45,2,31,12,0
-Telfair,,President of the United States,,,GARY JOHNSON,32,3,20,9,0
-Telfair,Helena,President of the United States,,,GARY JOHNSON,7,3,3,1,0
-Telfair,Jacksonville,President of the United States,,,GARY JOHNSON,0,0,0,0,0
-Telfair,Lumber-City,President of the United States,,,GARY JOHNSON,1,0,1,0,0
-Telfair,McRae,President of the United States,,,GARY JOHNSON,14,0,8,6,0
-Telfair,Milan,President of the United States,,,GARY JOHNSON,5,0,4,1,0
-Telfair,Scotland,President of the United States,,,GARY JOHNSON,5,0,4,1,0
+Telfair,,President of the United States,,REP,DONALD J. TRUMP,2450,109,1303,1037,1
+Telfair,Helena,President of the United States,,REP,DONALD J. TRUMP,401,13,201,187,0
+Telfair,Jacksonville,President of the United States,,REP,DONALD J. TRUMP,307,11,188,108,0
+Telfair,Lumber-City,President of the United States,,REP,DONALD J. TRUMP,348,10,234,104,0
+Telfair,McRae,President of the United States,,REP,DONALD J. TRUMP,762,47,260,454,1
+Telfair,Milan,President of the United States,,REP,DONALD J. TRUMP,474,27,305,142,0
+Telfair,Scotland,President of the United States,,REP,DONALD J. TRUMP,158,1,115,42,0
+Telfair,,President of the United States,,DEM,HILLARY CLINTON,1313,225,657,431,0
+Telfair,Helena,President of the United States,,DEM,HILLARY CLINTON,195,9,118,68,0
+Telfair,Jacksonville,President of the United States,,DEM,HILLARY CLINTON,116,24,64,28,0
+Telfair,Lumber-City,President of the United States,,DEM,HILLARY CLINTON,283,114,130,39,0
+Telfair,McRae,President of the United States,,DEM,HILLARY CLINTON,612,72,270,270,0
+Telfair,Milan,President of the United States,,DEM,HILLARY CLINTON,62,4,44,14,0
+Telfair,Scotland,President of the United States,,DEM,HILLARY CLINTON,45,2,31,12,0
+Telfair,,President of the United States,,IND,GARY JOHNSON,32,3,20,9,0
+Telfair,Helena,President of the United States,,IND,GARY JOHNSON,7,3,3,1,0
+Telfair,Jacksonville,President of the United States,,IND,GARY JOHNSON,0,0,0,0,0
+Telfair,Lumber-City,President of the United States,,IND,GARY JOHNSON,1,0,1,0,0
+Telfair,McRae,President of the United States,,IND,GARY JOHNSON,14,0,8,6,0
+Telfair,Milan,President of the United States,,IND,GARY JOHNSON,5,0,4,1,0
+Telfair,Scotland,President of the United States,,IND,GARY JOHNSON,5,0,4,1,0
 Telfair,,United States Senator,,,JOHNNY ISAKSON ,2327,119,1241,966,1
 Telfair,Helena,United States Senator,,,JOHNNY ISAKSON ,367,16,190,161,0
 Telfair,Jacksonville,United States Senator,,,JOHNNY ISAKSON ,285,12,177,96,0

@@ -1,43 +1,43 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Screven,,President of the United States,,,DONALD J. TRUMP,3305,88,1473,1744,0
-Screven,Sylvania,President of the United States,,,DONALD J. TRUMP,413,17,115,281,0
-Screven,Hunters,President of the United States,,,DONALD J. TRUMP,194,2,105,87,0
-Screven,Newington,President of the United States,,,DONALD J. TRUMP,384,5,238,141,0
-Screven,Jenk Hill Fire Sta,President of the United States,,,DONALD J. TRUMP,324,8,122,194,0
-Screven,Rocky Ford,President of the United States,,,DONALD J. TRUMP,233,7,131,95,0
-Screven,Bay Branch,President of the United States,,,DONALD J. TRUMP,470,10,208,252,0
-Screven,Hiltonia,President of the United States,,,DONALD J. TRUMP,295,10,128,157,0
-Screven,Screven Rec Dept,President of the United States,,,DONALD J. TRUMP,111,4,43,64,0
-Screven,Greenhill Church,President of the United States,,,DONALD J. TRUMP,423,10,189,224,0
-Screven,Sr Citizens Center,President of the United States,,,DONALD J. TRUMP,247,8,74,165,0
-Screven,Jackson Fire Station,President of the United States,,,DONALD J. TRUMP,168,6,96,66,0
-Screven,Cooperville Fire Station,President of the United States,,,DONALD J. TRUMP,43,1,24,18,0
-Screven,,President of the United States,,,HILLARY CLINTON,2300,87,1245,968,0
-Screven,Sylvania,President of the United States,,,HILLARY CLINTON,318,25,127,166,0
-Screven,Hunters,President of the United States,,,HILLARY CLINTON,98,5,46,47,0
-Screven,Newington,President of the United States,,,HILLARY CLINTON,233,4,166,63,0
-Screven,Jenk Hill Fire Sta,President of the United States,,,HILLARY CLINTON,366,16,167,183,0
-Screven,Rocky Ford,President of the United States,,,HILLARY CLINTON,95,1,70,24,0
-Screven,Bay Branch,President of the United States,,,HILLARY CLINTON,75,0,33,42,0
-Screven,Hiltonia,President of the United States,,,HILLARY CLINTON,265,7,173,85,0
-Screven,Screven Rec Dept,President of the United States,,,HILLARY CLINTON,134,5,71,58,0
-Screven,Greenhill Church,President of the United States,,,HILLARY CLINTON,121,8,67,46,0
-Screven,Sr Citizens Center,President of the United States,,,HILLARY CLINTON,434,12,222,200,0
-Screven,Jackson Fire Station,President of the United States,,,HILLARY CLINTON,53,2,28,23,0
-Screven,Cooperville Fire Station,President of the United States,,,HILLARY CLINTON,108,2,75,31,0
-Screven,,President of the United States,,,GARY JOHNSON,94,7,41,46,0
-Screven,Sylvania,President of the United States,,,GARY JOHNSON,12,1,4,7,0
-Screven,Hunters,President of the United States,,,GARY JOHNSON,4,1,2,1,0
-Screven,Newington,President of the United States,,,GARY JOHNSON,3,0,3,0,0
-Screven,Jenk Hill Fire Sta,President of the United States,,,GARY JOHNSON,14,0,5,9,0
-Screven,Rocky Ford,President of the United States,,,GARY JOHNSON,9,0,4,5,0
-Screven,Bay Branch,President of the United States,,,GARY JOHNSON,7,1,0,6,0
-Screven,Hiltonia,President of the United States,,,GARY JOHNSON,6,1,3,2,0
-Screven,Screven Rec Dept,President of the United States,,,GARY JOHNSON,2,0,2,0,0
-Screven,Greenhill Church,President of the United States,,,GARY JOHNSON,15,2,7,6,0
-Screven,Sr Citizens Center,President of the United States,,,GARY JOHNSON,13,1,4,8,0
-Screven,Jackson Fire Station,President of the United States,,,GARY JOHNSON,7,0,5,2,0
-Screven,Cooperville Fire Station,President of the United States,,,GARY JOHNSON,2,0,2,0,0
+Screven,,President of the United States,,REP,DONALD J. TRUMP,3305,88,1473,1744,0
+Screven,Sylvania,President of the United States,,REP,DONALD J. TRUMP,413,17,115,281,0
+Screven,Hunters,President of the United States,,REP,DONALD J. TRUMP,194,2,105,87,0
+Screven,Newington,President of the United States,,REP,DONALD J. TRUMP,384,5,238,141,0
+Screven,Jenk Hill Fire Sta,President of the United States,,REP,DONALD J. TRUMP,324,8,122,194,0
+Screven,Rocky Ford,President of the United States,,REP,DONALD J. TRUMP,233,7,131,95,0
+Screven,Bay Branch,President of the United States,,REP,DONALD J. TRUMP,470,10,208,252,0
+Screven,Hiltonia,President of the United States,,REP,DONALD J. TRUMP,295,10,128,157,0
+Screven,Screven Rec Dept,President of the United States,,REP,DONALD J. TRUMP,111,4,43,64,0
+Screven,Greenhill Church,President of the United States,,REP,DONALD J. TRUMP,423,10,189,224,0
+Screven,Sr Citizens Center,President of the United States,,REP,DONALD J. TRUMP,247,8,74,165,0
+Screven,Jackson Fire Station,President of the United States,,REP,DONALD J. TRUMP,168,6,96,66,0
+Screven,Cooperville Fire Station,President of the United States,,REP,DONALD J. TRUMP,43,1,24,18,0
+Screven,,President of the United States,,DEM,HILLARY CLINTON,2300,87,1245,968,0
+Screven,Sylvania,President of the United States,,DEM,HILLARY CLINTON,318,25,127,166,0
+Screven,Hunters,President of the United States,,DEM,HILLARY CLINTON,98,5,46,47,0
+Screven,Newington,President of the United States,,DEM,HILLARY CLINTON,233,4,166,63,0
+Screven,Jenk Hill Fire Sta,President of the United States,,DEM,HILLARY CLINTON,366,16,167,183,0
+Screven,Rocky Ford,President of the United States,,DEM,HILLARY CLINTON,95,1,70,24,0
+Screven,Bay Branch,President of the United States,,DEM,HILLARY CLINTON,75,0,33,42,0
+Screven,Hiltonia,President of the United States,,DEM,HILLARY CLINTON,265,7,173,85,0
+Screven,Screven Rec Dept,President of the United States,,DEM,HILLARY CLINTON,134,5,71,58,0
+Screven,Greenhill Church,President of the United States,,DEM,HILLARY CLINTON,121,8,67,46,0
+Screven,Sr Citizens Center,President of the United States,,DEM,HILLARY CLINTON,434,12,222,200,0
+Screven,Jackson Fire Station,President of the United States,,DEM,HILLARY CLINTON,53,2,28,23,0
+Screven,Cooperville Fire Station,President of the United States,,DEM,HILLARY CLINTON,108,2,75,31,0
+Screven,,President of the United States,,IND,GARY JOHNSON,94,7,41,46,0
+Screven,Sylvania,President of the United States,,IND,GARY JOHNSON,12,1,4,7,0
+Screven,Hunters,President of the United States,,IND,GARY JOHNSON,4,1,2,1,0
+Screven,Newington,President of the United States,,IND,GARY JOHNSON,3,0,3,0,0
+Screven,Jenk Hill Fire Sta,President of the United States,,IND,GARY JOHNSON,14,0,5,9,0
+Screven,Rocky Ford,President of the United States,,IND,GARY JOHNSON,9,0,4,5,0
+Screven,Bay Branch,President of the United States,,IND,GARY JOHNSON,7,1,0,6,0
+Screven,Hiltonia,President of the United States,,IND,GARY JOHNSON,6,1,3,2,0
+Screven,Screven Rec Dept,President of the United States,,IND,GARY JOHNSON,2,0,2,0,0
+Screven,Greenhill Church,President of the United States,,IND,GARY JOHNSON,15,2,7,6,0
+Screven,Sr Citizens Center,President of the United States,,IND,GARY JOHNSON,13,1,4,8,0
+Screven,Jackson Fire Station,President of the United States,,IND,GARY JOHNSON,7,0,5,2,0
+Screven,Cooperville Fire Station,President of the United States,,IND,GARY JOHNSON,2,0,2,0,0
 Screven,,United States Senator,,,JOHNNY ISAKSON ,3289,98,1479,1712,0
 Screven,Sylvania,United States Senator,,,JOHNNY ISAKSON ,400,19,116,265,0
 Screven,Hunters,United States Senator,,,JOHNNY ISAKSON ,192,2,105,85,0

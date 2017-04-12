@@ -1,43 +1,43 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Haralson,,President of the United States,,,DONALD J. TRUMP,9585,331,4743,4505,6
-Haralson,BREMEN,President of the United States,,,DONALD J. TRUMP,2969,115,1238,1615,1
-Haralson,BUCHANAN,President of the United States,,,DONALD J. TRUMP,1154,58,416,679,1
-Haralson,BUNCOMBE,President of the United States,,,DONALD J. TRUMP,459,11,289,159,0
-Haralson,CORINTH,President of the United States,,,DONALD J. TRUMP,821,28,423,370,0
-Haralson,TWENTIETH,President of the United States,,,DONALD J. TRUMP,389,7,241,141,0
-Haralson,FELTON,President of the United States,,,DONALD J. TRUMP,153,7,106,40,0
-Haralson,LITTLE CREEK,President of the United States,,,DONALD J. TRUMP,386,19,260,107,0
-Haralson,MT VIEW,President of the United States,,,DONALD J. TRUMP,170,0,133,37,0
-Haralson,SEVENTH,President of the United States,,,DONALD J. TRUMP,837,28,419,390,0
-Haralson,BEREA-STEADMAN,President of the United States,,,DONALD J. TRUMP,323,14,208,101,0
-Haralson,TALLAPOOSA,President of the United States,,,DONALD J. TRUMP,1395,38,669,687,1
-Haralson,WACO,President of the United States,,,DONALD J. TRUMP,529,6,341,179,3
-Haralson,,President of the United States,,,HILLARY CLINTON,1475,109,715,650,1
-Haralson,BREMEN,President of the United States,,,HILLARY CLINTON,558,44,261,253,0
-Haralson,BUCHANAN,President of the United States,,,HILLARY CLINTON,169,11,55,103,0
-Haralson,BUNCOMBE,President of the United States,,,HILLARY CLINTON,52,0,37,15,0
-Haralson,CORINTH,President of the United States,,,HILLARY CLINTON,78,3,40,35,0
-Haralson,TWENTIETH,President of the United States,,,HILLARY CLINTON,40,2,22,16,0
-Haralson,FELTON,President of the United States,,,HILLARY CLINTON,13,0,12,1,0
-Haralson,LITTLE CREEK,President of the United States,,,HILLARY CLINTON,46,2,26,18,0
-Haralson,MT VIEW,President of the United States,,,HILLARY CLINTON,12,0,9,3,0
-Haralson,SEVENTH,President of the United States,,,HILLARY CLINTON,151,13,72,66,0
-Haralson,BEREA-STEADMAN,President of the United States,,,HILLARY CLINTON,23,2,9,12,0
-Haralson,TALLAPOOSA,President of the United States,,,HILLARY CLINTON,258,30,125,103,0
-Haralson,WACO,President of the United States,,,HILLARY CLINTON,75,2,47,25,1
-Haralson,,President of the United States,,,GARY JOHNSON,264,12,151,101,0
-Haralson,BREMEN,President of the United States,,,GARY JOHNSON,97,6,50,41,0
-Haralson,BUCHANAN,President of the United States,,,GARY JOHNSON,20,1,7,12,0
-Haralson,BUNCOMBE,President of the United States,,,GARY JOHNSON,11,1,9,1,0
-Haralson,CORINTH,President of the United States,,,GARY JOHNSON,14,1,8,5,0
-Haralson,TWENTIETH,President of the United States,,,GARY JOHNSON,12,1,8,3,0
-Haralson,FELTON,President of the United States,,,GARY JOHNSON,2,0,2,0,0
-Haralson,LITTLE CREEK,President of the United States,,,GARY JOHNSON,9,1,5,3,0
-Haralson,MT VIEW,President of the United States,,,GARY JOHNSON,1,0,1,0,0
-Haralson,SEVENTH,President of the United States,,,GARY JOHNSON,23,1,13,9,0
-Haralson,BEREA-STEADMAN,President of the United States,,,GARY JOHNSON,7,0,5,2,0
-Haralson,TALLAPOOSA,President of the United States,,,GARY JOHNSON,52,0,28,24,0
-Haralson,WACO,President of the United States,,,GARY JOHNSON,16,0,15,1,0
+Haralson,,President of the United States,,REP,DONALD J. TRUMP,9585,331,4743,4505,6
+Haralson,BREMEN,President of the United States,,REP,DONALD J. TRUMP,2969,115,1238,1615,1
+Haralson,BUCHANAN,President of the United States,,REP,DONALD J. TRUMP,1154,58,416,679,1
+Haralson,BUNCOMBE,President of the United States,,REP,DONALD J. TRUMP,459,11,289,159,0
+Haralson,CORINTH,President of the United States,,REP,DONALD J. TRUMP,821,28,423,370,0
+Haralson,TWENTIETH,President of the United States,,REP,DONALD J. TRUMP,389,7,241,141,0
+Haralson,FELTON,President of the United States,,REP,DONALD J. TRUMP,153,7,106,40,0
+Haralson,LITTLE CREEK,President of the United States,,REP,DONALD J. TRUMP,386,19,260,107,0
+Haralson,MT VIEW,President of the United States,,REP,DONALD J. TRUMP,170,0,133,37,0
+Haralson,SEVENTH,President of the United States,,REP,DONALD J. TRUMP,837,28,419,390,0
+Haralson,BEREA-STEADMAN,President of the United States,,REP,DONALD J. TRUMP,323,14,208,101,0
+Haralson,TALLAPOOSA,President of the United States,,REP,DONALD J. TRUMP,1395,38,669,687,1
+Haralson,WACO,President of the United States,,REP,DONALD J. TRUMP,529,6,341,179,3
+Haralson,,President of the United States,,DEM,HILLARY CLINTON,1475,109,715,650,1
+Haralson,BREMEN,President of the United States,,DEM,HILLARY CLINTON,558,44,261,253,0
+Haralson,BUCHANAN,President of the United States,,DEM,HILLARY CLINTON,169,11,55,103,0
+Haralson,BUNCOMBE,President of the United States,,DEM,HILLARY CLINTON,52,0,37,15,0
+Haralson,CORINTH,President of the United States,,DEM,HILLARY CLINTON,78,3,40,35,0
+Haralson,TWENTIETH,President of the United States,,DEM,HILLARY CLINTON,40,2,22,16,0
+Haralson,FELTON,President of the United States,,DEM,HILLARY CLINTON,13,0,12,1,0
+Haralson,LITTLE CREEK,President of the United States,,DEM,HILLARY CLINTON,46,2,26,18,0
+Haralson,MT VIEW,President of the United States,,DEM,HILLARY CLINTON,12,0,9,3,0
+Haralson,SEVENTH,President of the United States,,DEM,HILLARY CLINTON,151,13,72,66,0
+Haralson,BEREA-STEADMAN,President of the United States,,DEM,HILLARY CLINTON,23,2,9,12,0
+Haralson,TALLAPOOSA,President of the United States,,DEM,HILLARY CLINTON,258,30,125,103,0
+Haralson,WACO,President of the United States,,DEM,HILLARY CLINTON,75,2,47,25,1
+Haralson,,President of the United States,,IND,GARY JOHNSON,264,12,151,101,0
+Haralson,BREMEN,President of the United States,,IND,GARY JOHNSON,97,6,50,41,0
+Haralson,BUCHANAN,President of the United States,,IND,GARY JOHNSON,20,1,7,12,0
+Haralson,BUNCOMBE,President of the United States,,IND,GARY JOHNSON,11,1,9,1,0
+Haralson,CORINTH,President of the United States,,IND,GARY JOHNSON,14,1,8,5,0
+Haralson,TWENTIETH,President of the United States,,IND,GARY JOHNSON,12,1,8,3,0
+Haralson,FELTON,President of the United States,,IND,GARY JOHNSON,2,0,2,0,0
+Haralson,LITTLE CREEK,President of the United States,,IND,GARY JOHNSON,9,1,5,3,0
+Haralson,MT VIEW,President of the United States,,IND,GARY JOHNSON,1,0,1,0,0
+Haralson,SEVENTH,President of the United States,,IND,GARY JOHNSON,23,1,13,9,0
+Haralson,BEREA-STEADMAN,President of the United States,,IND,GARY JOHNSON,7,0,5,2,0
+Haralson,TALLAPOOSA,President of the United States,,IND,GARY JOHNSON,52,0,28,24,0
+Haralson,WACO,President of the United States,,IND,GARY JOHNSON,16,0,15,1,0
 Haralson,,United States Senator,,,JOHNNY ISAKSON ,8833,344,4323,4162,4
 Haralson,BREMEN,United States Senator,,,JOHNNY ISAKSON ,2849,130,1179,1540,0
 Haralson,BUCHANAN,United States Senator,,,JOHNNY ISAKSON ,1059,53,387,618,1

@@ -1,19 +1,19 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Stewart,,President of the United States,,,DONALD J. TRUMP,805,127,343,332,3
-Stewart,Richland,President of the United States,,,DONALD J. TRUMP,347,80,148,118,1
-Stewart,Louvale,President of the United States,,,DONALD J. TRUMP,79,5,59,13,2
-Stewart,Lumpkin,President of the United States,,,DONALD J. TRUMP,304,34,75,195,0
-Stewart,Omaha,President of the United States,,,DONALD J. TRUMP,75,8,61,6,0
-Stewart,,President of the United States,,,HILLARY CLINTON,1222,221,587,412,2
-Stewart,Richland,President of the United States,,,HILLARY CLINTON,549,140,300,109,0
-Stewart,Louvale,President of the United States,,,HILLARY CLINTON,124,10,94,18,2
-Stewart,Lumpkin,President of the United States,,,HILLARY CLINTON,470,59,141,270,0
-Stewart,Omaha,President of the United States,,,HILLARY CLINTON,79,12,52,15,0
-Stewart,,President of the United States,,,GARY JOHNSON,28,7,9,12,0
-Stewart,Richland,President of the United States,,,GARY JOHNSON,7,2,2,3,0
-Stewart,Louvale,President of the United States,,,GARY JOHNSON,3,0,3,0,0
-Stewart,Lumpkin,President of the United States,,,GARY JOHNSON,15,4,2,9,0
-Stewart,Omaha,President of the United States,,,GARY JOHNSON,3,1,2,0,0
+Stewart,,President of the United States,,REP,DONALD J. TRUMP,805,127,343,332,3
+Stewart,Richland,President of the United States,,REP,DONALD J. TRUMP,347,80,148,118,1
+Stewart,Louvale,President of the United States,,REP,DONALD J. TRUMP,79,5,59,13,2
+Stewart,Lumpkin,President of the United States,,REP,DONALD J. TRUMP,304,34,75,195,0
+Stewart,Omaha,President of the United States,,REP,DONALD J. TRUMP,75,8,61,6,0
+Stewart,,President of the United States,,DEM,HILLARY CLINTON,1222,221,587,412,2
+Stewart,Richland,President of the United States,,DEM,HILLARY CLINTON,549,140,300,109,0
+Stewart,Louvale,President of the United States,,DEM,HILLARY CLINTON,124,10,94,18,2
+Stewart,Lumpkin,President of the United States,,DEM,HILLARY CLINTON,470,59,141,270,0
+Stewart,Omaha,President of the United States,,DEM,HILLARY CLINTON,79,12,52,15,0
+Stewart,,President of the United States,,IND,GARY JOHNSON,28,7,9,12,0
+Stewart,Richland,President of the United States,,IND,GARY JOHNSON,7,2,2,3,0
+Stewart,Louvale,President of the United States,,IND,GARY JOHNSON,3,0,3,0,0
+Stewart,Lumpkin,President of the United States,,IND,GARY JOHNSON,15,4,2,9,0
+Stewart,Omaha,President of the United States,,IND,GARY JOHNSON,3,1,2,0,0
 Stewart,,United States Senator,,,JOHNNY ISAKSON ,807,141,344,319,3
 Stewart,Richland,United States Senator,,,JOHNNY ISAKSON ,351,92,147,111,1
 Stewart,Louvale,United States Senator,,,JOHNNY ISAKSON ,75,4,57,12,2

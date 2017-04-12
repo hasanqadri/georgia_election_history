@@ -1,46 +1,46 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Oconee,,President of the United States,,,DONALD J. TRUMP,13425,535,5105,7780,5
-Oconee,Annex,President of the United States,,,DONALD J. TRUMP,950,25,232,693,0
-Oconee,Colham Ferry,President of the United States,,,DONALD J. TRUMP,837,34,243,559,1
-Oconee,Antioch,President of the United States,,,DONALD J. TRUMP,685,14,376,295,0
-Oconee,Farmington,President of the United States,,,DONALD J. TRUMP,327,5,219,103,0
-Oconee,Bishop,President of the United States,,,DONALD J. TRUMP,931,31,385,514,1
-Oconee,High Shoals,President of the United States,,,DONALD J. TRUMP,965,39,454,472,0
-Oconee,North Oconee,President of the United States,,,DONALD J. TRUMP,594,17,263,314,0
-Oconee,Dark Corner,President of the United States,,,DONALD J. TRUMP,1511,36,706,768,1
-Oconee,Bogart,President of the United States,,,DONALD J. TRUMP,1122,35,541,544,2
-Oconee,Malcom Bridge,President of the United States,,,DONALD J. TRUMP,1822,126,531,1165,0
-Oconee,Athens Academy,President of the United States,,,DONALD J. TRUMP,1105,62,320,723,0
-Oconee,Civic Center,President of the United States,,,DONALD J. TRUMP,1883,82,607,1194,0
-Oconee,City Hall,President of the United States,,,DONALD J. TRUMP,693,29,228,436,0
-Oconee,,President of the United States,,,HILLARY CLINTON,5581,326,1904,3349,2
-Oconee,Annex,President of the United States,,,HILLARY CLINTON,499,21,124,353,1
-Oconee,Colham Ferry,President of the United States,,,HILLARY CLINTON,333,18,94,221,0
-Oconee,Antioch,President of the United States,,,HILLARY CLINTON,204,16,87,101,0
-Oconee,Farmington,President of the United States,,,HILLARY CLINTON,125,6,72,47,0
-Oconee,Bishop,President of the United States,,,HILLARY CLINTON,319,21,117,181,0
-Oconee,High Shoals,President of the United States,,,HILLARY CLINTON,320,15,133,172,0
-Oconee,North Oconee,President of the United States,,,HILLARY CLINTON,170,3,77,90,0
-Oconee,Dark Corner,President of the United States,,,HILLARY CLINTON,369,20,153,196,0
-Oconee,Bogart,President of the United States,,,HILLARY CLINTON,412,15,204,193,0
-Oconee,Malcom Bridge,President of the United States,,,HILLARY CLINTON,821,62,221,538,0
-Oconee,Athens Academy,President of the United States,,,HILLARY CLINTON,639,43,215,380,1
-Oconee,Civic Center,President of the United States,,,HILLARY CLINTON,925,51,282,592,0
-Oconee,City Hall,President of the United States,,,HILLARY CLINTON,445,35,125,285,0
-Oconee,,President of the United States,,,GARY JOHNSON,925,32,480,412,1
-Oconee,Annex,President of the United States,,,GARY JOHNSON,72,5,29,37,1
-Oconee,Colham Ferry,President of the United States,,,GARY JOHNSON,41,2,14,25,0
-Oconee,Antioch,President of the United States,,,GARY JOHNSON,33,0,17,16,0
-Oconee,Farmington,President of the United States,,,GARY JOHNSON,16,0,14,2,0
-Oconee,Bishop,President of the United States,,,GARY JOHNSON,64,2,45,17,0
-Oconee,High Shoals,President of the United States,,,GARY JOHNSON,56,0,29,27,0
-Oconee,North Oconee,President of the United States,,,GARY JOHNSON,42,1,25,16,0
-Oconee,Dark Corner,President of the United States,,,GARY JOHNSON,72,5,45,22,0
-Oconee,Bogart,President of the United States,,,GARY JOHNSON,94,1,60,33,0
-Oconee,Malcom Bridge,President of the United States,,,GARY JOHNSON,140,5,65,70,0
-Oconee,Athens Academy,President of the United States,,,GARY JOHNSON,91,3,43,45,0
-Oconee,Civic Center,President of the United States,,,GARY JOHNSON,126,5,67,54,0
-Oconee,City Hall,President of the United States,,,GARY JOHNSON,78,3,27,48,0
+Oconee,,President of the United States,,REP,DONALD J. TRUMP,13425,535,5105,7780,5
+Oconee,Annex,President of the United States,,REP,DONALD J. TRUMP,950,25,232,693,0
+Oconee,Colham Ferry,President of the United States,,REP,DONALD J. TRUMP,837,34,243,559,1
+Oconee,Antioch,President of the United States,,REP,DONALD J. TRUMP,685,14,376,295,0
+Oconee,Farmington,President of the United States,,REP,DONALD J. TRUMP,327,5,219,103,0
+Oconee,Bishop,President of the United States,,REP,DONALD J. TRUMP,931,31,385,514,1
+Oconee,High Shoals,President of the United States,,REP,DONALD J. TRUMP,965,39,454,472,0
+Oconee,North Oconee,President of the United States,,REP,DONALD J. TRUMP,594,17,263,314,0
+Oconee,Dark Corner,President of the United States,,REP,DONALD J. TRUMP,1511,36,706,768,1
+Oconee,Bogart,President of the United States,,REP,DONALD J. TRUMP,1122,35,541,544,2
+Oconee,Malcom Bridge,President of the United States,,REP,DONALD J. TRUMP,1822,126,531,1165,0
+Oconee,Athens Academy,President of the United States,,REP,DONALD J. TRUMP,1105,62,320,723,0
+Oconee,Civic Center,President of the United States,,REP,DONALD J. TRUMP,1883,82,607,1194,0
+Oconee,City Hall,President of the United States,,REP,DONALD J. TRUMP,693,29,228,436,0
+Oconee,,President of the United States,,DEM,HILLARY CLINTON,5581,326,1904,3349,2
+Oconee,Annex,President of the United States,,DEM,HILLARY CLINTON,499,21,124,353,1
+Oconee,Colham Ferry,President of the United States,,DEM,HILLARY CLINTON,333,18,94,221,0
+Oconee,Antioch,President of the United States,,DEM,HILLARY CLINTON,204,16,87,101,0
+Oconee,Farmington,President of the United States,,DEM,HILLARY CLINTON,125,6,72,47,0
+Oconee,Bishop,President of the United States,,DEM,HILLARY CLINTON,319,21,117,181,0
+Oconee,High Shoals,President of the United States,,DEM,HILLARY CLINTON,320,15,133,172,0
+Oconee,North Oconee,President of the United States,,DEM,HILLARY CLINTON,170,3,77,90,0
+Oconee,Dark Corner,President of the United States,,DEM,HILLARY CLINTON,369,20,153,196,0
+Oconee,Bogart,President of the United States,,DEM,HILLARY CLINTON,412,15,204,193,0
+Oconee,Malcom Bridge,President of the United States,,DEM,HILLARY CLINTON,821,62,221,538,0
+Oconee,Athens Academy,President of the United States,,DEM,HILLARY CLINTON,639,43,215,380,1
+Oconee,Civic Center,President of the United States,,DEM,HILLARY CLINTON,925,51,282,592,0
+Oconee,City Hall,President of the United States,,DEM,HILLARY CLINTON,445,35,125,285,0
+Oconee,,President of the United States,,IND,GARY JOHNSON,925,32,480,412,1
+Oconee,Annex,President of the United States,,IND,GARY JOHNSON,72,5,29,37,1
+Oconee,Colham Ferry,President of the United States,,IND,GARY JOHNSON,41,2,14,25,0
+Oconee,Antioch,President of the United States,,IND,GARY JOHNSON,33,0,17,16,0
+Oconee,Farmington,President of the United States,,IND,GARY JOHNSON,16,0,14,2,0
+Oconee,Bishop,President of the United States,,IND,GARY JOHNSON,64,2,45,17,0
+Oconee,High Shoals,President of the United States,,IND,GARY JOHNSON,56,0,29,27,0
+Oconee,North Oconee,President of the United States,,IND,GARY JOHNSON,42,1,25,16,0
+Oconee,Dark Corner,President of the United States,,IND,GARY JOHNSON,72,5,45,22,0
+Oconee,Bogart,President of the United States,,IND,GARY JOHNSON,94,1,60,33,0
+Oconee,Malcom Bridge,President of the United States,,IND,GARY JOHNSON,140,5,65,70,0
+Oconee,Athens Academy,President of the United States,,IND,GARY JOHNSON,91,3,43,45,0
+Oconee,Civic Center,President of the United States,,IND,GARY JOHNSON,126,5,67,54,0
+Oconee,City Hall,President of the United States,,IND,GARY JOHNSON,78,3,27,48,0
 Oconee,,United States Senator,,,JOHNNY ISAKSON ,14344,609,5555,8177,3
 Oconee,Annex,United States Senator,,,JOHNNY ISAKSON ,1013,27,253,732,1
 Oconee,Colham Ferry,United States Senator,,,JOHNNY ISAKSON ,863,42,243,578,0

@@ -1,16 +1,16 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Taylor,,President of the United States,,,DONALD J. TRUMP,2064,119,677,1268,0
-Taylor,#1 BUTLER FIRE DEPT.,President of the United States,,,DONALD J. TRUMP,99,7,23,69,0
-Taylor,#5 COURTHOUSE,President of the United States,,,DONALD J. TRUMP,1186,80,320,786,0
-Taylor,#6 REYNOLDS,President of the United States,,,DONALD J. TRUMP,779,32,334,413,0
-Taylor,,President of the United States,,,HILLARY CLINTON,1296,176,655,465,0
-Taylor,#1 BUTLER FIRE DEPT.,President of the United States,,,HILLARY CLINTON,549,44,292,213,0
-Taylor,#5 COURTHOUSE,President of the United States,,,HILLARY CLINTON,204,27,74,103,0
-Taylor,#6 REYNOLDS,President of the United States,,,HILLARY CLINTON,543,105,289,149,0
-Taylor,,President of the United States,,,GARY JOHNSON,45,4,18,23,0
-Taylor,#1 BUTLER FIRE DEPT.,President of the United States,,,GARY JOHNSON,11,0,5,6,0
-Taylor,#5 COURTHOUSE,President of the United States,,,GARY JOHNSON,19,2,5,12,0
-Taylor,#6 REYNOLDS,President of the United States,,,GARY JOHNSON,15,2,8,5,0
+Taylor,,President of the United States,,REP,DONALD J. TRUMP,2064,119,677,1268,0
+Taylor,#1 BUTLER FIRE DEPT.,President of the United States,,REP,DONALD J. TRUMP,99,7,23,69,0
+Taylor,#5 COURTHOUSE,President of the United States,,REP,DONALD J. TRUMP,1186,80,320,786,0
+Taylor,#6 REYNOLDS,President of the United States,,REP,DONALD J. TRUMP,779,32,334,413,0
+Taylor,,President of the United States,,DEM,HILLARY CLINTON,1296,176,655,465,0
+Taylor,#1 BUTLER FIRE DEPT.,President of the United States,,DEM,HILLARY CLINTON,549,44,292,213,0
+Taylor,#5 COURTHOUSE,President of the United States,,DEM,HILLARY CLINTON,204,27,74,103,0
+Taylor,#6 REYNOLDS,President of the United States,,DEM,HILLARY CLINTON,543,105,289,149,0
+Taylor,,President of the United States,,IND,GARY JOHNSON,45,4,18,23,0
+Taylor,#1 BUTLER FIRE DEPT.,President of the United States,,IND,GARY JOHNSON,11,0,5,6,0
+Taylor,#5 COURTHOUSE,President of the United States,,IND,GARY JOHNSON,19,2,5,12,0
+Taylor,#6 REYNOLDS,President of the United States,,IND,GARY JOHNSON,15,2,8,5,0
 Taylor,,United States Senator,,,JOHNNY ISAKSON ,1974,112,665,1197,0
 Taylor,#1 BUTLER FIRE DEPT.,United States Senator,,,JOHNNY ISAKSON ,129,9,43,77,0
 Taylor,#5 COURTHOUSE,United States Senator,,,JOHNNY ISAKSON ,1088,73,296,719,0

@@ -1,28 +1,28 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Long,,President of the United States,,,DONALD J. TRUMP,2626,41,1337,1245,3
-Long,Beards Creek,President of the United States,,,DONALD J. TRUMP,390,4,255,129,2
-Long,Rye Patch/Oak Dale,President of the United States,,,DONALD J. TRUMP,739,16,394,329,0
-Long,South Ludowici,President of the United States,,,DONALD J. TRUMP,235,3,94,137,1
-Long,North Ludowici,President of the United States,,,DONALD J. TRUMP,460,8,219,233,0
-Long,Tibet,President of the United States,,,DONALD J. TRUMP,382,3,171,208,0
-Long,Alma Flournoy,President of the United States,,,DONALD J. TRUMP,132,3,69,60,0
-Long,Faith Baptist Annex,President of the United States,,,DONALD J. TRUMP,288,4,135,149,0
-Long,,President of the United States,,,HILLARY CLINTON,1360,53,637,666,4
-Long,Beards Creek,President of the United States,,,HILLARY CLINTON,307,25,172,108,2
-Long,Rye Patch/Oak Dale,President of the United States,,,HILLARY CLINTON,332,5,157,170,0
-Long,South Ludowici,President of the United States,,,HILLARY CLINTON,245,9,100,136,0
-Long,North Ludowici,President of the United States,,,HILLARY CLINTON,289,6,119,162,2
-Long,Tibet,President of the United States,,,HILLARY CLINTON,63,2,29,32,0
-Long,Alma Flournoy,President of the United States,,,HILLARY CLINTON,31,1,17,13,0
-Long,Faith Baptist Annex,President of the United States,,,HILLARY CLINTON,93,5,43,45,0
-Long,,President of the United States,,,GARY JOHNSON,131,2,74,54,1
-Long,Beards Creek,President of the United States,,,GARY JOHNSON,18,1,12,4,1
-Long,Rye Patch/Oak Dale,President of the United States,,,GARY JOHNSON,39,1,22,16,0
-Long,South Ludowici,President of the United States,,,GARY JOHNSON,15,0,8,7,0
-Long,North Ludowici,President of the United States,,,GARY JOHNSON,36,0,20,16,0
-Long,Tibet,President of the United States,,,GARY JOHNSON,10,0,5,5,0
-Long,Alma Flournoy,President of the United States,,,GARY JOHNSON,6,0,3,3,0
-Long,Faith Baptist Annex,President of the United States,,,GARY JOHNSON,7,0,4,3,0
+Long,,President of the United States,,REP,DONALD J. TRUMP,2626,41,1337,1245,3
+Long,Beards Creek,President of the United States,,REP,DONALD J. TRUMP,390,4,255,129,2
+Long,Rye Patch/Oak Dale,President of the United States,,REP,DONALD J. TRUMP,739,16,394,329,0
+Long,South Ludowici,President of the United States,,REP,DONALD J. TRUMP,235,3,94,137,1
+Long,North Ludowici,President of the United States,,REP,DONALD J. TRUMP,460,8,219,233,0
+Long,Tibet,President of the United States,,REP,DONALD J. TRUMP,382,3,171,208,0
+Long,Alma Flournoy,President of the United States,,REP,DONALD J. TRUMP,132,3,69,60,0
+Long,Faith Baptist Annex,President of the United States,,REP,DONALD J. TRUMP,288,4,135,149,0
+Long,,President of the United States,,DEM,HILLARY CLINTON,1360,53,637,666,4
+Long,Beards Creek,President of the United States,,DEM,HILLARY CLINTON,307,25,172,108,2
+Long,Rye Patch/Oak Dale,President of the United States,,DEM,HILLARY CLINTON,332,5,157,170,0
+Long,South Ludowici,President of the United States,,DEM,HILLARY CLINTON,245,9,100,136,0
+Long,North Ludowici,President of the United States,,DEM,HILLARY CLINTON,289,6,119,162,2
+Long,Tibet,President of the United States,,DEM,HILLARY CLINTON,63,2,29,32,0
+Long,Alma Flournoy,President of the United States,,DEM,HILLARY CLINTON,31,1,17,13,0
+Long,Faith Baptist Annex,President of the United States,,DEM,HILLARY CLINTON,93,5,43,45,0
+Long,,President of the United States,,IND,GARY JOHNSON,131,2,74,54,1
+Long,Beards Creek,President of the United States,,IND,GARY JOHNSON,18,1,12,4,1
+Long,Rye Patch/Oak Dale,President of the United States,,IND,GARY JOHNSON,39,1,22,16,0
+Long,South Ludowici,President of the United States,,IND,GARY JOHNSON,15,0,8,7,0
+Long,North Ludowici,President of the United States,,IND,GARY JOHNSON,36,0,20,16,0
+Long,Tibet,President of the United States,,IND,GARY JOHNSON,10,0,5,5,0
+Long,Alma Flournoy,President of the United States,,IND,GARY JOHNSON,6,0,3,3,0
+Long,Faith Baptist Annex,President of the United States,,IND,GARY JOHNSON,7,0,4,3,0
 Long,,United States Senator,,,JOHNNY ISAKSON ,2524,48,1272,1200,4
 Long,Beards Creek,United States Senator,,,JOHNNY ISAKSON ,395,9,248,135,3
 Long,Rye Patch/Oak Dale,United States Senator,,,JOHNNY ISAKSON ,708,16,372,320,0

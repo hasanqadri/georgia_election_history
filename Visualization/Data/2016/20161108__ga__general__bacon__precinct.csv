@@ -1,22 +1,22 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Bacon,,President of the United States,,,DONALD J. TRUMP,3364,134,1142,2082,6
-Bacon,Douglas,President of the United States,,,DONALD J. TRUMP,1578,77,404,1092,5
-Bacon,New Lacy,President of the United States,,,DONALD J. TRUMP,696,14,266,416,0
-Bacon,Taylor,President of the United States,,,DONALD J. TRUMP,521,24,218,278,1
-Bacon,Ware,President of the United States,,,DONALD J. TRUMP,328,9,157,162,0
-Bacon,Warnock,President of the United States,,,DONALD J. TRUMP,241,10,97,134,0
-Bacon,,President of the United States,,,HILLARY CLINTON,608,37,268,303,0
-Bacon,Douglas,President of the United States,,,HILLARY CLINTON,477,27,219,231,0
-Bacon,New Lacy,President of the United States,,,HILLARY CLINTON,58,2,19,37,0
-Bacon,Taylor,President of the United States,,,HILLARY CLINTON,30,7,9,14,0
-Bacon,Ware,President of the United States,,,HILLARY CLINTON,25,0,11,14,0
-Bacon,Warnock,President of the United States,,,HILLARY CLINTON,18,1,10,7,0
-Bacon,,President of the United States,,,GARY JOHNSON,47,4,21,22,0
-Bacon,Douglas,President of the United States,,,GARY JOHNSON,27,4,9,14,0
-Bacon,New Lacy,President of the United States,,,GARY JOHNSON,5,0,2,3,0
-Bacon,Taylor,President of the United States,,,GARY JOHNSON,12,0,7,5,0
-Bacon,Ware,President of the United States,,,GARY JOHNSON,2,0,2,0,0
-Bacon,Warnock,President of the United States,,,GARY JOHNSON,1,0,1,0,0
+Bacon,,President of the United States,,REP,DONALD J. TRUMP,3364,134,1142,2082,6
+Bacon,Douglas,President of the United States,,REP,DONALD J. TRUMP,1578,77,404,1092,5
+Bacon,New Lacy,President of the United States,,REP,DONALD J. TRUMP,696,14,266,416,0
+Bacon,Taylor,President of the United States,,REP,DONALD J. TRUMP,521,24,218,278,1
+Bacon,Ware,President of the United States,,REP,DONALD J. TRUMP,328,9,157,162,0
+Bacon,Warnock,President of the United States,,REP,DONALD J. TRUMP,241,10,97,134,0
+Bacon,,President of the United States,,DEM,HILLARY CLINTON,608,37,268,303,0
+Bacon,Douglas,President of the United States,,DEM,HILLARY CLINTON,477,27,219,231,0
+Bacon,New Lacy,President of the United States,,DEM,HILLARY CLINTON,58,2,19,37,0
+Bacon,Taylor,President of the United States,,DEM,HILLARY CLINTON,30,7,9,14,0
+Bacon,Ware,President of the United States,,DEM,HILLARY CLINTON,25,0,11,14,0
+Bacon,Warnock,President of the United States,,DEM,HILLARY CLINTON,18,1,10,7,0
+Bacon,,President of the United States,,IND,GARY JOHNSON,47,4,21,22,0
+Bacon,Douglas,President of the United States,,IND,GARY JOHNSON,27,4,9,14,0
+Bacon,New Lacy,President of the United States,,IND,GARY JOHNSON,5,0,2,3,0
+Bacon,Taylor,President of the United States,,IND,GARY JOHNSON,12,0,7,5,0
+Bacon,Ware,President of the United States,,IND,GARY JOHNSON,2,0,2,0,0
+Bacon,Warnock,President of the United States,,IND,GARY JOHNSON,1,0,1,0,0
 Bacon,,United States Senator,,,JOHNNY ISAKSON ,3046,129,1033,1880,4
 Bacon,Douglas,United States Senator,,,JOHNNY ISAKSON ,1427,77,369,978,3
 Bacon,New Lacy,United States Senator,,,JOHNNY ISAKSON ,646,14,246,386,0

@@ -1,28 +1,28 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Polk,,President of the United States,,,DONALD J. TRUMP,11014,345,3373,7291,5
-Polk,ARAGON,President of the United States,,,DONALD J. TRUMP,1493,20,538,935,0
-Polk,BLOOMING GROVE,President of the United States,,,DONALD J. TRUMP,790,31,345,414,0
-Polk,CEDARTOWN,President of the United States,,,DONALD J. TRUMP,2319,131,572,1615,1
-Polk,FISH CREEK,President of the United States,,,DONALD J. TRUMP,1338,29,457,848,4
-Polk,LAKE CREEK,President of the United States,,,DONALD J. TRUMP,1564,42,475,1047,0
-Polk,ROCKMART,President of the United States,,,DONALD J. TRUMP,2506,59,602,1845,0
-Polk,YOUNGS GROVE,President of the United States,,,DONALD J. TRUMP,1004,33,384,587,0
-Polk,,President of the United States,,,HILLARY CLINTON,2867,113,964,1788,2
-Polk,ARAGON,President of the United States,,,HILLARY CLINTON,262,6,95,161,0
-Polk,BLOOMING GROVE,President of the United States,,,HILLARY CLINTON,162,5,55,102,0
-Polk,CEDARTOWN,President of the United States,,,HILLARY CLINTON,1053,55,337,659,2
-Polk,FISH CREEK,President of the United States,,,HILLARY CLINTON,241,8,92,141,0
-Polk,LAKE CREEK,President of the United States,,,HILLARY CLINTON,248,7,103,138,0
-Polk,ROCKMART,President of the United States,,,HILLARY CLINTON,772,25,241,506,0
-Polk,YOUNGS GROVE,President of the United States,,,HILLARY CLINTON,129,7,41,81,0
-Polk,,President of the United States,,,GARY JOHNSON,289,18,137,134,0
-Polk,ARAGON,President of the United States,,,GARY JOHNSON,34,1,15,18,0
-Polk,BLOOMING GROVE,President of the United States,,,GARY JOHNSON,20,0,10,10,0
-Polk,CEDARTOWN,President of the United States,,,GARY JOHNSON,81,9,39,33,0
-Polk,FISH CREEK,President of the United States,,,GARY JOHNSON,26,2,13,11,0
-Polk,LAKE CREEK,President of the United States,,,GARY JOHNSON,41,3,23,15,0
-Polk,ROCKMART,President of the United States,,,GARY JOHNSON,63,1,23,39,0
-Polk,YOUNGS GROVE,President of the United States,,,GARY JOHNSON,24,2,14,8,0
+Polk,,President of the United States,,REP,DONALD J. TRUMP,11014,345,3373,7291,5
+Polk,ARAGON,President of the United States,,REP,DONALD J. TRUMP,1493,20,538,935,0
+Polk,BLOOMING GROVE,President of the United States,,REP,DONALD J. TRUMP,790,31,345,414,0
+Polk,CEDARTOWN,President of the United States,,REP,DONALD J. TRUMP,2319,131,572,1615,1
+Polk,FISH CREEK,President of the United States,,REP,DONALD J. TRUMP,1338,29,457,848,4
+Polk,LAKE CREEK,President of the United States,,REP,DONALD J. TRUMP,1564,42,475,1047,0
+Polk,ROCKMART,President of the United States,,REP,DONALD J. TRUMP,2506,59,602,1845,0
+Polk,YOUNGS GROVE,President of the United States,,REP,DONALD J. TRUMP,1004,33,384,587,0
+Polk,,President of the United States,,DEM,HILLARY CLINTON,2867,113,964,1788,2
+Polk,ARAGON,President of the United States,,DEM,HILLARY CLINTON,262,6,95,161,0
+Polk,BLOOMING GROVE,President of the United States,,DEM,HILLARY CLINTON,162,5,55,102,0
+Polk,CEDARTOWN,President of the United States,,DEM,HILLARY CLINTON,1053,55,337,659,2
+Polk,FISH CREEK,President of the United States,,DEM,HILLARY CLINTON,241,8,92,141,0
+Polk,LAKE CREEK,President of the United States,,DEM,HILLARY CLINTON,248,7,103,138,0
+Polk,ROCKMART,President of the United States,,DEM,HILLARY CLINTON,772,25,241,506,0
+Polk,YOUNGS GROVE,President of the United States,,DEM,HILLARY CLINTON,129,7,41,81,0
+Polk,,President of the United States,,IND,GARY JOHNSON,289,18,137,134,0
+Polk,ARAGON,President of the United States,,IND,GARY JOHNSON,34,1,15,18,0
+Polk,BLOOMING GROVE,President of the United States,,IND,GARY JOHNSON,20,0,10,10,0
+Polk,CEDARTOWN,President of the United States,,IND,GARY JOHNSON,81,9,39,33,0
+Polk,FISH CREEK,President of the United States,,IND,GARY JOHNSON,26,2,13,11,0
+Polk,LAKE CREEK,President of the United States,,IND,GARY JOHNSON,41,3,23,15,0
+Polk,ROCKMART,President of the United States,,IND,GARY JOHNSON,63,1,23,39,0
+Polk,YOUNGS GROVE,President of the United States,,IND,GARY JOHNSON,24,2,14,8,0
 Polk,,United States Senator,,,JOHNNY ISAKSON ,10219,339,3132,6744,4
 Polk,ARAGON,United States Senator,,,JOHNNY ISAKSON ,1369,19,491,859,0
 Polk,BLOOMING GROVE,United States Senator,,,JOHNNY ISAKSON ,733,28,320,385,0

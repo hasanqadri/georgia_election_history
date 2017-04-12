@@ -1,52 +1,52 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Troup,,President of the United States,,,DONALD J. TRUMP,15750,692,6782,8169,107
-Troup,HOLLIS HAND,President of the United States,,,DONALD J. TRUMP,1801,122,608,1062,9
-Troup,ADMINISTRATION BLDG,President of the United States,,,DONALD J. TRUMP,572,48,207,308,9
-Troup,HAMMETT RD,President of the United States,,,DONALD J. TRUMP,974,72,356,537,9
-Troup,GRIGGS CENTER,President of the United States,,,DONALD J. TRUMP,64,9,23,32,0
-Troup,WEST POINT,President of the United States,,,DONALD J. TRUMP,396,11,245,138,2
-Troup,HOGANSVILLE,President of the United States,,,DONALD J. TRUMP,1092,37,620,428,7
-Troup,EAST VERNON,President of the United States,,,DONALD J. TRUMP,1660,55,690,903,12
-Troup,ROSEMONT,President of the United States,,,DONALD J. TRUMP,1958,75,870,1006,7
-Troup,MOUNTVILLE,President of the United States,,,DONALD J. TRUMP,771,16,383,363,9
-Troup,MCLENDON,President of the United States,,,DONALD J. TRUMP,1799,53,711,1027,8
-Troup,LONG CANE,President of the United States,,,DONALD J. TRUMP,1600,63,760,768,9
-Troup,GARDNER NEWMAN,President of the United States,,,DONALD J. TRUMP,756,37,305,405,9
-Troup,GRAY HILL,President of the United States,,,DONALD J. TRUMP,849,24,511,308,6
-Troup,HIGHLAND,President of the United States,,,DONALD J. TRUMP,461,22,166,269,4
-Troup,NORTHSIDE,President of the United States,,,DONALD J. TRUMP,997,48,327,615,7
-Troup,,President of the United States,,,HILLARY CLINTON,9713,534,4768,4295,116
-Troup,HOLLIS HAND,President of the United States,,,HILLARY CLINTON,585,66,213,293,13
-Troup,ADMINISTRATION BLDG,President of the United States,,,HILLARY CLINTON,1347,77,649,587,34
-Troup,HAMMETT RD,President of the United States,,,HILLARY CLINTON,1270,50,558,652,10
-Troup,GRIGGS CENTER,President of the United States,,,HILLARY CLINTON,1146,76,619,447,4
-Troup,WEST POINT,President of the United States,,,HILLARY CLINTON,779,48,577,148,6
-Troup,HOGANSVILLE,President of the United States,,,HILLARY CLINTON,627,43,401,178,5
-Troup,EAST VERNON,President of the United States,,,HILLARY CLINTON,399,19,155,224,1
-Troup,ROSEMONT,President of the United States,,,HILLARY CLINTON,348,16,162,168,2
-Troup,MOUNTVILLE,President of the United States,,,HILLARY CLINTON,391,14,181,192,4
-Troup,MCLENDON,President of the United States,,,HILLARY CLINTON,469,21,208,239,1
-Troup,LONG CANE,President of the United States,,,HILLARY CLINTON,503,27,225,247,4
-Troup,GARDNER NEWMAN,President of the United States,,,HILLARY CLINTON,451,11,189,240,11
-Troup,GRAY HILL,President of the United States,,,HILLARY CLINTON,304,17,171,114,2
-Troup,HIGHLAND,President of the United States,,,HILLARY CLINTON,463,18,184,254,7
-Troup,NORTHSIDE,President of the United States,,,HILLARY CLINTON,631,31,276,312,12
-Troup,,President of the United States,,,GARY JOHNSON,561,33,305,215,8
-Troup,HOLLIS HAND,President of the United States,,,GARY JOHNSON,78,10,29,37,2
-Troup,ADMINISTRATION BLDG,President of the United States,,,GARY JOHNSON,51,4,30,16,1
-Troup,HAMMETT RD,President of the United States,,,GARY JOHNSON,47,0,29,17,1
-Troup,GRIGGS CENTER,President of the United States,,,GARY JOHNSON,15,0,11,4,0
-Troup,WEST POINT,President of the United States,,,GARY JOHNSON,11,0,8,3,0
-Troup,HOGANSVILLE,President of the United States,,,GARY JOHNSON,29,2,17,10,0
-Troup,EAST VERNON,President of the United States,,,GARY JOHNSON,54,2,30,22,0
-Troup,ROSEMONT,President of the United States,,,GARY JOHNSON,40,2,22,16,0
-Troup,MOUNTVILLE,President of the United States,,,GARY JOHNSON,21,2,16,3,0
-Troup,MCLENDON,President of the United States,,,GARY JOHNSON,67,2,35,29,1
-Troup,LONG CANE,President of the United States,,,GARY JOHNSON,38,2,18,18,0
-Troup,GARDNER NEWMAN,President of the United States,,,GARY JOHNSON,21,2,10,8,1
-Troup,GRAY HILL,President of the United States,,,GARY JOHNSON,29,0,21,8,0
-Troup,HIGHLAND,President of the United States,,,GARY JOHNSON,22,3,13,6,0
-Troup,NORTHSIDE,President of the United States,,,GARY JOHNSON,38,2,16,18,2
+Troup,,President of the United States,,REP,DONALD J. TRUMP,15750,692,6782,8169,107
+Troup,HOLLIS HAND,President of the United States,,REP,DONALD J. TRUMP,1801,122,608,1062,9
+Troup,ADMINISTRATION BLDG,President of the United States,,REP,DONALD J. TRUMP,572,48,207,308,9
+Troup,HAMMETT RD,President of the United States,,REP,DONALD J. TRUMP,974,72,356,537,9
+Troup,GRIGGS CENTER,President of the United States,,REP,DONALD J. TRUMP,64,9,23,32,0
+Troup,WEST POINT,President of the United States,,REP,DONALD J. TRUMP,396,11,245,138,2
+Troup,HOGANSVILLE,President of the United States,,REP,DONALD J. TRUMP,1092,37,620,428,7
+Troup,EAST VERNON,President of the United States,,REP,DONALD J. TRUMP,1660,55,690,903,12
+Troup,ROSEMONT,President of the United States,,REP,DONALD J. TRUMP,1958,75,870,1006,7
+Troup,MOUNTVILLE,President of the United States,,REP,DONALD J. TRUMP,771,16,383,363,9
+Troup,MCLENDON,President of the United States,,REP,DONALD J. TRUMP,1799,53,711,1027,8
+Troup,LONG CANE,President of the United States,,REP,DONALD J. TRUMP,1600,63,760,768,9
+Troup,GARDNER NEWMAN,President of the United States,,REP,DONALD J. TRUMP,756,37,305,405,9
+Troup,GRAY HILL,President of the United States,,REP,DONALD J. TRUMP,849,24,511,308,6
+Troup,HIGHLAND,President of the United States,,REP,DONALD J. TRUMP,461,22,166,269,4
+Troup,NORTHSIDE,President of the United States,,REP,DONALD J. TRUMP,997,48,327,615,7
+Troup,,President of the United States,,DEM,HILLARY CLINTON,9713,534,4768,4295,116
+Troup,HOLLIS HAND,President of the United States,,DEM,HILLARY CLINTON,585,66,213,293,13
+Troup,ADMINISTRATION BLDG,President of the United States,,DEM,HILLARY CLINTON,1347,77,649,587,34
+Troup,HAMMETT RD,President of the United States,,DEM,HILLARY CLINTON,1270,50,558,652,10
+Troup,GRIGGS CENTER,President of the United States,,DEM,HILLARY CLINTON,1146,76,619,447,4
+Troup,WEST POINT,President of the United States,,DEM,HILLARY CLINTON,779,48,577,148,6
+Troup,HOGANSVILLE,President of the United States,,DEM,HILLARY CLINTON,627,43,401,178,5
+Troup,EAST VERNON,President of the United States,,DEM,HILLARY CLINTON,399,19,155,224,1
+Troup,ROSEMONT,President of the United States,,DEM,HILLARY CLINTON,348,16,162,168,2
+Troup,MOUNTVILLE,President of the United States,,DEM,HILLARY CLINTON,391,14,181,192,4
+Troup,MCLENDON,President of the United States,,DEM,HILLARY CLINTON,469,21,208,239,1
+Troup,LONG CANE,President of the United States,,DEM,HILLARY CLINTON,503,27,225,247,4
+Troup,GARDNER NEWMAN,President of the United States,,DEM,HILLARY CLINTON,451,11,189,240,11
+Troup,GRAY HILL,President of the United States,,DEM,HILLARY CLINTON,304,17,171,114,2
+Troup,HIGHLAND,President of the United States,,DEM,HILLARY CLINTON,463,18,184,254,7
+Troup,NORTHSIDE,President of the United States,,DEM,HILLARY CLINTON,631,31,276,312,12
+Troup,,President of the United States,,IND,GARY JOHNSON,561,33,305,215,8
+Troup,HOLLIS HAND,President of the United States,,IND,GARY JOHNSON,78,10,29,37,2
+Troup,ADMINISTRATION BLDG,President of the United States,,IND,GARY JOHNSON,51,4,30,16,1
+Troup,HAMMETT RD,President of the United States,,IND,GARY JOHNSON,47,0,29,17,1
+Troup,GRIGGS CENTER,President of the United States,,IND,GARY JOHNSON,15,0,11,4,0
+Troup,WEST POINT,President of the United States,,IND,GARY JOHNSON,11,0,8,3,0
+Troup,HOGANSVILLE,President of the United States,,IND,GARY JOHNSON,29,2,17,10,0
+Troup,EAST VERNON,President of the United States,,IND,GARY JOHNSON,54,2,30,22,0
+Troup,ROSEMONT,President of the United States,,IND,GARY JOHNSON,40,2,22,16,0
+Troup,MOUNTVILLE,President of the United States,,IND,GARY JOHNSON,21,2,16,3,0
+Troup,MCLENDON,President of the United States,,IND,GARY JOHNSON,67,2,35,29,1
+Troup,LONG CANE,President of the United States,,IND,GARY JOHNSON,38,2,18,18,0
+Troup,GARDNER NEWMAN,President of the United States,,IND,GARY JOHNSON,21,2,10,8,1
+Troup,GRAY HILL,President of the United States,,IND,GARY JOHNSON,29,0,21,8,0
+Troup,HIGHLAND,President of the United States,,IND,GARY JOHNSON,22,3,13,6,0
+Troup,NORTHSIDE,President of the United States,,IND,GARY JOHNSON,38,2,16,18,2
 Troup,,United States Senator,,,JOHNNY ISAKSON ,15293,743,6503,7936,111
 Troup,HOLLIS HAND,United States Senator,,,JOHNNY ISAKSON ,1862,141,621,1091,9
 Troup,ADMINISTRATION BLDG,United States Senator,,,JOHNNY ISAKSON ,608,54,224,319,11

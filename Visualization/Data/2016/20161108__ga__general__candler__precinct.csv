@@ -1,13 +1,13 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Candler,,President of the United States,,,DONALD J. TRUMP,2664,86,567,2008,3
-Candler,Metter -1685,President of the United States,,,DONALD J. TRUMP,1382,57,278,1046,1
-Candler,Candler-1736,President of the United States,,,DONALD J. TRUMP,1282,29,289,962,2
-Candler,,President of the United States,,,HILLARY CLINTON,1026,46,380,597,3
-Candler,Metter -1685,President of the United States,,,HILLARY CLINTON,623,24,231,365,3
-Candler,Candler-1736,President of the United States,,,HILLARY CLINTON,403,22,149,232,0
-Candler,,President of the United States,,,GARY JOHNSON,73,5,35,33,0
-Candler,Metter -1685,President of the United States,,,GARY JOHNSON,50,4,24,22,0
-Candler,Candler-1736,President of the United States,,,GARY JOHNSON,23,1,11,11,0
+Candler,,President of the United States,,REP,DONALD J. TRUMP,2664,86,567,2008,3
+Candler,Metter -1685,President of the United States,,REP,DONALD J. TRUMP,1382,57,278,1046,1
+Candler,Candler-1736,President of the United States,,REP,DONALD J. TRUMP,1282,29,289,962,2
+Candler,,President of the United States,,DEM,HILLARY CLINTON,1026,46,380,597,3
+Candler,Metter -1685,President of the United States,,DEM,HILLARY CLINTON,623,24,231,365,3
+Candler,Candler-1736,President of the United States,,DEM,HILLARY CLINTON,403,22,149,232,0
+Candler,,President of the United States,,IND,GARY JOHNSON,73,5,35,33,0
+Candler,Metter -1685,President of the United States,,IND,GARY JOHNSON,50,4,24,22,0
+Candler,Candler-1736,President of the United States,,IND,GARY JOHNSON,23,1,11,11,0
 Candler,,United States Senator,,,JOHNNY ISAKSON ,2588,88,580,1917,3
 Candler,Metter -1685,United States Senator,,,JOHNNY ISAKSON ,1360,58,291,1010,1
 Candler,Candler-1736,United States Senator,,,JOHNNY ISAKSON ,1228,30,289,907,2

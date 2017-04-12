@@ -1,40 +1,40 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-White,,President of the United States,,,DONALD J. TRUMP,9761,482,4042,5227,10
-White,Blue Creek,President of the United States,,,DONALD J. TRUMP,1179,56,517,604,2
-White,Blue Ridge,President of the United States,,,DONALD J. TRUMP,425,21,222,182,0
-White,Helen,President of the United States,,,DONALD J. TRUMP,264,10,145,109,0
-White,Mossy Creek,President of the United States,,,DONALD J. TRUMP,1519,80,683,754,2
-White,Mt. Yonah,President of the United States,,,DONALD J. TRUMP,2084,122,611,1349,2
-White,Nacoochee,President of the United States,,,DONALD J. TRUMP,744,46,275,422,1
-White,Robertstown,President of the United States,,,DONALD J. TRUMP,173,10,97,66,0
-White,Shoal Creek,President of the United States,,,DONALD J. TRUMP,1128,38,532,557,1
-White,Tesnatee,President of the United States,,,DONALD J. TRUMP,550,24,184,341,1
-White,Town Creek,President of the United States,,,DONALD J. TRUMP,768,22,353,393,0
-White,White Creek,President of the United States,,,DONALD J. TRUMP,927,53,423,450,1
-White,,President of the United States,,,HILLARY CLINTON,1674,120,588,964,2
-White,Blue Creek,President of the United States,,,HILLARY CLINTON,232,14,72,145,1
-White,Blue Ridge,President of the United States,,,HILLARY CLINTON,60,3,25,32,0
-White,Helen,President of the United States,,,HILLARY CLINTON,78,4,37,37,0
-White,Mossy Creek,President of the United States,,,HILLARY CLINTON,183,13,71,98,1
-White,Mt. Yonah,President of the United States,,,HILLARY CLINTON,384,33,118,233,0
-White,Nacoochee,President of the United States,,,HILLARY CLINTON,257,19,109,129,0
-White,Robertstown,President of the United States,,,HILLARY CLINTON,48,1,18,29,0
-White,Shoal Creek,President of the United States,,,HILLARY CLINTON,153,13,56,84,0
-White,Tesnatee,President of the United States,,,HILLARY CLINTON,97,5,25,67,0
-White,Town Creek,President of the United States,,,HILLARY CLINTON,99,8,32,59,0
-White,White Creek,President of the United States,,,HILLARY CLINTON,83,7,25,51,0
-White,,President of the United States,,,GARY JOHNSON,348,14,191,143,0
-White,Blue Creek,President of the United States,,,GARY JOHNSON,36,2,17,17,0
-White,Blue Ridge,President of the United States,,,GARY JOHNSON,13,0,8,5,0
-White,Helen,President of the United States,,,GARY JOHNSON,13,0,12,1,0
-White,Mossy Creek,President of the United States,,,GARY JOHNSON,45,2,25,18,0
-White,Mt. Yonah,President of the United States,,,GARY JOHNSON,70,3,35,32,0
-White,Nacoochee,President of the United States,,,GARY JOHNSON,37,0,21,16,0
-White,Robertstown,President of the United States,,,GARY JOHNSON,8,0,7,1,0
-White,Shoal Creek,President of the United States,,,GARY JOHNSON,42,2,19,21,0
-White,Tesnatee,President of the United States,,,GARY JOHNSON,22,0,13,9,0
-White,Town Creek,President of the United States,,,GARY JOHNSON,37,2,20,15,0
-White,White Creek,President of the United States,,,GARY JOHNSON,25,3,14,8,0
+White,,President of the United States,,REP,DONALD J. TRUMP,9761,482,4042,5227,10
+White,Blue Creek,President of the United States,,REP,DONALD J. TRUMP,1179,56,517,604,2
+White,Blue Ridge,President of the United States,,REP,DONALD J. TRUMP,425,21,222,182,0
+White,Helen,President of the United States,,REP,DONALD J. TRUMP,264,10,145,109,0
+White,Mossy Creek,President of the United States,,REP,DONALD J. TRUMP,1519,80,683,754,2
+White,Mt. Yonah,President of the United States,,REP,DONALD J. TRUMP,2084,122,611,1349,2
+White,Nacoochee,President of the United States,,REP,DONALD J. TRUMP,744,46,275,422,1
+White,Robertstown,President of the United States,,REP,DONALD J. TRUMP,173,10,97,66,0
+White,Shoal Creek,President of the United States,,REP,DONALD J. TRUMP,1128,38,532,557,1
+White,Tesnatee,President of the United States,,REP,DONALD J. TRUMP,550,24,184,341,1
+White,Town Creek,President of the United States,,REP,DONALD J. TRUMP,768,22,353,393,0
+White,White Creek,President of the United States,,REP,DONALD J. TRUMP,927,53,423,450,1
+White,,President of the United States,,DEM,HILLARY CLINTON,1674,120,588,964,2
+White,Blue Creek,President of the United States,,DEM,HILLARY CLINTON,232,14,72,145,1
+White,Blue Ridge,President of the United States,,DEM,HILLARY CLINTON,60,3,25,32,0
+White,Helen,President of the United States,,DEM,HILLARY CLINTON,78,4,37,37,0
+White,Mossy Creek,President of the United States,,DEM,HILLARY CLINTON,183,13,71,98,1
+White,Mt. Yonah,President of the United States,,DEM,HILLARY CLINTON,384,33,118,233,0
+White,Nacoochee,President of the United States,,DEM,HILLARY CLINTON,257,19,109,129,0
+White,Robertstown,President of the United States,,DEM,HILLARY CLINTON,48,1,18,29,0
+White,Shoal Creek,President of the United States,,DEM,HILLARY CLINTON,153,13,56,84,0
+White,Tesnatee,President of the United States,,DEM,HILLARY CLINTON,97,5,25,67,0
+White,Town Creek,President of the United States,,DEM,HILLARY CLINTON,99,8,32,59,0
+White,White Creek,President of the United States,,DEM,HILLARY CLINTON,83,7,25,51,0
+White,,President of the United States,,IND,GARY JOHNSON,348,14,191,143,0
+White,Blue Creek,President of the United States,,IND,GARY JOHNSON,36,2,17,17,0
+White,Blue Ridge,President of the United States,,IND,GARY JOHNSON,13,0,8,5,0
+White,Helen,President of the United States,,IND,GARY JOHNSON,13,0,12,1,0
+White,Mossy Creek,President of the United States,,IND,GARY JOHNSON,45,2,25,18,0
+White,Mt. Yonah,President of the United States,,IND,GARY JOHNSON,70,3,35,32,0
+White,Nacoochee,President of the United States,,IND,GARY JOHNSON,37,0,21,16,0
+White,Robertstown,President of the United States,,IND,GARY JOHNSON,8,0,7,1,0
+White,Shoal Creek,President of the United States,,IND,GARY JOHNSON,42,2,19,21,0
+White,Tesnatee,President of the United States,,IND,GARY JOHNSON,22,0,13,9,0
+White,Town Creek,President of the United States,,IND,GARY JOHNSON,37,2,20,15,0
+White,White Creek,President of the United States,,IND,GARY JOHNSON,25,3,14,8,0
 White,,United States Senator,,,JOHNNY ISAKSON ,9212,478,3840,4886,8
 White,Blue Creek,United States Senator,,,JOHNNY ISAKSON ,1098,52,488,556,2
 White,Blue Ridge,United States Senator,,,JOHNNY ISAKSON ,397,20,204,173,0

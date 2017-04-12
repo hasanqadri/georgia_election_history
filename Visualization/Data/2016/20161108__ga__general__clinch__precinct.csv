@@ -1,22 +1,22 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Clinch,,President of the United States,,,DONALD J. TRUMP,1727,56,680,988,3
-Clinch,Arabia,President of the United States,,,DONALD J. TRUMP,59,1,42,16,0
-Clinch,Argyle,President of the United States,,,DONALD J. TRUMP,162,1,93,68,0
-Clinch,Dupont,President of the United States,,,DONALD J. TRUMP,115,2,72,41,0
-Clinch,Fargo,President of the United States,,,DONALD J. TRUMP,157,1,138,17,1
-Clinch,Homerville,President of the United States,,,DONALD J. TRUMP,1234,51,335,846,2
-Clinch,,President of the United States,,,HILLARY CLINTON,686,30,332,323,1
-Clinch,Arabia,President of the United States,,,HILLARY CLINTON,7,2,4,1,0
-Clinch,Argyle,President of the United States,,,HILLARY CLINTON,40,1,26,12,1
-Clinch,Dupont,President of the United States,,,HILLARY CLINTON,58,1,44,13,0
-Clinch,Fargo,President of the United States,,,HILLARY CLINTON,15,0,10,5,0
-Clinch,Homerville,President of the United States,,,HILLARY CLINTON,566,26,248,292,0
-Clinch,,President of the United States,,,GARY JOHNSON,34,3,16,15,0
-Clinch,Arabia,President of the United States,,,GARY JOHNSON,1,0,1,0,0
-Clinch,Argyle,President of the United States,,,GARY JOHNSON,2,0,1,1,0
-Clinch,Dupont,President of the United States,,,GARY JOHNSON,3,1,2,0,0
-Clinch,Fargo,President of the United States,,,GARY JOHNSON,1,0,1,0,0
-Clinch,Homerville,President of the United States,,,GARY JOHNSON,27,2,11,14,0
+Clinch,,President of the United States,,REP,DONALD J. TRUMP,1727,56,680,988,3
+Clinch,Arabia,President of the United States,,REP,DONALD J. TRUMP,59,1,42,16,0
+Clinch,Argyle,President of the United States,,REP,DONALD J. TRUMP,162,1,93,68,0
+Clinch,Dupont,President of the United States,,REP,DONALD J. TRUMP,115,2,72,41,0
+Clinch,Fargo,President of the United States,,REP,DONALD J. TRUMP,157,1,138,17,1
+Clinch,Homerville,President of the United States,,REP,DONALD J. TRUMP,1234,51,335,846,2
+Clinch,,President of the United States,,DEM,HILLARY CLINTON,686,30,332,323,1
+Clinch,Arabia,President of the United States,,DEM,HILLARY CLINTON,7,2,4,1,0
+Clinch,Argyle,President of the United States,,DEM,HILLARY CLINTON,40,1,26,12,1
+Clinch,Dupont,President of the United States,,DEM,HILLARY CLINTON,58,1,44,13,0
+Clinch,Fargo,President of the United States,,DEM,HILLARY CLINTON,15,0,10,5,0
+Clinch,Homerville,President of the United States,,DEM,HILLARY CLINTON,566,26,248,292,0
+Clinch,,President of the United States,,IND,GARY JOHNSON,34,3,16,15,0
+Clinch,Arabia,President of the United States,,IND,GARY JOHNSON,1,0,1,0,0
+Clinch,Argyle,President of the United States,,IND,GARY JOHNSON,2,0,1,1,0
+Clinch,Dupont,President of the United States,,IND,GARY JOHNSON,3,1,2,0,0
+Clinch,Fargo,President of the United States,,IND,GARY JOHNSON,1,0,1,0,0
+Clinch,Homerville,President of the United States,,IND,GARY JOHNSON,27,2,11,14,0
 Clinch,,United States Senator,,,JOHNNY ISAKSON ,1549,59,602,885,3
 Clinch,Arabia,United States Senator,,,JOHNNY ISAKSON ,55,2,40,13,0
 Clinch,Argyle,United States Senator,,,JOHNNY ISAKSON ,147,1,84,62,0

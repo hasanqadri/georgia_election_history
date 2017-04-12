@@ -1,31 +1,31 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Pike,,President of the United States,,,DONALD J. TRUMP,7278,280,2649,4344,5
-Pike,Concord,President of the United States,,,DONALD J. TRUMP,690,23,285,381,1
-Pike,Hollonville,President of the United States,,,DONALD J. TRUMP,1001,34,435,532,0
-Pike,Meansville,President of the United States,,,DONALD J. TRUMP,766,36,294,435,1
-Pike,Molena,President of the United States,,,DONALD J. TRUMP,770,17,343,409,1
-Pike,Second District,President of the United States,,,DONALD J. TRUMP,1483,61,473,947,2
-Pike,Lifsey Springs,President of the United States,,,DONALD J. TRUMP,635,25,242,368,0
-Pike,Williamson,President of the United States,,,DONALD J. TRUMP,917,49,345,523,0
-Pike,Zebulon,President of the United States,,,DONALD J. TRUMP,1016,35,232,749,0
-Pike,,President of the United States,,,HILLARY CLINTON,1240,77,471,691,1
-Pike,Concord,President of the United States,,,HILLARY CLINTON,183,4,89,90,0
-Pike,Hollonville,President of the United States,,,HILLARY CLINTON,97,3,35,59,0
-Pike,Meansville,President of the United States,,,HILLARY CLINTON,90,4,52,34,0
-Pike,Molena,President of the United States,,,HILLARY CLINTON,176,13,94,69,0
-Pike,Second District,President of the United States,,,HILLARY CLINTON,178,8,56,114,0
-Pike,Lifsey Springs,President of the United States,,,HILLARY CLINTON,88,2,36,49,1
-Pike,Williamson,President of the United States,,,HILLARY CLINTON,118,6,40,72,0
-Pike,Zebulon,President of the United States,,,HILLARY CLINTON,310,37,69,204,0
-Pike,,President of the United States,,,GARY JOHNSON,163,10,84,69,0
-Pike,Concord,President of the United States,,,GARY JOHNSON,13,0,6,7,0
-Pike,Hollonville,President of the United States,,,GARY JOHNSON,20,1,13,6,0
-Pike,Meansville,President of the United States,,,GARY JOHNSON,10,0,6,4,0
-Pike,Molena,President of the United States,,,GARY JOHNSON,24,1,11,12,0
-Pike,Second District,President of the United States,,,GARY JOHNSON,28,4,12,12,0
-Pike,Lifsey Springs,President of the United States,,,GARY JOHNSON,15,2,8,5,0
-Pike,Williamson,President of the United States,,,GARY JOHNSON,19,0,12,7,0
-Pike,Zebulon,President of the United States,,,GARY JOHNSON,34,2,16,16,0
+Pike,,President of the United States,,REP,DONALD J. TRUMP,7278,280,2649,4344,5
+Pike,Concord,President of the United States,,REP,DONALD J. TRUMP,690,23,285,381,1
+Pike,Hollonville,President of the United States,,REP,DONALD J. TRUMP,1001,34,435,532,0
+Pike,Meansville,President of the United States,,REP,DONALD J. TRUMP,766,36,294,435,1
+Pike,Molena,President of the United States,,REP,DONALD J. TRUMP,770,17,343,409,1
+Pike,Second District,President of the United States,,REP,DONALD J. TRUMP,1483,61,473,947,2
+Pike,Lifsey Springs,President of the United States,,REP,DONALD J. TRUMP,635,25,242,368,0
+Pike,Williamson,President of the United States,,REP,DONALD J. TRUMP,917,49,345,523,0
+Pike,Zebulon,President of the United States,,REP,DONALD J. TRUMP,1016,35,232,749,0
+Pike,,President of the United States,,DEM,HILLARY CLINTON,1240,77,471,691,1
+Pike,Concord,President of the United States,,DEM,HILLARY CLINTON,183,4,89,90,0
+Pike,Hollonville,President of the United States,,DEM,HILLARY CLINTON,97,3,35,59,0
+Pike,Meansville,President of the United States,,DEM,HILLARY CLINTON,90,4,52,34,0
+Pike,Molena,President of the United States,,DEM,HILLARY CLINTON,176,13,94,69,0
+Pike,Second District,President of the United States,,DEM,HILLARY CLINTON,178,8,56,114,0
+Pike,Lifsey Springs,President of the United States,,DEM,HILLARY CLINTON,88,2,36,49,1
+Pike,Williamson,President of the United States,,DEM,HILLARY CLINTON,118,6,40,72,0
+Pike,Zebulon,President of the United States,,DEM,HILLARY CLINTON,310,37,69,204,0
+Pike,,President of the United States,,IND,GARY JOHNSON,163,10,84,69,0
+Pike,Concord,President of the United States,,IND,GARY JOHNSON,13,0,6,7,0
+Pike,Hollonville,President of the United States,,IND,GARY JOHNSON,20,1,13,6,0
+Pike,Meansville,President of the United States,,IND,GARY JOHNSON,10,0,6,4,0
+Pike,Molena,President of the United States,,IND,GARY JOHNSON,24,1,11,12,0
+Pike,Second District,President of the United States,,IND,GARY JOHNSON,28,4,12,12,0
+Pike,Lifsey Springs,President of the United States,,IND,GARY JOHNSON,15,2,8,5,0
+Pike,Williamson,President of the United States,,IND,GARY JOHNSON,19,0,12,7,0
+Pike,Zebulon,President of the United States,,IND,GARY JOHNSON,34,2,16,16,0
 Pike,,United States Senator,,,JOHNNY ISAKSON ,6913,286,2532,4089,6
 Pike,Concord,United States Senator,,,JOHNNY ISAKSON ,665,22,283,359,1
 Pike,Hollonville,United States Senator,,,JOHNNY ISAKSON ,943,36,410,497,0

@@ -1,31 +1,31 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Greene,,President of the United States,,,DONALD J. TRUMP,5490,260,1435,3793,2
-Greene,Greensboro,President of the United States,,,DONALD J. TRUMP,708,24,142,541,1
-Greene,Greshamville,President of the United States,,,DONALD J. TRUMP,420,7,243,170,0
-Greene,Woodville,President of the United States,,,DONALD J. TRUMP,189,12,105,72,0
-Greene,Union Point,President of the United States,,,DONALD J. TRUMP,359,13,164,182,0
-Greene,Siloam,President of the United States,,,DONALD J. TRUMP,296,10,101,185,0
-Greene,White Plains,President of the United States,,,DONALD J. TRUMP,125,3,51,71,0
-Greene,Walker,President of the United States,,,DONALD J. TRUMP,1007,49,210,748,0
-Greene,Old Salem,President of the United States,,,DONALD J. TRUMP,2386,142,419,1824,1
-Greene,,President of the United States,,,HILLARY CLINTON,3199,391,1171,1633,4
-Greene,Greensboro,President of the United States,,,HILLARY CLINTON,1257,209,411,635,2
-Greene,Greshamville,President of the United States,,,HILLARY CLINTON,110,9,51,50,0
-Greene,Woodville,President of the United States,,,HILLARY CLINTON,184,16,113,55,0
-Greene,Union Point,President of the United States,,,HILLARY CLINTON,386,28,217,141,0
-Greene,Siloam,President of the United States,,,HILLARY CLINTON,360,32,190,138,0
-Greene,White Plains,President of the United States,,,HILLARY CLINTON,122,20,50,52,0
-Greene,Walker,President of the United States,,,HILLARY CLINTON,233,33,51,148,1
-Greene,Old Salem,President of the United States,,,HILLARY CLINTON,547,44,88,414,1
-Greene,,President of the United States,,,GARY JOHNSON,151,10,52,88,1
-Greene,Greensboro,President of the United States,,,GARY JOHNSON,37,5,12,19,1
-Greene,Greshamville,President of the United States,,,GARY JOHNSON,6,0,3,3,0
-Greene,Woodville,President of the United States,,,GARY JOHNSON,2,0,0,2,0
-Greene,Union Point,President of the United States,,,GARY JOHNSON,16,1,7,8,0
-Greene,Siloam,President of the United States,,,GARY JOHNSON,5,0,3,2,0
-Greene,White Plains,President of the United States,,,GARY JOHNSON,1,0,0,1,0
-Greene,Walker,President of the United States,,,GARY JOHNSON,25,3,7,15,0
-Greene,Old Salem,President of the United States,,,GARY JOHNSON,59,1,20,38,0
+Greene,,President of the United States,,REP,DONALD J. TRUMP,5490,260,1435,3793,2
+Greene,Greensboro,President of the United States,,REP,DONALD J. TRUMP,708,24,142,541,1
+Greene,Greshamville,President of the United States,,REP,DONALD J. TRUMP,420,7,243,170,0
+Greene,Woodville,President of the United States,,REP,DONALD J. TRUMP,189,12,105,72,0
+Greene,Union Point,President of the United States,,REP,DONALD J. TRUMP,359,13,164,182,0
+Greene,Siloam,President of the United States,,REP,DONALD J. TRUMP,296,10,101,185,0
+Greene,White Plains,President of the United States,,REP,DONALD J. TRUMP,125,3,51,71,0
+Greene,Walker,President of the United States,,REP,DONALD J. TRUMP,1007,49,210,748,0
+Greene,Old Salem,President of the United States,,REP,DONALD J. TRUMP,2386,142,419,1824,1
+Greene,,President of the United States,,DEM,HILLARY CLINTON,3199,391,1171,1633,4
+Greene,Greensboro,President of the United States,,DEM,HILLARY CLINTON,1257,209,411,635,2
+Greene,Greshamville,President of the United States,,DEM,HILLARY CLINTON,110,9,51,50,0
+Greene,Woodville,President of the United States,,DEM,HILLARY CLINTON,184,16,113,55,0
+Greene,Union Point,President of the United States,,DEM,HILLARY CLINTON,386,28,217,141,0
+Greene,Siloam,President of the United States,,DEM,HILLARY CLINTON,360,32,190,138,0
+Greene,White Plains,President of the United States,,DEM,HILLARY CLINTON,122,20,50,52,0
+Greene,Walker,President of the United States,,DEM,HILLARY CLINTON,233,33,51,148,1
+Greene,Old Salem,President of the United States,,DEM,HILLARY CLINTON,547,44,88,414,1
+Greene,,President of the United States,,IND,GARY JOHNSON,151,10,52,88,1
+Greene,Greensboro,President of the United States,,IND,GARY JOHNSON,37,5,12,19,1
+Greene,Greshamville,President of the United States,,IND,GARY JOHNSON,6,0,3,3,0
+Greene,Woodville,President of the United States,,IND,GARY JOHNSON,2,0,0,2,0
+Greene,Union Point,President of the United States,,IND,GARY JOHNSON,16,1,7,8,0
+Greene,Siloam,President of the United States,,IND,GARY JOHNSON,5,0,3,2,0
+Greene,White Plains,President of the United States,,IND,GARY JOHNSON,1,0,0,1,0
+Greene,Walker,President of the United States,,IND,GARY JOHNSON,25,3,7,15,0
+Greene,Old Salem,President of the United States,,IND,GARY JOHNSON,59,1,20,38,0
 Greene,,United States Senator,,,JOHNNY ISAKSON ,5735,296,1487,3950,2
 Greene,Greensboro,United States Senator,,,JOHNNY ISAKSON ,781,42,154,584,1
 Greene,Greshamville,United States Senator,,,JOHNNY ISAKSON ,404,10,226,168,0

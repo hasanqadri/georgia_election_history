@@ -1,40 +1,40 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Emanuel,,President of the United States,,,DONALD J. TRUMP,5335,217,2776,2337,5
-Emanuel,Oak Park,President of the United States,,,DONALD J. TRUMP,352,10,281,60,1
-Emanuel,Cross-Green,President of the United States,,,DONALD J. TRUMP,41,1,32,8,0
-Emanuel,Swainsboro,President of the United States,,,DONALD J. TRUMP,2345,125,724,1493,3
-Emanuel,Summertown,President of the United States,,,DONALD J. TRUMP,230,5,156,69,0
-Emanuel,Stillmore,President of the United States,,,DONALD J. TRUMP,170,3,122,45,0
-Emanuel,Blundale,President of the United States,,,DONALD J. TRUMP,466,16,256,194,0
-Emanuel,Canoochee,President of the United States,,,DONALD J. TRUMP,336,7,239,90,0
-Emanuel,Garfield,President of the United States,,,DONALD J. TRUMP,261,3,221,36,1
-Emanuel,Nunez,President of the United States,,,DONALD J. TRUMP,162,1,118,43,0
-Emanuel,Twin City,President of the United States,,,DONALD J. TRUMP,571,14,375,182,0
-Emanuel,Adrian,President of the United States,,,DONALD J. TRUMP,401,32,252,117,0
-Emanuel,,President of the United States,,,HILLARY CLINTON,2435,114,1326,993,2
-Emanuel,Oak Park,President of the United States,,,HILLARY CLINTON,21,1,10,10,0
-Emanuel,Cross-Green,President of the United States,,,HILLARY CLINTON,93,5,76,12,0
-Emanuel,Swainsboro,President of the United States,,,HILLARY CLINTON,1484,72,702,708,2
-Emanuel,Summertown,President of the United States,,,HILLARY CLINTON,90,7,48,35,0
-Emanuel,Stillmore,President of the United States,,,HILLARY CLINTON,145,5,106,34,0
-Emanuel,Blundale,President of the United States,,,HILLARY CLINTON,22,0,12,10,0
-Emanuel,Canoochee,President of the United States,,,HILLARY CLINTON,83,2,54,27,0
-Emanuel,Garfield,President of the United States,,,HILLARY CLINTON,53,1,37,15,0
-Emanuel,Nunez,President of the United States,,,HILLARY CLINTON,54,1,38,15,0
-Emanuel,Twin City,President of the United States,,,HILLARY CLINTON,322,10,200,112,0
-Emanuel,Adrian,President of the United States,,,HILLARY CLINTON,68,10,43,15,0
-Emanuel,,President of the United States,,,GARY JOHNSON,75,4,40,31,0
-Emanuel,Oak Park,President of the United States,,,GARY JOHNSON,4,0,4,0,0
-Emanuel,Cross-Green,President of the United States,,,GARY JOHNSON,0,0,0,0,0
-Emanuel,Swainsboro,President of the United States,,,GARY JOHNSON,41,2,20,19,0
-Emanuel,Summertown,President of the United States,,,GARY JOHNSON,1,0,1,0,0
-Emanuel,Stillmore,President of the United States,,,GARY JOHNSON,3,0,2,1,0
-Emanuel,Blundale,President of the United States,,,GARY JOHNSON,3,0,1,2,0
-Emanuel,Canoochee,President of the United States,,,GARY JOHNSON,4,1,2,1,0
-Emanuel,Garfield,President of the United States,,,GARY JOHNSON,5,0,4,1,0
-Emanuel,Nunez,President of the United States,,,GARY JOHNSON,1,0,1,0,0
-Emanuel,Twin City,President of the United States,,,GARY JOHNSON,11,1,4,6,0
-Emanuel,Adrian,President of the United States,,,GARY JOHNSON,2,0,1,1,0
+Emanuel,,President of the United States,,REP,DONALD J. TRUMP,5335,217,2776,2337,5
+Emanuel,Oak Park,President of the United States,,REP,DONALD J. TRUMP,352,10,281,60,1
+Emanuel,Cross-Green,President of the United States,,REP,DONALD J. TRUMP,41,1,32,8,0
+Emanuel,Swainsboro,President of the United States,,REP,DONALD J. TRUMP,2345,125,724,1493,3
+Emanuel,Summertown,President of the United States,,REP,DONALD J. TRUMP,230,5,156,69,0
+Emanuel,Stillmore,President of the United States,,REP,DONALD J. TRUMP,170,3,122,45,0
+Emanuel,Blundale,President of the United States,,REP,DONALD J. TRUMP,466,16,256,194,0
+Emanuel,Canoochee,President of the United States,,REP,DONALD J. TRUMP,336,7,239,90,0
+Emanuel,Garfield,President of the United States,,REP,DONALD J. TRUMP,261,3,221,36,1
+Emanuel,Nunez,President of the United States,,REP,DONALD J. TRUMP,162,1,118,43,0
+Emanuel,Twin City,President of the United States,,REP,DONALD J. TRUMP,571,14,375,182,0
+Emanuel,Adrian,President of the United States,,REP,DONALD J. TRUMP,401,32,252,117,0
+Emanuel,,President of the United States,,DEM,HILLARY CLINTON,2435,114,1326,993,2
+Emanuel,Oak Park,President of the United States,,DEM,HILLARY CLINTON,21,1,10,10,0
+Emanuel,Cross-Green,President of the United States,,DEM,HILLARY CLINTON,93,5,76,12,0
+Emanuel,Swainsboro,President of the United States,,DEM,HILLARY CLINTON,1484,72,702,708,2
+Emanuel,Summertown,President of the United States,,DEM,HILLARY CLINTON,90,7,48,35,0
+Emanuel,Stillmore,President of the United States,,DEM,HILLARY CLINTON,145,5,106,34,0
+Emanuel,Blundale,President of the United States,,DEM,HILLARY CLINTON,22,0,12,10,0
+Emanuel,Canoochee,President of the United States,,DEM,HILLARY CLINTON,83,2,54,27,0
+Emanuel,Garfield,President of the United States,,DEM,HILLARY CLINTON,53,1,37,15,0
+Emanuel,Nunez,President of the United States,,DEM,HILLARY CLINTON,54,1,38,15,0
+Emanuel,Twin City,President of the United States,,DEM,HILLARY CLINTON,322,10,200,112,0
+Emanuel,Adrian,President of the United States,,DEM,HILLARY CLINTON,68,10,43,15,0
+Emanuel,,President of the United States,,IND,GARY JOHNSON,75,4,40,31,0
+Emanuel,Oak Park,President of the United States,,IND,GARY JOHNSON,4,0,4,0,0
+Emanuel,Cross-Green,President of the United States,,IND,GARY JOHNSON,0,0,0,0,0
+Emanuel,Swainsboro,President of the United States,,IND,GARY JOHNSON,41,2,20,19,0
+Emanuel,Summertown,President of the United States,,IND,GARY JOHNSON,1,0,1,0,0
+Emanuel,Stillmore,President of the United States,,IND,GARY JOHNSON,3,0,2,1,0
+Emanuel,Blundale,President of the United States,,IND,GARY JOHNSON,3,0,1,2,0
+Emanuel,Canoochee,President of the United States,,IND,GARY JOHNSON,4,1,2,1,0
+Emanuel,Garfield,President of the United States,,IND,GARY JOHNSON,5,0,4,1,0
+Emanuel,Nunez,President of the United States,,IND,GARY JOHNSON,1,0,1,0,0
+Emanuel,Twin City,President of the United States,,IND,GARY JOHNSON,11,1,4,6,0
+Emanuel,Adrian,President of the United States,,IND,GARY JOHNSON,2,0,1,1,0
 Emanuel,,United States Senator,,,JOHNNY ISAKSON ,5062,222,2633,2202,5
 Emanuel,Oak Park,United States Senator,,,JOHNNY ISAKSON ,318,11,254,52,1
 Emanuel,Cross-Green,United States Senator,,,JOHNNY ISAKSON ,42,1,33,8,0

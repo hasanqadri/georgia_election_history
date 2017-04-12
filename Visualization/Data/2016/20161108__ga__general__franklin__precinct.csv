@@ -1,28 +1,28 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Franklin,,President of the United States,,,DONALD J. TRUMP,7054,316,3332,3406,0
-Franklin,Carnesville,President of the United States,,,DONALD J. TRUMP,1216,50,441,725,0
-Franklin,West Franklin,President of the United States,,,DONALD J. TRUMP,812,33,388,391,0
-Franklin,NorthEast Franklin,President of the United States,,,DONALD J. TRUMP,1276,70,628,578,0
-Franklin,Lavonia,President of the United States,,,DONALD J. TRUMP,963,36,453,474,0
-Franklin,Canon,President of the United States,,,DONALD J. TRUMP,608,24,371,213,0
-Franklin,Royston,President of the United States,,,DONALD J. TRUMP,921,50,456,415,0
-Franklin,SouthWest Franklin,President of the United States,,,DONALD J. TRUMP,1258,53,595,610,0
-Franklin,,President of the United States,,,HILLARY CLINTON,1243,87,633,523,0
-Franklin,Carnesville,President of the United States,,,HILLARY CLINTON,144,11,45,88,0
-Franklin,West Franklin,President of the United States,,,HILLARY CLINTON,120,8,58,54,0
-Franklin,NorthEast Franklin,President of the United States,,,HILLARY CLINTON,216,10,137,69,0
-Franklin,Lavonia,President of the United States,,,HILLARY CLINTON,294,23,158,113,0
-Franklin,Canon,President of the United States,,,HILLARY CLINTON,86,6,53,27,0
-Franklin,Royston,President of the United States,,,HILLARY CLINTON,251,19,130,102,0
-Franklin,SouthWest Franklin,President of the United States,,,HILLARY CLINTON,132,10,52,70,0
-Franklin,,President of the United States,,,GARY JOHNSON,177,11,110,56,0
-Franklin,Carnesville,President of the United States,,,GARY JOHNSON,20,2,9,9,0
-Franklin,West Franklin,President of the United States,,,GARY JOHNSON,17,0,13,4,0
-Franklin,NorthEast Franklin,President of the United States,,,GARY JOHNSON,40,3,26,11,0
-Franklin,Lavonia,President of the United States,,,GARY JOHNSON,27,2,14,11,0
-Franklin,Canon,President of the United States,,,GARY JOHNSON,12,0,8,4,0
-Franklin,Royston,President of the United States,,,GARY JOHNSON,31,4,20,7,0
-Franklin,SouthWest Franklin,President of the United States,,,GARY JOHNSON,30,0,20,10,0
+Franklin,,President of the United States,,REP,DONALD J. TRUMP,7054,316,3332,3406,0
+Franklin,Carnesville,President of the United States,,REP,DONALD J. TRUMP,1216,50,441,725,0
+Franklin,West Franklin,President of the United States,,REP,DONALD J. TRUMP,812,33,388,391,0
+Franklin,NorthEast Franklin,President of the United States,,REP,DONALD J. TRUMP,1276,70,628,578,0
+Franklin,Lavonia,President of the United States,,REP,DONALD J. TRUMP,963,36,453,474,0
+Franklin,Canon,President of the United States,,REP,DONALD J. TRUMP,608,24,371,213,0
+Franklin,Royston,President of the United States,,REP,DONALD J. TRUMP,921,50,456,415,0
+Franklin,SouthWest Franklin,President of the United States,,REP,DONALD J. TRUMP,1258,53,595,610,0
+Franklin,,President of the United States,,DEM,HILLARY CLINTON,1243,87,633,523,0
+Franklin,Carnesville,President of the United States,,DEM,HILLARY CLINTON,144,11,45,88,0
+Franklin,West Franklin,President of the United States,,DEM,HILLARY CLINTON,120,8,58,54,0
+Franklin,NorthEast Franklin,President of the United States,,DEM,HILLARY CLINTON,216,10,137,69,0
+Franklin,Lavonia,President of the United States,,DEM,HILLARY CLINTON,294,23,158,113,0
+Franklin,Canon,President of the United States,,DEM,HILLARY CLINTON,86,6,53,27,0
+Franklin,Royston,President of the United States,,DEM,HILLARY CLINTON,251,19,130,102,0
+Franklin,SouthWest Franklin,President of the United States,,DEM,HILLARY CLINTON,132,10,52,70,0
+Franklin,,President of the United States,,IND,GARY JOHNSON,177,11,110,56,0
+Franklin,Carnesville,President of the United States,,IND,GARY JOHNSON,20,2,9,9,0
+Franklin,West Franklin,President of the United States,,IND,GARY JOHNSON,17,0,13,4,0
+Franklin,NorthEast Franklin,President of the United States,,IND,GARY JOHNSON,40,3,26,11,0
+Franklin,Lavonia,President of the United States,,IND,GARY JOHNSON,27,2,14,11,0
+Franklin,Canon,President of the United States,,IND,GARY JOHNSON,12,0,8,4,0
+Franklin,Royston,President of the United States,,IND,GARY JOHNSON,31,4,20,7,0
+Franklin,SouthWest Franklin,President of the United States,,IND,GARY JOHNSON,30,0,20,10,0
 Franklin,,United States Senator,,,JOHNNY ISAKSON ,6488,323,3016,3149,0
 Franklin,Carnesville,United States Senator,,,JOHNNY ISAKSON ,1117,56,401,660,0
 Franklin,West Franklin,United States Senator,,,JOHNNY ISAKSON ,706,29,327,350,0

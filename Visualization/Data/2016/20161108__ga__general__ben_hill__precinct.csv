@@ -1,13 +1,13 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Ben Hill,,President of the United States,,,DONALD J. TRUMP,3739,115,907,2712,5
-Ben Hill,East,President of the United States,,,DONALD J. TRUMP,1090,28,233,827,2
-Ben Hill,West,President of the United States,,,DONALD J. TRUMP,2649,87,674,1885,3
-Ben Hill,,President of the United States,,,HILLARY CLINTON,2101,117,670,1311,3
-Ben Hill,East,President of the United States,,,HILLARY CLINTON,1114,67,378,669,0
-Ben Hill,West,President of the United States,,,HILLARY CLINTON,987,50,292,642,3
-Ben Hill,,President of the United States,,,GARY JOHNSON,91,11,33,47,0
-Ben Hill,East,President of the United States,,,GARY JOHNSON,28,3,7,18,0
-Ben Hill,West,President of the United States,,,GARY JOHNSON,63,8,26,29,0
+Ben Hill,,President of the United States,,REP,DONALD J. TRUMP,3739,115,907,2712,5
+Ben Hill,East,President of the United States,,REP,DONALD J. TRUMP,1090,28,233,827,2
+Ben Hill,West,President of the United States,,REP,DONALD J. TRUMP,2649,87,674,1885,3
+Ben Hill,,President of the United States,,DEM,HILLARY CLINTON,2101,117,670,1311,3
+Ben Hill,East,President of the United States,,DEM,HILLARY CLINTON,1114,67,378,669,0
+Ben Hill,West,President of the United States,,DEM,HILLARY CLINTON,987,50,292,642,3
+Ben Hill,,President of the United States,,IND,GARY JOHNSON,91,11,33,47,0
+Ben Hill,East,President of the United States,,IND,GARY JOHNSON,28,3,7,18,0
+Ben Hill,West,President of the United States,,IND,GARY JOHNSON,63,8,26,29,0
 Ben Hill,,United States Senator,,,JOHNNY ISAKSON ,3589,122,873,2589,5
 Ben Hill,East,United States Senator,,,JOHNNY ISAKSON ,1060,30,238,790,2
 Ben Hill,West,United States Senator,,,JOHNNY ISAKSON ,2529,92,635,1799,3
