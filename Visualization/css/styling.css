@@ -11,7 +11,7 @@ h1 {
 }
 
 h3 {
-  font-family:arial;  
+  font-family:arial;
   color:#333;
 }
 
@@ -41,5 +41,6 @@ h3 {
 
 
 .counties:hover {
-  fill: steelblue;
+  /*fill: steelblue;*/
+  opacity: .5;
 }

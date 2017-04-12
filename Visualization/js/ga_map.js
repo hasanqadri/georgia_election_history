@@ -34,7 +34,12 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
 		.enter()
 		.append('path')
 		.attr('class', 'counties')
+		.attr("id", function (d) {return "county-" + d.properties.NAME_2})
 		.attr('d', path)
+		.style('fill', function(d) {
+			var countyName = d.properties.NAME_2;
+			determineElectionWinner(countyName);
+		})
 		.on('mouseover', function(d){
 			var countyName = d.properties.NAME_2;
 			displayStatistics(countyName);
@@ -43,9 +48,50 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
 
 });
 
-function displayStatistics(countyName) {
-	// County names that have spaces in them have an underscore instead in the
-	// CSV title. So, we get rid of spaces and replace with underscore.
+function determineElectionWinner(countyName) {
+	csvName = getCSVName(countyName);
+	//var color;
+	d3.csv(csvName, function(error, data) {
+		var groupByOffice = d3.nest()
+													.key(function(d) {return d.office})
+													.entries(data);
+		presCandidateVotes = getVotesByOffice(groupByOffice, 'President of the United States');
+		var maxParty = presCandidateVotes[0].party;
+		var maxVotes = presCandidateVotes[0].votes;
+		for (var i = 1; i < presCandidateVotes.length; i++) {
+			curParty = presCandidateVotes[i].party;
+			curVotes = +presCandidateVotes[i].votes;
+			if (curVotes > maxVotes) {
+				maxVotes = curVotes;
+				maxParty = curParty;
+			}
+		}
+		var countyElement = document.getElementById('county-' + countyName);
+		if (maxParty == "REP") {
+			countyElement.style.fill = "#c91f10"
+		}
+		if (maxParty == "DEM") {
+			countyElement.style.fill = "#121faa"
+		}
+		if (maxParty == "IND") {
+			countyElement.style.fill = "green"
+		}
+	});
+}
+
+// This function determines what date the election was held based on
+// The year and the office
+function getElectionDate(office, year) {
+	if (office == 'President') {
+		if (year == 2016) return '1108';
+		if (year == 2012) return '1106';
+		if (year == 2008) return '1104';
+		if (year == 2004) return '1102';
+		if (year == 2000) return '1107';
+	}
+}
+
+function getCSVName(countyName) {
 	countyName = countyName.replace(' ', '_');
 
 	// Getting the value of the dropdown. Got it from:
@@ -58,6 +104,11 @@ function displayStatistics(countyName) {
 
 	var csvName = '/Data/' + yearSelected + '/' + yearSelected
 								+ electionDate + '__ga__general__' + countyName + '__precinct.csv';
+	return csvName;
+}
+
+function displayStatistics(countyName) {
+	csvName = getCSVName(countyName);
 
 	d3.csv(csvName, function(error, data) {
 		var groupByOffice = d3.nest()
@@ -73,30 +124,18 @@ function displayStatistics(countyName) {
 		document.getElementById('voteInfoName').innerHTML = voteSummaryString;
 	});
 
-	// This function determines what date the election was held based on
-	// The year and the office
-	function getElectionDate(office, year) {
-		if (office == 'President') {
-			if (year == 2016) return '1108';
-			if (year == 2012) return '1106';
-			if (year == 2008) return '1104';
-			if (year == 2004) return '1102';
-			if (year == 2000) return '1107';
+}
+
+// This function takes an array that has all the votes by office of a
+// certain county.
+function getVotesByOffice(groupedVotes, office) {
+	for (var i = 0; i < groupedVotes.length; i++) {
+		if (groupedVotes[i].key == office) {
+			// The csv files are structured such that rows that have no
+			// 'precinct' values are aggregate rows.
+			return groupedVotes[i].values.filter(function (d) {
+				return d.precinct == ''
+			});
 		}
 	}
-
-	// This function takes an array that has all the votes by office of a
-	// certain county.
-	function getVotesByOffice(groupedVotes, office) {
-		for (var i = 0; i < groupedVotes.length; i++) {
-			if (groupedVotes[i].key == office) {
-				// The csv files are structured such that rows that have no
-				// 'precinct' values are aggregate rows.
-				return groupedVotes[i].values.filter(function (d) {
-					return d.precinct == ''
-				});
-			}
-		}
-	}
-
 }
