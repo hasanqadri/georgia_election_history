@@ -10,10 +10,6 @@ var svg = d3.select(".ga-map").append("svg")
 			.attr("width", width)
 			.attr("height", height);
 
-// var projection = d3.geo.albersUsa()
-//     .scale(1070) // size, bigger is bigger
-//     .translate([width / 2, height / 2]);
-
 var projection = d3.geo.mercator()
         .translate([11212.5, 4912.5])
         .scale(7500);
@@ -22,8 +18,8 @@ var path = d3.geo.path()
         .projection(projection);
 
 
-
 d3.json('/Data/Geo/ga.json', function(error, data) {
+
 	console.log(data);
 	chartData.georgia = topojson.feature(data, data.objects.states);
   chartData.counties = topojson.feature(data, data.objects.counties);
@@ -44,12 +40,6 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
 			displayStatistics(countyName);
 			return document.getElementById('name').innerHTML=countyName;
 		});
-
-   // svg.append('path')
-   //    .datum(topojson.mesh(data, data.objects.counties, function(a, b) { return a.properties.NAME_2 !== b.properties.NAME_2;}))
-   //    .attr('d', path)
-   //    .attr('class', 'county-boundary');
-
 
 });
 
