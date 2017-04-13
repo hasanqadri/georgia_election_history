@@ -44,3 +44,7 @@ h3 {
   /*fill: steelblue;*/
   opacity: .5;
 }
+
+.bot {
+    padding-bottom: 100px;
+}
