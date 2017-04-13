@@ -73,18 +73,26 @@ function determineElectionWinner(countyName) {
 				maxParty = curParty;
 			}
 		}
-		var countyElement = document.getElementById('county-' + countyName);
+		//var countyElement = document.getElementById('county-' + countyName);
 		if (maxParty.includes("R")) {
-			console.log(countyName)
-			countyElement.style.fill = "#c91f10"
+			//console.log(countyName)
+			//countyElement.style.fill = "#c91f10"
+			d3.select('#county-' + countyName)
+			.transition(10000)
+			.style("fill", "#c91f10");
 		}
 		if (maxParty.includes("D")) {
-			countyElement.style.fill = "#121faa"
+			d3.select('#county-' + countyName)
+			.transition(1000)
+			.style("fill", "#121faa");
 		}
 		// For independents, some csv files have the party as "IND", while others
 		// have only the letter "L"
 		if (maxParty.includes("I") || maxParty.includes("L")) {
-			countyElement.style.fill = "green"
+			//countyElement.style.fill = "green"
+			d3.select('#county-' + countyName)
+			.transition(1000)
+			.style("fill", "green");
 		}
 	});
 }
