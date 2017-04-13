@@ -23,12 +23,6 @@
 <!-- add divs here-->
 <!-- <br> -->
 
-<div>
-	<select id="yearDropdown" onchange="updateElectionColors()">
-	  <option value="2016">2016</option>
-    <option value="2012">2012</option>
-	</select>
-
 <!-- Navbar (sit on top) -->
 <div class="w3-top " >
     <ul class="w3-navbar w3-grey w3-wide w3-padding-0 w3-card-2">
@@ -41,7 +35,7 @@
 <!-- Selector for years -->
 
 <div class = "w3-margin-top-50 w3-margin-left">
-    <select class = "w3-select" id="yearDropdown">
+    <select class = "w3-select" id="yearDropdown" onchange="updateElectionColors()">
         <option value="2016">2016</option>
         <option value="2012">2012</option>
     </select>
