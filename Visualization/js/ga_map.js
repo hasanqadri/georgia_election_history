@@ -20,9 +20,15 @@ var path = d3.geo.path()
 
 d3.json('/Data/Geo/ga.json', function(error, data) {
 
-	console.log(data);
+	chartData.countyNames = []
+	// Getting the names of all the counties and storing them so that they can
+	// be used later on
+	data.objects.counties.geometries.forEach(function(d, i) {
+		chartData.countyNames[i] = d.properties.NAME_2
+	});
 	chartData.georgia = topojson.feature(data, data.objects.states);
   chartData.counties = topojson.feature(data, data.objects.counties);
+	console.log(chartData)
 
 	svg.append('path')
 	   .datum(chartData.georgia)
@@ -49,6 +55,7 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
 });
 
 function determineElectionWinner(countyName) {
+	//console.log("called")
 	csvName = getCSVName(countyName);
 	//var color;
 	d3.csv(csvName, function(error, data) {
@@ -67,14 +74,27 @@ function determineElectionWinner(countyName) {
 			}
 		}
 		var countyElement = document.getElementById('county-' + countyName);
-		if (maxParty == "REP") {
+		if (maxParty.includes("R")) {
+			console.log(countyName)
 			countyElement.style.fill = "#c91f10"
 		}
-		if (maxParty == "DEM") {
+		if (maxParty.includes("D")) {
 			countyElement.style.fill = "#121faa"
 		}
-		if (maxParty == "IND") {
+		// For independents, some csv files have the party as "IND", while others
+		// have only the letter "L"
+		if (maxParty.includes("I") || maxParty.includes("L")) {
 			countyElement.style.fill = "green"
+		}
+	});
+}
+
+function updateElectionColors() {
+	console.log("called")
+	svg.selectAll('.counties').forEach( function(d) {
+		for (var i = 0; i < chartData.countyNames.length; i++) {
+			var countyName = chartData.countyNames[i];
+			determineElectionWinner(countyName);
 		}
 	});
 }
