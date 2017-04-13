@@ -1,22 +1,22 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Jenkins,,President of the United States,,,DONALD J. TRUMP,1895,95,728,1069,3
-Jenkins,Jenkins Co Prim/Elem,President of the United States,,,DONALD J. TRUMP,237,12,77,148,0
-Jenkins,Court House,President of the United States,,,DONALD J. TRUMP,271,17,62,192,0
-Jenkins,Perkins,President of the United States,,,DONALD J. TRUMP,450,26,161,261,2
-Jenkins,Senior Citizens Bld,President of the United States,,,DONALD J. TRUMP,537,26,207,304,0
-Jenkins,Four Points,President of the United States,,,DONALD J. TRUMP,400,14,221,164,1
-Jenkins,,President of the United States,,,HILLARY CLINTON,1123,78,529,501,15
-Jenkins,Jenkins Co Prim/Elem,President of the United States,,,HILLARY CLINTON,337,29,176,130,2
-Jenkins,Court House,President of the United States,,,HILLARY CLINTON,344,24,128,188,4
-Jenkins,Perkins,President of the United States,,,HILLARY CLINTON,156,9,63,79,5
-Jenkins,Senior Citizens Bld,President of the United States,,,HILLARY CLINTON,91,10,33,48,0
-Jenkins,Four Points,President of the United States,,,HILLARY CLINTON,195,6,129,56,4
-Jenkins,,President of the United States,,,GARY JOHNSON,34,2,12,20,0
-Jenkins,Jenkins Co Prim/Elem,President of the United States,,,GARY JOHNSON,10,1,4,5,0
-Jenkins,Court House,President of the United States,,,GARY JOHNSON,6,0,2,4,0
-Jenkins,Perkins,President of the United States,,,GARY JOHNSON,7,1,1,5,0
-Jenkins,Senior Citizens Bld,President of the United States,,,GARY JOHNSON,6,0,2,4,0
-Jenkins,Four Points,President of the United States,,,GARY JOHNSON,5,0,3,2,0
+Jenkins,,President of the United States,,REP,DONALD J. TRUMP,1895,95,728,1069,3
+Jenkins,Jenkins Co Prim/Elem,President of the United States,,REP,DONALD J. TRUMP,237,12,77,148,0
+Jenkins,Court House,President of the United States,,REP,DONALD J. TRUMP,271,17,62,192,0
+Jenkins,Perkins,President of the United States,,REP,DONALD J. TRUMP,450,26,161,261,2
+Jenkins,Senior Citizens Bld,President of the United States,,REP,DONALD J. TRUMP,537,26,207,304,0
+Jenkins,Four Points,President of the United States,,REP,DONALD J. TRUMP,400,14,221,164,1
+Jenkins,,President of the United States,,DEM,HILLARY CLINTON,1123,78,529,501,15
+Jenkins,Jenkins Co Prim/Elem,President of the United States,,DEM,HILLARY CLINTON,337,29,176,130,2
+Jenkins,Court House,President of the United States,,DEM,HILLARY CLINTON,344,24,128,188,4
+Jenkins,Perkins,President of the United States,,DEM,HILLARY CLINTON,156,9,63,79,5
+Jenkins,Senior Citizens Bld,President of the United States,,DEM,HILLARY CLINTON,91,10,33,48,0
+Jenkins,Four Points,President of the United States,,DEM,HILLARY CLINTON,195,6,129,56,4
+Jenkins,,President of the United States,,IND,GARY JOHNSON,34,2,12,20,0
+Jenkins,Jenkins Co Prim/Elem,President of the United States,,IND,GARY JOHNSON,10,1,4,5,0
+Jenkins,Court House,President of the United States,,IND,GARY JOHNSON,6,0,2,4,0
+Jenkins,Perkins,President of the United States,,IND,GARY JOHNSON,7,1,1,5,0
+Jenkins,Senior Citizens Bld,President of the United States,,IND,GARY JOHNSON,6,0,2,4,0
+Jenkins,Four Points,President of the United States,,IND,GARY JOHNSON,5,0,3,2,0
 Jenkins,,United States Senator,,,JOHNNY ISAKSON ,1826,93,701,1030,2
 Jenkins,Jenkins Co Prim/Elem,United States Senator,,,JOHNNY ISAKSON ,238,13,88,137,0
 Jenkins,Court House,United States Senator,,,JOHNNY ISAKSON ,276,14,64,198,0

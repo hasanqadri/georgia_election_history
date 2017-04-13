@@ -1,28 +1,28 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Peach,,President of the United States,,,DONALD J. TRUMP,5413,169,1481,3755,8
-Peach,BYRON #1,President of the United States,,,DONALD J. TRUMP,1216,19,290,903,4
-Peach,BYRON #2,President of the United States,,,DONALD J. TRUMP,1834,48,424,1359,3
-Peach,CLAUDE,President of the United States,,,DONALD J. TRUMP,442,13,220,209,0
-Peach,FORT VALLEY #1,President of the United States,,,DONALD J. TRUMP,610,45,143,422,0
-Peach,FORT VALLEY #2,President of the United States,,,DONALD J. TRUMP,442,17,104,321,0
-Peach,FORT VALLEY #3,President of the United States,,,DONALD J. TRUMP,204,8,37,158,1
-Peach,POWERSVILLE,President of the United States,,,DONALD J. TRUMP,665,19,263,383,0
-Peach,,President of the United States,,,HILLARY CLINTON,5100,186,1669,3228,17
-Peach,BYRON #1,President of the United States,,,HILLARY CLINTON,443,10,116,316,1
-Peach,BYRON #2,President of the United States,,,HILLARY CLINTON,947,21,275,650,1
-Peach,CLAUDE,President of the United States,,,HILLARY CLINTON,102,4,47,48,3
-Peach,FORT VALLEY #1,President of the United States,,,HILLARY CLINTON,889,28,288,568,5
-Peach,FORT VALLEY #2,President of the United States,,,HILLARY CLINTON,950,50,313,585,2
-Peach,FORT VALLEY #3,President of the United States,,,HILLARY CLINTON,1575,66,569,937,3
-Peach,POWERSVILLE,President of the United States,,,HILLARY CLINTON,194,7,61,124,2
-Peach,,President of the United States,,,GARY JOHNSON,211,8,98,105,0
-Peach,BYRON #1,President of the United States,,,GARY JOHNSON,37,0,21,16,0
-Peach,BYRON #2,President of the United States,,,GARY JOHNSON,68,4,25,39,0
-Peach,CLAUDE,President of the United States,,,GARY JOHNSON,11,0,8,3,0
-Peach,FORT VALLEY #1,President of the United States,,,GARY JOHNSON,33,2,13,18,0
-Peach,FORT VALLEY #2,President of the United States,,,GARY JOHNSON,20,1,12,7,0
-Peach,FORT VALLEY #3,President of the United States,,,GARY JOHNSON,25,1,7,17,0
-Peach,POWERSVILLE,President of the United States,,,GARY JOHNSON,17,0,12,5,0
+Peach,,President of the United States,,REP,DONALD J. TRUMP,5413,169,1481,3755,8
+Peach,BYRON #1,President of the United States,,REP,DONALD J. TRUMP,1216,19,290,903,4
+Peach,BYRON #2,President of the United States,,REP,DONALD J. TRUMP,1834,48,424,1359,3
+Peach,CLAUDE,President of the United States,,REP,DONALD J. TRUMP,442,13,220,209,0
+Peach,FORT VALLEY #1,President of the United States,,REP,DONALD J. TRUMP,610,45,143,422,0
+Peach,FORT VALLEY #2,President of the United States,,REP,DONALD J. TRUMP,442,17,104,321,0
+Peach,FORT VALLEY #3,President of the United States,,REP,DONALD J. TRUMP,204,8,37,158,1
+Peach,POWERSVILLE,President of the United States,,REP,DONALD J. TRUMP,665,19,263,383,0
+Peach,,President of the United States,,DEM,HILLARY CLINTON,5100,186,1669,3228,17
+Peach,BYRON #1,President of the United States,,DEM,HILLARY CLINTON,443,10,116,316,1
+Peach,BYRON #2,President of the United States,,DEM,HILLARY CLINTON,947,21,275,650,1
+Peach,CLAUDE,President of the United States,,DEM,HILLARY CLINTON,102,4,47,48,3
+Peach,FORT VALLEY #1,President of the United States,,DEM,HILLARY CLINTON,889,28,288,568,5
+Peach,FORT VALLEY #2,President of the United States,,DEM,HILLARY CLINTON,950,50,313,585,2
+Peach,FORT VALLEY #3,President of the United States,,DEM,HILLARY CLINTON,1575,66,569,937,3
+Peach,POWERSVILLE,President of the United States,,DEM,HILLARY CLINTON,194,7,61,124,2
+Peach,,President of the United States,,IND,GARY JOHNSON,211,8,98,105,0
+Peach,BYRON #1,President of the United States,,IND,GARY JOHNSON,37,0,21,16,0
+Peach,BYRON #2,President of the United States,,IND,GARY JOHNSON,68,4,25,39,0
+Peach,CLAUDE,President of the United States,,IND,GARY JOHNSON,11,0,8,3,0
+Peach,FORT VALLEY #1,President of the United States,,IND,GARY JOHNSON,33,2,13,18,0
+Peach,FORT VALLEY #2,President of the United States,,IND,GARY JOHNSON,20,1,12,7,0
+Peach,FORT VALLEY #3,President of the United States,,IND,GARY JOHNSON,25,1,7,17,0
+Peach,POWERSVILLE,President of the United States,,IND,GARY JOHNSON,17,0,12,5,0
 Peach,,United States Senator,,,JOHNNY ISAKSON ,5419,173,1513,3723,10
 Peach,BYRON #1,United States Senator,,,JOHNNY ISAKSON ,1163,23,282,854,4
 Peach,BYRON #2,United States Senator,,,JOHNNY ISAKSON ,1776,47,429,1296,4

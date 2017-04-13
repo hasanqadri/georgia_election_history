@@ -1,31 +1,31 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Washington,,President of the United States,,,DONALD J. TRUMP,4149,256,1779,2103,11
-Washington,RIDDLEVILLE,President of the United States,,,DONALD J. TRUMP,285,12,178,95,0
-Washington,WARTHEN,President of the United States,,,DONALD J. TRUMP,284,11,179,91,3
-Washington,TENNILLE,President of the United States,,,DONALD J. TRUMP,641,23,266,352,0
-Washington,OCONEE,President of the United States,,,DONALD J. TRUMP,201,11,130,60,0
-Washington,HARRISON,President of the United States,,,DONALD J. TRUMP,423,25,217,180,1
-Washington,DAVISBORO,President of the United States,,,DONALD J. TRUMP,306,19,174,112,1
-Washington,SANDERSVILLE,President of the United States,,,DONALD J. TRUMP,1738,139,456,1137,6
-Washington,DEEPSTEP,President of the United States,,,DONALD J. TRUMP,271,16,179,76,0
-Washington,,President of the United States,,,HILLARY CLINTON,4200,444,1824,1919,13
-Washington,RIDDLEVILLE,President of the United States,,,HILLARY CLINTON,135,10,79,46,0
-Washington,WARTHEN,President of the United States,,,HILLARY CLINTON,218,11,129,77,1
-Washington,TENNILLE,President of the United States,,,HILLARY CLINTON,880,65,398,413,4
-Washington,OCONEE,President of the United States,,,HILLARY CLINTON,174,23,81,70,0
-Washington,HARRISON,President of the United States,,,HILLARY CLINTON,231,40,127,64,0
-Washington,DAVISBORO,President of the United States,,,HILLARY CLINTON,267,50,152,63,2
-Washington,SANDERSVILLE,President of the United States,,,HILLARY CLINTON,2194,227,812,1149,6
-Washington,DEEPSTEP,President of the United States,,,HILLARY CLINTON,101,18,46,37,0
-Washington,,President of the United States,,,GARY JOHNSON,98,12,43,42,1
-Washington,RIDDLEVILLE,President of the United States,,,GARY JOHNSON,7,2,1,4,0
-Washington,WARTHEN,President of the United States,,,GARY JOHNSON,5,1,3,1,0
-Washington,TENNILLE,President of the United States,,,GARY JOHNSON,18,2,11,5,0
-Washington,OCONEE,President of the United States,,,GARY JOHNSON,3,1,1,1,0
-Washington,HARRISON,President of the United States,,,GARY JOHNSON,9,0,6,3,0
-Washington,DAVISBORO,President of the United States,,,GARY JOHNSON,4,1,1,2,0
-Washington,SANDERSVILLE,President of the United States,,,GARY JOHNSON,50,5,18,26,1
-Washington,DEEPSTEP,President of the United States,,,GARY JOHNSON,2,0,2,0,0
+Washington,,President of the United States,,REP,DONALD J. TRUMP,4149,256,1779,2103,11
+Washington,RIDDLEVILLE,President of the United States,,REP,DONALD J. TRUMP,285,12,178,95,0
+Washington,WARTHEN,President of the United States,,REP,DONALD J. TRUMP,284,11,179,91,3
+Washington,TENNILLE,President of the United States,,REP,DONALD J. TRUMP,641,23,266,352,0
+Washington,OCONEE,President of the United States,,REP,DONALD J. TRUMP,201,11,130,60,0
+Washington,HARRISON,President of the United States,,REP,DONALD J. TRUMP,423,25,217,180,1
+Washington,DAVISBORO,President of the United States,,REP,DONALD J. TRUMP,306,19,174,112,1
+Washington,SANDERSVILLE,President of the United States,,REP,DONALD J. TRUMP,1738,139,456,1137,6
+Washington,DEEPSTEP,President of the United States,,REP,DONALD J. TRUMP,271,16,179,76,0
+Washington,,President of the United States,,DEM,HILLARY CLINTON,4200,444,1824,1919,13
+Washington,RIDDLEVILLE,President of the United States,,DEM,HILLARY CLINTON,135,10,79,46,0
+Washington,WARTHEN,President of the United States,,DEM,HILLARY CLINTON,218,11,129,77,1
+Washington,TENNILLE,President of the United States,,DEM,HILLARY CLINTON,880,65,398,413,4
+Washington,OCONEE,President of the United States,,DEM,HILLARY CLINTON,174,23,81,70,0
+Washington,HARRISON,President of the United States,,DEM,HILLARY CLINTON,231,40,127,64,0
+Washington,DAVISBORO,President of the United States,,DEM,HILLARY CLINTON,267,50,152,63,2
+Washington,SANDERSVILLE,President of the United States,,DEM,HILLARY CLINTON,2194,227,812,1149,6
+Washington,DEEPSTEP,President of the United States,,DEM,HILLARY CLINTON,101,18,46,37,0
+Washington,,President of the United States,,IND,GARY JOHNSON,98,12,43,42,1
+Washington,RIDDLEVILLE,President of the United States,,IND,GARY JOHNSON,7,2,1,4,0
+Washington,WARTHEN,President of the United States,,IND,GARY JOHNSON,5,1,3,1,0
+Washington,TENNILLE,President of the United States,,IND,GARY JOHNSON,18,2,11,5,0
+Washington,OCONEE,President of the United States,,IND,GARY JOHNSON,3,1,1,1,0
+Washington,HARRISON,President of the United States,,IND,GARY JOHNSON,9,0,6,3,0
+Washington,DAVISBORO,President of the United States,,IND,GARY JOHNSON,4,1,1,2,0
+Washington,SANDERSVILLE,President of the United States,,IND,GARY JOHNSON,50,5,18,26,1
+Washington,DEEPSTEP,President of the United States,,IND,GARY JOHNSON,2,0,2,0,0
 Washington,,United States Senator,,,JOHNNY ISAKSON ,4092,273,1745,2065,9
 Washington,RIDDLEVILLE,United States Senator,,,JOHNNY ISAKSON ,269,15,169,85,0
 Washington,WARTHEN,United States Senator,,,JOHNNY ISAKSON ,275,12,173,89,1

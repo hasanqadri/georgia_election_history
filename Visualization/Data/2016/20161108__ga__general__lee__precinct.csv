@@ -1,37 +1,37 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Lee,,President of the United States,,,DONALD J. TRUMP,10646,311,4925,5408,2
-Lee,Chokee,President of the United States,,,DONALD J. TRUMP,163,6,66,91,0
-Lee,Redbone,President of the United States,,,DONALD J. TRUMP,2433,66,1156,1211,0
-Lee,Smithville,President of the United States,,,DONALD J. TRUMP,350,8,160,182,0
-Lee,CJC,President of the United States,,,DONALD J. TRUMP,387,13,185,189,0
-Lee,Leesburg,President of the United States,,,DONALD J. TRUMP,1491,32,583,876,0
-Lee,Friendship Bapt,President of the United States,,,DONALD J. TRUMP,623,11,337,275,0
-Lee,First Baptist,President of the United States,,,DONALD J. TRUMP,1902,66,945,891,0
-Lee,SDA Church,President of the United States,,,DONALD J. TRUMP,687,24,364,299,0
-Lee,Sovereign Grace,President of the United States,,,DONALD J. TRUMP,1213,35,591,586,1
-Lee,Century Fire Station,President of the United States,,,DONALD J. TRUMP,1397,50,538,808,1
-Lee,,President of the United States,,,HILLARY CLINTON,3170,158,1491,1518,3
-Lee,Chokee,President of the United States,,,HILLARY CLINTON,162,22,81,59,0
-Lee,Redbone,President of the United States,,,HILLARY CLINTON,554,24,254,276,0
-Lee,Smithville,President of the United States,,,HILLARY CLINTON,268,15,174,79,0
-Lee,CJC,President of the United States,,,HILLARY CLINTON,42,6,20,16,0
-Lee,Leesburg,President of the United States,,,HILLARY CLINTON,458,25,198,235,0
-Lee,Friendship Bapt,President of the United States,,,HILLARY CLINTON,130,4,52,74,0
-Lee,First Baptist,President of the United States,,,HILLARY CLINTON,631,28,248,353,2
-Lee,SDA Church,President of the United States,,,HILLARY CLINTON,110,7,67,36,0
-Lee,Sovereign Grace,President of the United States,,,HILLARY CLINTON,321,7,164,150,0
-Lee,Century Fire Station,President of the United States,,,HILLARY CLINTON,494,20,233,240,1
-Lee,,President of the United States,,,GARY JOHNSON,299,20,161,118,0
-Lee,Chokee,President of the United States,,,GARY JOHNSON,4,2,2,0,0
-Lee,Redbone,President of the United States,,,GARY JOHNSON,69,6,34,29,0
-Lee,Smithville,President of the United States,,,GARY JOHNSON,8,3,0,5,0
-Lee,CJC,President of the United States,,,GARY JOHNSON,6,2,0,4,0
-Lee,Leesburg,President of the United States,,,GARY JOHNSON,54,0,29,25,0
-Lee,Friendship Bapt,President of the United States,,,GARY JOHNSON,15,1,7,7,0
-Lee,First Baptist,President of the United States,,,GARY JOHNSON,49,2,30,17,0
-Lee,SDA Church,President of the United States,,,GARY JOHNSON,17,0,11,6,0
-Lee,Sovereign Grace,President of the United States,,,GARY JOHNSON,39,1,28,10,0
-Lee,Century Fire Station,President of the United States,,,GARY JOHNSON,38,3,20,15,0
+Lee,,President of the United States,,REP,DONALD J. TRUMP,10646,311,4925,5408,2
+Lee,Chokee,President of the United States,,REP,DONALD J. TRUMP,163,6,66,91,0
+Lee,Redbone,President of the United States,,REP,DONALD J. TRUMP,2433,66,1156,1211,0
+Lee,Smithville,President of the United States,,REP,DONALD J. TRUMP,350,8,160,182,0
+Lee,CJC,President of the United States,,REP,DONALD J. TRUMP,387,13,185,189,0
+Lee,Leesburg,President of the United States,,REP,DONALD J. TRUMP,1491,32,583,876,0
+Lee,Friendship Bapt,President of the United States,,REP,DONALD J. TRUMP,623,11,337,275,0
+Lee,First Baptist,President of the United States,,REP,DONALD J. TRUMP,1902,66,945,891,0
+Lee,SDA Church,President of the United States,,REP,DONALD J. TRUMP,687,24,364,299,0
+Lee,Sovereign Grace,President of the United States,,REP,DONALD J. TRUMP,1213,35,591,586,1
+Lee,Century Fire Station,President of the United States,,REP,DONALD J. TRUMP,1397,50,538,808,1
+Lee,,President of the United States,,DEM,HILLARY CLINTON,3170,158,1491,1518,3
+Lee,Chokee,President of the United States,,DEM,HILLARY CLINTON,162,22,81,59,0
+Lee,Redbone,President of the United States,,DEM,HILLARY CLINTON,554,24,254,276,0
+Lee,Smithville,President of the United States,,DEM,HILLARY CLINTON,268,15,174,79,0
+Lee,CJC,President of the United States,,DEM,HILLARY CLINTON,42,6,20,16,0
+Lee,Leesburg,President of the United States,,DEM,HILLARY CLINTON,458,25,198,235,0
+Lee,Friendship Bapt,President of the United States,,DEM,HILLARY CLINTON,130,4,52,74,0
+Lee,First Baptist,President of the United States,,DEM,HILLARY CLINTON,631,28,248,353,2
+Lee,SDA Church,President of the United States,,DEM,HILLARY CLINTON,110,7,67,36,0
+Lee,Sovereign Grace,President of the United States,,DEM,HILLARY CLINTON,321,7,164,150,0
+Lee,Century Fire Station,President of the United States,,DEM,HILLARY CLINTON,494,20,233,240,1
+Lee,,President of the United States,,IND,GARY JOHNSON,299,20,161,118,0
+Lee,Chokee,President of the United States,,IND,GARY JOHNSON,4,2,2,0,0
+Lee,Redbone,President of the United States,,IND,GARY JOHNSON,69,6,34,29,0
+Lee,Smithville,President of the United States,,IND,GARY JOHNSON,8,3,0,5,0
+Lee,CJC,President of the United States,,IND,GARY JOHNSON,6,2,0,4,0
+Lee,Leesburg,President of the United States,,IND,GARY JOHNSON,54,0,29,25,0
+Lee,Friendship Bapt,President of the United States,,IND,GARY JOHNSON,15,1,7,7,0
+Lee,First Baptist,President of the United States,,IND,GARY JOHNSON,49,2,30,17,0
+Lee,SDA Church,President of the United States,,IND,GARY JOHNSON,17,0,11,6,0
+Lee,Sovereign Grace,President of the United States,,IND,GARY JOHNSON,39,1,28,10,0
+Lee,Century Fire Station,President of the United States,,IND,GARY JOHNSON,38,3,20,15,0
 Lee,,United States Senator,,,JOHNNY ISAKSON ,10305,326,4767,5208,4
 Lee,Chokee,United States Senator,,,JOHNNY ISAKSON ,161,8,64,89,0
 Lee,Redbone,United States Senator,,,JOHNNY ISAKSON ,2325,70,1094,1161,0

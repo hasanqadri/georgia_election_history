@@ -1,31 +1,31 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Charlton,,President of the United States,,,DONALD J. TRUMP,2951,158,1220,1567,6
-Charlton,Folkston,President of the United States,,,DONALD J. TRUMP,644,34,182,428,0
-Charlton,GA Bend,President of the United States,,,DONALD J. TRUMP,272,24,201,45,2
-Charlton,St. George,President of the United States,,,DONALD J. TRUMP,393,22,238,133,0
-Charlton,American Legion,President of the United States,,,DONALD J. TRUMP,450,27,145,278,0
-Charlton,Homeland,President of the United States,,,DONALD J. TRUMP,423,24,144,255,0
-Charlton,Folkston Fire,President of the United States,,,DONALD J. TRUMP,411,16,123,270,2
-Charlton,Racepond,President of the United States,,,DONALD J. TRUMP,167,2,86,78,1
-Charlton,Winokur,President of the United States,,,DONALD J. TRUMP,191,9,101,80,1
-Charlton,,President of the United States,,,HILLARY CLINTON,1004,55,434,513,2
-Charlton,Folkston,President of the United States,,,HILLARY CLINTON,780,37,336,405,2
-Charlton,GA Bend,President of the United States,,,HILLARY CLINTON,17,4,11,2,0
-Charlton,St. George,President of the United States,,,HILLARY CLINTON,32,4,19,9,0
-Charlton,American Legion,President of the United States,,,HILLARY CLINTON,42,5,14,23,0
-Charlton,Homeland,President of the United States,,,HILLARY CLINTON,59,4,28,27,0
-Charlton,Folkston Fire,President of the United States,,,HILLARY CLINTON,48,0,14,34,0
-Charlton,Racepond,President of the United States,,,HILLARY CLINTON,12,1,5,6,0
-Charlton,Winokur,President of the United States,,,HILLARY CLINTON,14,0,7,7,0
-Charlton,,President of the United States,,,GARY JOHNSON,54,7,24,23,0
-Charlton,Folkston,President of the United States,,,GARY JOHNSON,20,3,5,12,0
-Charlton,GA Bend,President of the United States,,,GARY JOHNSON,1,1,0,0,0
-Charlton,St. George,President of the United States,,,GARY JOHNSON,5,0,5,0,0
-Charlton,American Legion,President of the United States,,,GARY JOHNSON,8,0,5,3,0
-Charlton,Homeland,President of the United States,,,GARY JOHNSON,6,1,4,1,0
-Charlton,Folkston Fire,President of the United States,,,GARY JOHNSON,10,2,2,6,0
-Charlton,Racepond,President of the United States,,,GARY JOHNSON,2,0,1,1,0
-Charlton,Winokur,President of the United States,,,GARY JOHNSON,2,0,2,0,0
+Charlton,,President of the United States,,REP,DONALD J. TRUMP,2951,158,1220,1567,6
+Charlton,Folkston,President of the United States,,REP,DONALD J. TRUMP,644,34,182,428,0
+Charlton,GA Bend,President of the United States,,REP,DONALD J. TRUMP,272,24,201,45,2
+Charlton,St. George,President of the United States,,REP,DONALD J. TRUMP,393,22,238,133,0
+Charlton,American Legion,President of the United States,,REP,DONALD J. TRUMP,450,27,145,278,0
+Charlton,Homeland,President of the United States,,REP,DONALD J. TRUMP,423,24,144,255,0
+Charlton,Folkston Fire,President of the United States,,REP,DONALD J. TRUMP,411,16,123,270,2
+Charlton,Racepond,President of the United States,,REP,DONALD J. TRUMP,167,2,86,78,1
+Charlton,Winokur,President of the United States,,REP,DONALD J. TRUMP,191,9,101,80,1
+Charlton,,President of the United States,,DEM,HILLARY CLINTON,1004,55,434,513,2
+Charlton,Folkston,President of the United States,,DEM,HILLARY CLINTON,780,37,336,405,2
+Charlton,GA Bend,President of the United States,,DEM,HILLARY CLINTON,17,4,11,2,0
+Charlton,St. George,President of the United States,,DEM,HILLARY CLINTON,32,4,19,9,0
+Charlton,American Legion,President of the United States,,DEM,HILLARY CLINTON,42,5,14,23,0
+Charlton,Homeland,President of the United States,,DEM,HILLARY CLINTON,59,4,28,27,0
+Charlton,Folkston Fire,President of the United States,,DEM,HILLARY CLINTON,48,0,14,34,0
+Charlton,Racepond,President of the United States,,DEM,HILLARY CLINTON,12,1,5,6,0
+Charlton,Winokur,President of the United States,,DEM,HILLARY CLINTON,14,0,7,7,0
+Charlton,,President of the United States,,IND,GARY JOHNSON,54,7,24,23,0
+Charlton,Folkston,President of the United States,,IND,GARY JOHNSON,20,3,5,12,0
+Charlton,GA Bend,President of the United States,,IND,GARY JOHNSON,1,1,0,0,0
+Charlton,St. George,President of the United States,,IND,GARY JOHNSON,5,0,5,0,0
+Charlton,American Legion,President of the United States,,IND,GARY JOHNSON,8,0,5,3,0
+Charlton,Homeland,President of the United States,,IND,GARY JOHNSON,6,1,4,1,0
+Charlton,Folkston Fire,President of the United States,,IND,GARY JOHNSON,10,2,2,6,0
+Charlton,Racepond,President of the United States,,IND,GARY JOHNSON,2,0,1,1,0
+Charlton,Winokur,President of the United States,,IND,GARY JOHNSON,2,0,2,0,0
 Charlton,,United States Senator,,,JOHNNY ISAKSON ,2489,150,1016,1319,4
 Charlton,Folkston,United States Senator,,,JOHNNY ISAKSON ,561,30,154,377,0
 Charlton,GA Bend,United States Senator,,,JOHNNY ISAKSON ,224,24,162,36,2

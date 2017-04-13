@@ -1,49 +1,49 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Monroe,,President of the United States,,,DONALD J. TRUMP,8832,303,4103,4417,9
-Monroe,BENTONS,President of the United States,,,DONALD J. TRUMP,1266,47,567,649,3
-Monroe,BRANTLEYS,President of the United States,,,DONALD J. TRUMP,592,20,279,291,2
-Monroe,BURGAYS,President of the United States,,,DONALD J. TRUMP,1328,57,691,580,0
-Monroe,CABANISS,President of the United States,,,DONALD J. TRUMP,315,5,179,131,0
-Monroe,COX,President of the United States,,,DONALD J. TRUMP,356,9,196,151,0
-Monroe,CULLODEN,President of the United States,,,DONALD J. TRUMP,178,10,125,43,0
-Monroe,DILLARDS,President of the United States,,,DONALD J. TRUMP,483,12,222,248,1
-Monroe,EVERS,President of the United States,,,DONALD J. TRUMP,876,33,318,525,0
-Monroe,FORSYTH,President of the United States,,,DONALD J. TRUMP,1044,44,270,729,1
-Monroe,HIGH FALLS,President of the United States,,,DONALD J. TRUMP,790,20,428,342,0
-Monroe,KELSEYS,President of the United States,,,DONALD J. TRUMP,235,3,137,94,1
-Monroe,MIDDLEBROOKS,President of the United States,,,DONALD J. TRUMP,706,19,294,393,0
-Monroe,PROCTORS,President of the United States,,,DONALD J. TRUMP,439,10,253,175,1
-Monroe,RUSSELLVILLE,President of the United States,,,DONALD J. TRUMP,224,14,144,66,0
-Monroe,,President of the United States,,,HILLARY CLINTON,3571,249,1419,1902,1
-Monroe,BENTONS,President of the United States,,,HILLARY CLINTON,322,29,121,172,0
-Monroe,BRANTLEYS,President of the United States,,,HILLARY CLINTON,92,3,47,42,0
-Monroe,BURGAYS,President of the United States,,,HILLARY CLINTON,292,19,114,159,0
-Monroe,CABANISS,President of the United States,,,HILLARY CLINTON,107,3,50,54,0
-Monroe,COX,President of the United States,,,HILLARY CLINTON,104,1,53,50,0
-Monroe,CULLODEN,President of the United States,,,HILLARY CLINTON,93,4,61,28,0
-Monroe,DILLARDS,President of the United States,,,HILLARY CLINTON,113,3,52,58,0
-Monroe,EVERS,President of the United States,,,HILLARY CLINTON,240,6,102,132,0
-Monroe,FORSYTH,President of the United States,,,HILLARY CLINTON,1486,143,444,899,0
-Monroe,HIGH FALLS,President of the United States,,,HILLARY CLINTON,153,5,76,72,0
-Monroe,KELSEYS,President of the United States,,,HILLARY CLINTON,209,14,109,86,0
-Monroe,MIDDLEBROOKS,President of the United States,,,HILLARY CLINTON,140,6,66,67,1
-Monroe,PROCTORS,President of the United States,,,HILLARY CLINTON,168,7,91,70,0
-Monroe,RUSSELLVILLE,President of the United States,,,HILLARY CLINTON,52,6,33,13,0
-Monroe,,President of the United States,,,GARY JOHNSON,284,11,171,102,0
-Monroe,BENTONS,President of the United States,,,GARY JOHNSON,59,2,34,23,0
-Monroe,BRANTLEYS,President of the United States,,,GARY JOHNSON,14,0,10,4,0
-Monroe,BURGAYS,President of the United States,,,GARY JOHNSON,31,3,20,8,0
-Monroe,CABANISS,President of the United States,,,GARY JOHNSON,6,0,5,1,0
-Monroe,COX,President of the United States,,,GARY JOHNSON,12,2,6,4,0
-Monroe,CULLODEN,President of the United States,,,GARY JOHNSON,6,0,5,1,0
-Monroe,DILLARDS,President of the United States,,,GARY JOHNSON,11,2,7,2,0
-Monroe,EVERS,President of the United States,,,GARY JOHNSON,40,1,25,14,0
-Monroe,FORSYTH,President of the United States,,,GARY JOHNSON,38,0,17,21,0
-Monroe,HIGH FALLS,President of the United States,,,GARY JOHNSON,23,0,18,5,0
-Monroe,KELSEYS,President of the United States,,,GARY JOHNSON,4,0,3,1,0
-Monroe,MIDDLEBROOKS,President of the United States,,,GARY JOHNSON,22,0,11,11,0
-Monroe,PROCTORS,President of the United States,,,GARY JOHNSON,17,0,10,7,0
-Monroe,RUSSELLVILLE,President of the United States,,,GARY JOHNSON,1,1,0,0,0
+Monroe,,President of the United States,,REP,DONALD J. TRUMP,8832,303,4103,4417,9
+Monroe,BENTONS,President of the United States,,REP,DONALD J. TRUMP,1266,47,567,649,3
+Monroe,BRANTLEYS,President of the United States,,REP,DONALD J. TRUMP,592,20,279,291,2
+Monroe,BURGAYS,President of the United States,,REP,DONALD J. TRUMP,1328,57,691,580,0
+Monroe,CABANISS,President of the United States,,REP,DONALD J. TRUMP,315,5,179,131,0
+Monroe,COX,President of the United States,,REP,DONALD J. TRUMP,356,9,196,151,0
+Monroe,CULLODEN,President of the United States,,REP,DONALD J. TRUMP,178,10,125,43,0
+Monroe,DILLARDS,President of the United States,,REP,DONALD J. TRUMP,483,12,222,248,1
+Monroe,EVERS,President of the United States,,REP,DONALD J. TRUMP,876,33,318,525,0
+Monroe,FORSYTH,President of the United States,,REP,DONALD J. TRUMP,1044,44,270,729,1
+Monroe,HIGH FALLS,President of the United States,,REP,DONALD J. TRUMP,790,20,428,342,0
+Monroe,KELSEYS,President of the United States,,REP,DONALD J. TRUMP,235,3,137,94,1
+Monroe,MIDDLEBROOKS,President of the United States,,REP,DONALD J. TRUMP,706,19,294,393,0
+Monroe,PROCTORS,President of the United States,,REP,DONALD J. TRUMP,439,10,253,175,1
+Monroe,RUSSELLVILLE,President of the United States,,REP,DONALD J. TRUMP,224,14,144,66,0
+Monroe,,President of the United States,,DEM,HILLARY CLINTON,3571,249,1419,1902,1
+Monroe,BENTONS,President of the United States,,DEM,HILLARY CLINTON,322,29,121,172,0
+Monroe,BRANTLEYS,President of the United States,,DEM,HILLARY CLINTON,92,3,47,42,0
+Monroe,BURGAYS,President of the United States,,DEM,HILLARY CLINTON,292,19,114,159,0
+Monroe,CABANISS,President of the United States,,DEM,HILLARY CLINTON,107,3,50,54,0
+Monroe,COX,President of the United States,,DEM,HILLARY CLINTON,104,1,53,50,0
+Monroe,CULLODEN,President of the United States,,DEM,HILLARY CLINTON,93,4,61,28,0
+Monroe,DILLARDS,President of the United States,,DEM,HILLARY CLINTON,113,3,52,58,0
+Monroe,EVERS,President of the United States,,DEM,HILLARY CLINTON,240,6,102,132,0
+Monroe,FORSYTH,President of the United States,,DEM,HILLARY CLINTON,1486,143,444,899,0
+Monroe,HIGH FALLS,President of the United States,,DEM,HILLARY CLINTON,153,5,76,72,0
+Monroe,KELSEYS,President of the United States,,DEM,HILLARY CLINTON,209,14,109,86,0
+Monroe,MIDDLEBROOKS,President of the United States,,DEM,HILLARY CLINTON,140,6,66,67,1
+Monroe,PROCTORS,President of the United States,,DEM,HILLARY CLINTON,168,7,91,70,0
+Monroe,RUSSELLVILLE,President of the United States,,DEM,HILLARY CLINTON,52,6,33,13,0
+Monroe,,President of the United States,,IND,GARY JOHNSON,284,11,171,102,0
+Monroe,BENTONS,President of the United States,,IND,GARY JOHNSON,59,2,34,23,0
+Monroe,BRANTLEYS,President of the United States,,IND,GARY JOHNSON,14,0,10,4,0
+Monroe,BURGAYS,President of the United States,,IND,GARY JOHNSON,31,3,20,8,0
+Monroe,CABANISS,President of the United States,,IND,GARY JOHNSON,6,0,5,1,0
+Monroe,COX,President of the United States,,IND,GARY JOHNSON,12,2,6,4,0
+Monroe,CULLODEN,President of the United States,,IND,GARY JOHNSON,6,0,5,1,0
+Monroe,DILLARDS,President of the United States,,IND,GARY JOHNSON,11,2,7,2,0
+Monroe,EVERS,President of the United States,,IND,GARY JOHNSON,40,1,25,14,0
+Monroe,FORSYTH,President of the United States,,IND,GARY JOHNSON,38,0,17,21,0
+Monroe,HIGH FALLS,President of the United States,,IND,GARY JOHNSON,23,0,18,5,0
+Monroe,KELSEYS,President of the United States,,IND,GARY JOHNSON,4,0,3,1,0
+Monroe,MIDDLEBROOKS,President of the United States,,IND,GARY JOHNSON,22,0,11,11,0
+Monroe,PROCTORS,President of the United States,,IND,GARY JOHNSON,17,0,10,7,0
+Monroe,RUSSELLVILLE,President of the United States,,IND,GARY JOHNSON,1,1,0,0,0
 Monroe,,United States Senator,,,JOHNNY ISAKSON ,8719,316,4082,4314,7
 Monroe,BENTONS,United States Senator,,,JOHNNY ISAKSON ,1269,53,566,647,3
 Monroe,BRANTLEYS,United States Senator,,,JOHNNY ISAKSON ,588,20,274,293,1

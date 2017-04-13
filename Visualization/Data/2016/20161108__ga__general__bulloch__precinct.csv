@@ -1,55 +1,55 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Bulloch,,President of the United States,,,DONALD J. TRUMP,15097,591,7334,7142,30
-Bulloch,Lockhart,President of the United States,,,DONALD J. TRUMP,291,5,200,85,1
-Bulloch,Emit,President of the United States,,,DONALD J. TRUMP,1234,38,639,551,6
-Bulloch,Statesboro,President of the United States,,,DONALD J. TRUMP,1565,82,481,998,4
-Bulloch,Portal,President of the United States,,,DONALD J. TRUMP,698,17,435,246,0
-Bulloch,Fair,President of the United States,,,DONALD J. TRUMP,2293,95,788,1410,0
-Bulloch,Church,President of the United States,,,DONALD J. TRUMP,1572,72,512,983,5
-Bulloch,Pittman Park,President of the United States,,,DONALD J. TRUMP,1108,54,429,623,2
-Bulloch,Leefield,President of the United States,,,DONALD J. TRUMP,488,16,338,133,1
-Bulloch,Blitch,President of the United States,,,DONALD J. TRUMP,946,42,494,409,1
-Bulloch,Hagin,President of the United States,,,DONALD J. TRUMP,863,38,463,361,1
-Bulloch,Brooklet,President of the United States,,,DONALD J. TRUMP,1317,38,747,531,1
-Bulloch,Stilson,President of the United States,,,DONALD J. TRUMP,855,26,560,267,2
-Bulloch,Bay,President of the United States,,,DONALD J. TRUMP,766,29,508,226,3
-Bulloch,Nevils,President of the United States,,,DONALD J. TRUMP,522,11,358,151,2
-Bulloch,Sinkhole,President of the United States,,,DONALD J. TRUMP,267,17,186,64,0
-Bulloch,Register,President of the United States,,,DONALD J. TRUMP,312,11,196,104,1
-Bulloch,,President of the United States,,,HILLARY CLINTON,9261,430,3961,4851,19
-Bulloch,Lockhart,President of the United States,,,HILLARY CLINTON,124,6,73,45,0
-Bulloch,Emit,President of the United States,,,HILLARY CLINTON,460,13,193,251,3
-Bulloch,Statesboro,President of the United States,,,HILLARY CLINTON,1791,111,755,923,2
-Bulloch,Portal,President of the United States,,,HILLARY CLINTON,284,14,187,83,0
-Bulloch,Fair,President of the United States,,,HILLARY CLINTON,1183,51,390,740,2
-Bulloch,Church,President of the United States,,,HILLARY CLINTON,1552,85,606,856,5
-Bulloch,Pittman Park,President of the United States,,,HILLARY CLINTON,1944,59,769,1111,5
-Bulloch,Leefield,President of the United States,,,HILLARY CLINTON,74,6,46,22,0
-Bulloch,Blitch,President of the United States,,,HILLARY CLINTON,304,14,114,176,0
-Bulloch,Hagin,President of the United States,,,HILLARY CLINTON,464,21,218,225,0
-Bulloch,Brooklet,President of the United States,,,HILLARY CLINTON,394,21,193,178,2
-Bulloch,Stilson,President of the United States,,,HILLARY CLINTON,196,4,130,62,0
-Bulloch,Bay,President of the United States,,,HILLARY CLINTON,104,6,59,39,0
-Bulloch,Nevils,President of the United States,,,HILLARY CLINTON,150,10,88,52,0
-Bulloch,Sinkhole,President of the United States,,,HILLARY CLINTON,46,4,26,16,0
-Bulloch,Register,President of the United States,,,HILLARY CLINTON,191,5,114,72,0
-Bulloch,,President of the United States,,,GARY JOHNSON,890,27,458,405,0
-Bulloch,Lockhart,President of the United States,,,GARY JOHNSON,7,0,4,3,0
-Bulloch,Emit,President of the United States,,,GARY JOHNSON,59,4,28,27,0
-Bulloch,Statesboro,President of the United States,,,GARY JOHNSON,111,2,57,52,0
-Bulloch,Portal,President of the United States,,,GARY JOHNSON,16,0,11,5,0
-Bulloch,Fair,President of the United States,,,GARY JOHNSON,144,6,66,72,0
-Bulloch,Church,President of the United States,,,GARY JOHNSON,121,6,56,59,0
-Bulloch,Pittman Park,President of the United States,,,GARY JOHNSON,234,5,101,128,0
-Bulloch,Leefield,President of the United States,,,GARY JOHNSON,8,0,4,4,0
-Bulloch,Blitch,President of the United States,,,GARY JOHNSON,28,0,18,10,0
-Bulloch,Hagin,President of the United States,,,GARY JOHNSON,22,0,16,6,0
-Bulloch,Brooklet,President of the United States,,,GARY JOHNSON,56,2,34,20,0
-Bulloch,Stilson,President of the United States,,,GARY JOHNSON,33,2,24,7,0
-Bulloch,Bay,President of the United States,,,GARY JOHNSON,23,0,18,5,0
-Bulloch,Nevils,President of the United States,,,GARY JOHNSON,13,0,10,3,0
-Bulloch,Sinkhole,President of the United States,,,GARY JOHNSON,2,0,1,1,0
-Bulloch,Register,President of the United States,,,GARY JOHNSON,13,0,10,3,0
+Bulloch,,President of the United States,,REP,DONALD J. TRUMP,15097,591,7334,7142,30
+Bulloch,Lockhart,President of the United States,,REP,DONALD J. TRUMP,291,5,200,85,1
+Bulloch,Emit,President of the United States,,REP,DONALD J. TRUMP,1234,38,639,551,6
+Bulloch,Statesboro,President of the United States,,REP,DONALD J. TRUMP,1565,82,481,998,4
+Bulloch,Portal,President of the United States,,REP,DONALD J. TRUMP,698,17,435,246,0
+Bulloch,Fair,President of the United States,,REP,DONALD J. TRUMP,2293,95,788,1410,0
+Bulloch,Church,President of the United States,,REP,DONALD J. TRUMP,1572,72,512,983,5
+Bulloch,Pittman Park,President of the United States,,REP,DONALD J. TRUMP,1108,54,429,623,2
+Bulloch,Leefield,President of the United States,,REP,DONALD J. TRUMP,488,16,338,133,1
+Bulloch,Blitch,President of the United States,,REP,DONALD J. TRUMP,946,42,494,409,1
+Bulloch,Hagin,President of the United States,,REP,DONALD J. TRUMP,863,38,463,361,1
+Bulloch,Brooklet,President of the United States,,REP,DONALD J. TRUMP,1317,38,747,531,1
+Bulloch,Stilson,President of the United States,,REP,DONALD J. TRUMP,855,26,560,267,2
+Bulloch,Bay,President of the United States,,REP,DONALD J. TRUMP,766,29,508,226,3
+Bulloch,Nevils,President of the United States,,REP,DONALD J. TRUMP,522,11,358,151,2
+Bulloch,Sinkhole,President of the United States,,REP,DONALD J. TRUMP,267,17,186,64,0
+Bulloch,Register,President of the United States,,REP,DONALD J. TRUMP,312,11,196,104,1
+Bulloch,,President of the United States,,DEM,HILLARY CLINTON,9261,430,3961,4851,19
+Bulloch,Lockhart,President of the United States,,DEM,HILLARY CLINTON,124,6,73,45,0
+Bulloch,Emit,President of the United States,,DEM,HILLARY CLINTON,460,13,193,251,3
+Bulloch,Statesboro,President of the United States,,DEM,HILLARY CLINTON,1791,111,755,923,2
+Bulloch,Portal,President of the United States,,DEM,HILLARY CLINTON,284,14,187,83,0
+Bulloch,Fair,President of the United States,,DEM,HILLARY CLINTON,1183,51,390,740,2
+Bulloch,Church,President of the United States,,DEM,HILLARY CLINTON,1552,85,606,856,5
+Bulloch,Pittman Park,President of the United States,,DEM,HILLARY CLINTON,1944,59,769,1111,5
+Bulloch,Leefield,President of the United States,,DEM,HILLARY CLINTON,74,6,46,22,0
+Bulloch,Blitch,President of the United States,,DEM,HILLARY CLINTON,304,14,114,176,0
+Bulloch,Hagin,President of the United States,,DEM,HILLARY CLINTON,464,21,218,225,0
+Bulloch,Brooklet,President of the United States,,DEM,HILLARY CLINTON,394,21,193,178,2
+Bulloch,Stilson,President of the United States,,DEM,HILLARY CLINTON,196,4,130,62,0
+Bulloch,Bay,President of the United States,,DEM,HILLARY CLINTON,104,6,59,39,0
+Bulloch,Nevils,President of the United States,,DEM,HILLARY CLINTON,150,10,88,52,0
+Bulloch,Sinkhole,President of the United States,,DEM,HILLARY CLINTON,46,4,26,16,0
+Bulloch,Register,President of the United States,,DEM,HILLARY CLINTON,191,5,114,72,0
+Bulloch,,President of the United States,,IND,GARY JOHNSON,890,27,458,405,0
+Bulloch,Lockhart,President of the United States,,IND,GARY JOHNSON,7,0,4,3,0
+Bulloch,Emit,President of the United States,,IND,GARY JOHNSON,59,4,28,27,0
+Bulloch,Statesboro,President of the United States,,IND,GARY JOHNSON,111,2,57,52,0
+Bulloch,Portal,President of the United States,,IND,GARY JOHNSON,16,0,11,5,0
+Bulloch,Fair,President of the United States,,IND,GARY JOHNSON,144,6,66,72,0
+Bulloch,Church,President of the United States,,IND,GARY JOHNSON,121,6,56,59,0
+Bulloch,Pittman Park,President of the United States,,IND,GARY JOHNSON,234,5,101,128,0
+Bulloch,Leefield,President of the United States,,IND,GARY JOHNSON,8,0,4,4,0
+Bulloch,Blitch,President of the United States,,IND,GARY JOHNSON,28,0,18,10,0
+Bulloch,Hagin,President of the United States,,IND,GARY JOHNSON,22,0,16,6,0
+Bulloch,Brooklet,President of the United States,,IND,GARY JOHNSON,56,2,34,20,0
+Bulloch,Stilson,President of the United States,,IND,GARY JOHNSON,33,2,24,7,0
+Bulloch,Bay,President of the United States,,IND,GARY JOHNSON,23,0,18,5,0
+Bulloch,Nevils,President of the United States,,IND,GARY JOHNSON,13,0,10,3,0
+Bulloch,Sinkhole,President of the United States,,IND,GARY JOHNSON,2,0,1,1,0
+Bulloch,Register,President of the United States,,IND,GARY JOHNSON,13,0,10,3,0
 Bulloch,,United States Senator,,,JOHNNY ISAKSON ,15530,627,7496,7374,33
 Bulloch,Lockhart,United States Senator,,,JOHNNY ISAKSON ,273,6,184,82,1
 Bulloch,Emit,United States Senator,,,JOHNNY ISAKSON ,1258,37,651,563,7

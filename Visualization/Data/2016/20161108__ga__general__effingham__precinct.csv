@@ -1,64 +1,64 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Effingham,,President of the United States,,,DONALD J. TRUMP,17874,432,8084,9351,7
-Effingham,1A,President of the United States,,,DONALD J. TRUMP,811,24,355,432,0
-Effingham,1B-1,President of the United States,,,DONALD J. TRUMP,816,13,425,378,0
-Effingham,1B-12,President of the United States,,,DONALD J. TRUMP,504,8,166,330,0
-Effingham,1C,President of the United States,,,DONALD J. TRUMP,638,15,400,223,0
-Effingham,1D,President of the United States,,,DONALD J. TRUMP,1006,12,550,444,0
-Effingham,2A,President of the United States,,,DONALD J. TRUMP,1288,31,576,681,0
-Effingham,2B,President of the United States,,,DONALD J. TRUMP,1335,45,673,616,1
-Effingham,2C,President of the United States,,,DONALD J. TRUMP,1643,39,789,815,0
-Effingham,3A,President of the United States,,,DONALD J. TRUMP,569,23,264,279,3
-Effingham,3B,President of the United States,,,DONALD J. TRUMP,541,9,247,284,1
-Effingham,3C,President of the United States,,,DONALD J. TRUMP,824,19,307,498,0
-Effingham,3D,President of the United States,,,DONALD J. TRUMP,1124,21,421,682,0
-Effingham,4A,President of the United States,,,DONALD J. TRUMP,1432,41,482,909,0
-Effingham,4B-1,President of the United States,,,DONALD J. TRUMP,207,3,102,102,0
-Effingham,4B-12,President of the United States,,,DONALD J. TRUMP,429,9,161,259,0
-Effingham,4C,President of the United States,,,DONALD J. TRUMP,1213,29,525,658,1
-Effingham,5A,President of the United States,,,DONALD J. TRUMP,1296,36,577,683,0
-Effingham,5B,President of the United States,,,DONALD J. TRUMP,1457,32,701,724,0
-Effingham,5C,President of the United States,,,DONALD J. TRUMP,741,23,363,354,1
-Effingham,,President of the United States,,,HILLARY CLINTON,4853,213,2360,2279,1
-Effingham,1A,President of the United States,,,HILLARY CLINTON,149,12,62,75,0
-Effingham,1B-1,President of the United States,,,HILLARY CLINTON,144,9,75,60,0
-Effingham,1B-12,President of the United States,,,HILLARY CLINTON,81,7,25,49,0
-Effingham,1C,President of the United States,,,HILLARY CLINTON,139,6,94,39,0
-Effingham,1D,President of the United States,,,HILLARY CLINTON,122,2,63,57,0
-Effingham,2A,President of the United States,,,HILLARY CLINTON,249,9,110,130,0
-Effingham,2B,President of the United States,,,HILLARY CLINTON,356,12,195,149,0
-Effingham,2C,President of the United States,,,HILLARY CLINTON,463,23,236,204,0
-Effingham,3A,President of the United States,,,HILLARY CLINTON,162,6,78,78,0
-Effingham,3B,President of the United States,,,HILLARY CLINTON,336,18,193,125,0
-Effingham,3C,President of the United States,,,HILLARY CLINTON,226,11,83,132,0
-Effingham,3D,President of the United States,,,HILLARY CLINTON,427,15,199,213,0
-Effingham,4A,President of the United States,,,HILLARY CLINTON,353,12,146,195,0
-Effingham,4B-1,President of the United States,,,HILLARY CLINTON,195,4,67,124,0
-Effingham,4B-12,President of the United States,,,HILLARY CLINTON,111,7,38,65,1
-Effingham,4C,President of the United States,,,HILLARY CLINTON,190,7,81,102,0
-Effingham,5A,President of the United States,,,HILLARY CLINTON,283,22,145,116,0
-Effingham,5B,President of the United States,,,HILLARY CLINTON,648,23,340,285,0
-Effingham,5C,President of the United States,,,HILLARY CLINTON,219,8,130,81,0
-Effingham,,President of the United States,,,GARY JOHNSON,679,24,399,256,0
-Effingham,1A,President of the United States,,,GARY JOHNSON,28,3,17,8,0
-Effingham,1B-1,President of the United States,,,GARY JOHNSON,17,2,9,6,0
-Effingham,1B-12,President of the United States,,,GARY JOHNSON,14,0,5,9,0
-Effingham,1C,President of the United States,,,GARY JOHNSON,24,0,17,7,0
-Effingham,1D,President of the United States,,,GARY JOHNSON,36,1,25,10,0
-Effingham,2A,President of the United States,,,GARY JOHNSON,51,1,30,20,0
-Effingham,2B,President of the United States,,,GARY JOHNSON,64,3,44,17,0
-Effingham,2C,President of the United States,,,GARY JOHNSON,53,2,29,22,0
-Effingham,3A,President of the United States,,,GARY JOHNSON,18,0,11,7,0
-Effingham,3B,President of the United States,,,GARY JOHNSON,24,0,19,5,0
-Effingham,3C,President of the United States,,,GARY JOHNSON,20,1,9,10,0
-Effingham,3D,President of the United States,,,GARY JOHNSON,49,2,29,18,0
-Effingham,4A,President of the United States,,,GARY JOHNSON,64,5,29,30,0
-Effingham,4B-1,President of the United States,,,GARY JOHNSON,8,0,5,3,0
-Effingham,4B-12,President of the United States,,,GARY JOHNSON,15,0,12,3,0
-Effingham,4C,President of the United States,,,GARY JOHNSON,54,0,30,24,0
-Effingham,5A,President of the United States,,,GARY JOHNSON,44,3,21,20,0
-Effingham,5B,President of the United States,,,GARY JOHNSON,61,1,36,24,0
-Effingham,5C,President of the United States,,,GARY JOHNSON,35,0,22,13,0
+Effingham,,President of the United States,,REP,DONALD J. TRUMP,17874,432,8084,9351,7
+Effingham,1A,President of the United States,,REP,DONALD J. TRUMP,811,24,355,432,0
+Effingham,1B-1,President of the United States,,REP,DONALD J. TRUMP,816,13,425,378,0
+Effingham,1B-12,President of the United States,,REP,DONALD J. TRUMP,504,8,166,330,0
+Effingham,1C,President of the United States,,REP,DONALD J. TRUMP,638,15,400,223,0
+Effingham,1D,President of the United States,,REP,DONALD J. TRUMP,1006,12,550,444,0
+Effingham,2A,President of the United States,,REP,DONALD J. TRUMP,1288,31,576,681,0
+Effingham,2B,President of the United States,,REP,DONALD J. TRUMP,1335,45,673,616,1
+Effingham,2C,President of the United States,,REP,DONALD J. TRUMP,1643,39,789,815,0
+Effingham,3A,President of the United States,,REP,DONALD J. TRUMP,569,23,264,279,3
+Effingham,3B,President of the United States,,REP,DONALD J. TRUMP,541,9,247,284,1
+Effingham,3C,President of the United States,,REP,DONALD J. TRUMP,824,19,307,498,0
+Effingham,3D,President of the United States,,REP,DONALD J. TRUMP,1124,21,421,682,0
+Effingham,4A,President of the United States,,REP,DONALD J. TRUMP,1432,41,482,909,0
+Effingham,4B-1,President of the United States,,REP,DONALD J. TRUMP,207,3,102,102,0
+Effingham,4B-12,President of the United States,,REP,DONALD J. TRUMP,429,9,161,259,0
+Effingham,4C,President of the United States,,REP,DONALD J. TRUMP,1213,29,525,658,1
+Effingham,5A,President of the United States,,REP,DONALD J. TRUMP,1296,36,577,683,0
+Effingham,5B,President of the United States,,REP,DONALD J. TRUMP,1457,32,701,724,0
+Effingham,5C,President of the United States,,REP,DONALD J. TRUMP,741,23,363,354,1
+Effingham,,President of the United States,,DEM,HILLARY CLINTON,4853,213,2360,2279,1
+Effingham,1A,President of the United States,,DEM,HILLARY CLINTON,149,12,62,75,0
+Effingham,1B-1,President of the United States,,DEM,HILLARY CLINTON,144,9,75,60,0
+Effingham,1B-12,President of the United States,,DEM,HILLARY CLINTON,81,7,25,49,0
+Effingham,1C,President of the United States,,DEM,HILLARY CLINTON,139,6,94,39,0
+Effingham,1D,President of the United States,,DEM,HILLARY CLINTON,122,2,63,57,0
+Effingham,2A,President of the United States,,DEM,HILLARY CLINTON,249,9,110,130,0
+Effingham,2B,President of the United States,,DEM,HILLARY CLINTON,356,12,195,149,0
+Effingham,2C,President of the United States,,DEM,HILLARY CLINTON,463,23,236,204,0
+Effingham,3A,President of the United States,,DEM,HILLARY CLINTON,162,6,78,78,0
+Effingham,3B,President of the United States,,DEM,HILLARY CLINTON,336,18,193,125,0
+Effingham,3C,President of the United States,,DEM,HILLARY CLINTON,226,11,83,132,0
+Effingham,3D,President of the United States,,DEM,HILLARY CLINTON,427,15,199,213,0
+Effingham,4A,President of the United States,,DEM,HILLARY CLINTON,353,12,146,195,0
+Effingham,4B-1,President of the United States,,DEM,HILLARY CLINTON,195,4,67,124,0
+Effingham,4B-12,President of the United States,,DEM,HILLARY CLINTON,111,7,38,65,1
+Effingham,4C,President of the United States,,DEM,HILLARY CLINTON,190,7,81,102,0
+Effingham,5A,President of the United States,,DEM,HILLARY CLINTON,283,22,145,116,0
+Effingham,5B,President of the United States,,DEM,HILLARY CLINTON,648,23,340,285,0
+Effingham,5C,President of the United States,,DEM,HILLARY CLINTON,219,8,130,81,0
+Effingham,,President of the United States,,IND,GARY JOHNSON,679,24,399,256,0
+Effingham,1A,President of the United States,,IND,GARY JOHNSON,28,3,17,8,0
+Effingham,1B-1,President of the United States,,IND,GARY JOHNSON,17,2,9,6,0
+Effingham,1B-12,President of the United States,,IND,GARY JOHNSON,14,0,5,9,0
+Effingham,1C,President of the United States,,IND,GARY JOHNSON,24,0,17,7,0
+Effingham,1D,President of the United States,,IND,GARY JOHNSON,36,1,25,10,0
+Effingham,2A,President of the United States,,IND,GARY JOHNSON,51,1,30,20,0
+Effingham,2B,President of the United States,,IND,GARY JOHNSON,64,3,44,17,0
+Effingham,2C,President of the United States,,IND,GARY JOHNSON,53,2,29,22,0
+Effingham,3A,President of the United States,,IND,GARY JOHNSON,18,0,11,7,0
+Effingham,3B,President of the United States,,IND,GARY JOHNSON,24,0,19,5,0
+Effingham,3C,President of the United States,,IND,GARY JOHNSON,20,1,9,10,0
+Effingham,3D,President of the United States,,IND,GARY JOHNSON,49,2,29,18,0
+Effingham,4A,President of the United States,,IND,GARY JOHNSON,64,5,29,30,0
+Effingham,4B-1,President of the United States,,IND,GARY JOHNSON,8,0,5,3,0
+Effingham,4B-12,President of the United States,,IND,GARY JOHNSON,15,0,12,3,0
+Effingham,4C,President of the United States,,IND,GARY JOHNSON,54,0,30,24,0
+Effingham,5A,President of the United States,,IND,GARY JOHNSON,44,3,21,20,0
+Effingham,5B,President of the United States,,IND,GARY JOHNSON,61,1,36,24,0
+Effingham,5C,President of the United States,,IND,GARY JOHNSON,35,0,22,13,0
 Effingham,,United States Senator,,,JOHNNY ISAKSON ,17389,438,7840,9103,8
 Effingham,1A,United States Senator,,,JOHNNY ISAKSON ,788,30,335,423,0
 Effingham,1B-1,United States Senator,,,JOHNNY ISAKSON ,749,11,385,353,0

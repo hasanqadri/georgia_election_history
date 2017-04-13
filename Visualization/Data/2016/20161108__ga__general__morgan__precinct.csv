@@ -1,28 +1,28 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Morgan,,President of the United States,,,DONALD J. TRUMP,6559,220,2449,3888,2
-Morgan,Northeast Morgan,President of the United States,,,DONALD J. TRUMP,744,33,164,547,0
-Morgan,East Morgan,President of the United States,,,DONALD J. TRUMP,1022,29,422,571,0
-Morgan,Beth/Springfield,President of the United States,,,DONALD J. TRUMP,430,17,205,206,2
-Morgan,Central Morgan,President of the United States,,,DONALD J. TRUMP,1345,57,312,976,0
-Morgan,Clacks Chapel,President of the United States,,,DONALD J. TRUMP,412,8,201,203,0
-Morgan,West Morgan,President of the United States,,,DONALD J. TRUMP,1330,38,543,749,0
-Morgan,North Morgan,President of the United States,,,DONALD J. TRUMP,1276,38,602,636,0
-Morgan,,President of the United States,,,HILLARY CLINTON,2663,161,958,1541,3
-Morgan,Northeast Morgan,President of the United States,,,HILLARY CLINTON,1026,48,337,639,2
-Morgan,East Morgan,President of the United States,,,HILLARY CLINTON,298,18,103,177,0
-Morgan,Beth/Springfield,President of the United States,,,HILLARY CLINTON,112,7,53,52,0
-Morgan,Central Morgan,President of the United States,,,HILLARY CLINTON,461,36,129,296,0
-Morgan,Clacks Chapel,President of the United States,,,HILLARY CLINTON,63,4,24,35,0
-Morgan,West Morgan,President of the United States,,,HILLARY CLINTON,327,19,160,147,1
-Morgan,North Morgan,President of the United States,,,HILLARY CLINTON,376,29,152,195,0
-Morgan,,President of the United States,,,GARY JOHNSON,218,11,104,103,0
-Morgan,Northeast Morgan,President of the United States,,,GARY JOHNSON,45,0,15,30,0
-Morgan,East Morgan,President of the United States,,,GARY JOHNSON,29,3,10,16,0
-Morgan,Beth/Springfield,President of the United States,,,GARY JOHNSON,15,0,10,5,0
-Morgan,Central Morgan,President of the United States,,,GARY JOHNSON,43,6,19,18,0
-Morgan,Clacks Chapel,President of the United States,,,GARY JOHNSON,11,0,8,3,0
-Morgan,West Morgan,President of the United States,,,GARY JOHNSON,29,1,13,15,0
-Morgan,North Morgan,President of the United States,,,GARY JOHNSON,46,1,29,16,0
+Morgan,,President of the United States,,REP,DONALD J. TRUMP,6559,220,2449,3888,2
+Morgan,Northeast Morgan,President of the United States,,REP,DONALD J. TRUMP,744,33,164,547,0
+Morgan,East Morgan,President of the United States,,REP,DONALD J. TRUMP,1022,29,422,571,0
+Morgan,Beth/Springfield,President of the United States,,REP,DONALD J. TRUMP,430,17,205,206,2
+Morgan,Central Morgan,President of the United States,,REP,DONALD J. TRUMP,1345,57,312,976,0
+Morgan,Clacks Chapel,President of the United States,,REP,DONALD J. TRUMP,412,8,201,203,0
+Morgan,West Morgan,President of the United States,,REP,DONALD J. TRUMP,1330,38,543,749,0
+Morgan,North Morgan,President of the United States,,REP,DONALD J. TRUMP,1276,38,602,636,0
+Morgan,,President of the United States,,DEM,HILLARY CLINTON,2663,161,958,1541,3
+Morgan,Northeast Morgan,President of the United States,,DEM,HILLARY CLINTON,1026,48,337,639,2
+Morgan,East Morgan,President of the United States,,DEM,HILLARY CLINTON,298,18,103,177,0
+Morgan,Beth/Springfield,President of the United States,,DEM,HILLARY CLINTON,112,7,53,52,0
+Morgan,Central Morgan,President of the United States,,DEM,HILLARY CLINTON,461,36,129,296,0
+Morgan,Clacks Chapel,President of the United States,,DEM,HILLARY CLINTON,63,4,24,35,0
+Morgan,West Morgan,President of the United States,,DEM,HILLARY CLINTON,327,19,160,147,1
+Morgan,North Morgan,President of the United States,,DEM,HILLARY CLINTON,376,29,152,195,0
+Morgan,,President of the United States,,IND,GARY JOHNSON,218,11,104,103,0
+Morgan,Northeast Morgan,President of the United States,,IND,GARY JOHNSON,45,0,15,30,0
+Morgan,East Morgan,President of the United States,,IND,GARY JOHNSON,29,3,10,16,0
+Morgan,Beth/Springfield,President of the United States,,IND,GARY JOHNSON,15,0,10,5,0
+Morgan,Central Morgan,President of the United States,,IND,GARY JOHNSON,43,6,19,18,0
+Morgan,Clacks Chapel,President of the United States,,IND,GARY JOHNSON,11,0,8,3,0
+Morgan,West Morgan,President of the United States,,IND,GARY JOHNSON,29,1,13,15,0
+Morgan,North Morgan,President of the United States,,IND,GARY JOHNSON,46,1,29,16,0
 Morgan,,United States Senator,,,JOHNNY ISAKSON ,6533,235,2444,3853,1
 Morgan,Northeast Morgan,United States Senator,,,JOHNNY ISAKSON ,848,37,209,602,0
 Morgan,East Morgan,United States Senator,,,JOHNNY ISAKSON ,1015,36,416,563,0

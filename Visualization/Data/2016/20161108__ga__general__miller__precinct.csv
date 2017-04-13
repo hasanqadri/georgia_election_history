@@ -1,10 +1,10 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Miller,,President of the United States,,,DONALD J. TRUMP,1891,105,768,1015,3
-Miller,Colquitt-Miller,President of the United States,,,DONALD J. TRUMP,1891,105,768,1015,3
-Miller,,President of the United States,,,HILLARY CLINTON,623,47,359,216,1
-Miller,Colquitt-Miller,President of the United States,,,HILLARY CLINTON,623,47,359,216,1
-Miller,,President of the United States,,,GARY JOHNSON,30,3,19,8,0
-Miller,Colquitt-Miller,President of the United States,,,GARY JOHNSON,30,3,19,8,0
+Miller,,President of the United States,,REP,DONALD J. TRUMP,1891,105,768,1015,3
+Miller,Colquitt-Miller,President of the United States,,REP,DONALD J. TRUMP,1891,105,768,1015,3
+Miller,,President of the United States,,DEM,HILLARY CLINTON,623,47,359,216,1
+Miller,Colquitt-Miller,President of the United States,,DEM,HILLARY CLINTON,623,47,359,216,1
+Miller,,President of the United States,,IND,GARY JOHNSON,30,3,19,8,0
+Miller,Colquitt-Miller,President of the United States,,IND,GARY JOHNSON,30,3,19,8,0
 Miller,,United States Senator,,,JOHNNY ISAKSON ,1709,99,701,906,3
 Miller,Colquitt-Miller,United States Senator,,,JOHNNY ISAKSON ,1709,99,701,906,3
 Miller,,United States Senator,,,JIM BARKSDALE,503,44,293,165,1

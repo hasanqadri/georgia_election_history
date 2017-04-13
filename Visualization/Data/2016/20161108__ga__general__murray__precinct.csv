@@ -1,28 +1,28 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Murray,,President of the United States,,,DONALD J. TRUMP,10341,258,5212,4871,0
-Murray,MCDONALD,President of the United States,,,DONALD J. TRUMP,1123,15,598,510,0
-Murray,SHUCK PEN,President of the United States,,,DONALD J. TRUMP,1333,22,752,559,0
-Murray,SOUTHWEST,President of the United States,,,DONALD J. TRUMP,1368,28,754,586,0
-Murray,SPRING PLACE,President of the United States,,,DONALD J. TRUMP,1700,55,755,890,0
-Murray,TOWN,President of the United States,,,DONALD J. TRUMP,2754,90,1126,1538,0
-Murray,CARTERS-DOOLITTLE,President of the United States,,,DONALD J. TRUMP,979,21,561,397,0
-Murray,NORTH,President of the United States,,,DONALD J. TRUMP,1084,27,666,391,0
-Murray,,President of the United States,,,HILLARY CLINTON,1800,96,938,766,0
-Murray,MCDONALD,President of the United States,,,HILLARY CLINTON,175,6,84,85,0
-Murray,SHUCK PEN,President of the United States,,,HILLARY CLINTON,257,10,171,76,0
-Murray,SOUTHWEST,President of the United States,,,HILLARY CLINTON,214,13,116,85,0
-Murray,SPRING PLACE,President of the United States,,,HILLARY CLINTON,326,8,181,137,0
-Murray,TOWN,President of the United States,,,HILLARY CLINTON,543,38,223,282,0
-Murray,CARTERS-DOOLITTLE,President of the United States,,,HILLARY CLINTON,151,12,77,62,0
-Murray,NORTH,President of the United States,,,HILLARY CLINTON,134,9,86,39,0
-Murray,,President of the United States,,,GARY JOHNSON,283,16,180,87,0
-Murray,MCDONALD,President of the United States,,,GARY JOHNSON,29,2,19,8,0
-Murray,SHUCK PEN,President of the United States,,,GARY JOHNSON,38,0,28,10,0
-Murray,SOUTHWEST,President of the United States,,,GARY JOHNSON,44,3,32,9,0
-Murray,SPRING PLACE,President of the United States,,,GARY JOHNSON,50,3,31,16,0
-Murray,TOWN,President of the United States,,,GARY JOHNSON,70,5,33,32,0
-Murray,CARTERS-DOOLITTLE,President of the United States,,,GARY JOHNSON,23,2,18,3,0
-Murray,NORTH,President of the United States,,,GARY JOHNSON,29,1,19,9,0
+Murray,,President of the United States,,REP,DONALD J. TRUMP,10341,258,5212,4871,0
+Murray,MCDONALD,President of the United States,,REP,DONALD J. TRUMP,1123,15,598,510,0
+Murray,SHUCK PEN,President of the United States,,REP,DONALD J. TRUMP,1333,22,752,559,0
+Murray,SOUTHWEST,President of the United States,,REP,DONALD J. TRUMP,1368,28,754,586,0
+Murray,SPRING PLACE,President of the United States,,REP,DONALD J. TRUMP,1700,55,755,890,0
+Murray,TOWN,President of the United States,,REP,DONALD J. TRUMP,2754,90,1126,1538,0
+Murray,CARTERS-DOOLITTLE,President of the United States,,REP,DONALD J. TRUMP,979,21,561,397,0
+Murray,NORTH,President of the United States,,REP,DONALD J. TRUMP,1084,27,666,391,0
+Murray,,President of the United States,,DEM,HILLARY CLINTON,1800,96,938,766,0
+Murray,MCDONALD,President of the United States,,DEM,HILLARY CLINTON,175,6,84,85,0
+Murray,SHUCK PEN,President of the United States,,DEM,HILLARY CLINTON,257,10,171,76,0
+Murray,SOUTHWEST,President of the United States,,DEM,HILLARY CLINTON,214,13,116,85,0
+Murray,SPRING PLACE,President of the United States,,DEM,HILLARY CLINTON,326,8,181,137,0
+Murray,TOWN,President of the United States,,DEM,HILLARY CLINTON,543,38,223,282,0
+Murray,CARTERS-DOOLITTLE,President of the United States,,DEM,HILLARY CLINTON,151,12,77,62,0
+Murray,NORTH,President of the United States,,DEM,HILLARY CLINTON,134,9,86,39,0
+Murray,,President of the United States,,IND,GARY JOHNSON,283,16,180,87,0
+Murray,MCDONALD,President of the United States,,IND,GARY JOHNSON,29,2,19,8,0
+Murray,SHUCK PEN,President of the United States,,IND,GARY JOHNSON,38,0,28,10,0
+Murray,SOUTHWEST,President of the United States,,IND,GARY JOHNSON,44,3,32,9,0
+Murray,SPRING PLACE,President of the United States,,IND,GARY JOHNSON,50,3,31,16,0
+Murray,TOWN,President of the United States,,IND,GARY JOHNSON,70,5,33,32,0
+Murray,CARTERS-DOOLITTLE,President of the United States,,IND,GARY JOHNSON,23,2,18,3,0
+Murray,NORTH,President of the United States,,IND,GARY JOHNSON,29,1,19,9,0
 Murray,,United States Senator,,,JOHNNY ISAKSON ,8922,244,4546,4132,0
 Murray,MCDONALD,United States Senator,,,JOHNNY ISAKSON ,962,15,515,432,0
 Murray,SHUCK PEN,United States Senator,,,JOHNNY ISAKSON ,1168,21,656,491,0

@@ -1,34 +1,34 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Crawford,,President of the United States,,,DONALD J. TRUMP,3635,153,1615,1864,3
-Crawford,1A,President of the United States,,,DONALD J. TRUMP,154,3,84,66,1
-Crawford,1B - COUNTY,President of the United States,,,DONALD J. TRUMP,218,7,90,121,0
-Crawford,1B - CITY,President of the United States,,,DONALD J. TRUMP,7,1,2,4,0
-Crawford,2 - COUNTY,President of the United States,,,DONALD J. TRUMP,487,32,117,338,0
-Crawford,2 - CITY,President of the United States,,,DONALD J. TRUMP,61,7,15,39,0
-Crawford,3 - COUNTY,President of the United States,,,DONALD J. TRUMP,811,35,304,472,0
-Crawford,3 - CITY,President of the United States,,,DONALD J. TRUMP,64,1,21,42,0
-Crawford,4,President of the United States,,,DONALD J. TRUMP,906,36,471,398,1
-Crawford,5,President of the United States,,,DONALD J. TRUMP,927,31,511,384,1
-Crawford,,President of the United States,,,HILLARY CLINTON,1421,95,598,726,2
-Crawford,1A,President of the United States,,,HILLARY CLINTON,135,9,81,45,0
-Crawford,1B - COUNTY,President of the United States,,,HILLARY CLINTON,376,28,198,150,0
-Crawford,1B - CITY,President of the United States,,,HILLARY CLINTON,13,1,9,2,1
-Crawford,2 - COUNTY,President of the United States,,,HILLARY CLINTON,407,27,101,279,0
-Crawford,2 - CITY,President of the United States,,,HILLARY CLINTON,100,5,40,55,0
-Crawford,3 - COUNTY,President of the United States,,,HILLARY CLINTON,129,6,46,76,1
-Crawford,3 - CITY,President of the United States,,,HILLARY CLINTON,25,1,13,11,0
-Crawford,4,President of the United States,,,HILLARY CLINTON,126,11,54,61,0
-Crawford,5,President of the United States,,,HILLARY CLINTON,110,7,56,47,0
-Crawford,,President of the United States,,,GARY JOHNSON,106,4,54,48,0
-Crawford,1A,President of the United States,,,GARY JOHNSON,3,0,2,1,0
-Crawford,1B - COUNTY,President of the United States,,,GARY JOHNSON,8,1,4,3,0
-Crawford,1B - CITY,President of the United States,,,GARY JOHNSON,2,0,1,1,0
-Crawford,2 - COUNTY,President of the United States,,,GARY JOHNSON,21,0,6,15,0
-Crawford,2 - CITY,President of the United States,,,GARY JOHNSON,3,0,2,1,0
-Crawford,3 - COUNTY,President of the United States,,,GARY JOHNSON,21,2,11,8,0
-Crawford,3 - CITY,President of the United States,,,GARY JOHNSON,10,1,8,1,0
-Crawford,4,President of the United States,,,GARY JOHNSON,16,0,9,7,0
-Crawford,5,President of the United States,,,GARY JOHNSON,22,0,11,11,0
+Crawford,,President of the United States,,REP,DONALD J. TRUMP,3635,153,1615,1864,3
+Crawford,1A,President of the United States,,REP,DONALD J. TRUMP,154,3,84,66,1
+Crawford,1B - COUNTY,President of the United States,,REP,DONALD J. TRUMP,218,7,90,121,0
+Crawford,1B - CITY,President of the United States,,REP,DONALD J. TRUMP,7,1,2,4,0
+Crawford,2 - COUNTY,President of the United States,,REP,DONALD J. TRUMP,487,32,117,338,0
+Crawford,2 - CITY,President of the United States,,REP,DONALD J. TRUMP,61,7,15,39,0
+Crawford,3 - COUNTY,President of the United States,,REP,DONALD J. TRUMP,811,35,304,472,0
+Crawford,3 - CITY,President of the United States,,REP,DONALD J. TRUMP,64,1,21,42,0
+Crawford,4,President of the United States,,REP,DONALD J. TRUMP,906,36,471,398,1
+Crawford,5,President of the United States,,REP,DONALD J. TRUMP,927,31,511,384,1
+Crawford,,President of the United States,,DEM,HILLARY CLINTON,1421,95,598,726,2
+Crawford,1A,President of the United States,,DEM,HILLARY CLINTON,135,9,81,45,0
+Crawford,1B - COUNTY,President of the United States,,DEM,HILLARY CLINTON,376,28,198,150,0
+Crawford,1B - CITY,President of the United States,,DEM,HILLARY CLINTON,13,1,9,2,1
+Crawford,2 - COUNTY,President of the United States,,DEM,HILLARY CLINTON,407,27,101,279,0
+Crawford,2 - CITY,President of the United States,,DEM,HILLARY CLINTON,100,5,40,55,0
+Crawford,3 - COUNTY,President of the United States,,DEM,HILLARY CLINTON,129,6,46,76,1
+Crawford,3 - CITY,President of the United States,,DEM,HILLARY CLINTON,25,1,13,11,0
+Crawford,4,President of the United States,,DEM,HILLARY CLINTON,126,11,54,61,0
+Crawford,5,President of the United States,,DEM,HILLARY CLINTON,110,7,56,47,0
+Crawford,,President of the United States,,IND,GARY JOHNSON,106,4,54,48,0
+Crawford,1A,President of the United States,,IND,GARY JOHNSON,3,0,2,1,0
+Crawford,1B - COUNTY,President of the United States,,IND,GARY JOHNSON,8,1,4,3,0
+Crawford,1B - CITY,President of the United States,,IND,GARY JOHNSON,2,0,1,1,0
+Crawford,2 - COUNTY,President of the United States,,IND,GARY JOHNSON,21,0,6,15,0
+Crawford,2 - CITY,President of the United States,,IND,GARY JOHNSON,3,0,2,1,0
+Crawford,3 - COUNTY,President of the United States,,IND,GARY JOHNSON,21,2,11,8,0
+Crawford,3 - CITY,President of the United States,,IND,GARY JOHNSON,10,1,8,1,0
+Crawford,4,President of the United States,,IND,GARY JOHNSON,16,0,9,7,0
+Crawford,5,President of the United States,,IND,GARY JOHNSON,22,0,11,11,0
 Crawford,,United States Senator,,,JOHNNY ISAKSON ,3494,164,1526,1801,3
 Crawford,1A,United States Senator,,,JOHNNY ISAKSON ,157,4,83,69,1
 Crawford,1B - COUNTY,United States Senator,,,JOHNNY ISAKSON ,232,9,96,127,0

@@ -1,28 +1,28 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Wilkes,,President of the United States,,,DONALD J. TRUMP,2572,88,1161,1320,3
-Wilkes,Senior Citizen Center,President of the United States,,,DONALD J. TRUMP,358,15,150,193,0
-Wilkes,Young Farmer's Bldg,President of the United States,,,DONALD J. TRUMP,685,26,270,389,0
-Wilkes,Metasville Fire Station,President of the United States,,,DONALD J. TRUMP,285,4,159,121,1
-Wilkes,Edward B Pope Center,President of the United States,,,DONALD J. TRUMP,181,6,81,93,1
-Wilkes,Rayle City Hall,President of the United States,,,DONALD J. TRUMP,237,8,152,76,1
-Wilkes,Courthouse,President of the United States,,,DONALD J. TRUMP,463,14,118,331,0
-Wilkes,Tignall Sch Lunch RM,President of the United States,,,DONALD J. TRUMP,363,15,231,117,0
-Wilkes,,President of the United States,,,HILLARY CLINTON,1848,95,961,788,4
-Wilkes,Senior Citizen Center,President of the United States,,,HILLARY CLINTON,564,24,269,271,0
-Wilkes,Young Farmer's Bldg,President of the United States,,,HILLARY CLINTON,162,9,80,72,1
-Wilkes,Metasville Fire Station,President of the United States,,,HILLARY CLINTON,95,4,51,40,0
-Wilkes,Edward B Pope Center,President of the United States,,,HILLARY CLINTON,431,22,244,163,2
-Wilkes,Rayle City Hall,President of the United States,,,HILLARY CLINTON,125,5,89,30,1
-Wilkes,Courthouse,President of the United States,,,HILLARY CLINTON,234,17,79,138,0
-Wilkes,Tignall Sch Lunch RM,President of the United States,,,HILLARY CLINTON,237,14,149,74,0
-Wilkes,,President of the United States,,,GARY JOHNSON,57,1,34,22,0
-Wilkes,Senior Citizen Center,President of the United States,,,GARY JOHNSON,6,1,4,1,0
-Wilkes,Young Farmer's Bldg,President of the United States,,,GARY JOHNSON,16,0,10,6,0
-Wilkes,Metasville Fire Station,President of the United States,,,GARY JOHNSON,3,0,3,0,0
-Wilkes,Edward B Pope Center,President of the United States,,,GARY JOHNSON,12,0,5,7,0
-Wilkes,Rayle City Hall,President of the United States,,,GARY JOHNSON,9,0,6,3,0
-Wilkes,Courthouse,President of the United States,,,GARY JOHNSON,6,0,2,4,0
-Wilkes,Tignall Sch Lunch RM,President of the United States,,,GARY JOHNSON,5,0,4,1,0
+Wilkes,,President of the United States,,REP,DONALD J. TRUMP,2572,88,1161,1320,3
+Wilkes,Senior Citizen Center,President of the United States,,REP,DONALD J. TRUMP,358,15,150,193,0
+Wilkes,Young Farmer's Bldg,President of the United States,,REP,DONALD J. TRUMP,685,26,270,389,0
+Wilkes,Metasville Fire Station,President of the United States,,REP,DONALD J. TRUMP,285,4,159,121,1
+Wilkes,Edward B Pope Center,President of the United States,,REP,DONALD J. TRUMP,181,6,81,93,1
+Wilkes,Rayle City Hall,President of the United States,,REP,DONALD J. TRUMP,237,8,152,76,1
+Wilkes,Courthouse,President of the United States,,REP,DONALD J. TRUMP,463,14,118,331,0
+Wilkes,Tignall Sch Lunch RM,President of the United States,,REP,DONALD J. TRUMP,363,15,231,117,0
+Wilkes,,President of the United States,,DEM,HILLARY CLINTON,1848,95,961,788,4
+Wilkes,Senior Citizen Center,President of the United States,,DEM,HILLARY CLINTON,564,24,269,271,0
+Wilkes,Young Farmer's Bldg,President of the United States,,DEM,HILLARY CLINTON,162,9,80,72,1
+Wilkes,Metasville Fire Station,President of the United States,,DEM,HILLARY CLINTON,95,4,51,40,0
+Wilkes,Edward B Pope Center,President of the United States,,DEM,HILLARY CLINTON,431,22,244,163,2
+Wilkes,Rayle City Hall,President of the United States,,DEM,HILLARY CLINTON,125,5,89,30,1
+Wilkes,Courthouse,President of the United States,,DEM,HILLARY CLINTON,234,17,79,138,0
+Wilkes,Tignall Sch Lunch RM,President of the United States,,DEM,HILLARY CLINTON,237,14,149,74,0
+Wilkes,,President of the United States,,IND,GARY JOHNSON,57,1,34,22,0
+Wilkes,Senior Citizen Center,President of the United States,,IND,GARY JOHNSON,6,1,4,1,0
+Wilkes,Young Farmer's Bldg,President of the United States,,IND,GARY JOHNSON,16,0,10,6,0
+Wilkes,Metasville Fire Station,President of the United States,,IND,GARY JOHNSON,3,0,3,0,0
+Wilkes,Edward B Pope Center,President of the United States,,IND,GARY JOHNSON,12,0,5,7,0
+Wilkes,Rayle City Hall,President of the United States,,IND,GARY JOHNSON,9,0,6,3,0
+Wilkes,Courthouse,President of the United States,,IND,GARY JOHNSON,6,0,2,4,0
+Wilkes,Tignall Sch Lunch RM,President of the United States,,IND,GARY JOHNSON,5,0,4,1,0
 Wilkes,,United States Senator,,,JOHNNY ISAKSON ,2507,92,1142,1269,4
 Wilkes,Senior Citizen Center,United States Senator,,,JOHNNY ISAKSON ,372,15,158,199,0
 Wilkes,Young Farmer's Bldg,United States Senator,,,JOHNNY ISAKSON ,660,25,276,359,0

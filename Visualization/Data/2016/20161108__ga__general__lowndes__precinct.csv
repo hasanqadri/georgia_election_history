@@ -1,40 +1,40 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Lowndes,,President of the United States,,,DONALD J. TRUMP,21635,794,6629,14006,206
-Lowndes,Hahira,President of the United States,,,DONALD J. TRUMP,2431,72,1025,1313,21
-Lowndes,Trinity-001,President of the United States,,,DONALD J. TRUMP,564,26,176,356,6
-Lowndes,Trinity-008,President of the United States,,,DONALD J. TRUMP,2780,85,795,1859,41
-Lowndes,Northside,President of the United States,,,DONALD J. TRUMP,6179,268,1063,4799,49
-Lowndes,Naylor-001,President of the United States,,,DONALD J. TRUMP,324,7,207,110,0
-Lowndes,Naylor-008,President of the United States,,,DONALD J. TRUMP,164,9,44,109,2
-Lowndes,Rainwater,President of the United States,,,DONALD J. TRUMP,3590,146,868,2546,30
-Lowndes,Mildred,President of the United States,,,DONALD J. TRUMP,232,12,55,156,9
-Lowndes,Clyattville,President of the United States,,,DONALD J. TRUMP,1669,42,697,907,23
-Lowndes,Dasher,President of the United States,,,DONALD J. TRUMP,2020,44,903,1056,17
-Lowndes,S Lowndes,President of the United States,,,DONALD J. TRUMP,1682,83,796,795,8
-Lowndes,,President of the United States,,,HILLARY CLINTON,15064,700,4423,9644,297
-Lowndes,Hahira,President of the United States,,,HILLARY CLINTON,577,27,235,296,19
-Lowndes,Trinity-001,President of the United States,,,HILLARY CLINTON,405,21,111,261,12
-Lowndes,Trinity-008,President of the United States,,,HILLARY CLINTON,2020,67,530,1367,56
-Lowndes,Northside,President of the United States,,,HILLARY CLINTON,7147,307,1888,4849,103
-Lowndes,Naylor-001,President of the United States,,,HILLARY CLINTON,133,5,75,51,2
-Lowndes,Naylor-008,President of the United States,,,HILLARY CLINTON,98,1,17,77,3
-Lowndes,Rainwater,President of the United States,,,HILLARY CLINTON,1605,92,410,1080,23
-Lowndes,Mildred,President of the United States,,,HILLARY CLINTON,1631,98,630,859,44
-Lowndes,Clyattville,President of the United States,,,HILLARY CLINTON,661,39,231,373,18
-Lowndes,Dasher,President of the United States,,,HILLARY CLINTON,350,10,122,212,6
-Lowndes,S Lowndes,President of the United States,,,HILLARY CLINTON,437,33,174,219,11
-Lowndes,,President of the United States,,,GARY JOHNSON,929,53,379,479,18
-Lowndes,Hahira,President of the United States,,,GARY JOHNSON,66,5,32,26,3
-Lowndes,Trinity-001,President of the United States,,,GARY JOHNSON,31,2,17,12,0
-Lowndes,Trinity-008,President of the United States,,,GARY JOHNSON,166,18,77,70,1
-Lowndes,Northside,President of the United States,,,GARY JOHNSON,343,12,108,216,7
-Lowndes,Naylor-001,President of the United States,,,GARY JOHNSON,15,0,8,7,0
-Lowndes,Naylor-008,President of the United States,,,GARY JOHNSON,5,0,2,2,1
-Lowndes,Rainwater,President of the United States,,,GARY JOHNSON,149,6,56,83,4
-Lowndes,Mildred,President of the United States,,,GARY JOHNSON,17,1,8,8,0
-Lowndes,Clyattville,President of the United States,,,GARY JOHNSON,45,3,24,18,0
-Lowndes,Dasher,President of the United States,,,GARY JOHNSON,54,4,27,22,1
-Lowndes,S Lowndes,President of the United States,,,GARY JOHNSON,38,2,20,15,1
+Lowndes,,President of the United States,,REP,DONALD J. TRUMP,21635,794,6629,14006,206
+Lowndes,Hahira,President of the United States,,REP,DONALD J. TRUMP,2431,72,1025,1313,21
+Lowndes,Trinity-001,President of the United States,,REP,DONALD J. TRUMP,564,26,176,356,6
+Lowndes,Trinity-008,President of the United States,,REP,DONALD J. TRUMP,2780,85,795,1859,41
+Lowndes,Northside,President of the United States,,REP,DONALD J. TRUMP,6179,268,1063,4799,49
+Lowndes,Naylor-001,President of the United States,,REP,DONALD J. TRUMP,324,7,207,110,0
+Lowndes,Naylor-008,President of the United States,,REP,DONALD J. TRUMP,164,9,44,109,2
+Lowndes,Rainwater,President of the United States,,REP,DONALD J. TRUMP,3590,146,868,2546,30
+Lowndes,Mildred,President of the United States,,REP,DONALD J. TRUMP,232,12,55,156,9
+Lowndes,Clyattville,President of the United States,,REP,DONALD J. TRUMP,1669,42,697,907,23
+Lowndes,Dasher,President of the United States,,REP,DONALD J. TRUMP,2020,44,903,1056,17
+Lowndes,S Lowndes,President of the United States,,REP,DONALD J. TRUMP,1682,83,796,795,8
+Lowndes,,President of the United States,,DEM,HILLARY CLINTON,15064,700,4423,9644,297
+Lowndes,Hahira,President of the United States,,DEM,HILLARY CLINTON,577,27,235,296,19
+Lowndes,Trinity-001,President of the United States,,DEM,HILLARY CLINTON,405,21,111,261,12
+Lowndes,Trinity-008,President of the United States,,DEM,HILLARY CLINTON,2020,67,530,1367,56
+Lowndes,Northside,President of the United States,,DEM,HILLARY CLINTON,7147,307,1888,4849,103
+Lowndes,Naylor-001,President of the United States,,DEM,HILLARY CLINTON,133,5,75,51,2
+Lowndes,Naylor-008,President of the United States,,DEM,HILLARY CLINTON,98,1,17,77,3
+Lowndes,Rainwater,President of the United States,,DEM,HILLARY CLINTON,1605,92,410,1080,23
+Lowndes,Mildred,President of the United States,,DEM,HILLARY CLINTON,1631,98,630,859,44
+Lowndes,Clyattville,President of the United States,,DEM,HILLARY CLINTON,661,39,231,373,18
+Lowndes,Dasher,President of the United States,,DEM,HILLARY CLINTON,350,10,122,212,6
+Lowndes,S Lowndes,President of the United States,,DEM,HILLARY CLINTON,437,33,174,219,11
+Lowndes,,President of the United States,,IND,GARY JOHNSON,929,53,379,479,18
+Lowndes,Hahira,President of the United States,,IND,GARY JOHNSON,66,5,32,26,3
+Lowndes,Trinity-001,President of the United States,,IND,GARY JOHNSON,31,2,17,12,0
+Lowndes,Trinity-008,President of the United States,,IND,GARY JOHNSON,166,18,77,70,1
+Lowndes,Northside,President of the United States,,IND,GARY JOHNSON,343,12,108,216,7
+Lowndes,Naylor-001,President of the United States,,IND,GARY JOHNSON,15,0,8,7,0
+Lowndes,Naylor-008,President of the United States,,IND,GARY JOHNSON,5,0,2,2,1
+Lowndes,Rainwater,President of the United States,,IND,GARY JOHNSON,149,6,56,83,4
+Lowndes,Mildred,President of the United States,,IND,GARY JOHNSON,17,1,8,8,0
+Lowndes,Clyattville,President of the United States,,IND,GARY JOHNSON,45,3,24,18,0
+Lowndes,Dasher,President of the United States,,IND,GARY JOHNSON,54,4,27,22,1
+Lowndes,S Lowndes,President of the United States,,IND,GARY JOHNSON,38,2,20,15,1
 Lowndes,,United States Senator,,,JOHNNY ISAKSON ,20802,836,6290,13480,196
 Lowndes,Hahira,United States Senator,,,JOHNNY ISAKSON ,2289,78,962,1231,18
 Lowndes,Trinity-001,United States Senator,,,JOHNNY ISAKSON ,524,21,161,336,6

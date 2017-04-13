@@ -1,40 +1,40 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Elbert,,President of the United States,,,DONALD J. TRUMP,5292,272,1979,3018,23
-Elbert,Elberton,President of the United States,,,DONALD J. TRUMP,1149,95,167,884,3
-Elbert,Longstreet,President of the United States,,,DONALD J. TRUMP,335,18,126,189,2
-Elbert,Eliam,President of the United States,,,DONALD J. TRUMP,421,27,176,215,3
-Elbert,Petersburg,President of the United States,,,DONALD J. TRUMP,205,10,128,66,1
-Elbert,Wyche,President of the United States,,,DONALD J. TRUMP,553,20,154,378,1
-Elbert,Moss-Ruckersville,President of the United States,,,DONALD J. TRUMP,204,12,76,116,0
-Elbert,Pike,President of the United States,,,DONALD J. TRUMP,628,29,247,346,6
-Elbert,Gaines,President of the United States,,,DONALD J. TRUMP,313,6,190,116,1
-Elbert,Goshen,President of the United States,,,DONALD J. TRUMP,768,24,400,342,2
-Elbert,Webbsboro,President of the United States,,,DONALD J. TRUMP,213,12,105,94,2
-Elbert,Centerville,President of the United States,,,DONALD J. TRUMP,503,19,210,272,2
-Elbert,,President of the United States,,,HILLARY CLINTON,2539,194,892,1421,32
-Elbert,Elberton,President of the United States,,,HILLARY CLINTON,1145,85,355,704,1
-Elbert,Longstreet,President of the United States,,,HILLARY CLINTON,98,4,47,43,4
-Elbert,Eliam,President of the United States,,,HILLARY CLINTON,105,5,35,62,3
-Elbert,Petersburg,President of the United States,,,HILLARY CLINTON,52,9,21,21,1
-Elbert,Wyche,President of the United States,,,HILLARY CLINTON,226,13,65,143,5
-Elbert,Moss-Ruckersville,President of the United States,,,HILLARY CLINTON,93,7,32,53,1
-Elbert,Pike,President of the United States,,,HILLARY CLINTON,381,23,105,243,10
-Elbert,Gaines,President of the United States,,,HILLARY CLINTON,36,2,25,9,0
-Elbert,Goshen,President of the United States,,,HILLARY CLINTON,211,25,112,71,3
-Elbert,Webbsboro,President of the United States,,,HILLARY CLINTON,66,6,31,28,1
-Elbert,Centerville,President of the United States,,,HILLARY CLINTON,126,15,64,44,3
-Elbert,,President of the United States,,,GARY JOHNSON,139,13,62,61,3
-Elbert,Elberton,President of the United States,,,GARY JOHNSON,45,6,16,23,0
-Elbert,Longstreet,President of the United States,,,GARY JOHNSON,6,0,1,3,2
-Elbert,Eliam,President of the United States,,,GARY JOHNSON,7,0,3,4,0
-Elbert,Petersburg,President of the United States,,,GARY JOHNSON,4,0,4,0,0
-Elbert,Wyche,President of the United States,,,GARY JOHNSON,6,1,0,5,0
-Elbert,Moss-Ruckersville,President of the United States,,,GARY JOHNSON,6,1,3,2,0
-Elbert,Pike,President of the United States,,,GARY JOHNSON,22,2,13,7,0
-Elbert,Gaines,President of the United States,,,GARY JOHNSON,5,1,4,0,0
-Elbert,Goshen,President of the United States,,,GARY JOHNSON,18,1,10,6,1
-Elbert,Webbsboro,President of the United States,,,GARY JOHNSON,10,0,4,6,0
-Elbert,Centerville,President of the United States,,,GARY JOHNSON,10,1,4,5,0
+Elbert,,President of the United States,,REP,DONALD J. TRUMP,5292,272,1979,3018,23
+Elbert,Elberton,President of the United States,,REP,DONALD J. TRUMP,1149,95,167,884,3
+Elbert,Longstreet,President of the United States,,REP,DONALD J. TRUMP,335,18,126,189,2
+Elbert,Eliam,President of the United States,,REP,DONALD J. TRUMP,421,27,176,215,3
+Elbert,Petersburg,President of the United States,,REP,DONALD J. TRUMP,205,10,128,66,1
+Elbert,Wyche,President of the United States,,REP,DONALD J. TRUMP,553,20,154,378,1
+Elbert,Moss-Ruckersville,President of the United States,,REP,DONALD J. TRUMP,204,12,76,116,0
+Elbert,Pike,President of the United States,,REP,DONALD J. TRUMP,628,29,247,346,6
+Elbert,Gaines,President of the United States,,REP,DONALD J. TRUMP,313,6,190,116,1
+Elbert,Goshen,President of the United States,,REP,DONALD J. TRUMP,768,24,400,342,2
+Elbert,Webbsboro,President of the United States,,REP,DONALD J. TRUMP,213,12,105,94,2
+Elbert,Centerville,President of the United States,,REP,DONALD J. TRUMP,503,19,210,272,2
+Elbert,,President of the United States,,DEM,HILLARY CLINTON,2539,194,892,1421,32
+Elbert,Elberton,President of the United States,,DEM,HILLARY CLINTON,1145,85,355,704,1
+Elbert,Longstreet,President of the United States,,DEM,HILLARY CLINTON,98,4,47,43,4
+Elbert,Eliam,President of the United States,,DEM,HILLARY CLINTON,105,5,35,62,3
+Elbert,Petersburg,President of the United States,,DEM,HILLARY CLINTON,52,9,21,21,1
+Elbert,Wyche,President of the United States,,DEM,HILLARY CLINTON,226,13,65,143,5
+Elbert,Moss-Ruckersville,President of the United States,,DEM,HILLARY CLINTON,93,7,32,53,1
+Elbert,Pike,President of the United States,,DEM,HILLARY CLINTON,381,23,105,243,10
+Elbert,Gaines,President of the United States,,DEM,HILLARY CLINTON,36,2,25,9,0
+Elbert,Goshen,President of the United States,,DEM,HILLARY CLINTON,211,25,112,71,3
+Elbert,Webbsboro,President of the United States,,DEM,HILLARY CLINTON,66,6,31,28,1
+Elbert,Centerville,President of the United States,,DEM,HILLARY CLINTON,126,15,64,44,3
+Elbert,,President of the United States,,IND,GARY JOHNSON,139,13,62,61,3
+Elbert,Elberton,President of the United States,,IND,GARY JOHNSON,45,6,16,23,0
+Elbert,Longstreet,President of the United States,,IND,GARY JOHNSON,6,0,1,3,2
+Elbert,Eliam,President of the United States,,IND,GARY JOHNSON,7,0,3,4,0
+Elbert,Petersburg,President of the United States,,IND,GARY JOHNSON,4,0,4,0,0
+Elbert,Wyche,President of the United States,,IND,GARY JOHNSON,6,1,0,5,0
+Elbert,Moss-Ruckersville,President of the United States,,IND,GARY JOHNSON,6,1,3,2,0
+Elbert,Pike,President of the United States,,IND,GARY JOHNSON,22,2,13,7,0
+Elbert,Gaines,President of the United States,,IND,GARY JOHNSON,5,1,4,0,0
+Elbert,Goshen,President of the United States,,IND,GARY JOHNSON,18,1,10,6,1
+Elbert,Webbsboro,President of the United States,,IND,GARY JOHNSON,10,0,4,6,0
+Elbert,Centerville,President of the United States,,IND,GARY JOHNSON,10,1,4,5,0
 Elbert,,United States Senator,,,JOHNNY ISAKSON ,4960,278,1799,2859,24
 Elbert,Elberton,United States Senator,,,JOHNNY ISAKSON ,1131,105,165,858,3
 Elbert,Longstreet,United States Senator,,,JOHNNY ISAKSON ,306,15,110,178,3

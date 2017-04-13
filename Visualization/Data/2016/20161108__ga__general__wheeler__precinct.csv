@@ -1,13 +1,13 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Wheeler,,President of the United States,,,DONALD J. TRUMP,1421,94,669,655,3
-Wheeler,Alamo,President of the United States,,,DONALD J. TRUMP,831,37,379,415,0
-Wheeler,Glenwood,President of the United States,,,DONALD J. TRUMP,590,57,290,240,3
-Wheeler,,President of the United States,,,HILLARY CLINTON,646,68,295,283,0
-Wheeler,Alamo,President of the United States,,,HILLARY CLINTON,398,39,166,193,0
-Wheeler,Glenwood,President of the United States,,,HILLARY CLINTON,248,29,129,90,0
-Wheeler,,President of the United States,,,GARY JOHNSON,35,3,12,19,1
-Wheeler,Alamo,President of the United States,,,GARY JOHNSON,16,0,6,9,1
-Wheeler,Glenwood,President of the United States,,,GARY JOHNSON,19,3,6,10,0
+Wheeler,,President of the United States,,REP,DONALD J. TRUMP,1421,94,669,655,3
+Wheeler,Alamo,President of the United States,,REP,DONALD J. TRUMP,831,37,379,415,0
+Wheeler,Glenwood,President of the United States,,REP,DONALD J. TRUMP,590,57,290,240,3
+Wheeler,,President of the United States,,DEM,HILLARY CLINTON,646,68,295,283,0
+Wheeler,Alamo,President of the United States,,DEM,HILLARY CLINTON,398,39,166,193,0
+Wheeler,Glenwood,President of the United States,,DEM,HILLARY CLINTON,248,29,129,90,0
+Wheeler,,President of the United States,,IND,GARY JOHNSON,35,3,12,19,1
+Wheeler,Alamo,President of the United States,,IND,GARY JOHNSON,16,0,6,9,1
+Wheeler,Glenwood,President of the United States,,IND,GARY JOHNSON,19,3,6,10,0
 Wheeler,,United States Senator,,,JOHNNY ISAKSON ,1304,98,609,594,3
 Wheeler,Alamo,United States Senator,,,JOHNNY ISAKSON ,761,35,343,382,1
 Wheeler,Glenwood,United States Senator,,,JOHNNY ISAKSON ,543,63,266,212,2

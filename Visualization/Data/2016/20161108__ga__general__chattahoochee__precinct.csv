@@ -1,10 +1,10 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Chattahoochee,,President of the United States,,,DONALD J. TRUMP,751,34,420,292,5
-Chattahoochee,Chattahoochee Acvitity Center,President of the United States,,,DONALD J. TRUMP,751,34,420,292,5
-Chattahoochee,,President of the United States,,,HILLARY CLINTON,594,29,280,284,1
-Chattahoochee,Chattahoochee Acvitity Center,President of the United States,,,HILLARY CLINTON,594,29,280,284,1
-Chattahoochee,,President of the United States,,,GARY JOHNSON,45,2,27,16,0
-Chattahoochee,Chattahoochee Acvitity Center,President of the United States,,,GARY JOHNSON,45,2,27,16,0
+Chattahoochee,,President of the United States,,REP,DONALD J. TRUMP,751,34,420,292,5
+Chattahoochee,Chattahoochee Acvitity Center,President of the United States,,REP,DONALD J. TRUMP,751,34,420,292,5
+Chattahoochee,,President of the United States,,DEM,HILLARY CLINTON,594,29,280,284,1
+Chattahoochee,Chattahoochee Acvitity Center,President of the United States,,DEM,HILLARY CLINTON,594,29,280,284,1
+Chattahoochee,,President of the United States,,IND,GARY JOHNSON,45,2,27,16,0
+Chattahoochee,Chattahoochee Acvitity Center,President of the United States,,IND,GARY JOHNSON,45,2,27,16,0
 Chattahoochee,,United States Senator,,,JOHNNY ISAKSON ,700,36,390,269,5
 Chattahoochee,Chattahoochee Acvitity Center,United States Senator,,,JOHNNY ISAKSON ,700,36,390,269,5
 Chattahoochee,,United States Senator,,,JIM BARKSDALE,508,24,235,248,1

@@ -1,10 +1,10 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Lumpkin,,President of the United States,,,DONALD J. TRUMP,9619,395,2163,7056,5
-Lumpkin,Dahlonega,President of the United States,,,DONALD J. TRUMP,9619,395,2163,7056,5
-Lumpkin,,President of the United States,,,HILLARY CLINTON,2220,132,502,1584,2
-Lumpkin,Dahlonega,President of the United States,,,HILLARY CLINTON,2220,132,502,1584,2
-Lumpkin,,President of the United States,,,GARY JOHNSON,495,18,185,292,0
-Lumpkin,Dahlonega,President of the United States,,,GARY JOHNSON,495,18,185,292,0
+Lumpkin,,President of the United States,,REP,DONALD J. TRUMP,9619,395,2163,7056,5
+Lumpkin,Dahlonega,President of the United States,,REP,DONALD J. TRUMP,9619,395,2163,7056,5
+Lumpkin,,President of the United States,,DEM,HILLARY CLINTON,2220,132,502,1584,2
+Lumpkin,Dahlonega,President of the United States,,DEM,HILLARY CLINTON,2220,132,502,1584,2
+Lumpkin,,President of the United States,,IND,GARY JOHNSON,495,18,185,292,0
+Lumpkin,Dahlonega,President of the United States,,IND,GARY JOHNSON,495,18,185,292,0
 Lumpkin,,United States Senator,,,JOHNNY ISAKSON ,9197,398,2069,6724,6
 Lumpkin,Dahlonega,United States Senator,,,JOHNNY ISAKSON ,9197,398,2069,6724,6
 Lumpkin,,United States Senator,,,JIM BARKSDALE,1955,127,443,1384,1

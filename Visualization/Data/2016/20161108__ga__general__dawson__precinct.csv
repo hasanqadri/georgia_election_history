@@ -1,16 +1,16 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Dawson,,President of the United States,,,DONALD J. TRUMP,9900,422,2423,7039,16
-Dawson,West,President of the United States,,,DONALD J. TRUMP,1234,80,411,742,1
-Dawson,Central,President of the United States,,,DONALD J. TRUMP,4683,184,941,3551,7
-Dawson,East,President of the United States,,,DONALD J. TRUMP,3983,158,1071,2746,8
-Dawson,,President of the United States,,,HILLARY CLINTON,1448,107,379,958,4
-Dawson,West,President of the United States,,,HILLARY CLINTON,363,31,116,216,0
-Dawson,Central,President of the United States,,,HILLARY CLINTON,476,23,103,348,2
-Dawson,East,President of the United States,,,HILLARY CLINTON,609,53,160,394,2
-Dawson,,President of the United States,,,GARY JOHNSON,356,14,157,185,0
-Dawson,West,President of the United States,,,GARY JOHNSON,38,0,22,16,0
-Dawson,Central,President of the United States,,,GARY JOHNSON,145,8,54,83,0
-Dawson,East,President of the United States,,,GARY JOHNSON,173,6,81,86,0
+Dawson,,President of the United States,,REP,DONALD J. TRUMP,9900,422,2423,7039,16
+Dawson,West,President of the United States,,REP,DONALD J. TRUMP,1234,80,411,742,1
+Dawson,Central,President of the United States,,REP,DONALD J. TRUMP,4683,184,941,3551,7
+Dawson,East,President of the United States,,REP,DONALD J. TRUMP,3983,158,1071,2746,8
+Dawson,,President of the United States,,DEM,HILLARY CLINTON,1448,107,379,958,4
+Dawson,West,President of the United States,,DEM,HILLARY CLINTON,363,31,116,216,0
+Dawson,Central,President of the United States,,DEM,HILLARY CLINTON,476,23,103,348,2
+Dawson,East,President of the United States,,DEM,HILLARY CLINTON,609,53,160,394,2
+Dawson,,President of the United States,,IND,GARY JOHNSON,356,14,157,185,0
+Dawson,West,President of the United States,,IND,GARY JOHNSON,38,0,22,16,0
+Dawson,Central,President of the United States,,IND,GARY JOHNSON,145,8,54,83,0
+Dawson,East,President of the United States,,IND,GARY JOHNSON,173,6,81,86,0
 Dawson,,United States Senator,,,JOHNNY ISAKSON ,9314,422,2303,6574,15
 Dawson,West,United States Senator,,,JOHNNY ISAKSON ,1224,82,408,733,1
 Dawson,Central,United States Senator,,,JOHNNY ISAKSON ,4311,182,874,3249,6

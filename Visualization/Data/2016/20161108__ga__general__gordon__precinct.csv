@@ -1,43 +1,43 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Gordon,,President of the United States,,,DONALD J. TRUMP,15191,424,7142,7608,17
-Gordon,SUGAR VALLEY,President of the United States,,,DONALD J. TRUMP,738,10,466,261,1
-Gordon,PLAINVILLE,President of the United States,,,DONALD J. TRUMP,872,28,508,335,1
-Gordon,SONORAVILLE,President of the United States,,,DONALD J. TRUMP,2625,47,1267,1308,3
-Gordon,PINE CHAPEL,President of the United States,,,DONALD J. TRUMP,488,9,278,200,1
-Gordon,OOSTANAULA,President of the United States,,,DONALD J. TRUMP,315,13,205,96,1
-Gordon,OAKMAN,President of the United States,,,DONALD J. TRUMP,552,20,360,172,0
-Gordon,GORDON COUNTY,President of the United States,,,DONALD J. TRUMP,2588,77,984,1524,3
-Gordon,CALHOUN CITY,President of the United States,,,DONALD J. TRUMP,3247,111,989,2144,3
-Gordon,LILY POND,President of the United States,,,DONALD J. TRUMP,847,23,370,454,0
-Gordon,FAIRMOUNT,President of the United States,,,DONALD J. TRUMP,967,34,675,257,1
-Gordon,RED BUD,President of the United States,,,DONALD J. TRUMP,1283,31,651,598,3
-Gordon,RESACA,President of the United States,,,DONALD J. TRUMP,669,21,389,259,0
-Gordon,,President of the United States,,,HILLARY CLINTON,3181,157,1432,1587,5
-Gordon,SUGAR VALLEY,President of the United States,,,HILLARY CLINTON,84,1,49,34,0
-Gordon,PLAINVILLE,President of the United States,,,HILLARY CLINTON,131,5,72,54,0
-Gordon,SONORAVILLE,President of the United States,,,HILLARY CLINTON,388,16,187,185,0
-Gordon,PINE CHAPEL,President of the United States,,,HILLARY CLINTON,63,3,29,31,0
-Gordon,OOSTANAULA,President of the United States,,,HILLARY CLINTON,80,3,39,38,0
-Gordon,OAKMAN,President of the United States,,,HILLARY CLINTON,95,3,57,35,0
-Gordon,GORDON COUNTY,President of the United States,,,HILLARY CLINTON,589,24,235,330,0
-Gordon,CALHOUN CITY,President of the United States,,,HILLARY CLINTON,1137,76,417,640,4
-Gordon,LILY POND,President of the United States,,,HILLARY CLINTON,141,8,57,76,0
-Gordon,FAIRMOUNT,President of the United States,,,HILLARY CLINTON,105,3,80,21,1
-Gordon,RED BUD,President of the United States,,,HILLARY CLINTON,256,12,138,106,0
-Gordon,RESACA,President of the United States,,,HILLARY CLINTON,112,3,72,37,0
-Gordon,,President of the United States,,,GARY JOHNSON,507,19,286,199,3
-Gordon,SUGAR VALLEY,President of the United States,,,GARY JOHNSON,20,2,17,1,0
-Gordon,PLAINVILLE,President of the United States,,,GARY JOHNSON,28,1,15,12,0
-Gordon,SONORAVILLE,President of the United States,,,GARY JOHNSON,93,4,53,34,2
-Gordon,PINE CHAPEL,President of the United States,,,GARY JOHNSON,7,0,5,2,0
-Gordon,OOSTANAULA,President of the United States,,,GARY JOHNSON,8,0,8,0,0
-Gordon,OAKMAN,President of the United States,,,GARY JOHNSON,18,0,13,5,0
-Gordon,GORDON COUNTY,President of the United States,,,GARY JOHNSON,68,4,29,35,0
-Gordon,CALHOUN CITY,President of the United States,,,GARY JOHNSON,146,7,69,69,1
-Gordon,LILY POND,President of the United States,,,GARY JOHNSON,24,1,17,6,0
-Gordon,FAIRMOUNT,President of the United States,,,GARY JOHNSON,29,0,19,10,0
-Gordon,RED BUD,President of the United States,,,GARY JOHNSON,44,0,26,18,0
-Gordon,RESACA,President of the United States,,,GARY JOHNSON,22,0,15,7,0
+Gordon,,President of the United States,,REP,DONALD J. TRUMP,15191,424,7142,7608,17
+Gordon,SUGAR VALLEY,President of the United States,,REP,DONALD J. TRUMP,738,10,466,261,1
+Gordon,PLAINVILLE,President of the United States,,REP,DONALD J. TRUMP,872,28,508,335,1
+Gordon,SONORAVILLE,President of the United States,,REP,DONALD J. TRUMP,2625,47,1267,1308,3
+Gordon,PINE CHAPEL,President of the United States,,REP,DONALD J. TRUMP,488,9,278,200,1
+Gordon,OOSTANAULA,President of the United States,,REP,DONALD J. TRUMP,315,13,205,96,1
+Gordon,OAKMAN,President of the United States,,REP,DONALD J. TRUMP,552,20,360,172,0
+Gordon,GORDON COUNTY,President of the United States,,REP,DONALD J. TRUMP,2588,77,984,1524,3
+Gordon,CALHOUN CITY,President of the United States,,REP,DONALD J. TRUMP,3247,111,989,2144,3
+Gordon,LILY POND,President of the United States,,REP,DONALD J. TRUMP,847,23,370,454,0
+Gordon,FAIRMOUNT,President of the United States,,REP,DONALD J. TRUMP,967,34,675,257,1
+Gordon,RED BUD,President of the United States,,REP,DONALD J. TRUMP,1283,31,651,598,3
+Gordon,RESACA,President of the United States,,REP,DONALD J. TRUMP,669,21,389,259,0
+Gordon,,President of the United States,,DEM,HILLARY CLINTON,3181,157,1432,1587,5
+Gordon,SUGAR VALLEY,President of the United States,,DEM,HILLARY CLINTON,84,1,49,34,0
+Gordon,PLAINVILLE,President of the United States,,DEM,HILLARY CLINTON,131,5,72,54,0
+Gordon,SONORAVILLE,President of the United States,,DEM,HILLARY CLINTON,388,16,187,185,0
+Gordon,PINE CHAPEL,President of the United States,,DEM,HILLARY CLINTON,63,3,29,31,0
+Gordon,OOSTANAULA,President of the United States,,DEM,HILLARY CLINTON,80,3,39,38,0
+Gordon,OAKMAN,President of the United States,,DEM,HILLARY CLINTON,95,3,57,35,0
+Gordon,GORDON COUNTY,President of the United States,,DEM,HILLARY CLINTON,589,24,235,330,0
+Gordon,CALHOUN CITY,President of the United States,,DEM,HILLARY CLINTON,1137,76,417,640,4
+Gordon,LILY POND,President of the United States,,DEM,HILLARY CLINTON,141,8,57,76,0
+Gordon,FAIRMOUNT,President of the United States,,DEM,HILLARY CLINTON,105,3,80,21,1
+Gordon,RED BUD,President of the United States,,DEM,HILLARY CLINTON,256,12,138,106,0
+Gordon,RESACA,President of the United States,,DEM,HILLARY CLINTON,112,3,72,37,0
+Gordon,,President of the United States,,IND,GARY JOHNSON,507,19,286,199,3
+Gordon,SUGAR VALLEY,President of the United States,,IND,GARY JOHNSON,20,2,17,1,0
+Gordon,PLAINVILLE,President of the United States,,IND,GARY JOHNSON,28,1,15,12,0
+Gordon,SONORAVILLE,President of the United States,,IND,GARY JOHNSON,93,4,53,34,2
+Gordon,PINE CHAPEL,President of the United States,,IND,GARY JOHNSON,7,0,5,2,0
+Gordon,OOSTANAULA,President of the United States,,IND,GARY JOHNSON,8,0,8,0,0
+Gordon,OAKMAN,President of the United States,,IND,GARY JOHNSON,18,0,13,5,0
+Gordon,GORDON COUNTY,President of the United States,,IND,GARY JOHNSON,68,4,29,35,0
+Gordon,CALHOUN CITY,President of the United States,,IND,GARY JOHNSON,146,7,69,69,1
+Gordon,LILY POND,President of the United States,,IND,GARY JOHNSON,24,1,17,6,0
+Gordon,FAIRMOUNT,President of the United States,,IND,GARY JOHNSON,29,0,19,10,0
+Gordon,RED BUD,President of the United States,,IND,GARY JOHNSON,44,0,26,18,0
+Gordon,RESACA,President of the United States,,IND,GARY JOHNSON,22,0,15,7,0
 Gordon,,United States Senator,,,JOHNNY ISAKSON ,14092,424,6626,7026,16
 Gordon,SUGAR VALLEY,United States Senator,,,JOHNNY ISAKSON ,663,10,422,230,1
 Gordon,PLAINVILLE,United States Senator,,,JOHNNY ISAKSON ,779,26,449,303,1

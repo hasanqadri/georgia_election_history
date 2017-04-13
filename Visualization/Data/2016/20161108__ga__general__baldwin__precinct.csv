@@ -1,49 +1,49 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Baldwin,,President of the United States,,,DONALD J. TRUMP,7697,330,2929,4433,5
-Baldwin,South Milledgeville,President of the United States,,,DONALD J. TRUMP,131,5,50,76,0
-Baldwin,City Hall Annex,President of the United States,,,DONALD J. TRUMP,178,20,64,94,0
-Baldwin,Boddie,President of the United States,,,DONALD J. TRUMP,124,12,50,62,0
-Baldwin,Courthouse,President of the United States,,,DONALD J. TRUMP,127,9,37,81,0
-Baldwin,Fire Dept,President of the United States,,,DONALD J. TRUMP,227,14,96,117,0
-Baldwin,North Milledgeville,President of the United States,,,DONALD J. TRUMP,757,41,224,492,0
-Baldwin,Meriweather,President of the United States,,,DONALD J. TRUMP,1063,45,363,655,0
-Baldwin,East Baldwin,President of the United States,,,DONALD J. TRUMP,1313,49,476,788,0
-Baldwin,Scottsboro,President of the United States,,,DONALD J. TRUMP,386,12,201,170,3
-Baldwin,North Baldwin,President of the United States,,,DONALD J. TRUMP,1624,54,590,979,1
-Baldwin,West Baldwin,President of the United States,,,DONALD J. TRUMP,608,22,248,338,0
-Baldwin,East Hardwick,President of the United States,,,DONALD J. TRUMP,111,6,44,60,1
-Baldwin,West Hardwick,President of the United States,,,DONALD J. TRUMP,366,24,109,233,0
-Baldwin,Coopers,President of the United States,,,DONALD J. TRUMP,682,17,377,288,0
-Baldwin,,President of the United States,,,HILLARY CLINTON,7970,724,3143,4099,4
-Baldwin,South Milledgeville,President of the United States,,,HILLARY CLINTON,524,78,172,274,0
-Baldwin,City Hall Annex,President of the United States,,,HILLARY CLINTON,303,38,134,131,0
-Baldwin,Boddie,President of the United States,,,HILLARY CLINTON,534,79,222,232,1
-Baldwin,Courthouse,President of the United States,,,HILLARY CLINTON,167,14,63,90,0
-Baldwin,Fire Dept,President of the United States,,,HILLARY CLINTON,643,108,220,314,1
-Baldwin,North Milledgeville,President of the United States,,,HILLARY CLINTON,669,55,210,404,0
-Baldwin,Meriweather,President of the United States,,,HILLARY CLINTON,604,25,189,390,0
-Baldwin,East Baldwin,President of the United States,,,HILLARY CLINTON,1011,59,425,527,0
-Baldwin,Scottsboro,President of the United States,,,HILLARY CLINTON,219,9,117,92,1
-Baldwin,North Baldwin,President of the United States,,,HILLARY CLINTON,615,39,197,378,1
-Baldwin,West Baldwin,President of the United States,,,HILLARY CLINTON,539,23,227,289,0
-Baldwin,East Hardwick,President of the United States,,,HILLARY CLINTON,532,66,245,221,0
-Baldwin,West Hardwick,President of the United States,,,HILLARY CLINTON,1337,111,585,641,0
-Baldwin,Coopers,President of the United States,,,HILLARY CLINTON,273,20,137,116,0
-Baldwin,,President of the United States,,,GARY JOHNSON,419,27,192,200,0
-Baldwin,South Milledgeville,President of the United States,,,GARY JOHNSON,24,3,13,8,0
-Baldwin,City Hall Annex,President of the United States,,,GARY JOHNSON,21,2,10,9,0
-Baldwin,Boddie,President of the United States,,,GARY JOHNSON,28,1,12,15,0
-Baldwin,Courthouse,President of the United States,,,GARY JOHNSON,20,0,8,12,0
-Baldwin,Fire Dept,President of the United States,,,GARY JOHNSON,39,4,16,19,0
-Baldwin,North Milledgeville,President of the United States,,,GARY JOHNSON,33,2,21,10,0
-Baldwin,Meriweather,President of the United States,,,GARY JOHNSON,50,2,25,23,0
-Baldwin,East Baldwin,President of the United States,,,GARY JOHNSON,65,2,28,35,0
-Baldwin,Scottsboro,President of the United States,,,GARY JOHNSON,8,0,2,6,0
-Baldwin,North Baldwin,President of the United States,,,GARY JOHNSON,50,4,19,27,0
-Baldwin,West Baldwin,President of the United States,,,GARY JOHNSON,31,2,16,13,0
-Baldwin,East Hardwick,President of the United States,,,GARY JOHNSON,9,1,5,3,0
-Baldwin,West Hardwick,President of the United States,,,GARY JOHNSON,24,1,10,13,0
-Baldwin,Coopers,President of the United States,,,GARY JOHNSON,17,3,7,7,0
+Baldwin,,President of the United States,,REP,DONALD J. TRUMP,7697,330,2929,4433,5
+Baldwin,South Milledgeville,President of the United States,,REP,DONALD J. TRUMP,131,5,50,76,0
+Baldwin,City Hall Annex,President of the United States,,REP,DONALD J. TRUMP,178,20,64,94,0
+Baldwin,Boddie,President of the United States,,REP,DONALD J. TRUMP,124,12,50,62,0
+Baldwin,Courthouse,President of the United States,,REP,DONALD J. TRUMP,127,9,37,81,0
+Baldwin,Fire Dept,President of the United States,,REP,DONALD J. TRUMP,227,14,96,117,0
+Baldwin,North Milledgeville,President of the United States,,REP,DONALD J. TRUMP,757,41,224,492,0
+Baldwin,Meriweather,President of the United States,,REP,DONALD J. TRUMP,1063,45,363,655,0
+Baldwin,East Baldwin,President of the United States,,REP,DONALD J. TRUMP,1313,49,476,788,0
+Baldwin,Scottsboro,President of the United States,,REP,DONALD J. TRUMP,386,12,201,170,3
+Baldwin,North Baldwin,President of the United States,,REP,DONALD J. TRUMP,1624,54,590,979,1
+Baldwin,West Baldwin,President of the United States,,REP,DONALD J. TRUMP,608,22,248,338,0
+Baldwin,East Hardwick,President of the United States,,REP,DONALD J. TRUMP,111,6,44,60,1
+Baldwin,West Hardwick,President of the United States,,REP,DONALD J. TRUMP,366,24,109,233,0
+Baldwin,Coopers,President of the United States,,REP,DONALD J. TRUMP,682,17,377,288,0
+Baldwin,,President of the United States,,DEM,HILLARY CLINTON,7970,724,3143,4099,4
+Baldwin,South Milledgeville,President of the United States,,DEM,HILLARY CLINTON,524,78,172,274,0
+Baldwin,City Hall Annex,President of the United States,,DEM,HILLARY CLINTON,303,38,134,131,0
+Baldwin,Boddie,President of the United States,,DEM,HILLARY CLINTON,534,79,222,232,1
+Baldwin,Courthouse,President of the United States,,DEM,HILLARY CLINTON,167,14,63,90,0
+Baldwin,Fire Dept,President of the United States,,DEM,HILLARY CLINTON,643,108,220,314,1
+Baldwin,North Milledgeville,President of the United States,,DEM,HILLARY CLINTON,669,55,210,404,0
+Baldwin,Meriweather,President of the United States,,DEM,HILLARY CLINTON,604,25,189,390,0
+Baldwin,East Baldwin,President of the United States,,DEM,HILLARY CLINTON,1011,59,425,527,0
+Baldwin,Scottsboro,President of the United States,,DEM,HILLARY CLINTON,219,9,117,92,1
+Baldwin,North Baldwin,President of the United States,,DEM,HILLARY CLINTON,615,39,197,378,1
+Baldwin,West Baldwin,President of the United States,,DEM,HILLARY CLINTON,539,23,227,289,0
+Baldwin,East Hardwick,President of the United States,,DEM,HILLARY CLINTON,532,66,245,221,0
+Baldwin,West Hardwick,President of the United States,,DEM,HILLARY CLINTON,1337,111,585,641,0
+Baldwin,Coopers,President of the United States,,DEM,HILLARY CLINTON,273,20,137,116,0
+Baldwin,,President of the United States,,IND,GARY JOHNSON,419,27,192,200,0
+Baldwin,South Milledgeville,President of the United States,,IND,GARY JOHNSON,24,3,13,8,0
+Baldwin,City Hall Annex,President of the United States,,IND,GARY JOHNSON,21,2,10,9,0
+Baldwin,Boddie,President of the United States,,IND,GARY JOHNSON,28,1,12,15,0
+Baldwin,Courthouse,President of the United States,,IND,GARY JOHNSON,20,0,8,12,0
+Baldwin,Fire Dept,President of the United States,,IND,GARY JOHNSON,39,4,16,19,0
+Baldwin,North Milledgeville,President of the United States,,IND,GARY JOHNSON,33,2,21,10,0
+Baldwin,Meriweather,President of the United States,,IND,GARY JOHNSON,50,2,25,23,0
+Baldwin,East Baldwin,President of the United States,,IND,GARY JOHNSON,65,2,28,35,0
+Baldwin,Scottsboro,President of the United States,,IND,GARY JOHNSON,8,0,2,6,0
+Baldwin,North Baldwin,President of the United States,,IND,GARY JOHNSON,50,4,19,27,0
+Baldwin,West Baldwin,President of the United States,,IND,GARY JOHNSON,31,2,16,13,0
+Baldwin,East Hardwick,President of the United States,,IND,GARY JOHNSON,9,1,5,3,0
+Baldwin,West Hardwick,President of the United States,,IND,GARY JOHNSON,24,1,10,13,0
+Baldwin,Coopers,President of the United States,,IND,GARY JOHNSON,17,3,7,7,0
 Baldwin,,United States Senator,,,JOHNNY ISAKSON ,7796,364,2924,4506,2
 Baldwin,South Milledgeville,United States Senator,,,JOHNNY ISAKSON ,161,8,69,84,0
 Baldwin,City Hall Annex,United States Senator,,,JOHNNY ISAKSON ,191,24,62,105,0

@@ -1,25 +1,25 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Wilcox,,President of the United States,,,DONALD J. TRUMP,2096,164,993,939,0
-Wilcox,Rochelle North 1,President of the United States,,,DONALD J. TRUMP,59,6,33,20,0
-Wilcox,Abbeville North 2,President of the United States,,,DONALD J. TRUMP,155,12,45,98,0
-Wilcox,Pineview 2,President of the United States,,,DONALD J. TRUMP,240,16,161,63,0
-Wilcox,Pitts 3,President of the United States,,,DONALD J. TRUMP,479,28,312,139,0
-Wilcox,Rochelle South 4,President of the United States,,,DONALD J. TRUMP,591,44,312,235,0
-Wilcox,Abbeville South 5,President of the United States,,,DONALD J. TRUMP,572,58,130,384,0
-Wilcox,,President of the United States,,,HILLARY CLINTON,852,46,573,233,0
-Wilcox,Rochelle North 1,President of the United States,,,HILLARY CLINTON,262,8,227,27,0
-Wilcox,Abbeville North 2,President of the United States,,,HILLARY CLINTON,112,6,42,64,0
-Wilcox,Pineview 2,President of the United States,,,HILLARY CLINTON,165,8,134,23,0
-Wilcox,Pitts 3,President of the United States,,,HILLARY CLINTON,69,4,51,14,0
-Wilcox,Rochelle South 4,President of the United States,,,HILLARY CLINTON,99,10,59,30,0
-Wilcox,Abbeville South 5,President of the United States,,,HILLARY CLINTON,145,10,60,75,0
-Wilcox,,President of the United States,,,GARY JOHNSON,25,3,15,7,0
-Wilcox,Rochelle North 1,President of the United States,,,GARY JOHNSON,0,0,0,0,0
-Wilcox,Abbeville North 2,President of the United States,,,GARY JOHNSON,3,1,2,0,0
-Wilcox,Pineview 2,President of the United States,,,GARY JOHNSON,5,0,3,2,0
-Wilcox,Pitts 3,President of the United States,,,GARY JOHNSON,8,2,5,1,0
-Wilcox,Rochelle South 4,President of the United States,,,GARY JOHNSON,3,0,3,0,0
-Wilcox,Abbeville South 5,President of the United States,,,GARY JOHNSON,6,0,2,4,0
+Wilcox,,President of the United States,,REP,DONALD J. TRUMP,2096,164,993,939,0
+Wilcox,Rochelle North 1,President of the United States,,REP,DONALD J. TRUMP,59,6,33,20,0
+Wilcox,Abbeville North 2,President of the United States,,REP,DONALD J. TRUMP,155,12,45,98,0
+Wilcox,Pineview 2,President of the United States,,REP,DONALD J. TRUMP,240,16,161,63,0
+Wilcox,Pitts 3,President of the United States,,REP,DONALD J. TRUMP,479,28,312,139,0
+Wilcox,Rochelle South 4,President of the United States,,REP,DONALD J. TRUMP,591,44,312,235,0
+Wilcox,Abbeville South 5,President of the United States,,REP,DONALD J. TRUMP,572,58,130,384,0
+Wilcox,,President of the United States,,DEM,HILLARY CLINTON,852,46,573,233,0
+Wilcox,Rochelle North 1,President of the United States,,DEM,HILLARY CLINTON,262,8,227,27,0
+Wilcox,Abbeville North 2,President of the United States,,DEM,HILLARY CLINTON,112,6,42,64,0
+Wilcox,Pineview 2,President of the United States,,DEM,HILLARY CLINTON,165,8,134,23,0
+Wilcox,Pitts 3,President of the United States,,DEM,HILLARY CLINTON,69,4,51,14,0
+Wilcox,Rochelle South 4,President of the United States,,DEM,HILLARY CLINTON,99,10,59,30,0
+Wilcox,Abbeville South 5,President of the United States,,DEM,HILLARY CLINTON,145,10,60,75,0
+Wilcox,,President of the United States,,IND,GARY JOHNSON,25,3,15,7,0
+Wilcox,Rochelle North 1,President of the United States,,IND,GARY JOHNSON,0,0,0,0,0
+Wilcox,Abbeville North 2,President of the United States,,IND,GARY JOHNSON,3,1,2,0,0
+Wilcox,Pineview 2,President of the United States,,IND,GARY JOHNSON,5,0,3,2,0
+Wilcox,Pitts 3,President of the United States,,IND,GARY JOHNSON,8,2,5,1,0
+Wilcox,Rochelle South 4,President of the United States,,IND,GARY JOHNSON,3,0,3,0,0
+Wilcox,Abbeville South 5,President of the United States,,IND,GARY JOHNSON,6,0,2,4,0
 Wilcox,,United States Senator,,,JOHNNY ISAKSON ,2036,173,964,899,0
 Wilcox,Rochelle North 1,United States Senator,,,JOHNNY ISAKSON ,80,6,52,22,0
 Wilcox,Abbeville North 2,United States Senator,,,JOHNNY ISAKSON ,149,14,41,94,0

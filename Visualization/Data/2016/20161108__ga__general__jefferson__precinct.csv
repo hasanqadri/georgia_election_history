@@ -1,31 +1,31 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Jefferson,,President of the United States,,,DONALD J. TRUMP,3063,155,1482,1422,4
-Jefferson,Stapleton Crossroads,President of the United States,,,DONALD J. TRUMP,125,0,91,34,0
-Jefferson,Matthews,President of the United States,,,DONALD J. TRUMP,272,4,212,54,2
-Jefferson,Wrens,President of the United States,,,DONALD J. TRUMP,760,39,398,323,0
-Jefferson,Louisville,President of the United States,,,DONALD J. TRUMP,961,80,180,701,0
-Jefferson,Wadley,President of the United States,,,DONALD J. TRUMP,318,8,160,148,2
-Jefferson,Bartow,President of the United States,,,DONALD J. TRUMP,162,5,85,72,0
-Jefferson,Stapleton,President of the United States,,,DONALD J. TRUMP,257,17,177,63,0
-Jefferson,Avera,President of the United States,,,DONALD J. TRUMP,208,2,179,27,0
-Jefferson,,President of the United States,,,HILLARY CLINTON,3821,345,2001,1465,10
-Jefferson,Stapleton Crossroads,President of the United States,,,HILLARY CLINTON,105,13,68,24,0
-Jefferson,Matthews,President of the United States,,,HILLARY CLINTON,128,7,96,22,3
-Jefferson,Wrens,President of the United States,,,HILLARY CLINTON,946,54,638,251,3
-Jefferson,Louisville,President of the United States,,,HILLARY CLINTON,1441,98,486,857,0
-Jefferson,Wadley,President of the United States,,,HILLARY CLINTON,849,158,467,222,2
-Jefferson,Bartow,President of the United States,,,HILLARY CLINTON,173,6,117,50,0
-Jefferson,Stapleton,President of the United States,,,HILLARY CLINTON,146,8,106,32,0
-Jefferson,Avera,President of the United States,,,HILLARY CLINTON,33,1,23,7,2
-Jefferson,,President of the United States,,,GARY JOHNSON,70,5,40,24,1
-Jefferson,Stapleton Crossroads,President of the United States,,,GARY JOHNSON,2,1,1,0,0
-Jefferson,Matthews,President of the United States,,,GARY JOHNSON,3,0,1,2,0
-Jefferson,Wrens,President of the United States,,,GARY JOHNSON,24,0,15,9,0
-Jefferson,Louisville,President of the United States,,,GARY JOHNSON,16,2,6,8,0
-Jefferson,Wadley,President of the United States,,,GARY JOHNSON,10,1,7,2,0
-Jefferson,Bartow,President of the United States,,,GARY JOHNSON,3,0,1,2,0
-Jefferson,Stapleton,President of the United States,,,GARY JOHNSON,7,1,4,1,1
-Jefferson,Avera,President of the United States,,,GARY JOHNSON,5,0,5,0,0
+Jefferson,,President of the United States,,REP,DONALD J. TRUMP,3063,155,1482,1422,4
+Jefferson,Stapleton Crossroads,President of the United States,,REP,DONALD J. TRUMP,125,0,91,34,0
+Jefferson,Matthews,President of the United States,,REP,DONALD J. TRUMP,272,4,212,54,2
+Jefferson,Wrens,President of the United States,,REP,DONALD J. TRUMP,760,39,398,323,0
+Jefferson,Louisville,President of the United States,,REP,DONALD J. TRUMP,961,80,180,701,0
+Jefferson,Wadley,President of the United States,,REP,DONALD J. TRUMP,318,8,160,148,2
+Jefferson,Bartow,President of the United States,,REP,DONALD J. TRUMP,162,5,85,72,0
+Jefferson,Stapleton,President of the United States,,REP,DONALD J. TRUMP,257,17,177,63,0
+Jefferson,Avera,President of the United States,,REP,DONALD J. TRUMP,208,2,179,27,0
+Jefferson,,President of the United States,,DEM,HILLARY CLINTON,3821,345,2001,1465,10
+Jefferson,Stapleton Crossroads,President of the United States,,DEM,HILLARY CLINTON,105,13,68,24,0
+Jefferson,Matthews,President of the United States,,DEM,HILLARY CLINTON,128,7,96,22,3
+Jefferson,Wrens,President of the United States,,DEM,HILLARY CLINTON,946,54,638,251,3
+Jefferson,Louisville,President of the United States,,DEM,HILLARY CLINTON,1441,98,486,857,0
+Jefferson,Wadley,President of the United States,,DEM,HILLARY CLINTON,849,158,467,222,2
+Jefferson,Bartow,President of the United States,,DEM,HILLARY CLINTON,173,6,117,50,0
+Jefferson,Stapleton,President of the United States,,DEM,HILLARY CLINTON,146,8,106,32,0
+Jefferson,Avera,President of the United States,,DEM,HILLARY CLINTON,33,1,23,7,2
+Jefferson,,President of the United States,,IND,GARY JOHNSON,70,5,40,24,1
+Jefferson,Stapleton Crossroads,President of the United States,,IND,GARY JOHNSON,2,1,1,0,0
+Jefferson,Matthews,President of the United States,,IND,GARY JOHNSON,3,0,1,2,0
+Jefferson,Wrens,President of the United States,,IND,GARY JOHNSON,24,0,15,9,0
+Jefferson,Louisville,President of the United States,,IND,GARY JOHNSON,16,2,6,8,0
+Jefferson,Wadley,President of the United States,,IND,GARY JOHNSON,10,1,7,2,0
+Jefferson,Bartow,President of the United States,,IND,GARY JOHNSON,3,0,1,2,0
+Jefferson,Stapleton,President of the United States,,IND,GARY JOHNSON,7,1,4,1,1
+Jefferson,Avera,President of the United States,,IND,GARY JOHNSON,5,0,5,0,0
 Jefferson,,United States Senator,,,JOHNNY ISAKSON ,3040,169,1485,1380,6
 Jefferson,Stapleton Crossroads,United States Senator,,,JOHNNY ISAKSON ,121,1,87,33,0
 Jefferson,Matthews,United States Senator,,,JOHNNY ISAKSON ,260,3,200,55,2

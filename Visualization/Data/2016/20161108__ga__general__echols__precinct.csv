@@ -1,10 +1,10 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Echols,,President of the United States,,,DONALD J. TRUMP,1007,38,395,574,0
-Echols,Statenville,President of the United States,,,DONALD J. TRUMP,1007,38,395,574,0
-Echols,,President of the United States,,,HILLARY CLINTON,156,2,62,92,0
-Echols,Statenville,President of the United States,,,HILLARY CLINTON,156,2,62,92,0
-Echols,,President of the United States,,,GARY JOHNSON,13,1,6,6,0
-Echols,Statenville,President of the United States,,,GARY JOHNSON,13,1,6,6,0
+Echols,,President of the United States,,REP,DONALD J. TRUMP,1007,38,395,574,0
+Echols,Statenville,President of the United States,,REP,DONALD J. TRUMP,1007,38,395,574,0
+Echols,,President of the United States,,DEM,HILLARY CLINTON,156,2,62,92,0
+Echols,Statenville,President of the United States,,DEM,HILLARY CLINTON,156,2,62,92,0
+Echols,,President of the United States,,IND,GARY JOHNSON,13,1,6,6,0
+Echols,Statenville,President of the United States,,IND,GARY JOHNSON,13,1,6,6,0
 Echols,,United States Senator,,,JOHNNY ISAKSON ,874,37,331,506,0
 Echols,Statenville,United States Senator,,,JOHNNY ISAKSON ,874,37,331,506,0
 Echols,,United States Senator,,,JIM BARKSDALE,146,2,68,76,0

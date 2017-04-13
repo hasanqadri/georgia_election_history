@@ -1,19 +1,19 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Towns,,President of the United States,,,DONALD J. TRUMP,5383,309,1448,3620,6
-Towns,Young Harris,President of the United States,,,DONALD J. TRUMP,1706,98,623,982,3
-Towns,Tate City,President of the United States,,,DONALD J. TRUMP,21,2,11,8,0
-Towns,Macedonia,President of the United States,,,DONALD J. TRUMP,1881,99,468,1313,1
-Towns,Hiawassee,President of the United States,,,DONALD J. TRUMP,1775,110,346,1317,2
-Towns,,President of the United States,,,HILLARY CLINTON,1210,91,307,808,4
-Towns,Young Harris,President of the United States,,,HILLARY CLINTON,466,21,189,252,4
-Towns,Tate City,President of the United States,,,HILLARY CLINTON,4,0,2,2,0
-Towns,Macedonia,President of the United States,,,HILLARY CLINTON,346,32,61,253,0
-Towns,Hiawassee,President of the United States,,,HILLARY CLINTON,394,38,55,301,0
-Towns,,President of the United States,,,GARY JOHNSON,146,10,58,76,2
-Towns,Young Harris,President of the United States,,,GARY JOHNSON,59,2,32,23,2
-Towns,Tate City,President of the United States,,,GARY JOHNSON,1,0,1,0,0
-Towns,Macedonia,President of the United States,,,GARY JOHNSON,41,7,13,21,0
-Towns,Hiawassee,President of the United States,,,GARY JOHNSON,45,1,12,32,0
+Towns,,President of the United States,,REP,DONALD J. TRUMP,5383,309,1448,3620,6
+Towns,Young Harris,President of the United States,,REP,DONALD J. TRUMP,1706,98,623,982,3
+Towns,Tate City,President of the United States,,REP,DONALD J. TRUMP,21,2,11,8,0
+Towns,Macedonia,President of the United States,,REP,DONALD J. TRUMP,1881,99,468,1313,1
+Towns,Hiawassee,President of the United States,,REP,DONALD J. TRUMP,1775,110,346,1317,2
+Towns,,President of the United States,,DEM,HILLARY CLINTON,1210,91,307,808,4
+Towns,Young Harris,President of the United States,,DEM,HILLARY CLINTON,466,21,189,252,4
+Towns,Tate City,President of the United States,,DEM,HILLARY CLINTON,4,0,2,2,0
+Towns,Macedonia,President of the United States,,DEM,HILLARY CLINTON,346,32,61,253,0
+Towns,Hiawassee,President of the United States,,DEM,HILLARY CLINTON,394,38,55,301,0
+Towns,,President of the United States,,IND,GARY JOHNSON,146,10,58,76,2
+Towns,Young Harris,President of the United States,,IND,GARY JOHNSON,59,2,32,23,2
+Towns,Tate City,President of the United States,,IND,GARY JOHNSON,1,0,1,0,0
+Towns,Macedonia,President of the United States,,IND,GARY JOHNSON,41,7,13,21,0
+Towns,Hiawassee,President of the United States,,IND,GARY JOHNSON,45,1,12,32,0
 Towns,,United States Senator,,,JOHNNY ISAKSON ,4964,294,1341,3322,7
 Towns,Young Harris,United States Senator,,,JOHNNY ISAKSON ,1589,93,590,902,4
 Towns,Tate City,United States Senator,,,JOHNNY ISAKSON ,19,2,11,6,0

@@ -1,40 +1,40 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Sumter,,President of the United States,,,DONALD J. TRUMP,5276,265,2348,2662,1
-Sumter,Leslie,President of the United States,,,DONALD J. TRUMP,680,28,356,296,0
-Sumter,Thomson,President of the United States,,,DONALD J. TRUMP,226,7,137,82,0
-Sumter,Chambliss,President of the United States,,,DONALD J. TRUMP,438,15,236,187,0
-Sumter,AndersonV,President of the United States,,,DONALD J. TRUMP,218,6,154,58,0
-Sumter,Rees Park,President of the United States,,,DONALD J. TRUMP,376,22,122,232,0
-Sumter,GSW Conf Center,President of the United States,,,DONALD J. TRUMP,1051,92,433,526,0
-Sumter,Rec Dept,President of the United States,,,DONALD J. TRUMP,254,15,96,143,0
-Sumter,Airport,President of the United States,,,DONALD J. TRUMP,674,39,222,413,0
-Sumter,Concord,President of the United States,,,DONALD J. TRUMP,226,7,147,72,0
-Sumter,Plains,President of the United States,,,DONALD J. TRUMP,349,13,197,138,1
-Sumter,AG Center,President of the United States,,,DONALD J. TRUMP,784,21,248,515,0
-Sumter,,President of the United States,,,HILLARY CLINTON,5520,450,2127,2943,0
-Sumter,Leslie,President of the United States,,,HILLARY CLINTON,394,37,212,145,0
-Sumter,Thomson,President of the United States,,,HILLARY CLINTON,199,9,101,89,0
-Sumter,Chambliss,President of the United States,,,HILLARY CLINTON,218,12,77,129,0
-Sumter,AndersonV,President of the United States,,,HILLARY CLINTON,71,6,40,25,0
-Sumter,Rees Park,President of the United States,,,HILLARY CLINTON,1216,125,423,668,0
-Sumter,GSW Conf Center,President of the United States,,,HILLARY CLINTON,774,66,299,409,0
-Sumter,Rec Dept,President of the United States,,,HILLARY CLINTON,1276,123,440,713,0
-Sumter,Airport,President of the United States,,,HILLARY CLINTON,501,23,147,331,0
-Sumter,Concord,President of the United States,,,HILLARY CLINTON,35,1,17,17,0
-Sumter,Plains,President of the United States,,,HILLARY CLINTON,339,17,227,95,0
-Sumter,AG Center,President of the United States,,,HILLARY CLINTON,497,31,144,322,0
-Sumter,,President of the United States,,,GARY JOHNSON,178,10,96,72,0
-Sumter,Leslie,President of the United States,,,GARY JOHNSON,21,0,16,5,0
-Sumter,Thomson,President of the United States,,,GARY JOHNSON,5,2,2,1,0
-Sumter,Chambliss,President of the United States,,,GARY JOHNSON,8,0,4,4,0
-Sumter,AndersonV,President of the United States,,,GARY JOHNSON,2,0,1,1,0
-Sumter,Rees Park,President of the United States,,,GARY JOHNSON,25,0,12,13,0
-Sumter,GSW Conf Center,President of the United States,,,GARY JOHNSON,45,4,25,16,0
-Sumter,Rec Dept,President of the United States,,,GARY JOHNSON,17,2,5,10,0
-Sumter,Airport,President of the United States,,,GARY JOHNSON,25,1,11,13,0
-Sumter,Concord,President of the United States,,,GARY JOHNSON,4,0,2,2,0
-Sumter,Plains,President of the United States,,,GARY JOHNSON,11,0,10,1,0
-Sumter,AG Center,President of the United States,,,GARY JOHNSON,15,1,8,6,0
+Sumter,,President of the United States,,REP,DONALD J. TRUMP,5276,265,2348,2662,1
+Sumter,Leslie,President of the United States,,REP,DONALD J. TRUMP,680,28,356,296,0
+Sumter,Thomson,President of the United States,,REP,DONALD J. TRUMP,226,7,137,82,0
+Sumter,Chambliss,President of the United States,,REP,DONALD J. TRUMP,438,15,236,187,0
+Sumter,AndersonV,President of the United States,,REP,DONALD J. TRUMP,218,6,154,58,0
+Sumter,Rees Park,President of the United States,,REP,DONALD J. TRUMP,376,22,122,232,0
+Sumter,GSW Conf Center,President of the United States,,REP,DONALD J. TRUMP,1051,92,433,526,0
+Sumter,Rec Dept,President of the United States,,REP,DONALD J. TRUMP,254,15,96,143,0
+Sumter,Airport,President of the United States,,REP,DONALD J. TRUMP,674,39,222,413,0
+Sumter,Concord,President of the United States,,REP,DONALD J. TRUMP,226,7,147,72,0
+Sumter,Plains,President of the United States,,REP,DONALD J. TRUMP,349,13,197,138,1
+Sumter,AG Center,President of the United States,,REP,DONALD J. TRUMP,784,21,248,515,0
+Sumter,,President of the United States,,DEM,HILLARY CLINTON,5520,450,2127,2943,0
+Sumter,Leslie,President of the United States,,DEM,HILLARY CLINTON,394,37,212,145,0
+Sumter,Thomson,President of the United States,,DEM,HILLARY CLINTON,199,9,101,89,0
+Sumter,Chambliss,President of the United States,,DEM,HILLARY CLINTON,218,12,77,129,0
+Sumter,AndersonV,President of the United States,,DEM,HILLARY CLINTON,71,6,40,25,0
+Sumter,Rees Park,President of the United States,,DEM,HILLARY CLINTON,1216,125,423,668,0
+Sumter,GSW Conf Center,President of the United States,,DEM,HILLARY CLINTON,774,66,299,409,0
+Sumter,Rec Dept,President of the United States,,DEM,HILLARY CLINTON,1276,123,440,713,0
+Sumter,Airport,President of the United States,,DEM,HILLARY CLINTON,501,23,147,331,0
+Sumter,Concord,President of the United States,,DEM,HILLARY CLINTON,35,1,17,17,0
+Sumter,Plains,President of the United States,,DEM,HILLARY CLINTON,339,17,227,95,0
+Sumter,AG Center,President of the United States,,DEM,HILLARY CLINTON,497,31,144,322,0
+Sumter,,President of the United States,,IND,GARY JOHNSON,178,10,96,72,0
+Sumter,Leslie,President of the United States,,IND,GARY JOHNSON,21,0,16,5,0
+Sumter,Thomson,President of the United States,,IND,GARY JOHNSON,5,2,2,1,0
+Sumter,Chambliss,President of the United States,,IND,GARY JOHNSON,8,0,4,4,0
+Sumter,AndersonV,President of the United States,,IND,GARY JOHNSON,2,0,1,1,0
+Sumter,Rees Park,President of the United States,,IND,GARY JOHNSON,25,0,12,13,0
+Sumter,GSW Conf Center,President of the United States,,IND,GARY JOHNSON,45,4,25,16,0
+Sumter,Rec Dept,President of the United States,,IND,GARY JOHNSON,17,2,5,10,0
+Sumter,Airport,President of the United States,,IND,GARY JOHNSON,25,1,11,13,0
+Sumter,Concord,President of the United States,,IND,GARY JOHNSON,4,0,2,2,0
+Sumter,Plains,President of the United States,,IND,GARY JOHNSON,11,0,10,1,0
+Sumter,AG Center,President of the United States,,IND,GARY JOHNSON,15,1,8,6,0
 Sumter,,United States Senator,,,JOHNNY ISAKSON ,5418,292,2365,2761,0
 Sumter,Leslie,United States Senator,,,JOHNNY ISAKSON ,668,29,347,292,0
 Sumter,Thomson,United States Senator,,,JOHNNY ISAKSON ,223,9,135,79,0

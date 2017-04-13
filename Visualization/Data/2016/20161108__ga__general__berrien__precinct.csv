@@ -1,22 +1,22 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Berrien,,President of the United States,,,DONALD J. TRUMP,5422,267,2351,2790,14
-Berrien,West Berrien,President of the United States,,,DONALD J. TRUMP,625,35,400,190,0
-Berrien,Ray City,President of the United States,,,DONALD J. TRUMP,838,25,442,370,1
-Berrien,Nashville,President of the United States,,,DONALD J. TRUMP,2914,152,831,1921,10
-Berrien,Enigma,President of the United States,,,DONALD J. TRUMP,516,18,365,132,1
-Berrien,Alapaha,President of the United States,,,DONALD J. TRUMP,529,37,313,177,2
-Berrien,,President of the United States,,,HILLARY CLINTON,1047,90,508,444,5
-Berrien,West Berrien,President of the United States,,,HILLARY CLINTON,49,7,28,14,0
-Berrien,Ray City,President of the United States,,,HILLARY CLINTON,160,11,102,46,1
-Berrien,Nashville,President of the United States,,,HILLARY CLINTON,565,50,200,311,4
-Berrien,Enigma,President of the United States,,,HILLARY CLINTON,77,11,43,23,0
-Berrien,Alapaha,President of the United States,,,HILLARY CLINTON,196,11,135,50,0
-Berrien,,President of the United States,,,GARY JOHNSON,115,13,55,46,1
-Berrien,West Berrien,President of the United States,,,GARY JOHNSON,12,1,10,1,0
-Berrien,Ray City,President of the United States,,,GARY JOHNSON,22,3,14,4,1
-Berrien,Nashville,President of the United States,,,GARY JOHNSON,62,5,21,36,0
-Berrien,Enigma,President of the United States,,,GARY JOHNSON,9,1,6,2,0
-Berrien,Alapaha,President of the United States,,,GARY JOHNSON,10,3,4,3,0
+Berrien,,President of the United States,,REP,DONALD J. TRUMP,5422,267,2351,2790,14
+Berrien,West Berrien,President of the United States,,REP,DONALD J. TRUMP,625,35,400,190,0
+Berrien,Ray City,President of the United States,,REP,DONALD J. TRUMP,838,25,442,370,1
+Berrien,Nashville,President of the United States,,REP,DONALD J. TRUMP,2914,152,831,1921,10
+Berrien,Enigma,President of the United States,,REP,DONALD J. TRUMP,516,18,365,132,1
+Berrien,Alapaha,President of the United States,,REP,DONALD J. TRUMP,529,37,313,177,2
+Berrien,,President of the United States,,DEM,HILLARY CLINTON,1047,90,508,444,5
+Berrien,West Berrien,President of the United States,,DEM,HILLARY CLINTON,49,7,28,14,0
+Berrien,Ray City,President of the United States,,DEM,HILLARY CLINTON,160,11,102,46,1
+Berrien,Nashville,President of the United States,,DEM,HILLARY CLINTON,565,50,200,311,4
+Berrien,Enigma,President of the United States,,DEM,HILLARY CLINTON,77,11,43,23,0
+Berrien,Alapaha,President of the United States,,DEM,HILLARY CLINTON,196,11,135,50,0
+Berrien,,President of the United States,,IND,GARY JOHNSON,115,13,55,46,1
+Berrien,West Berrien,President of the United States,,IND,GARY JOHNSON,12,1,10,1,0
+Berrien,Ray City,President of the United States,,IND,GARY JOHNSON,22,3,14,4,1
+Berrien,Nashville,President of the United States,,IND,GARY JOHNSON,62,5,21,36,0
+Berrien,Enigma,President of the United States,,IND,GARY JOHNSON,9,1,6,2,0
+Berrien,Alapaha,President of the United States,,IND,GARY JOHNSON,10,3,4,3,0
 Berrien,,United States Senator,,,JOHNNY ISAKSON ,5061,276,2203,2568,14
 Berrien,West Berrien,United States Senator,,,JOHNNY ISAKSON ,584,32,375,177,0
 Berrien,Ray City,United States Senator,,,JOHNNY ISAKSON ,779,29,416,332,2

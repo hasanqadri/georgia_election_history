@@ -1,46 +1,46 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Banks,,President of the United States,,,DONALD J. TRUMP,6134,195,3079,2858,2
-Banks,Anderson,President of the United States,,,DONALD J. TRUMP,737,14,372,350,1
-Banks,Baldwin,President of the United States,,,DONALD J. TRUMP,433,26,233,174,0
-Banks,Berlin,President of the United States,,,DONALD J. TRUMP,188,1,88,99,0
-Banks,Bushville,President of the United States,,,DONALD J. TRUMP,374,11,160,203,0
-Banks,Columbia,President of the United States,,,DONALD J. TRUMP,224,3,166,55,0
-Banks,Davids,President of the United States,,,DONALD J. TRUMP,821,19,397,405,0
-Banks,Golden Hill,President of the United States,,,DONALD J. TRUMP,410,18,238,154,0
-Banks,Grove River,President of the United States,,,DONALD J. TRUMP,309,18,200,91,0
-Banks,Hollingsworth,President of the United States,,,DONALD J. TRUMP,368,9,206,153,0
-Banks,Homer,President of the United States,,,DONALD J. TRUMP,746,26,271,448,1
-Banks,Poplar Springs,President of the United States,,,DONALD J. TRUMP,839,26,392,421,0
-Banks,Washington,President of the United States,,,DONALD J. TRUMP,343,14,186,143,0
-Banks,Wilmonts,President of the United States,,,DONALD J. TRUMP,342,10,170,162,0
-Banks,,President of the United States,,,HILLARY CLINTON,684,40,352,292,0
-Banks,Anderson,President of the United States,,,HILLARY CLINTON,84,1,49,34,0
-Banks,Baldwin,President of the United States,,,HILLARY CLINTON,67,7,32,28,0
-Banks,Berlin,President of the United States,,,HILLARY CLINTON,17,0,9,8,0
-Banks,Bushville,President of the United States,,,HILLARY CLINTON,29,3,20,6,0
-Banks,Columbia,President of the United States,,,HILLARY CLINTON,21,1,14,6,0
-Banks,Davids,President of the United States,,,HILLARY CLINTON,103,3,54,46,0
-Banks,Golden Hill,President of the United States,,,HILLARY CLINTON,57,5,25,27,0
-Banks,Grove River,President of the United States,,,HILLARY CLINTON,21,2,10,9,0
-Banks,Hollingsworth,President of the United States,,,HILLARY CLINTON,48,5,19,24,0
-Banks,Homer,President of the United States,,,HILLARY CLINTON,80,7,28,45,0
-Banks,Poplar Springs,President of the United States,,,HILLARY CLINTON,79,1,42,36,0
-Banks,Washington,President of the United States,,,HILLARY CLINTON,48,2,35,11,0
-Banks,Wilmonts,President of the United States,,,HILLARY CLINTON,30,3,15,12,0
-Banks,,President of the United States,,,GARY JOHNSON,132,6,77,49,0
-Banks,Anderson,President of the United States,,,GARY JOHNSON,17,0,10,7,0
-Banks,Baldwin,President of the United States,,,GARY JOHNSON,8,1,4,3,0
-Banks,Berlin,President of the United States,,,GARY JOHNSON,1,0,0,1,0
-Banks,Bushville,President of the United States,,,GARY JOHNSON,11,0,5,6,0
-Banks,Columbia,President of the United States,,,GARY JOHNSON,4,0,3,1,0
-Banks,Davids,President of the United States,,,GARY JOHNSON,27,1,17,9,0
-Banks,Golden Hill,President of the United States,,,GARY JOHNSON,8,1,4,3,0
-Banks,Grove River,President of the United States,,,GARY JOHNSON,4,0,4,0,0
-Banks,Hollingsworth,President of the United States,,,GARY JOHNSON,6,0,2,4,0
-Banks,Homer,President of the United States,,,GARY JOHNSON,16,1,11,4,0
-Banks,Poplar Springs,President of the United States,,,GARY JOHNSON,18,1,10,7,0
-Banks,Washington,President of the United States,,,GARY JOHNSON,8,1,5,2,0
-Banks,Wilmonts,President of the United States,,,GARY JOHNSON,4,0,2,2,0
+Banks,,President of the United States,,REP,DONALD J. TRUMP,6134,195,3079,2858,2
+Banks,Anderson,President of the United States,,REP,DONALD J. TRUMP,737,14,372,350,1
+Banks,Baldwin,President of the United States,,REP,DONALD J. TRUMP,433,26,233,174,0
+Banks,Berlin,President of the United States,,REP,DONALD J. TRUMP,188,1,88,99,0
+Banks,Bushville,President of the United States,,REP,DONALD J. TRUMP,374,11,160,203,0
+Banks,Columbia,President of the United States,,REP,DONALD J. TRUMP,224,3,166,55,0
+Banks,Davids,President of the United States,,REP,DONALD J. TRUMP,821,19,397,405,0
+Banks,Golden Hill,President of the United States,,REP,DONALD J. TRUMP,410,18,238,154,0
+Banks,Grove River,President of the United States,,REP,DONALD J. TRUMP,309,18,200,91,0
+Banks,Hollingsworth,President of the United States,,REP,DONALD J. TRUMP,368,9,206,153,0
+Banks,Homer,President of the United States,,REP,DONALD J. TRUMP,746,26,271,448,1
+Banks,Poplar Springs,President of the United States,,REP,DONALD J. TRUMP,839,26,392,421,0
+Banks,Washington,President of the United States,,REP,DONALD J. TRUMP,343,14,186,143,0
+Banks,Wilmonts,President of the United States,,REP,DONALD J. TRUMP,342,10,170,162,0
+Banks,,President of the United States,,DEM,HILLARY CLINTON,684,40,352,292,0
+Banks,Anderson,President of the United States,,DEM,HILLARY CLINTON,84,1,49,34,0
+Banks,Baldwin,President of the United States,,DEM,HILLARY CLINTON,67,7,32,28,0
+Banks,Berlin,President of the United States,,DEM,HILLARY CLINTON,17,0,9,8,0
+Banks,Bushville,President of the United States,,DEM,HILLARY CLINTON,29,3,20,6,0
+Banks,Columbia,President of the United States,,DEM,HILLARY CLINTON,21,1,14,6,0
+Banks,Davids,President of the United States,,DEM,HILLARY CLINTON,103,3,54,46,0
+Banks,Golden Hill,President of the United States,,DEM,HILLARY CLINTON,57,5,25,27,0
+Banks,Grove River,President of the United States,,DEM,HILLARY CLINTON,21,2,10,9,0
+Banks,Hollingsworth,President of the United States,,DEM,HILLARY CLINTON,48,5,19,24,0
+Banks,Homer,President of the United States,,DEM,HILLARY CLINTON,80,7,28,45,0
+Banks,Poplar Springs,President of the United States,,DEM,HILLARY CLINTON,79,1,42,36,0
+Banks,Washington,President of the United States,,DEM,HILLARY CLINTON,48,2,35,11,0
+Banks,Wilmonts,President of the United States,,DEM,HILLARY CLINTON,30,3,15,12,0
+Banks,,President of the United States,,IND,GARY JOHNSON,132,6,77,49,0
+Banks,Anderson,President of the United States,,IND,GARY JOHNSON,17,0,10,7,0
+Banks,Baldwin,President of the United States,,IND,GARY JOHNSON,8,1,4,3,0
+Banks,Berlin,President of the United States,,IND,GARY JOHNSON,1,0,0,1,0
+Banks,Bushville,President of the United States,,IND,GARY JOHNSON,11,0,5,6,0
+Banks,Columbia,President of the United States,,IND,GARY JOHNSON,4,0,3,1,0
+Banks,Davids,President of the United States,,IND,GARY JOHNSON,27,1,17,9,0
+Banks,Golden Hill,President of the United States,,IND,GARY JOHNSON,8,1,4,3,0
+Banks,Grove River,President of the United States,,IND,GARY JOHNSON,4,0,4,0,0
+Banks,Hollingsworth,President of the United States,,IND,GARY JOHNSON,6,0,2,4,0
+Banks,Homer,President of the United States,,IND,GARY JOHNSON,16,1,11,4,0
+Banks,Poplar Springs,President of the United States,,IND,GARY JOHNSON,18,1,10,7,0
+Banks,Washington,President of the United States,,IND,GARY JOHNSON,8,1,5,2,0
+Banks,Wilmonts,President of the United States,,IND,GARY JOHNSON,4,0,2,2,0
 Banks,,United States Senator,,,JOHNNY ISAKSON ,5705,182,2819,2703,1
 Banks,Anderson,United States Senator,,,JOHNNY ISAKSON ,710,13,349,347,1
 Banks,Baldwin,United States Senator,,,JOHNNY ISAKSON ,417,25,216,176,0

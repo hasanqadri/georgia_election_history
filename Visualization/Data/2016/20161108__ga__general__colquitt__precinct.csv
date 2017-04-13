@@ -1,64 +1,64 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Colquitt,,President of the United States,,,DONALD J. TRUMP,9898,260,4968,4667,3
-Colquitt,Shaw,President of the United States,,,DONALD J. TRUMP,317,10,92,215,0
-Colquitt,Moultrie,President of the United States,,,DONALD J. TRUMP,1522,70,461,991,0
-Colquitt,Autreyville,President of the United States,,,DONALD J. TRUMP,627,16,290,321,0
-Colquitt,Bridgecreek,President of the United States,,,DONALD J. TRUMP,689,11,333,345,0
-Colquitt,Crosland,President of the United States,,,DONALD J. TRUMP,104,2,89,13,0
-Colquitt,Doerun,President of the United States,,,DONALD J. TRUMP,251,4,186,60,1
-Colquitt,Funston,President of the United States,,,DONALD J. TRUMP,573,9,330,234,0
-Colquitt,Hamilton,President of the United States,,,DONALD J. TRUMP,399,10,270,119,0
-Colquitt,Hartsfield,President of the United States,,,DONALD J. TRUMP,265,4,174,87,0
-Colquitt,Hopewell,President of the United States,,,DONALD J. TRUMP,805,24,320,461,0
-Colquitt,Lee,President of the United States,,,DONALD J. TRUMP,483,11,264,208,0
-Colquitt,Millcreek,President of the United States,,,DONALD J. TRUMP,245,8,155,82,0
-Colquitt,Monk,President of the United States,,,DONALD J. TRUMP,745,21,365,359,0
-Colquitt,Murphy,President of the United States,,,DONALD J. TRUMP,559,11,260,288,0
-Colquitt,Norman Park,President of the United States,,,DONALD J. TRUMP,1007,30,476,500,1
-Colquitt,Robinson,President of the United States,,,DONALD J. TRUMP,431,8,280,143,0
-Colquitt,Thigpen,President of the United States,,,DONALD J. TRUMP,128,3,95,30,0
-Colquitt,Tyty,President of the United States,,,DONALD J. TRUMP,254,5,213,36,0
-Colquitt,Warrior,President of the United States,,,DONALD J. TRUMP,494,3,315,175,1
-Colquitt,,President of the United States,,,HILLARY CLINTON,3463,176,1724,1561,2
-Colquitt,Shaw,President of the United States,,,HILLARY CLINTON,1089,46,588,455,0
-Colquitt,Moultrie,President of the United States,,,HILLARY CLINTON,901,58,366,477,0
-Colquitt,Autreyville,President of the United States,,,HILLARY CLINTON,147,5,61,81,0
-Colquitt,Bridgecreek,President of the United States,,,HILLARY CLINTON,76,6,37,33,0
-Colquitt,Crosland,President of the United States,,,HILLARY CLINTON,38,1,27,10,0
-Colquitt,Doerun,President of the United States,,,HILLARY CLINTON,149,6,124,19,0
-Colquitt,Funston,President of the United States,,,HILLARY CLINTON,86,1,57,28,0
-Colquitt,Hamilton,President of the United States,,,HILLARY CLINTON,51,3,30,18,0
-Colquitt,Hartsfield,President of the United States,,,HILLARY CLINTON,23,4,9,10,0
-Colquitt,Hopewell,President of the United States,,,HILLARY CLINTON,139,5,55,79,0
-Colquitt,Lee,President of the United States,,,HILLARY CLINTON,75,4,28,43,0
-Colquitt,Millcreek,President of the United States,,,HILLARY CLINTON,27,0,17,10,0
-Colquitt,Monk,President of the United States,,,HILLARY CLINTON,131,8,55,68,0
-Colquitt,Murphy,President of the United States,,,HILLARY CLINTON,62,4,19,39,0
-Colquitt,Norman Park,President of the United States,,,HILLARY CLINTON,279,15,135,128,1
-Colquitt,Robinson,President of the United States,,,HILLARY CLINTON,82,7,41,34,0
-Colquitt,Thigpen,President of the United States,,,HILLARY CLINTON,17,1,15,1,0
-Colquitt,Tyty,President of the United States,,,HILLARY CLINTON,22,0,13,9,0
-Colquitt,Warrior,President of the United States,,,HILLARY CLINTON,69,2,47,19,1
-Colquitt,,President of the United States,,,GARY JOHNSON,240,12,127,101,0
-Colquitt,Shaw,President of the United States,,,GARY JOHNSON,20,1,13,6,0
-Colquitt,Moultrie,President of the United States,,,GARY JOHNSON,71,7,28,36,0
-Colquitt,Autreyville,President of the United States,,,GARY JOHNSON,13,1,8,4,0
-Colquitt,Bridgecreek,President of the United States,,,GARY JOHNSON,11,0,5,6,0
-Colquitt,Crosland,President of the United States,,,GARY JOHNSON,3,0,2,1,0
-Colquitt,Doerun,President of the United States,,,GARY JOHNSON,6,0,5,1,0
-Colquitt,Funston,President of the United States,,,GARY JOHNSON,8,1,5,2,0
-Colquitt,Hamilton,President of the United States,,,GARY JOHNSON,5,0,4,1,0
-Colquitt,Hartsfield,President of the United States,,,GARY JOHNSON,1,0,1,0,0
-Colquitt,Hopewell,President of the United States,,,GARY JOHNSON,13,0,7,6,0
-Colquitt,Lee,President of the United States,,,GARY JOHNSON,10,0,5,5,0
-Colquitt,Millcreek,President of the United States,,,GARY JOHNSON,6,0,4,2,0
-Colquitt,Monk,President of the United States,,,GARY JOHNSON,15,0,8,7,0
-Colquitt,Murphy,President of the United States,,,GARY JOHNSON,15,0,8,7,0
-Colquitt,Norman Park,President of the United States,,,GARY JOHNSON,26,0,12,14,0
-Colquitt,Robinson,President of the United States,,,GARY JOHNSON,8,1,5,2,0
-Colquitt,Thigpen,President of the United States,,,GARY JOHNSON,1,0,1,0,0
-Colquitt,Tyty,President of the United States,,,GARY JOHNSON,2,0,2,0,0
-Colquitt,Warrior,President of the United States,,,GARY JOHNSON,6,1,4,1,0
+Colquitt,,President of the United States,,REP,DONALD J. TRUMP,9898,260,4968,4667,3
+Colquitt,Shaw,President of the United States,,REP,DONALD J. TRUMP,317,10,92,215,0
+Colquitt,Moultrie,President of the United States,,REP,DONALD J. TRUMP,1522,70,461,991,0
+Colquitt,Autreyville,President of the United States,,REP,DONALD J. TRUMP,627,16,290,321,0
+Colquitt,Bridgecreek,President of the United States,,REP,DONALD J. TRUMP,689,11,333,345,0
+Colquitt,Crosland,President of the United States,,REP,DONALD J. TRUMP,104,2,89,13,0
+Colquitt,Doerun,President of the United States,,REP,DONALD J. TRUMP,251,4,186,60,1
+Colquitt,Funston,President of the United States,,REP,DONALD J. TRUMP,573,9,330,234,0
+Colquitt,Hamilton,President of the United States,,REP,DONALD J. TRUMP,399,10,270,119,0
+Colquitt,Hartsfield,President of the United States,,REP,DONALD J. TRUMP,265,4,174,87,0
+Colquitt,Hopewell,President of the United States,,REP,DONALD J. TRUMP,805,24,320,461,0
+Colquitt,Lee,President of the United States,,REP,DONALD J. TRUMP,483,11,264,208,0
+Colquitt,Millcreek,President of the United States,,REP,DONALD J. TRUMP,245,8,155,82,0
+Colquitt,Monk,President of the United States,,REP,DONALD J. TRUMP,745,21,365,359,0
+Colquitt,Murphy,President of the United States,,REP,DONALD J. TRUMP,559,11,260,288,0
+Colquitt,Norman Park,President of the United States,,REP,DONALD J. TRUMP,1007,30,476,500,1
+Colquitt,Robinson,President of the United States,,REP,DONALD J. TRUMP,431,8,280,143,0
+Colquitt,Thigpen,President of the United States,,REP,DONALD J. TRUMP,128,3,95,30,0
+Colquitt,Tyty,President of the United States,,REP,DONALD J. TRUMP,254,5,213,36,0
+Colquitt,Warrior,President of the United States,,REP,DONALD J. TRUMP,494,3,315,175,1
+Colquitt,,President of the United States,,DEM,HILLARY CLINTON,3463,176,1724,1561,2
+Colquitt,Shaw,President of the United States,,DEM,HILLARY CLINTON,1089,46,588,455,0
+Colquitt,Moultrie,President of the United States,,DEM,HILLARY CLINTON,901,58,366,477,0
+Colquitt,Autreyville,President of the United States,,DEM,HILLARY CLINTON,147,5,61,81,0
+Colquitt,Bridgecreek,President of the United States,,DEM,HILLARY CLINTON,76,6,37,33,0
+Colquitt,Crosland,President of the United States,,DEM,HILLARY CLINTON,38,1,27,10,0
+Colquitt,Doerun,President of the United States,,DEM,HILLARY CLINTON,149,6,124,19,0
+Colquitt,Funston,President of the United States,,DEM,HILLARY CLINTON,86,1,57,28,0
+Colquitt,Hamilton,President of the United States,,DEM,HILLARY CLINTON,51,3,30,18,0
+Colquitt,Hartsfield,President of the United States,,DEM,HILLARY CLINTON,23,4,9,10,0
+Colquitt,Hopewell,President of the United States,,DEM,HILLARY CLINTON,139,5,55,79,0
+Colquitt,Lee,President of the United States,,DEM,HILLARY CLINTON,75,4,28,43,0
+Colquitt,Millcreek,President of the United States,,DEM,HILLARY CLINTON,27,0,17,10,0
+Colquitt,Monk,President of the United States,,DEM,HILLARY CLINTON,131,8,55,68,0
+Colquitt,Murphy,President of the United States,,DEM,HILLARY CLINTON,62,4,19,39,0
+Colquitt,Norman Park,President of the United States,,DEM,HILLARY CLINTON,279,15,135,128,1
+Colquitt,Robinson,President of the United States,,DEM,HILLARY CLINTON,82,7,41,34,0
+Colquitt,Thigpen,President of the United States,,DEM,HILLARY CLINTON,17,1,15,1,0
+Colquitt,Tyty,President of the United States,,DEM,HILLARY CLINTON,22,0,13,9,0
+Colquitt,Warrior,President of the United States,,DEM,HILLARY CLINTON,69,2,47,19,1
+Colquitt,,President of the United States,,IND,GARY JOHNSON,240,12,127,101,0
+Colquitt,Shaw,President of the United States,,IND,GARY JOHNSON,20,1,13,6,0
+Colquitt,Moultrie,President of the United States,,IND,GARY JOHNSON,71,7,28,36,0
+Colquitt,Autreyville,President of the United States,,IND,GARY JOHNSON,13,1,8,4,0
+Colquitt,Bridgecreek,President of the United States,,IND,GARY JOHNSON,11,0,5,6,0
+Colquitt,Crosland,President of the United States,,IND,GARY JOHNSON,3,0,2,1,0
+Colquitt,Doerun,President of the United States,,IND,GARY JOHNSON,6,0,5,1,0
+Colquitt,Funston,President of the United States,,IND,GARY JOHNSON,8,1,5,2,0
+Colquitt,Hamilton,President of the United States,,IND,GARY JOHNSON,5,0,4,1,0
+Colquitt,Hartsfield,President of the United States,,IND,GARY JOHNSON,1,0,1,0,0
+Colquitt,Hopewell,President of the United States,,IND,GARY JOHNSON,13,0,7,6,0
+Colquitt,Lee,President of the United States,,IND,GARY JOHNSON,10,0,5,5,0
+Colquitt,Millcreek,President of the United States,,IND,GARY JOHNSON,6,0,4,2,0
+Colquitt,Monk,President of the United States,,IND,GARY JOHNSON,15,0,8,7,0
+Colquitt,Murphy,President of the United States,,IND,GARY JOHNSON,15,0,8,7,0
+Colquitt,Norman Park,President of the United States,,IND,GARY JOHNSON,26,0,12,14,0
+Colquitt,Robinson,President of the United States,,IND,GARY JOHNSON,8,1,5,2,0
+Colquitt,Thigpen,President of the United States,,IND,GARY JOHNSON,1,0,1,0,0
+Colquitt,Tyty,President of the United States,,IND,GARY JOHNSON,2,0,2,0,0
+Colquitt,Warrior,President of the United States,,IND,GARY JOHNSON,6,1,4,1,0
 Colquitt,,United States Senator,,,JOHNNY ISAKSON ,9618,285,4838,4491,4
 Colquitt,Shaw,United States Senator,,,JOHNNY ISAKSON ,379,19,137,223,0
 Colquitt,Moultrie,United States Senator,,,JOHNNY ISAKSON ,1566,74,496,996,0

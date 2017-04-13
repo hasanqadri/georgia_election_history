@@ -1,37 +1,37 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Bryan,,President of the United States,,,DONALD J. TRUMP,10529,286,3899,6336,8
-Bryan,Pembroke,President of the United States,,,DONALD J. TRUMP,854,17,377,458,2
-Bryan,Danielsiding,President of the United States,,,DONALD J. TRUMP,1004,34,341,627,2
-Bryan,Ellabell,President of the United States,,,DONALD J. TRUMP,848,13,475,360,0
-Bryan,Black Creek,President of the United States,,,DONALD J. TRUMP,1111,34,621,456,0
-Bryan,Ways Station,President of the United States,,,DONALD J. TRUMP,515,21,247,247,0
-Bryan,RH Recreation,President of the United States,,,DONALD J. TRUMP,871,22,325,524,0
-Bryan,J.F. Gregory Park,President of the United States,,,DONALD J. TRUMP,1440,46,356,1036,2
-Bryan,Keller,President of the United States,,,DONALD J. TRUMP,1760,31,531,1196,2
-Bryan,HWY 144 East,President of the United States,,,DONALD J. TRUMP,1389,45,337,1007,0
-Bryan,Public Safety,President of the United States,,,DONALD J. TRUMP,737,23,289,425,0
-Bryan,,President of the United States,,,HILLARY CLINTON,4014,235,1465,2312,2
-Bryan,Pembroke,President of the United States,,,HILLARY CLINTON,449,12,205,232,0
-Bryan,Danielsiding,President of the United States,,,HILLARY CLINTON,299,31,121,147,0
-Bryan,Ellabell,President of the United States,,,HILLARY CLINTON,199,9,102,88,0
-Bryan,Black Creek,President of the United States,,,HILLARY CLINTON,283,14,174,94,1
-Bryan,Ways Station,President of the United States,,,HILLARY CLINTON,337,42,110,185,0
-Bryan,RH Recreation,President of the United States,,,HILLARY CLINTON,512,22,190,299,1
-Bryan,J.F. Gregory Park,President of the United States,,,HILLARY CLINTON,439,30,110,299,0
-Bryan,Keller,President of the United States,,,HILLARY CLINTON,596,28,173,395,0
-Bryan,HWY 144 East,President of the United States,,,HILLARY CLINTON,508,30,135,343,0
-Bryan,Public Safety,President of the United States,,,HILLARY CLINTON,392,17,145,230,0
-Bryan,,President of the United States,,,GARY JOHNSON,542,30,256,256,0
-Bryan,Pembroke,President of the United States,,,GARY JOHNSON,30,1,20,9,0
-Bryan,Danielsiding,President of the United States,,,GARY JOHNSON,50,3,26,21,0
-Bryan,Ellabell,President of the United States,,,GARY JOHNSON,17,0,11,6,0
-Bryan,Black Creek,President of the United States,,,GARY JOHNSON,38,3,27,8,0
-Bryan,Ways Station,President of the United States,,,GARY JOHNSON,32,1,18,13,0
-Bryan,RH Recreation,President of the United States,,,GARY JOHNSON,74,2,37,35,0
-Bryan,J.F. Gregory Park,President of the United States,,,GARY JOHNSON,72,10,26,36,0
-Bryan,Keller,President of the United States,,,GARY JOHNSON,91,4,43,44,0
-Bryan,HWY 144 East,President of the United States,,,GARY JOHNSON,80,1,26,53,0
-Bryan,Public Safety,President of the United States,,,GARY JOHNSON,58,5,22,31,0
+Bryan,,President of the United States,,REP,DONALD J. TRUMP,10529,286,3899,6336,8
+Bryan,Pembroke,President of the United States,,REP,DONALD J. TRUMP,854,17,377,458,2
+Bryan,Danielsiding,President of the United States,,REP,DONALD J. TRUMP,1004,34,341,627,2
+Bryan,Ellabell,President of the United States,,REP,DONALD J. TRUMP,848,13,475,360,0
+Bryan,Black Creek,President of the United States,,REP,DONALD J. TRUMP,1111,34,621,456,0
+Bryan,Ways Station,President of the United States,,REP,DONALD J. TRUMP,515,21,247,247,0
+Bryan,RH Recreation,President of the United States,,REP,DONALD J. TRUMP,871,22,325,524,0
+Bryan,J.F. Gregory Park,President of the United States,,REP,DONALD J. TRUMP,1440,46,356,1036,2
+Bryan,Keller,President of the United States,,REP,DONALD J. TRUMP,1760,31,531,1196,2
+Bryan,HWY 144 East,President of the United States,,REP,DONALD J. TRUMP,1389,45,337,1007,0
+Bryan,Public Safety,President of the United States,,REP,DONALD J. TRUMP,737,23,289,425,0
+Bryan,,President of the United States,,DEM,HILLARY CLINTON,4014,235,1465,2312,2
+Bryan,Pembroke,President of the United States,,DEM,HILLARY CLINTON,449,12,205,232,0
+Bryan,Danielsiding,President of the United States,,DEM,HILLARY CLINTON,299,31,121,147,0
+Bryan,Ellabell,President of the United States,,DEM,HILLARY CLINTON,199,9,102,88,0
+Bryan,Black Creek,President of the United States,,DEM,HILLARY CLINTON,283,14,174,94,1
+Bryan,Ways Station,President of the United States,,DEM,HILLARY CLINTON,337,42,110,185,0
+Bryan,RH Recreation,President of the United States,,DEM,HILLARY CLINTON,512,22,190,299,1
+Bryan,J.F. Gregory Park,President of the United States,,DEM,HILLARY CLINTON,439,30,110,299,0
+Bryan,Keller,President of the United States,,DEM,HILLARY CLINTON,596,28,173,395,0
+Bryan,HWY 144 East,President of the United States,,DEM,HILLARY CLINTON,508,30,135,343,0
+Bryan,Public Safety,President of the United States,,DEM,HILLARY CLINTON,392,17,145,230,0
+Bryan,,President of the United States,,IND,GARY JOHNSON,542,30,256,256,0
+Bryan,Pembroke,President of the United States,,IND,GARY JOHNSON,30,1,20,9,0
+Bryan,Danielsiding,President of the United States,,IND,GARY JOHNSON,50,3,26,21,0
+Bryan,Ellabell,President of the United States,,IND,GARY JOHNSON,17,0,11,6,0
+Bryan,Black Creek,President of the United States,,IND,GARY JOHNSON,38,3,27,8,0
+Bryan,Ways Station,President of the United States,,IND,GARY JOHNSON,32,1,18,13,0
+Bryan,RH Recreation,President of the United States,,IND,GARY JOHNSON,74,2,37,35,0
+Bryan,J.F. Gregory Park,President of the United States,,IND,GARY JOHNSON,72,10,26,36,0
+Bryan,Keller,President of the United States,,IND,GARY JOHNSON,91,4,43,44,0
+Bryan,HWY 144 East,President of the United States,,IND,GARY JOHNSON,80,1,26,53,0
+Bryan,Public Safety,President of the United States,,IND,GARY JOHNSON,58,5,22,31,0
 Bryan,,United States Senator,,,JOHNNY ISAKSON ,10488,310,3887,6284,7
 Bryan,Pembroke,United States Senator,,,JOHNNY ISAKSON ,858,20,382,455,1
 Bryan,Danielsiding,United States Senator,,,JOHNNY ISAKSON ,986,28,345,611,2

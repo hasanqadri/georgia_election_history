@@ -1,40 +1,40 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Walker,,President of the United States,,,DONALD J. TRUMP,18950,681,7302,10960,7
-Walker,LAFAYETTE,President of the United States,,,DONALD J. TRUMP,2614,108,922,1582,2
-Walker,CENTER POST,President of the United States,,,DONALD J. TRUMP,1083,27,510,546,0
-Walker,ROCK SPRING,President of the United States,,,DONALD J. TRUMP,3137,104,919,2114,0
-Walker,ARMUCHEE VALLEY,President of the United States,,,DONALD J. TRUMP,667,16,504,147,0
-Walker,MOUNTAIN,President of the United States,,,DONALD J. TRUMP,566,12,414,140,0
-Walker,CHATTANOOGA VALLEY,President of the United States,,,DONALD J. TRUMP,2829,130,1134,1564,1
-Walker,KENSINGTON,President of the United States,,,DONALD J. TRUMP,684,13,434,236,1
-Walker,ROSSVILLE,President of the United States,,,DONALD J. TRUMP,2320,90,726,1503,1
-Walker,CHICKAMAUGA,President of the United States,,,DONALD J. TRUMP,3346,97,941,2307,1
-Walker,FAIRYLAND,President of the United States,,,DONALD J. TRUMP,540,21,256,263,0
-Walker,FAIRVIEW,President of the United States,,,DONALD J. TRUMP,1164,63,542,558,1
-Walker,,President of the United States,,,HILLARY CLINTON,4215,274,1651,2288,2
-Walker,LAFAYETTE,President of the United States,,,HILLARY CLINTON,631,49,204,377,1
-Walker,CENTER POST,President of the United States,,,HILLARY CLINTON,124,7,50,67,0
-Walker,ROCK SPRING,President of the United States,,,HILLARY CLINTON,522,26,172,324,0
-Walker,ARMUCHEE VALLEY,President of the United States,,,HILLARY CLINTON,124,5,90,29,0
-Walker,MOUNTAIN,President of the United States,,,HILLARY CLINTON,132,8,77,47,0
-Walker,CHATTANOOGA VALLEY,President of the United States,,,HILLARY CLINTON,721,49,314,358,0
-Walker,KENSINGTON,President of the United States,,,HILLARY CLINTON,161,10,74,77,0
-Walker,ROSSVILLE,President of the United States,,,HILLARY CLINTON,669,43,258,368,0
-Walker,CHICKAMAUGA,President of the United States,,,HILLARY CLINTON,578,24,175,378,1
-Walker,FAIRYLAND,President of the United States,,,HILLARY CLINTON,246,23,97,126,0
-Walker,FAIRVIEW,President of the United States,,,HILLARY CLINTON,307,30,140,137,0
-Walker,,President of the United States,,,GARY JOHNSON,791,36,409,343,3
-Walker,LAFAYETTE,President of the United States,,,GARY JOHNSON,121,7,57,57,0
-Walker,CENTER POST,President of the United States,,,GARY JOHNSON,45,1,22,22,0
-Walker,ROCK SPRING,President of the United States,,,GARY JOHNSON,97,2,46,49,0
-Walker,ARMUCHEE VALLEY,President of the United States,,,GARY JOHNSON,16,0,13,3,0
-Walker,MOUNTAIN,President of the United States,,,GARY JOHNSON,23,2,18,3,0
-Walker,CHATTANOOGA VALLEY,President of the United States,,,GARY JOHNSON,138,5,66,65,2
-Walker,KENSINGTON,President of the United States,,,GARY JOHNSON,34,0,27,7,0
-Walker,ROSSVILLE,President of the United States,,,GARY JOHNSON,92,2,49,41,0
-Walker,CHICKAMAUGA,President of the United States,,,GARY JOHNSON,127,7,50,69,1
-Walker,FAIRYLAND,President of the United States,,,GARY JOHNSON,48,7,31,10,0
-Walker,FAIRVIEW,President of the United States,,,GARY JOHNSON,50,3,30,17,0
+Walker,,President of the United States,,REP,DONALD J. TRUMP,18950,681,7302,10960,7
+Walker,LAFAYETTE,President of the United States,,REP,DONALD J. TRUMP,2614,108,922,1582,2
+Walker,CENTER POST,President of the United States,,REP,DONALD J. TRUMP,1083,27,510,546,0
+Walker,ROCK SPRING,President of the United States,,REP,DONALD J. TRUMP,3137,104,919,2114,0
+Walker,ARMUCHEE VALLEY,President of the United States,,REP,DONALD J. TRUMP,667,16,504,147,0
+Walker,MOUNTAIN,President of the United States,,REP,DONALD J. TRUMP,566,12,414,140,0
+Walker,CHATTANOOGA VALLEY,President of the United States,,REP,DONALD J. TRUMP,2829,130,1134,1564,1
+Walker,KENSINGTON,President of the United States,,REP,DONALD J. TRUMP,684,13,434,236,1
+Walker,ROSSVILLE,President of the United States,,REP,DONALD J. TRUMP,2320,90,726,1503,1
+Walker,CHICKAMAUGA,President of the United States,,REP,DONALD J. TRUMP,3346,97,941,2307,1
+Walker,FAIRYLAND,President of the United States,,REP,DONALD J. TRUMP,540,21,256,263,0
+Walker,FAIRVIEW,President of the United States,,REP,DONALD J. TRUMP,1164,63,542,558,1
+Walker,,President of the United States,,DEM,HILLARY CLINTON,4215,274,1651,2288,2
+Walker,LAFAYETTE,President of the United States,,DEM,HILLARY CLINTON,631,49,204,377,1
+Walker,CENTER POST,President of the United States,,DEM,HILLARY CLINTON,124,7,50,67,0
+Walker,ROCK SPRING,President of the United States,,DEM,HILLARY CLINTON,522,26,172,324,0
+Walker,ARMUCHEE VALLEY,President of the United States,,DEM,HILLARY CLINTON,124,5,90,29,0
+Walker,MOUNTAIN,President of the United States,,DEM,HILLARY CLINTON,132,8,77,47,0
+Walker,CHATTANOOGA VALLEY,President of the United States,,DEM,HILLARY CLINTON,721,49,314,358,0
+Walker,KENSINGTON,President of the United States,,DEM,HILLARY CLINTON,161,10,74,77,0
+Walker,ROSSVILLE,President of the United States,,DEM,HILLARY CLINTON,669,43,258,368,0
+Walker,CHICKAMAUGA,President of the United States,,DEM,HILLARY CLINTON,578,24,175,378,1
+Walker,FAIRYLAND,President of the United States,,DEM,HILLARY CLINTON,246,23,97,126,0
+Walker,FAIRVIEW,President of the United States,,DEM,HILLARY CLINTON,307,30,140,137,0
+Walker,,President of the United States,,IND,GARY JOHNSON,791,36,409,343,3
+Walker,LAFAYETTE,President of the United States,,IND,GARY JOHNSON,121,7,57,57,0
+Walker,CENTER POST,President of the United States,,IND,GARY JOHNSON,45,1,22,22,0
+Walker,ROCK SPRING,President of the United States,,IND,GARY JOHNSON,97,2,46,49,0
+Walker,ARMUCHEE VALLEY,President of the United States,,IND,GARY JOHNSON,16,0,13,3,0
+Walker,MOUNTAIN,President of the United States,,IND,GARY JOHNSON,23,2,18,3,0
+Walker,CHATTANOOGA VALLEY,President of the United States,,IND,GARY JOHNSON,138,5,66,65,2
+Walker,KENSINGTON,President of the United States,,IND,GARY JOHNSON,34,0,27,7,0
+Walker,ROSSVILLE,President of the United States,,IND,GARY JOHNSON,92,2,49,41,0
+Walker,CHICKAMAUGA,President of the United States,,IND,GARY JOHNSON,127,7,50,69,1
+Walker,FAIRYLAND,President of the United States,,IND,GARY JOHNSON,48,7,31,10,0
+Walker,FAIRVIEW,President of the United States,,IND,GARY JOHNSON,50,3,30,17,0
 Walker,,United States Senator,,,JOHNNY ISAKSON ,17086,703,6518,9858,7
 Walker,LAFAYETTE,United States Senator,,,JOHNNY ISAKSON ,2331,110,784,1436,1
 Walker,CENTER POST,United States Senator,,,JOHNNY ISAKSON ,940,27,439,474,0

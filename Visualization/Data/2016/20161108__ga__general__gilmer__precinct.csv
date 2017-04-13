@@ -1,46 +1,46 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Gilmer,,President of the United States,,,DONALD J. TRUMP,10477,515,4440,5511,11
-Gilmer,ELLIJAY SOUTH,President of the United States,,,DONALD J. TRUMP,1372,70,435,866,1
-Gilmer,CARTECAY,President of the United States,,,DONALD J. TRUMP,864,39,433,389,3
-Gilmer,TAILS CREEK,President of the United States,,,DONALD J. TRUMP,787,26,418,341,2
-Gilmer,TOWN CREEK,President of the United States,,,DONALD J. TRUMP,555,16,287,252,0
-Gilmer,LEACHES,President of the United States,,,DONALD J. TRUMP,1235,57,508,670,0
-Gilmer,CHERRY LOG,President of the United States,,,DONALD J. TRUMP,458,28,276,154,0
-Gilmer,BOARDTOWN,President of the United States,,,DONALD J. TRUMP,738,40,360,338,0
-Gilmer,MOUNTAINTOWN,President of the United States,,,DONALD J. TRUMP,576,23,268,284,1
-Gilmer,EAST ELLIJAY,President of the United States,,,DONALD J. TRUMP,803,49,269,484,1
-Gilmer,ELLIJAY NORTH,President of the United States,,,DONALD J. TRUMP,763,54,282,427,0
-Gilmer,YUKON,President of the United States,,,DONALD J. TRUMP,647,16,344,286,1
-Gilmer,BIG CREEK,President of the United States,,,DONALD J. TRUMP,728,36,317,375,0
-Gilmer,ELLIJAY NORTHEAST,President of the United States,,,DONALD J. TRUMP,951,61,243,645,2
-Gilmer,,President of the United States,,,HILLARY CLINTON,1965,149,691,1121,4
-Gilmer,ELLIJAY SOUTH,President of the United States,,,HILLARY CLINTON,306,34,76,195,1
-Gilmer,CARTECAY,President of the United States,,,HILLARY CLINTON,124,10,41,73,0
-Gilmer,TAILS CREEK,President of the United States,,,HILLARY CLINTON,115,4,56,54,1
-Gilmer,TOWN CREEK,President of the United States,,,HILLARY CLINTON,82,8,40,34,0
-Gilmer,LEACHES,President of the United States,,,HILLARY CLINTON,225,12,80,132,1
-Gilmer,CHERRY LOG,President of the United States,,,HILLARY CLINTON,129,8,74,47,0
-Gilmer,BOARDTOWN,President of the United States,,,HILLARY CLINTON,136,12,50,74,0
-Gilmer,MOUNTAINTOWN,President of the United States,,,HILLARY CLINTON,106,10,53,43,0
-Gilmer,EAST ELLIJAY,President of the United States,,,HILLARY CLINTON,151,14,37,100,0
-Gilmer,ELLIJAY NORTH,President of the United States,,,HILLARY CLINTON,154,11,56,87,0
-Gilmer,YUKON,President of the United States,,,HILLARY CLINTON,78,3,37,38,0
-Gilmer,BIG CREEK,President of the United States,,,HILLARY CLINTON,152,12,59,81,0
-Gilmer,ELLIJAY NORTHEAST,President of the United States,,,HILLARY CLINTON,207,11,32,163,1
-Gilmer,,President of the United States,,,GARY JOHNSON,293,12,140,141,0
-Gilmer,ELLIJAY SOUTH,President of the United States,,,GARY JOHNSON,40,2,12,26,0
-Gilmer,CARTECAY,President of the United States,,,GARY JOHNSON,16,2,9,5,0
-Gilmer,TAILS CREEK,President of the United States,,,GARY JOHNSON,18,0,11,7,0
-Gilmer,TOWN CREEK,President of the United States,,,GARY JOHNSON,12,0,8,4,0
-Gilmer,LEACHES,President of the United States,,,GARY JOHNSON,39,1,12,26,0
-Gilmer,CHERRY LOG,President of the United States,,,GARY JOHNSON,11,0,7,4,0
-Gilmer,BOARDTOWN,President of the United States,,,GARY JOHNSON,26,1,11,14,0
-Gilmer,MOUNTAINTOWN,President of the United States,,,GARY JOHNSON,17,0,10,7,0
-Gilmer,EAST ELLIJAY,President of the United States,,,GARY JOHNSON,23,0,17,6,0
-Gilmer,ELLIJAY NORTH,President of the United States,,,GARY JOHNSON,31,3,14,14,0
-Gilmer,YUKON,President of the United States,,,GARY JOHNSON,26,2,17,7,0
-Gilmer,BIG CREEK,President of the United States,,,GARY JOHNSON,22,0,10,12,0
-Gilmer,ELLIJAY NORTHEAST,President of the United States,,,GARY JOHNSON,12,1,2,9,0
+Gilmer,,President of the United States,,REP,DONALD J. TRUMP,10477,515,4440,5511,11
+Gilmer,ELLIJAY SOUTH,President of the United States,,REP,DONALD J. TRUMP,1372,70,435,866,1
+Gilmer,CARTECAY,President of the United States,,REP,DONALD J. TRUMP,864,39,433,389,3
+Gilmer,TAILS CREEK,President of the United States,,REP,DONALD J. TRUMP,787,26,418,341,2
+Gilmer,TOWN CREEK,President of the United States,,REP,DONALD J. TRUMP,555,16,287,252,0
+Gilmer,LEACHES,President of the United States,,REP,DONALD J. TRUMP,1235,57,508,670,0
+Gilmer,CHERRY LOG,President of the United States,,REP,DONALD J. TRUMP,458,28,276,154,0
+Gilmer,BOARDTOWN,President of the United States,,REP,DONALD J. TRUMP,738,40,360,338,0
+Gilmer,MOUNTAINTOWN,President of the United States,,REP,DONALD J. TRUMP,576,23,268,284,1
+Gilmer,EAST ELLIJAY,President of the United States,,REP,DONALD J. TRUMP,803,49,269,484,1
+Gilmer,ELLIJAY NORTH,President of the United States,,REP,DONALD J. TRUMP,763,54,282,427,0
+Gilmer,YUKON,President of the United States,,REP,DONALD J. TRUMP,647,16,344,286,1
+Gilmer,BIG CREEK,President of the United States,,REP,DONALD J. TRUMP,728,36,317,375,0
+Gilmer,ELLIJAY NORTHEAST,President of the United States,,REP,DONALD J. TRUMP,951,61,243,645,2
+Gilmer,,President of the United States,,DEM,HILLARY CLINTON,1965,149,691,1121,4
+Gilmer,ELLIJAY SOUTH,President of the United States,,DEM,HILLARY CLINTON,306,34,76,195,1
+Gilmer,CARTECAY,President of the United States,,DEM,HILLARY CLINTON,124,10,41,73,0
+Gilmer,TAILS CREEK,President of the United States,,DEM,HILLARY CLINTON,115,4,56,54,1
+Gilmer,TOWN CREEK,President of the United States,,DEM,HILLARY CLINTON,82,8,40,34,0
+Gilmer,LEACHES,President of the United States,,DEM,HILLARY CLINTON,225,12,80,132,1
+Gilmer,CHERRY LOG,President of the United States,,DEM,HILLARY CLINTON,129,8,74,47,0
+Gilmer,BOARDTOWN,President of the United States,,DEM,HILLARY CLINTON,136,12,50,74,0
+Gilmer,MOUNTAINTOWN,President of the United States,,DEM,HILLARY CLINTON,106,10,53,43,0
+Gilmer,EAST ELLIJAY,President of the United States,,DEM,HILLARY CLINTON,151,14,37,100,0
+Gilmer,ELLIJAY NORTH,President of the United States,,DEM,HILLARY CLINTON,154,11,56,87,0
+Gilmer,YUKON,President of the United States,,DEM,HILLARY CLINTON,78,3,37,38,0
+Gilmer,BIG CREEK,President of the United States,,DEM,HILLARY CLINTON,152,12,59,81,0
+Gilmer,ELLIJAY NORTHEAST,President of the United States,,DEM,HILLARY CLINTON,207,11,32,163,1
+Gilmer,,President of the United States,,IND,GARY JOHNSON,293,12,140,141,0
+Gilmer,ELLIJAY SOUTH,President of the United States,,IND,GARY JOHNSON,40,2,12,26,0
+Gilmer,CARTECAY,President of the United States,,IND,GARY JOHNSON,16,2,9,5,0
+Gilmer,TAILS CREEK,President of the United States,,IND,GARY JOHNSON,18,0,11,7,0
+Gilmer,TOWN CREEK,President of the United States,,IND,GARY JOHNSON,12,0,8,4,0
+Gilmer,LEACHES,President of the United States,,IND,GARY JOHNSON,39,1,12,26,0
+Gilmer,CHERRY LOG,President of the United States,,IND,GARY JOHNSON,11,0,7,4,0
+Gilmer,BOARDTOWN,President of the United States,,IND,GARY JOHNSON,26,1,11,14,0
+Gilmer,MOUNTAINTOWN,President of the United States,,IND,GARY JOHNSON,17,0,10,7,0
+Gilmer,EAST ELLIJAY,President of the United States,,IND,GARY JOHNSON,23,0,17,6,0
+Gilmer,ELLIJAY NORTH,President of the United States,,IND,GARY JOHNSON,31,3,14,14,0
+Gilmer,YUKON,President of the United States,,IND,GARY JOHNSON,26,2,17,7,0
+Gilmer,BIG CREEK,President of the United States,,IND,GARY JOHNSON,22,0,10,12,0
+Gilmer,ELLIJAY NORTHEAST,President of the United States,,IND,GARY JOHNSON,12,1,2,9,0
 Gilmer,,United States Senator,,,JOHNNY ISAKSON ,9508,503,3990,5009,6
 Gilmer,ELLIJAY SOUTH,United States Senator,,,JOHNNY ISAKSON ,1251,73,390,787,1
 Gilmer,CARTECAY,United States Senator,,,JOHNNY ISAKSON ,771,39,384,347,1

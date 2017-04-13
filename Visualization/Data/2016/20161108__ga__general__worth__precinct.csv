@@ -1,52 +1,52 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Worth,,President of the United States,,,DONALD J. TRUMP,6152,166,3401,2578,7
-Worth,Sylvester,President of the United States,,,DONALD J. TRUMP,562,16,201,342,3
-Worth,Scooterville,President of the United States,,,DONALD J. TRUMP,339,7,233,97,2
-Worth,Minton,President of the United States,,,DONALD J. TRUMP,314,5,205,103,1
-Worth,Bridgeboro,President of the United States,,,DONALD J. TRUMP,639,5,419,215,0
-Worth,County Line,President of the United States,,,DONALD J. TRUMP,358,11,231,116,0
-Worth,Isabella,President of the United States,,,DONALD J. TRUMP,806,27,375,404,0
-Worth,Piney Woods,President of the United States,,,DONALD J. TRUMP,113,6,61,46,0
-Worth,Sylver East,President of the United States,,,DONALD J. TRUMP,664,23,221,420,0
-Worth,Poulan,President of the United States,,,DONALD J. TRUMP,436,12,220,203,1
-Worth,Sumner,President of the United States,,,DONALD J. TRUMP,418,13,256,149,0
-Worth,Shingler,President of the United States,,,DONALD J. TRUMP,337,11,198,128,0
-Worth,Red Rock,President of the United States,,,DONALD J. TRUMP,523,10,320,193,0
-Worth,Doles,President of the United States,,,DONALD J. TRUMP,252,8,179,65,0
-Worth,Oakfield,President of the United States,,,DONALD J. TRUMP,91,0,69,22,0
-Worth,Warwick,President of the United States,,,DONALD J. TRUMP,300,12,213,75,0
-Worth,,President of the United States,,,HILLARY CLINTON,2020,99,1001,916,4
-Worth,Sylvester,President of the United States,,,HILLARY CLINTON,905,36,389,478,2
-Worth,Scooterville,President of the United States,,,HILLARY CLINTON,22,0,12,10,0
-Worth,Minton,President of the United States,,,HILLARY CLINTON,27,6,9,11,1
-Worth,Bridgeboro,President of the United States,,,HILLARY CLINTON,110,1,64,45,0
-Worth,County Line,President of the United States,,,HILLARY CLINTON,64,5,25,34,0
-Worth,Isabella,President of the United States,,,HILLARY CLINTON,94,3,44,47,0
-Worth,Piney Woods,President of the United States,,,HILLARY CLINTON,72,3,45,23,1
-Worth,Sylver East,President of the United States,,,HILLARY CLINTON,162,4,72,86,0
-Worth,Poulan,President of the United States,,,HILLARY CLINTON,93,3,56,34,0
-Worth,Sumner,President of the United States,,,HILLARY CLINTON,91,1,49,41,0
-Worth,Shingler,President of the United States,,,HILLARY CLINTON,47,3,20,24,0
-Worth,Red Rock,President of the United States,,,HILLARY CLINTON,135,9,75,51,0
-Worth,Doles,President of the United States,,,HILLARY CLINTON,26,2,13,11,0
-Worth,Oakfield,President of the United States,,,HILLARY CLINTON,45,1,37,7,0
-Worth,Warwick,President of the United States,,,HILLARY CLINTON,127,22,91,14,0
-Worth,,President of the United States,,,GARY JOHNSON,108,11,54,42,1
-Worth,Sylvester,President of the United States,,,GARY JOHNSON,16,1,9,6,0
-Worth,Scooterville,President of the United States,,,GARY JOHNSON,0,0,0,0,0
-Worth,Minton,President of the United States,,,GARY JOHNSON,1,0,0,1,0
-Worth,Bridgeboro,President of the United States,,,GARY JOHNSON,14,3,5,6,0
-Worth,County Line,President of the United States,,,GARY JOHNSON,9,1,2,5,1
-Worth,Isabella,President of the United States,,,GARY JOHNSON,12,1,5,6,0
-Worth,Piney Woods,President of the United States,,,GARY JOHNSON,3,1,2,0,0
-Worth,Sylver East,President of the United States,,,GARY JOHNSON,25,2,14,9,0
-Worth,Poulan,President of the United States,,,GARY JOHNSON,2,0,0,2,0
-Worth,Sumner,President of the United States,,,GARY JOHNSON,3,0,3,0,0
-Worth,Shingler,President of the United States,,,GARY JOHNSON,4,1,1,2,0
-Worth,Red Rock,President of the United States,,,GARY JOHNSON,8,1,5,2,0
-Worth,Doles,President of the United States,,,GARY JOHNSON,4,0,2,2,0
-Worth,Oakfield,President of the United States,,,GARY JOHNSON,1,0,1,0,0
-Worth,Warwick,President of the United States,,,GARY JOHNSON,6,0,5,1,0
+Worth,,President of the United States,,REP,DONALD J. TRUMP,6152,166,3401,2578,7
+Worth,Sylvester,President of the United States,,REP,DONALD J. TRUMP,562,16,201,342,3
+Worth,Scooterville,President of the United States,,REP,DONALD J. TRUMP,339,7,233,97,2
+Worth,Minton,President of the United States,,REP,DONALD J. TRUMP,314,5,205,103,1
+Worth,Bridgeboro,President of the United States,,REP,DONALD J. TRUMP,639,5,419,215,0
+Worth,County Line,President of the United States,,REP,DONALD J. TRUMP,358,11,231,116,0
+Worth,Isabella,President of the United States,,REP,DONALD J. TRUMP,806,27,375,404,0
+Worth,Piney Woods,President of the United States,,REP,DONALD J. TRUMP,113,6,61,46,0
+Worth,Sylver East,President of the United States,,REP,DONALD J. TRUMP,664,23,221,420,0
+Worth,Poulan,President of the United States,,REP,DONALD J. TRUMP,436,12,220,203,1
+Worth,Sumner,President of the United States,,REP,DONALD J. TRUMP,418,13,256,149,0
+Worth,Shingler,President of the United States,,REP,DONALD J. TRUMP,337,11,198,128,0
+Worth,Red Rock,President of the United States,,REP,DONALD J. TRUMP,523,10,320,193,0
+Worth,Doles,President of the United States,,REP,DONALD J. TRUMP,252,8,179,65,0
+Worth,Oakfield,President of the United States,,REP,DONALD J. TRUMP,91,0,69,22,0
+Worth,Warwick,President of the United States,,REP,DONALD J. TRUMP,300,12,213,75,0
+Worth,,President of the United States,,DEM,HILLARY CLINTON,2020,99,1001,916,4
+Worth,Sylvester,President of the United States,,DEM,HILLARY CLINTON,905,36,389,478,2
+Worth,Scooterville,President of the United States,,DEM,HILLARY CLINTON,22,0,12,10,0
+Worth,Minton,President of the United States,,DEM,HILLARY CLINTON,27,6,9,11,1
+Worth,Bridgeboro,President of the United States,,DEM,HILLARY CLINTON,110,1,64,45,0
+Worth,County Line,President of the United States,,DEM,HILLARY CLINTON,64,5,25,34,0
+Worth,Isabella,President of the United States,,DEM,HILLARY CLINTON,94,3,44,47,0
+Worth,Piney Woods,President of the United States,,DEM,HILLARY CLINTON,72,3,45,23,1
+Worth,Sylver East,President of the United States,,DEM,HILLARY CLINTON,162,4,72,86,0
+Worth,Poulan,President of the United States,,DEM,HILLARY CLINTON,93,3,56,34,0
+Worth,Sumner,President of the United States,,DEM,HILLARY CLINTON,91,1,49,41,0
+Worth,Shingler,President of the United States,,DEM,HILLARY CLINTON,47,3,20,24,0
+Worth,Red Rock,President of the United States,,DEM,HILLARY CLINTON,135,9,75,51,0
+Worth,Doles,President of the United States,,DEM,HILLARY CLINTON,26,2,13,11,0
+Worth,Oakfield,President of the United States,,DEM,HILLARY CLINTON,45,1,37,7,0
+Worth,Warwick,President of the United States,,DEM,HILLARY CLINTON,127,22,91,14,0
+Worth,,President of the United States,,IND,GARY JOHNSON,108,11,54,42,1
+Worth,Sylvester,President of the United States,,IND,GARY JOHNSON,16,1,9,6,0
+Worth,Scooterville,President of the United States,,IND,GARY JOHNSON,0,0,0,0,0
+Worth,Minton,President of the United States,,IND,GARY JOHNSON,1,0,0,1,0
+Worth,Bridgeboro,President of the United States,,IND,GARY JOHNSON,14,3,5,6,0
+Worth,County Line,President of the United States,,IND,GARY JOHNSON,9,1,2,5,1
+Worth,Isabella,President of the United States,,IND,GARY JOHNSON,12,1,5,6,0
+Worth,Piney Woods,President of the United States,,IND,GARY JOHNSON,3,1,2,0,0
+Worth,Sylver East,President of the United States,,IND,GARY JOHNSON,25,2,14,9,0
+Worth,Poulan,President of the United States,,IND,GARY JOHNSON,2,0,0,2,0
+Worth,Sumner,President of the United States,,IND,GARY JOHNSON,3,0,3,0,0
+Worth,Shingler,President of the United States,,IND,GARY JOHNSON,4,1,1,2,0
+Worth,Red Rock,President of the United States,,IND,GARY JOHNSON,8,1,5,2,0
+Worth,Doles,President of the United States,,IND,GARY JOHNSON,4,0,2,2,0
+Worth,Oakfield,President of the United States,,IND,GARY JOHNSON,1,0,1,0,0
+Worth,Warwick,President of the United States,,IND,GARY JOHNSON,6,0,5,1,0
 Worth,,United States Senator,,,JOHNNY ISAKSON ,5884,174,3261,2442,7
 Worth,Sylvester,United States Senator,,,JOHNNY ISAKSON ,606,16,227,360,3
 Worth,Scooterville,United States Senator,,,JOHNNY ISAKSON ,320,6,221,91,2

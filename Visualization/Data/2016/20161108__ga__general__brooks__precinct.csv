@@ -1,28 +1,28 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Brooks,,President of the United States,,,DONALD J. TRUMP,3701,156,1769,1754,22
-Brooks,Quitman,President of the United States,,,DONALD J. TRUMP,816,53,219,531,13
-Brooks,Barwick,President of the United States,,,DONALD J. TRUMP,173,7,124,41,1
-Brooks,Dixie,President of the United States,,,DONALD J. TRUMP,316,6,179,128,3
-Brooks,Briggs,President of the United States,,,DONALD J. TRUMP,1003,36,506,459,2
-Brooks,Pavo,President of the United States,,,DONALD J. TRUMP,249,11,183,55,0
-Brooks,Nankin,President of the United States,,,DONALD J. TRUMP,389,11,191,185,2
-Brooks,Morven,President of the United States,,,DONALD J. TRUMP,755,32,367,355,1
-Brooks,,President of the United States,,,HILLARY CLINTON,2528,460,1041,1003,24
-Brooks,Quitman,President of the United States,,,HILLARY CLINTON,1382,317,458,587,20
-Brooks,Barwick,President of the United States,,,HILLARY CLINTON,52,7,26,18,1
-Brooks,Dixie,President of the United States,,,HILLARY CLINTON,347,76,144,126,1
-Brooks,Briggs,President of the United States,,,HILLARY CLINTON,234,17,107,110,0
-Brooks,Pavo,President of the United States,,,HILLARY CLINTON,85,2,71,12,0
-Brooks,Nankin,President of the United States,,,HILLARY CLINTON,58,1,26,31,0
-Brooks,Morven,President of the United States,,,HILLARY CLINTON,370,40,209,119,2
-Brooks,,President of the United States,,,GARY JOHNSON,89,5,43,37,4
-Brooks,Quitman,President of the United States,,,GARY JOHNSON,32,3,12,14,3
-Brooks,Barwick,President of the United States,,,GARY JOHNSON,2,0,1,1,0
-Brooks,Dixie,President of the United States,,,GARY JOHNSON,9,0,3,6,0
-Brooks,Briggs,President of the United States,,,GARY JOHNSON,22,2,12,8,0
-Brooks,Pavo,President of the United States,,,GARY JOHNSON,5,0,5,0,0
-Brooks,Nankin,President of the United States,,,GARY JOHNSON,8,0,4,4,0
-Brooks,Morven,President of the United States,,,GARY JOHNSON,11,0,6,4,1
+Brooks,,President of the United States,,REP,DONALD J. TRUMP,3701,156,1769,1754,22
+Brooks,Quitman,President of the United States,,REP,DONALD J. TRUMP,816,53,219,531,13
+Brooks,Barwick,President of the United States,,REP,DONALD J. TRUMP,173,7,124,41,1
+Brooks,Dixie,President of the United States,,REP,DONALD J. TRUMP,316,6,179,128,3
+Brooks,Briggs,President of the United States,,REP,DONALD J. TRUMP,1003,36,506,459,2
+Brooks,Pavo,President of the United States,,REP,DONALD J. TRUMP,249,11,183,55,0
+Brooks,Nankin,President of the United States,,REP,DONALD J. TRUMP,389,11,191,185,2
+Brooks,Morven,President of the United States,,REP,DONALD J. TRUMP,755,32,367,355,1
+Brooks,,President of the United States,,DEM,HILLARY CLINTON,2528,460,1041,1003,24
+Brooks,Quitman,President of the United States,,DEM,HILLARY CLINTON,1382,317,458,587,20
+Brooks,Barwick,President of the United States,,DEM,HILLARY CLINTON,52,7,26,18,1
+Brooks,Dixie,President of the United States,,DEM,HILLARY CLINTON,347,76,144,126,1
+Brooks,Briggs,President of the United States,,DEM,HILLARY CLINTON,234,17,107,110,0
+Brooks,Pavo,President of the United States,,DEM,HILLARY CLINTON,85,2,71,12,0
+Brooks,Nankin,President of the United States,,DEM,HILLARY CLINTON,58,1,26,31,0
+Brooks,Morven,President of the United States,,DEM,HILLARY CLINTON,370,40,209,119,2
+Brooks,,President of the United States,,IND,GARY JOHNSON,89,5,43,37,4
+Brooks,Quitman,President of the United States,,IND,GARY JOHNSON,32,3,12,14,3
+Brooks,Barwick,President of the United States,,IND,GARY JOHNSON,2,0,1,1,0
+Brooks,Dixie,President of the United States,,IND,GARY JOHNSON,9,0,3,6,0
+Brooks,Briggs,President of the United States,,IND,GARY JOHNSON,22,2,12,8,0
+Brooks,Pavo,President of the United States,,IND,GARY JOHNSON,5,0,5,0,0
+Brooks,Nankin,President of the United States,,IND,GARY JOHNSON,8,0,4,4,0
+Brooks,Morven,President of the United States,,IND,GARY JOHNSON,11,0,6,4,1
 Brooks,,United States Senator,,,JOHNNY ISAKSON ,3465,174,1634,1637,20
 Brooks,Quitman,United States Senator,,,JOHNNY ISAKSON ,819,70,225,513,11
 Brooks,Barwick,United States Senator,,,JOHNNY ISAKSON ,154,7,108,38,1

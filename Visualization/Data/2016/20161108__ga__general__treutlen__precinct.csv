@@ -1,13 +1,13 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Treutlen,,President of the United States,,,DONALD J. TRUMP,1809,107,611,1090,1
-Treutlen,Annex,President of the United States,,,DONALD J. TRUMP,1198,53,395,750,0
-Treutlen,Soperton,President of the United States,,,DONALD J. TRUMP,611,54,216,340,1
-Treutlen,,President of the United States,,,HILLARY CLINTON,862,59,296,505,2
-Treutlen,Annex,President of the United States,,,HILLARY CLINTON,146,10,47,89,0
-Treutlen,Soperton,President of the United States,,,HILLARY CLINTON,716,49,249,416,2
-Treutlen,,President of the United States,,,GARY JOHNSON,32,2,16,14,0
-Treutlen,Annex,President of the United States,,,GARY JOHNSON,12,1,6,5,0
-Treutlen,Soperton,President of the United States,,,GARY JOHNSON,20,1,10,9,0
+Treutlen,,President of the United States,,REP,DONALD J. TRUMP,1809,107,611,1090,1
+Treutlen,Annex,President of the United States,,REP,DONALD J. TRUMP,1198,53,395,750,0
+Treutlen,Soperton,President of the United States,,REP,DONALD J. TRUMP,611,54,216,340,1
+Treutlen,,President of the United States,,DEM,HILLARY CLINTON,862,59,296,505,2
+Treutlen,Annex,President of the United States,,DEM,HILLARY CLINTON,146,10,47,89,0
+Treutlen,Soperton,President of the United States,,DEM,HILLARY CLINTON,716,49,249,416,2
+Treutlen,,President of the United States,,IND,GARY JOHNSON,32,2,16,14,0
+Treutlen,Annex,President of the United States,,IND,GARY JOHNSON,12,1,6,5,0
+Treutlen,Soperton,President of the United States,,IND,GARY JOHNSON,20,1,10,9,0
 Treutlen,,United States Senator,,,JOHNNY ISAKSON ,1700,108,558,1033,1
 Treutlen,Annex,United States Senator,,,JOHNNY ISAKSON ,1073,53,346,674,0
 Treutlen,Soperton,United States Senator,,,JOHNNY ISAKSON ,627,55,212,359,1

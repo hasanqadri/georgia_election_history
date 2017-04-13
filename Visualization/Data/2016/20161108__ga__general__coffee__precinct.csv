@@ -1,25 +1,25 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Coffee,,President of the United States,,,DONALD J. TRUMP,9588,295,3051,6242,0
-Coffee,Douglas,President of the United States,,,DONALD J. TRUMP,5975,175,1385,4415,0
-Coffee,Ambrose,President of the United States,,,DONALD J. TRUMP,1008,36,407,565,0
-Coffee,Bridgetown,President of the United States,,,DONALD J. TRUMP,151,2,103,46,0
-Coffee,Broxton,President of the United States,,,DONALD J. TRUMP,1105,47,448,610,0
-Coffee,Nicholls,President of the United States,,,DONALD J. TRUMP,797,15,386,396,0
-Coffee,West Green,President of the United States,,,DONALD J. TRUMP,552,20,322,210,0
-Coffee,,President of the United States,,,HILLARY CLINTON,4094,168,1642,2284,0
-Coffee,Douglas,President of the United States,,,HILLARY CLINTON,3173,131,1097,1945,0
-Coffee,Ambrose,President of the United States,,,HILLARY CLINTON,230,12,115,103,0
-Coffee,Bridgetown,President of the United States,,,HILLARY CLINTON,50,2,36,12,0
-Coffee,Broxton,President of the United States,,,HILLARY CLINTON,371,15,224,132,0
-Coffee,Nicholls,President of the United States,,,HILLARY CLINTON,225,5,151,69,0
-Coffee,West Green,President of the United States,,,HILLARY CLINTON,45,3,19,23,0
-Coffee,,President of the United States,,,GARY JOHNSON,233,17,90,126,0
-Coffee,Douglas,President of the United States,,,GARY JOHNSON,172,13,56,103,0
-Coffee,Ambrose,President of the United States,,,GARY JOHNSON,18,2,11,5,0
-Coffee,Bridgetown,President of the United States,,,GARY JOHNSON,1,0,1,0,0
-Coffee,Broxton,President of the United States,,,GARY JOHNSON,28,1,15,12,0
-Coffee,Nicholls,President of the United States,,,GARY JOHNSON,7,0,4,3,0
-Coffee,West Green,President of the United States,,,GARY JOHNSON,7,1,3,3,0
+Coffee,,President of the United States,,REP,DONALD J. TRUMP,9588,295,3051,6242,0
+Coffee,Douglas,President of the United States,,REP,DONALD J. TRUMP,5975,175,1385,4415,0
+Coffee,Ambrose,President of the United States,,REP,DONALD J. TRUMP,1008,36,407,565,0
+Coffee,Bridgetown,President of the United States,,REP,DONALD J. TRUMP,151,2,103,46,0
+Coffee,Broxton,President of the United States,,REP,DONALD J. TRUMP,1105,47,448,610,0
+Coffee,Nicholls,President of the United States,,REP,DONALD J. TRUMP,797,15,386,396,0
+Coffee,West Green,President of the United States,,REP,DONALD J. TRUMP,552,20,322,210,0
+Coffee,,President of the United States,,DEM,HILLARY CLINTON,4094,168,1642,2284,0
+Coffee,Douglas,President of the United States,,DEM,HILLARY CLINTON,3173,131,1097,1945,0
+Coffee,Ambrose,President of the United States,,DEM,HILLARY CLINTON,230,12,115,103,0
+Coffee,Bridgetown,President of the United States,,DEM,HILLARY CLINTON,50,2,36,12,0
+Coffee,Broxton,President of the United States,,DEM,HILLARY CLINTON,371,15,224,132,0
+Coffee,Nicholls,President of the United States,,DEM,HILLARY CLINTON,225,5,151,69,0
+Coffee,West Green,President of the United States,,DEM,HILLARY CLINTON,45,3,19,23,0
+Coffee,,President of the United States,,IND,GARY JOHNSON,233,17,90,126,0
+Coffee,Douglas,President of the United States,,IND,GARY JOHNSON,172,13,56,103,0
+Coffee,Ambrose,President of the United States,,IND,GARY JOHNSON,18,2,11,5,0
+Coffee,Bridgetown,President of the United States,,IND,GARY JOHNSON,1,0,1,0,0
+Coffee,Broxton,President of the United States,,IND,GARY JOHNSON,28,1,15,12,0
+Coffee,Nicholls,President of the United States,,IND,GARY JOHNSON,7,0,4,3,0
+Coffee,West Green,President of the United States,,IND,GARY JOHNSON,7,1,3,3,0
 Coffee,,United States Senator,,,JOHNNY ISAKSON ,8883,313,2814,5756,0
 Coffee,Douglas,United States Senator,,,JOHNNY ISAKSON ,5674,194,1326,4154,0
 Coffee,Ambrose,United States Senator,,,JOHNNY ISAKSON ,896,36,370,490,0

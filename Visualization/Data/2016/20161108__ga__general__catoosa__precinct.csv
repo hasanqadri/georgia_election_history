@@ -1,40 +1,40 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Catoosa,,President of the United States,,,DONALD J. TRUMP,20876,460,6827,13573,16
-Catoosa,BLACKSTOCK,President of the United States,,,DONALD J. TRUMP,854,14,390,450,0
-Catoosa,BOYNTON,President of the United States,,,DONALD J. TRUMP,2886,51,941,1888,6
-Catoosa,CATOOSA KEITH,President of the United States,,,DONALD J. TRUMP,1246,19,583,643,1
-Catoosa,CHAMBERS,President of the United States,,,DONALD J. TRUMP,1365,19,474,869,3
-Catoosa,FORT OGLETHORPE,President of the United States,,,DONALD J. TRUMP,1765,52,549,1163,1
-Catoosa,GRAYSVILLE,President of the United States,,,DONALD J. TRUMP,1950,52,679,1218,1
-Catoosa,LAKEVIEW,President of the United States,,,DONALD J. TRUMP,1421,48,466,907,0
-Catoosa,POPLAR SPRINGS,President of the United States,,,DONALD J. TRUMP,2123,52,635,1433,3
-Catoosa,RINGGOLD,President of the United States,,,DONALD J. TRUMP,3412,76,853,2483,0
-Catoosa,WESTSIDE,President of the United States,,,DONALD J. TRUMP,2334,61,591,1682,0
-Catoosa,WOODSTATION,President of the United States,,,DONALD J. TRUMP,1520,16,666,837,1
-Catoosa,,President of the United States,,,HILLARY CLINTON,4771,182,1650,2937,2
-Catoosa,BLACKSTOCK,President of the United States,,,HILLARY CLINTON,143,8,67,68,0
-Catoosa,BOYNTON,President of the United States,,,HILLARY CLINTON,660,34,234,392,0
-Catoosa,CATOOSA KEITH,President of the United States,,,HILLARY CLINTON,214,4,103,107,0
-Catoosa,CHAMBERS,President of the United States,,,HILLARY CLINTON,258,14,107,137,0
-Catoosa,FORT OGLETHORPE,President of the United States,,,HILLARY CLINTON,486,15,182,289,0
-Catoosa,GRAYSVILLE,President of the United States,,,HILLARY CLINTON,442,16,182,244,0
-Catoosa,LAKEVIEW,President of the United States,,,HILLARY CLINTON,372,17,158,197,0
-Catoosa,POPLAR SPRINGS,President of the United States,,,HILLARY CLINTON,384,16,94,274,0
-Catoosa,RINGGOLD,President of the United States,,,HILLARY CLINTON,883,27,224,632,0
-Catoosa,WESTSIDE,President of the United States,,,HILLARY CLINTON,658,22,174,461,1
-Catoosa,WOODSTATION,President of the United States,,,HILLARY CLINTON,271,9,125,136,1
-Catoosa,,President of the United States,,,GARY JOHNSON,881,32,461,388,0
-Catoosa,BLACKSTOCK,President of the United States,,,GARY JOHNSON,31,1,19,11,0
-Catoosa,BOYNTON,President of the United States,,,GARY JOHNSON,111,3,55,53,0
-Catoosa,CATOOSA KEITH,President of the United States,,,GARY JOHNSON,44,0,29,15,0
-Catoosa,CHAMBERS,President of the United States,,,GARY JOHNSON,42,1,25,16,0
-Catoosa,FORT OGLETHORPE,President of the United States,,,GARY JOHNSON,81,6,37,38,0
-Catoosa,GRAYSVILLE,President of the United States,,,GARY JOHNSON,107,1,70,36,0
-Catoosa,LAKEVIEW,President of the United States,,,GARY JOHNSON,69,8,32,29,0
-Catoosa,POPLAR SPRINGS,President of the United States,,,GARY JOHNSON,88,4,43,41,0
-Catoosa,RINGGOLD,President of the United States,,,GARY JOHNSON,163,4,77,82,0
-Catoosa,WESTSIDE,President of the United States,,,GARY JOHNSON,88,3,38,47,0
-Catoosa,WOODSTATION,President of the United States,,,GARY JOHNSON,57,1,36,20,0
+Catoosa,,President of the United States,,REP,DONALD J. TRUMP,20876,460,6827,13573,16
+Catoosa,BLACKSTOCK,President of the United States,,REP,DONALD J. TRUMP,854,14,390,450,0
+Catoosa,BOYNTON,President of the United States,,REP,DONALD J. TRUMP,2886,51,941,1888,6
+Catoosa,CATOOSA KEITH,President of the United States,,REP,DONALD J. TRUMP,1246,19,583,643,1
+Catoosa,CHAMBERS,President of the United States,,REP,DONALD J. TRUMP,1365,19,474,869,3
+Catoosa,FORT OGLETHORPE,President of the United States,,REP,DONALD J. TRUMP,1765,52,549,1163,1
+Catoosa,GRAYSVILLE,President of the United States,,REP,DONALD J. TRUMP,1950,52,679,1218,1
+Catoosa,LAKEVIEW,President of the United States,,REP,DONALD J. TRUMP,1421,48,466,907,0
+Catoosa,POPLAR SPRINGS,President of the United States,,REP,DONALD J. TRUMP,2123,52,635,1433,3
+Catoosa,RINGGOLD,President of the United States,,REP,DONALD J. TRUMP,3412,76,853,2483,0
+Catoosa,WESTSIDE,President of the United States,,REP,DONALD J. TRUMP,2334,61,591,1682,0
+Catoosa,WOODSTATION,President of the United States,,REP,DONALD J. TRUMP,1520,16,666,837,1
+Catoosa,,President of the United States,,DEM,HILLARY CLINTON,4771,182,1650,2937,2
+Catoosa,BLACKSTOCK,President of the United States,,DEM,HILLARY CLINTON,143,8,67,68,0
+Catoosa,BOYNTON,President of the United States,,DEM,HILLARY CLINTON,660,34,234,392,0
+Catoosa,CATOOSA KEITH,President of the United States,,DEM,HILLARY CLINTON,214,4,103,107,0
+Catoosa,CHAMBERS,President of the United States,,DEM,HILLARY CLINTON,258,14,107,137,0
+Catoosa,FORT OGLETHORPE,President of the United States,,DEM,HILLARY CLINTON,486,15,182,289,0
+Catoosa,GRAYSVILLE,President of the United States,,DEM,HILLARY CLINTON,442,16,182,244,0
+Catoosa,LAKEVIEW,President of the United States,,DEM,HILLARY CLINTON,372,17,158,197,0
+Catoosa,POPLAR SPRINGS,President of the United States,,DEM,HILLARY CLINTON,384,16,94,274,0
+Catoosa,RINGGOLD,President of the United States,,DEM,HILLARY CLINTON,883,27,224,632,0
+Catoosa,WESTSIDE,President of the United States,,DEM,HILLARY CLINTON,658,22,174,461,1
+Catoosa,WOODSTATION,President of the United States,,DEM,HILLARY CLINTON,271,9,125,136,1
+Catoosa,,President of the United States,,IND,GARY JOHNSON,881,32,461,388,0
+Catoosa,BLACKSTOCK,President of the United States,,IND,GARY JOHNSON,31,1,19,11,0
+Catoosa,BOYNTON,President of the United States,,IND,GARY JOHNSON,111,3,55,53,0
+Catoosa,CATOOSA KEITH,President of the United States,,IND,GARY JOHNSON,44,0,29,15,0
+Catoosa,CHAMBERS,President of the United States,,IND,GARY JOHNSON,42,1,25,16,0
+Catoosa,FORT OGLETHORPE,President of the United States,,IND,GARY JOHNSON,81,6,37,38,0
+Catoosa,GRAYSVILLE,President of the United States,,IND,GARY JOHNSON,107,1,70,36,0
+Catoosa,LAKEVIEW,President of the United States,,IND,GARY JOHNSON,69,8,32,29,0
+Catoosa,POPLAR SPRINGS,President of the United States,,IND,GARY JOHNSON,88,4,43,41,0
+Catoosa,RINGGOLD,President of the United States,,IND,GARY JOHNSON,163,4,77,82,0
+Catoosa,WESTSIDE,President of the United States,,IND,GARY JOHNSON,88,3,38,47,0
+Catoosa,WOODSTATION,President of the United States,,IND,GARY JOHNSON,57,1,36,20,0
 Catoosa,,United States Senator,,,JOHNNY ISAKSON ,18888,472,6201,12201,14
 Catoosa,BLACKSTOCK,United States Senator,,,JOHNNY ISAKSON ,732,17,341,374,0
 Catoosa,BOYNTON,United States Senator,,,JOHNNY ISAKSON ,2705,48,910,1741,6

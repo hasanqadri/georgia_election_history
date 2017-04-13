@@ -1,43 +1,43 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Ware,,President of the United States,,,DONALD J. TRUMP,8513,358,3671,4479,5
-Ware,100,President of the United States,,,DONALD J. TRUMP,417,41,113,263,0
-Ware,200A,President of the United States,,,DONALD J. TRUMP,997,56,280,661,0
-Ware,200B,President of the United States,,,DONALD J. TRUMP,192,8,68,116,0
-Ware,300,President of the United States,,,DONALD J. TRUMP,1881,105,704,1070,2
-Ware,304,President of the United States,,,DONALD J. TRUMP,522,8,256,258,0
-Ware,400,President of the United States,,,DONALD J. TRUMP,1862,71,670,1120,1
-Ware,404,President of the United States,,,DONALD J. TRUMP,215,14,154,47,0
-Ware,405,President of the United States,,,DONALD J. TRUMP,359,9,233,116,1
-Ware,406,President of the United States,,,DONALD J. TRUMP,927,23,455,449,0
-Ware,407,President of the United States,,,DONALD J. TRUMP,300,5,205,90,0
-Ware,408,President of the United States,,,DONALD J. TRUMP,287,5,216,65,1
-Ware,409,President of the United States,,,DONALD J. TRUMP,554,13,317,224,0
-Ware,,President of the United States,,,HILLARY CLINTON,3440,219,1047,2170,4
-Ware,100,President of the United States,,,HILLARY CLINTON,1740,131,448,1158,3
-Ware,200A,President of the United States,,,HILLARY CLINTON,461,23,137,301,0
-Ware,200B,President of the United States,,,HILLARY CLINTON,262,13,83,166,0
-Ware,300,President of the United States,,,HILLARY CLINTON,408,19,138,251,0
-Ware,304,President of the United States,,,HILLARY CLINTON,90,2,45,42,1
-Ware,400,President of the United States,,,HILLARY CLINTON,248,14,79,155,0
-Ware,404,President of the United States,,,HILLARY CLINTON,30,5,21,4,0
-Ware,405,President of the United States,,,HILLARY CLINTON,25,4,7,14,0
-Ware,406,President of the United States,,,HILLARY CLINTON,84,3,41,40,0
-Ware,407,President of the United States,,,HILLARY CLINTON,18,1,12,5,0
-Ware,408,President of the United States,,,HILLARY CLINTON,24,2,14,8,0
-Ware,409,President of the United States,,,HILLARY CLINTON,50,2,22,26,0
-Ware,,President of the United States,,,GARY JOHNSON,206,13,110,83,0
-Ware,100,President of the United States,,,GARY JOHNSON,24,1,11,12,0
-Ware,200A,President of the United States,,,GARY JOHNSON,46,2,24,20,0
-Ware,200B,President of the United States,,,GARY JOHNSON,6,1,3,2,0
-Ware,300,President of the United States,,,GARY JOHNSON,33,3,18,12,0
-Ware,304,President of the United States,,,GARY JOHNSON,17,0,10,7,0
-Ware,400,President of the United States,,,GARY JOHNSON,30,4,9,17,0
-Ware,404,President of the United States,,,GARY JOHNSON,4,0,3,1,0
-Ware,405,President of the United States,,,GARY JOHNSON,4,0,3,1,0
-Ware,406,President of the United States,,,GARY JOHNSON,15,0,10,5,0
-Ware,407,President of the United States,,,GARY JOHNSON,7,1,5,1,0
-Ware,408,President of the United States,,,GARY JOHNSON,9,1,6,2,0
-Ware,409,President of the United States,,,GARY JOHNSON,11,0,8,3,0
+Ware,,President of the United States,,REP,DONALD J. TRUMP,8513,358,3671,4479,5
+Ware,100,President of the United States,,REP,DONALD J. TRUMP,417,41,113,263,0
+Ware,200A,President of the United States,,REP,DONALD J. TRUMP,997,56,280,661,0
+Ware,200B,President of the United States,,REP,DONALD J. TRUMP,192,8,68,116,0
+Ware,300,President of the United States,,REP,DONALD J. TRUMP,1881,105,704,1070,2
+Ware,304,President of the United States,,REP,DONALD J. TRUMP,522,8,256,258,0
+Ware,400,President of the United States,,REP,DONALD J. TRUMP,1862,71,670,1120,1
+Ware,404,President of the United States,,REP,DONALD J. TRUMP,215,14,154,47,0
+Ware,405,President of the United States,,REP,DONALD J. TRUMP,359,9,233,116,1
+Ware,406,President of the United States,,REP,DONALD J. TRUMP,927,23,455,449,0
+Ware,407,President of the United States,,REP,DONALD J. TRUMP,300,5,205,90,0
+Ware,408,President of the United States,,REP,DONALD J. TRUMP,287,5,216,65,1
+Ware,409,President of the United States,,REP,DONALD J. TRUMP,554,13,317,224,0
+Ware,,President of the United States,,DEM,HILLARY CLINTON,3440,219,1047,2170,4
+Ware,100,President of the United States,,DEM,HILLARY CLINTON,1740,131,448,1158,3
+Ware,200A,President of the United States,,DEM,HILLARY CLINTON,461,23,137,301,0
+Ware,200B,President of the United States,,DEM,HILLARY CLINTON,262,13,83,166,0
+Ware,300,President of the United States,,DEM,HILLARY CLINTON,408,19,138,251,0
+Ware,304,President of the United States,,DEM,HILLARY CLINTON,90,2,45,42,1
+Ware,400,President of the United States,,DEM,HILLARY CLINTON,248,14,79,155,0
+Ware,404,President of the United States,,DEM,HILLARY CLINTON,30,5,21,4,0
+Ware,405,President of the United States,,DEM,HILLARY CLINTON,25,4,7,14,0
+Ware,406,President of the United States,,DEM,HILLARY CLINTON,84,3,41,40,0
+Ware,407,President of the United States,,DEM,HILLARY CLINTON,18,1,12,5,0
+Ware,408,President of the United States,,DEM,HILLARY CLINTON,24,2,14,8,0
+Ware,409,President of the United States,,DEM,HILLARY CLINTON,50,2,22,26,0
+Ware,,President of the United States,,IND,GARY JOHNSON,206,13,110,83,0
+Ware,100,President of the United States,,IND,GARY JOHNSON,24,1,11,12,0
+Ware,200A,President of the United States,,IND,GARY JOHNSON,46,2,24,20,0
+Ware,200B,President of the United States,,IND,GARY JOHNSON,6,1,3,2,0
+Ware,300,President of the United States,,IND,GARY JOHNSON,33,3,18,12,0
+Ware,304,President of the United States,,IND,GARY JOHNSON,17,0,10,7,0
+Ware,400,President of the United States,,IND,GARY JOHNSON,30,4,9,17,0
+Ware,404,President of the United States,,IND,GARY JOHNSON,4,0,3,1,0
+Ware,405,President of the United States,,IND,GARY JOHNSON,4,0,3,1,0
+Ware,406,President of the United States,,IND,GARY JOHNSON,15,0,10,5,0
+Ware,407,President of the United States,,IND,GARY JOHNSON,7,1,5,1,0
+Ware,408,President of the United States,,IND,GARY JOHNSON,9,1,6,2,0
+Ware,409,President of the United States,,IND,GARY JOHNSON,11,0,8,3,0
 Ware,,United States Senator,,,JOHNNY ISAKSON ,7872,363,3366,4140,3
 Ware,100,United States Senator,,,JOHNNY ISAKSON ,439,47,104,288,0
 Ware,200A,United States Senator,,,JOHNNY ISAKSON ,975,56,272,647,0

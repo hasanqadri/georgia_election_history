@@ -1,22 +1,22 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Putnam,,President of the United States,,,DONALD J. TRUMP,6544,358,2306,3876,4
-Putnam,101,President of the United States,,,DONALD J. TRUMP,998,38,269,690,1
-Putnam,104,President of the United States,,,DONALD J. TRUMP,998,71,279,647,1
-Putnam,105,President of the United States,,,DONALD J. TRUMP,1918,133,719,1066,0
-Putnam,106,President of the United States,,,DONALD J. TRUMP,653,24,304,324,1
-Putnam,107,President of the United States,,,DONALD J. TRUMP,1977,92,735,1149,1
-Putnam,,President of the United States,,,HILLARY CLINTON,2758,244,1077,1435,2
-Putnam,101,President of the United States,,,HILLARY CLINTON,864,44,335,485,0
-Putnam,104,President of the United States,,,HILLARY CLINTON,1004,123,377,503,1
-Putnam,105,President of the United States,,,HILLARY CLINTON,376,32,136,207,1
-Putnam,106,President of the United States,,,HILLARY CLINTON,105,8,47,50,0
-Putnam,107,President of the United States,,,HILLARY CLINTON,409,37,182,190,0
-Putnam,,President of the United States,,,GARY JOHNSON,170,10,91,69,0
-Putnam,101,President of the United States,,,GARY JOHNSON,32,1,21,10,0
-Putnam,104,President of the United States,,,GARY JOHNSON,24,3,11,10,0
-Putnam,105,President of the United States,,,GARY JOHNSON,42,2,26,14,0
-Putnam,106,President of the United States,,,GARY JOHNSON,16,0,7,9,0
-Putnam,107,President of the United States,,,GARY JOHNSON,56,4,26,26,0
+Putnam,,President of the United States,,REP,DONALD J. TRUMP,6544,358,2306,3876,4
+Putnam,101,President of the United States,,REP,DONALD J. TRUMP,998,38,269,690,1
+Putnam,104,President of the United States,,REP,DONALD J. TRUMP,998,71,279,647,1
+Putnam,105,President of the United States,,REP,DONALD J. TRUMP,1918,133,719,1066,0
+Putnam,106,President of the United States,,REP,DONALD J. TRUMP,653,24,304,324,1
+Putnam,107,President of the United States,,REP,DONALD J. TRUMP,1977,92,735,1149,1
+Putnam,,President of the United States,,DEM,HILLARY CLINTON,2758,244,1077,1435,2
+Putnam,101,President of the United States,,DEM,HILLARY CLINTON,864,44,335,485,0
+Putnam,104,President of the United States,,DEM,HILLARY CLINTON,1004,123,377,503,1
+Putnam,105,President of the United States,,DEM,HILLARY CLINTON,376,32,136,207,1
+Putnam,106,President of the United States,,DEM,HILLARY CLINTON,105,8,47,50,0
+Putnam,107,President of the United States,,DEM,HILLARY CLINTON,409,37,182,190,0
+Putnam,,President of the United States,,IND,GARY JOHNSON,170,10,91,69,0
+Putnam,101,President of the United States,,IND,GARY JOHNSON,32,1,21,10,0
+Putnam,104,President of the United States,,IND,GARY JOHNSON,24,3,11,10,0
+Putnam,105,President of the United States,,IND,GARY JOHNSON,42,2,26,14,0
+Putnam,106,President of the United States,,IND,GARY JOHNSON,16,0,7,9,0
+Putnam,107,President of the United States,,IND,GARY JOHNSON,56,4,26,26,0
 Putnam,,United States Senator,,,JOHNNY ISAKSON ,6435,369,2297,3765,4
 Putnam,101,United States Senator,,,JOHNNY ISAKSON ,1001,40,281,679,1
 Putnam,104,United States Senator,,,JOHNNY ISAKSON ,1025,79,298,648,0

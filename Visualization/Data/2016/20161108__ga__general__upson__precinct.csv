@@ -1,19 +1,19 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Upson,,President of the United States,,,DONALD J. TRUMP,7292,308,1719,5261,4
-Upson,REDBONE,President of the United States,,,DONALD J. TRUMP,3956,138,830,2988,0
-Upson,YATESVILLE,President of the United States,,,DONALD J. TRUMP,651,14,393,242,2
-Upson,SALEM,President of the United States,,,DONALD J. TRUMP,32,3,19,10,0
-Upson,TOWN,President of the United States,,,DONALD J. TRUMP,2653,153,477,2021,2
-Upson,,President of the United States,,,HILLARY CLINTON,3475,147,1246,2079,3
-Upson,REDBONE,President of the United States,,,HILLARY CLINTON,1035,50,277,707,1
-Upson,YATESVILLE,President of the United States,,,HILLARY CLINTON,223,7,126,89,1
-Upson,SALEM,President of the United States,,,HILLARY CLINTON,240,8,163,69,0
-Upson,TOWN,President of the United States,,,HILLARY CLINTON,1977,82,680,1214,1
-Upson,,President of the United States,,,GARY JOHNSON,167,10,71,86,0
-Upson,REDBONE,President of the United States,,,GARY JOHNSON,71,8,21,42,0
-Upson,YATESVILLE,President of the United States,,,GARY JOHNSON,12,1,9,2,0
-Upson,SALEM,President of the United States,,,GARY JOHNSON,4,0,2,2,0
-Upson,TOWN,President of the United States,,,GARY JOHNSON,80,1,39,40,0
+Upson,,President of the United States,,REP,DONALD J. TRUMP,7292,308,1719,5261,4
+Upson,REDBONE,President of the United States,,REP,DONALD J. TRUMP,3956,138,830,2988,0
+Upson,YATESVILLE,President of the United States,,REP,DONALD J. TRUMP,651,14,393,242,2
+Upson,SALEM,President of the United States,,REP,DONALD J. TRUMP,32,3,19,10,0
+Upson,TOWN,President of the United States,,REP,DONALD J. TRUMP,2653,153,477,2021,2
+Upson,,President of the United States,,DEM,HILLARY CLINTON,3475,147,1246,2079,3
+Upson,REDBONE,President of the United States,,DEM,HILLARY CLINTON,1035,50,277,707,1
+Upson,YATESVILLE,President of the United States,,DEM,HILLARY CLINTON,223,7,126,89,1
+Upson,SALEM,President of the United States,,DEM,HILLARY CLINTON,240,8,163,69,0
+Upson,TOWN,President of the United States,,DEM,HILLARY CLINTON,1977,82,680,1214,1
+Upson,,President of the United States,,IND,GARY JOHNSON,167,10,71,86,0
+Upson,REDBONE,President of the United States,,IND,GARY JOHNSON,71,8,21,42,0
+Upson,YATESVILLE,President of the United States,,IND,GARY JOHNSON,12,1,9,2,0
+Upson,SALEM,President of the United States,,IND,GARY JOHNSON,4,0,2,2,0
+Upson,TOWN,President of the United States,,IND,GARY JOHNSON,80,1,39,40,0
 Upson,,United States Senator,,,JOHNNY ISAKSON ,7063,318,1651,5091,3
 Upson,REDBONE,United States Senator,,,JOHNNY ISAKSON ,3760,144,771,2845,0
 Upson,YATESVILLE,United States Senator,,,JOHNNY ISAKSON ,613,17,372,223,1

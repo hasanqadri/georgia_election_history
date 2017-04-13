@@ -1,52 +1,52 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Wayne,,President of the United States,,,DONALD J. TRUMP,8153,310,3408,4429,6
-Wayne,Odum,President of the United States,,,DONALD J. TRUMP,731,31,386,314,0
-Wayne,Madray Springs,President of the United States,,,DONALD J. TRUMP,681,29,358,294,0
-Wayne,Oglethorpe,President of the United States,,,DONALD J. TRUMP,946,38,321,586,1
-Wayne,Screven,President of the United States,,,DONALD J. TRUMP,714,25,392,295,2
-Wayne,Ritch,President of the United States,,,DONALD J. TRUMP,219,2,138,79,0
-Wayne,Empire,President of the United States,,,DONALD J. TRUMP,624,22,252,349,1
-Wayne,Red Hill,President of the United States,,,DONALD J. TRUMP,480,16,162,302,0
-Wayne,Altamaha,President of the United States,,,DONALD J. TRUMP,1107,30,378,698,1
-Wayne,Gardi,President of the United States,,,DONALD J. TRUMP,376,15,216,145,0
-Wayne,Mt. Pleasant,President of the United States,,,DONALD J. TRUMP,204,2,157,45,0
-Wayne,VFW,President of the United States,,,DONALD J. TRUMP,99,5,31,63,0
-Wayne,Pine Street,President of the United States,,,DONALD J. TRUMP,322,10,68,244,0
-Wayne,Unity,President of the United States,,,DONALD J. TRUMP,870,48,247,574,1
-Wayne,Rec Center,President of the United States,,,DONALD J. TRUMP,696,35,269,392,0
-Wayne,East Jesup,President of the United States,,,DONALD J. TRUMP,84,2,33,49,0
-Wayne,,President of the United States,,,HILLARY CLINTON,2041,85,809,1145,2
-Wayne,Odum,President of the United States,,,HILLARY CLINTON,72,6,33,33,0
-Wayne,Madray Springs,President of the United States,,,HILLARY CLINTON,40,3,23,14,0
-Wayne,Oglethorpe,President of the United States,,,HILLARY CLINTON,110,4,30,76,0
-Wayne,Screven,President of the United States,,,HILLARY CLINTON,156,6,79,70,1
-Wayne,Ritch,President of the United States,,,HILLARY CLINTON,5,0,4,1,0
-Wayne,Empire,President of the United States,,,HILLARY CLINTON,46,7,18,21,0
-Wayne,Red Hill,President of the United States,,,HILLARY CLINTON,84,0,22,62,0
-Wayne,Altamaha,President of the United States,,,HILLARY CLINTON,275,5,122,148,0
-Wayne,Gardi,President of the United States,,,HILLARY CLINTON,42,2,20,20,0
-Wayne,Mt. Pleasant,President of the United States,,,HILLARY CLINTON,12,1,8,3,0
-Wayne,VFW,President of the United States,,,HILLARY CLINTON,429,23,160,246,0
-Wayne,Pine Street,President of the United States,,,HILLARY CLINTON,280,10,109,160,1
-Wayne,Unity,President of the United States,,,HILLARY CLINTON,275,11,92,172,0
-Wayne,Rec Center,President of the United States,,,HILLARY CLINTON,206,7,88,111,0
-Wayne,East Jesup,President of the United States,,,HILLARY CLINTON,9,0,1,8,0
-Wayne,,President of the United States,,,GARY JOHNSON,192,8,107,75,2
-Wayne,Odum,President of the United States,,,GARY JOHNSON,12,0,9,3,0
-Wayne,Madray Springs,President of the United States,,,GARY JOHNSON,7,1,2,4,0
-Wayne,Oglethorpe,President of the United States,,,GARY JOHNSON,17,1,7,9,0
-Wayne,Screven,President of the United States,,,GARY JOHNSON,7,0,4,3,0
-Wayne,Ritch,President of the United States,,,GARY JOHNSON,5,2,3,0,0
-Wayne,Empire,President of the United States,,,GARY JOHNSON,4,0,3,1,0
-Wayne,Red Hill,President of the United States,,,GARY JOHNSON,15,0,8,7,0
-Wayne,Altamaha,President of the United States,,,GARY JOHNSON,31,0,15,14,2
-Wayne,Gardi,President of the United States,,,GARY JOHNSON,10,0,6,4,0
-Wayne,Mt. Pleasant,President of the United States,,,GARY JOHNSON,2,0,2,0,0
-Wayne,VFW,President of the United States,,,GARY JOHNSON,12,0,10,2,0
-Wayne,Pine Street,President of the United States,,,GARY JOHNSON,11,1,1,9,0
-Wayne,Unity,President of the United States,,,GARY JOHNSON,36,3,21,12,0
-Wayne,Rec Center,President of the United States,,,GARY JOHNSON,21,0,14,7,0
-Wayne,East Jesup,President of the United States,,,GARY JOHNSON,2,0,2,0,0
+Wayne,,President of the United States,,REP,DONALD J. TRUMP,8153,310,3408,4429,6
+Wayne,Odum,President of the United States,,REP,DONALD J. TRUMP,731,31,386,314,0
+Wayne,Madray Springs,President of the United States,,REP,DONALD J. TRUMP,681,29,358,294,0
+Wayne,Oglethorpe,President of the United States,,REP,DONALD J. TRUMP,946,38,321,586,1
+Wayne,Screven,President of the United States,,REP,DONALD J. TRUMP,714,25,392,295,2
+Wayne,Ritch,President of the United States,,REP,DONALD J. TRUMP,219,2,138,79,0
+Wayne,Empire,President of the United States,,REP,DONALD J. TRUMP,624,22,252,349,1
+Wayne,Red Hill,President of the United States,,REP,DONALD J. TRUMP,480,16,162,302,0
+Wayne,Altamaha,President of the United States,,REP,DONALD J. TRUMP,1107,30,378,698,1
+Wayne,Gardi,President of the United States,,REP,DONALD J. TRUMP,376,15,216,145,0
+Wayne,Mt. Pleasant,President of the United States,,REP,DONALD J. TRUMP,204,2,157,45,0
+Wayne,VFW,President of the United States,,REP,DONALD J. TRUMP,99,5,31,63,0
+Wayne,Pine Street,President of the United States,,REP,DONALD J. TRUMP,322,10,68,244,0
+Wayne,Unity,President of the United States,,REP,DONALD J. TRUMP,870,48,247,574,1
+Wayne,Rec Center,President of the United States,,REP,DONALD J. TRUMP,696,35,269,392,0
+Wayne,East Jesup,President of the United States,,REP,DONALD J. TRUMP,84,2,33,49,0
+Wayne,,President of the United States,,DEM,HILLARY CLINTON,2041,85,809,1145,2
+Wayne,Odum,President of the United States,,DEM,HILLARY CLINTON,72,6,33,33,0
+Wayne,Madray Springs,President of the United States,,DEM,HILLARY CLINTON,40,3,23,14,0
+Wayne,Oglethorpe,President of the United States,,DEM,HILLARY CLINTON,110,4,30,76,0
+Wayne,Screven,President of the United States,,DEM,HILLARY CLINTON,156,6,79,70,1
+Wayne,Ritch,President of the United States,,DEM,HILLARY CLINTON,5,0,4,1,0
+Wayne,Empire,President of the United States,,DEM,HILLARY CLINTON,46,7,18,21,0
+Wayne,Red Hill,President of the United States,,DEM,HILLARY CLINTON,84,0,22,62,0
+Wayne,Altamaha,President of the United States,,DEM,HILLARY CLINTON,275,5,122,148,0
+Wayne,Gardi,President of the United States,,DEM,HILLARY CLINTON,42,2,20,20,0
+Wayne,Mt. Pleasant,President of the United States,,DEM,HILLARY CLINTON,12,1,8,3,0
+Wayne,VFW,President of the United States,,DEM,HILLARY CLINTON,429,23,160,246,0
+Wayne,Pine Street,President of the United States,,DEM,HILLARY CLINTON,280,10,109,160,1
+Wayne,Unity,President of the United States,,DEM,HILLARY CLINTON,275,11,92,172,0
+Wayne,Rec Center,President of the United States,,DEM,HILLARY CLINTON,206,7,88,111,0
+Wayne,East Jesup,President of the United States,,DEM,HILLARY CLINTON,9,0,1,8,0
+Wayne,,President of the United States,,IND,GARY JOHNSON,192,8,107,75,2
+Wayne,Odum,President of the United States,,IND,GARY JOHNSON,12,0,9,3,0
+Wayne,Madray Springs,President of the United States,,IND,GARY JOHNSON,7,1,2,4,0
+Wayne,Oglethorpe,President of the United States,,IND,GARY JOHNSON,17,1,7,9,0
+Wayne,Screven,President of the United States,,IND,GARY JOHNSON,7,0,4,3,0
+Wayne,Ritch,President of the United States,,IND,GARY JOHNSON,5,2,3,0,0
+Wayne,Empire,President of the United States,,IND,GARY JOHNSON,4,0,3,1,0
+Wayne,Red Hill,President of the United States,,IND,GARY JOHNSON,15,0,8,7,0
+Wayne,Altamaha,President of the United States,,IND,GARY JOHNSON,31,0,15,14,2
+Wayne,Gardi,President of the United States,,IND,GARY JOHNSON,10,0,6,4,0
+Wayne,Mt. Pleasant,President of the United States,,IND,GARY JOHNSON,2,0,2,0,0
+Wayne,VFW,President of the United States,,IND,GARY JOHNSON,12,0,10,2,0
+Wayne,Pine Street,President of the United States,,IND,GARY JOHNSON,11,1,1,9,0
+Wayne,Unity,President of the United States,,IND,GARY JOHNSON,36,3,21,12,0
+Wayne,Rec Center,President of the United States,,IND,GARY JOHNSON,21,0,14,7,0
+Wayne,East Jesup,President of the United States,,IND,GARY JOHNSON,2,0,2,0,0
 Wayne,,United States Senator,,,JOHNNY ISAKSON ,7686,308,3197,4173,8
 Wayne,Odum,United States Senator,,,JOHNNY ISAKSON ,673,29,356,288,0
 Wayne,Madray Springs,United States Senator,,,JOHNNY ISAKSON ,613,30,312,271,0

@@ -1,10 +1,10 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Stephens,,President of the United States,,,DONALD J. TRUMP,7686,465,1470,5748,3
-Stephens,Senior Center,President of the United States,,,DONALD J. TRUMP,7686,465,1470,5748,3
-Stephens,,President of the United States,,,HILLARY CLINTON,1837,151,447,1239,0
-Stephens,Senior Center,President of the United States,,,HILLARY CLINTON,1837,151,447,1239,0
-Stephens,,President of the United States,,,GARY JOHNSON,243,14,86,143,0
-Stephens,Senior Center,President of the United States,,,GARY JOHNSON,243,14,86,143,0
+Stephens,,President of the United States,,REP,DONALD J. TRUMP,7686,465,1470,5748,3
+Stephens,Senior Center,President of the United States,,REP,DONALD J. TRUMP,7686,465,1470,5748,3
+Stephens,,President of the United States,,DEM,HILLARY CLINTON,1837,151,447,1239,0
+Stephens,Senior Center,President of the United States,,DEM,HILLARY CLINTON,1837,151,447,1239,0
+Stephens,,President of the United States,,IND,GARY JOHNSON,243,14,86,143,0
+Stephens,Senior Center,President of the United States,,IND,GARY JOHNSON,243,14,86,143,0
 Stephens,,United States Senator,,,JOHNNY ISAKSON ,7284,485,1397,5400,2
 Stephens,Senior Center,United States Senator,,,JOHNNY ISAKSON ,7284,485,1397,5400,2
 Stephens,,United States Senator,,,JIM BARKSDALE,1548,133,400,1015,0

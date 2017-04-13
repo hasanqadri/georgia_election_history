@@ -1,34 +1,34 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Decatur,,President of the United States,,,DONALD J. TRUMP,6020,284,2242,3483,11
-Decatur,Mt Pleasant,President of the United States,,,DONALD J. TRUMP,379,13,176,189,1
-Decatur,Recovery,President of the United States,,,DONALD J. TRUMP,362,20,235,106,1
-Decatur,Kendrick,President of the United States,,,DONALD J. TRUMP,262,4,148,110,0
-Decatur,Climax,President of the United States,,,DONALD J. TRUMP,497,20,256,221,0
-Decatur,Brinson,President of the United States,,,DONALD J. TRUMP,424,20,230,173,1
-Decatur,West Bainbridge,President of the United States,,,DONALD J. TRUMP,686,30,204,449,3
-Decatur,Bainbridge-Coliseum,President of the United States,,,DONALD J. TRUMP,2165,111,601,1452,1
-Decatur,Bridge-Fairgrounds,President of the United States,,,DONALD J. TRUMP,859,36,214,607,2
-Decatur,Attapulgus,President of the United States,,,DONALD J. TRUMP,386,30,178,176,2
-Decatur,,President of the United States,,,HILLARY CLINTON,4124,240,1798,2066,20
-Decatur,Mt Pleasant,President of the United States,,,HILLARY CLINTON,56,1,27,28,0
-Decatur,Recovery,President of the United States,,,HILLARY CLINTON,87,8,40,39,0
-Decatur,Kendrick,President of the United States,,,HILLARY CLINTON,77,0,36,41,0
-Decatur,Climax,President of the United States,,,HILLARY CLINTON,154,4,98,52,0
-Decatur,Brinson,President of the United States,,,HILLARY CLINTON,132,5,70,57,0
-Decatur,West Bainbridge,President of the United States,,,HILLARY CLINTON,586,25,242,316,3
-Decatur,Bainbridge-Coliseum,President of the United States,,,HILLARY CLINTON,1363,89,536,730,8
-Decatur,Bridge-Fairgrounds,President of the United States,,,HILLARY CLINTON,920,52,345,519,4
-Decatur,Attapulgus,President of the United States,,,HILLARY CLINTON,749,56,404,284,5
-Decatur,,President of the United States,,,GARY JOHNSON,126,8,64,53,1
-Decatur,Mt Pleasant,President of the United States,,,GARY JOHNSON,7,0,4,3,0
-Decatur,Recovery,President of the United States,,,GARY JOHNSON,9,0,6,3,0
-Decatur,Kendrick,President of the United States,,,GARY JOHNSON,2,0,2,0,0
-Decatur,Climax,President of the United States,,,GARY JOHNSON,9,1,6,2,0
-Decatur,Brinson,President of the United States,,,GARY JOHNSON,3,0,3,0,0
-Decatur,West Bainbridge,President of the United States,,,GARY JOHNSON,13,0,6,7,0
-Decatur,Bainbridge-Coliseum,President of the United States,,,GARY JOHNSON,40,7,18,15,0
-Decatur,Bridge-Fairgrounds,President of the United States,,,GARY JOHNSON,32,0,14,18,0
-Decatur,Attapulgus,President of the United States,,,GARY JOHNSON,11,0,5,5,1
+Decatur,,President of the United States,,REP,DONALD J. TRUMP,6020,284,2242,3483,11
+Decatur,Mt Pleasant,President of the United States,,REP,DONALD J. TRUMP,379,13,176,189,1
+Decatur,Recovery,President of the United States,,REP,DONALD J. TRUMP,362,20,235,106,1
+Decatur,Kendrick,President of the United States,,REP,DONALD J. TRUMP,262,4,148,110,0
+Decatur,Climax,President of the United States,,REP,DONALD J. TRUMP,497,20,256,221,0
+Decatur,Brinson,President of the United States,,REP,DONALD J. TRUMP,424,20,230,173,1
+Decatur,West Bainbridge,President of the United States,,REP,DONALD J. TRUMP,686,30,204,449,3
+Decatur,Bainbridge-Coliseum,President of the United States,,REP,DONALD J. TRUMP,2165,111,601,1452,1
+Decatur,Bridge-Fairgrounds,President of the United States,,REP,DONALD J. TRUMP,859,36,214,607,2
+Decatur,Attapulgus,President of the United States,,REP,DONALD J. TRUMP,386,30,178,176,2
+Decatur,,President of the United States,,DEM,HILLARY CLINTON,4124,240,1798,2066,20
+Decatur,Mt Pleasant,President of the United States,,DEM,HILLARY CLINTON,56,1,27,28,0
+Decatur,Recovery,President of the United States,,DEM,HILLARY CLINTON,87,8,40,39,0
+Decatur,Kendrick,President of the United States,,DEM,HILLARY CLINTON,77,0,36,41,0
+Decatur,Climax,President of the United States,,DEM,HILLARY CLINTON,154,4,98,52,0
+Decatur,Brinson,President of the United States,,DEM,HILLARY CLINTON,132,5,70,57,0
+Decatur,West Bainbridge,President of the United States,,DEM,HILLARY CLINTON,586,25,242,316,3
+Decatur,Bainbridge-Coliseum,President of the United States,,DEM,HILLARY CLINTON,1363,89,536,730,8
+Decatur,Bridge-Fairgrounds,President of the United States,,DEM,HILLARY CLINTON,920,52,345,519,4
+Decatur,Attapulgus,President of the United States,,DEM,HILLARY CLINTON,749,56,404,284,5
+Decatur,,President of the United States,,IND,GARY JOHNSON,126,8,64,53,1
+Decatur,Mt Pleasant,President of the United States,,IND,GARY JOHNSON,7,0,4,3,0
+Decatur,Recovery,President of the United States,,IND,GARY JOHNSON,9,0,6,3,0
+Decatur,Kendrick,President of the United States,,IND,GARY JOHNSON,2,0,2,0,0
+Decatur,Climax,President of the United States,,IND,GARY JOHNSON,9,1,6,2,0
+Decatur,Brinson,President of the United States,,IND,GARY JOHNSON,3,0,3,0,0
+Decatur,West Bainbridge,President of the United States,,IND,GARY JOHNSON,13,0,6,7,0
+Decatur,Bainbridge-Coliseum,President of the United States,,IND,GARY JOHNSON,40,7,18,15,0
+Decatur,Bridge-Fairgrounds,President of the United States,,IND,GARY JOHNSON,32,0,14,18,0
+Decatur,Attapulgus,President of the United States,,IND,GARY JOHNSON,11,0,5,5,1
 Decatur,,United States Senator,,,JOHNNY ISAKSON ,5593,281,2054,3248,10
 Decatur,Mt Pleasant,United States Senator,,,JOHNNY ISAKSON ,354,13,166,174,1
 Decatur,Recovery,United States Senator,,,JOHNNY ISAKSON ,314,19,199,95,1

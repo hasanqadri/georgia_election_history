@@ -1,22 +1,22 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Crisp,,President of the United States,,,DONALD J. TRUMP,4549,205,1354,2981,9
-Crisp,Arabi,President of the United States,,,DONALD J. TRUMP,392,18,214,159,1
-Crisp,Coney,President of the United States,,,DONALD J. TRUMP,579,20,197,359,3
-Crisp,Cordele,President of the United States,,,DONALD J. TRUMP,2343,124,439,1780,0
-Crisp,Jamestown,President of the United States,,,DONALD J. TRUMP,736,32,273,430,1
-Crisp,Listonia,President of the United States,,,DONALD J. TRUMP,499,11,231,253,4
-Crisp,,President of the United States,,,HILLARY CLINTON,2837,134,1017,1684,2
-Crisp,Arabi,President of the United States,,,HILLARY CLINTON,81,5,42,34,0
-Crisp,Coney,President of the United States,,,HILLARY CLINTON,61,3,28,30,0
-Crisp,Cordele,President of the United States,,,HILLARY CLINTON,2582,120,912,1549,1
-Crisp,Jamestown,President of the United States,,,HILLARY CLINTON,79,3,22,53,1
-Crisp,Listonia,President of the United States,,,HILLARY CLINTON,34,3,13,18,0
-Crisp,,President of the United States,,,GARY JOHNSON,126,10,52,64,0
-Crisp,Arabi,President of the United States,,,GARY JOHNSON,6,0,4,2,0
-Crisp,Coney,President of the United States,,,GARY JOHNSON,7,0,4,3,0
-Crisp,Cordele,President of the United States,,,GARY JOHNSON,80,6,31,43,0
-Crisp,Jamestown,President of the United States,,,GARY JOHNSON,13,3,6,4,0
-Crisp,Listonia,President of the United States,,,GARY JOHNSON,20,1,7,12,0
+Crisp,,President of the United States,,REP,DONALD J. TRUMP,4549,205,1354,2981,9
+Crisp,Arabi,President of the United States,,REP,DONALD J. TRUMP,392,18,214,159,1
+Crisp,Coney,President of the United States,,REP,DONALD J. TRUMP,579,20,197,359,3
+Crisp,Cordele,President of the United States,,REP,DONALD J. TRUMP,2343,124,439,1780,0
+Crisp,Jamestown,President of the United States,,REP,DONALD J. TRUMP,736,32,273,430,1
+Crisp,Listonia,President of the United States,,REP,DONALD J. TRUMP,499,11,231,253,4
+Crisp,,President of the United States,,DEM,HILLARY CLINTON,2837,134,1017,1684,2
+Crisp,Arabi,President of the United States,,DEM,HILLARY CLINTON,81,5,42,34,0
+Crisp,Coney,President of the United States,,DEM,HILLARY CLINTON,61,3,28,30,0
+Crisp,Cordele,President of the United States,,DEM,HILLARY CLINTON,2582,120,912,1549,1
+Crisp,Jamestown,President of the United States,,DEM,HILLARY CLINTON,79,3,22,53,1
+Crisp,Listonia,President of the United States,,DEM,HILLARY CLINTON,34,3,13,18,0
+Crisp,,President of the United States,,IND,GARY JOHNSON,126,10,52,64,0
+Crisp,Arabi,President of the United States,,IND,GARY JOHNSON,6,0,4,2,0
+Crisp,Coney,President of the United States,,IND,GARY JOHNSON,7,0,4,3,0
+Crisp,Cordele,President of the United States,,IND,GARY JOHNSON,80,6,31,43,0
+Crisp,Jamestown,President of the United States,,IND,GARY JOHNSON,13,3,6,4,0
+Crisp,Listonia,President of the United States,,IND,GARY JOHNSON,20,1,7,12,0
 Crisp,,United States Senator,,,JOHNNY ISAKSON ,4546,214,1369,2955,8
 Crisp,Arabi,United States Senator,,,JOHNNY ISAKSON ,376,17,201,157,1
 Crisp,Coney,United States Senator,,,JOHNNY ISAKSON ,574,18,202,351,3

@@ -1,37 +1,37 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Jones,,President of the United States,,,DONALD J. TRUMP,8305,391,3063,4850,1
-Jones,GRAY,President of the United States,,,DONALD J. TRUMP,1302,60,316,926,0
-Jones,HAWKINS,President of the United States,,,DONALD J. TRUMP,710,46,221,443,0
-Jones,ETHRIDGE,President of the United States,,,DONALD J. TRUMP,705,37,210,458,0
-Jones,CLINTON,President of the United States,,,DONALD J. TRUMP,1155,64,337,754,0
-Jones,ROBERTS,President of the United States,,,DONALD J. TRUMP,995,51,492,452,0
-Jones,DAVIDSON,President of the United States,,,DONALD J. TRUMP,770,23,309,438,0
-Jones,POPE,President of the United States,,,DONALD J. TRUMP,742,24,287,430,1
-Jones,BARRON,President of the United States,,,DONALD J. TRUMP,626,39,239,348,0
-Jones,SANDERS,President of the United States,,,DONALD J. TRUMP,86,0,67,19,0
-Jones,FINNEY,President of the United States,,,DONALD J. TRUMP,1214,47,585,582,0
-Jones,,President of the United States,,,HILLARY CLINTON,3961,325,1416,2220,0
-Jones,GRAY,President of the United States,,,HILLARY CLINTON,405,30,112,263,0
-Jones,HAWKINS,President of the United States,,,HILLARY CLINTON,1127,82,393,652,0
-Jones,ETHRIDGE,President of the United States,,,HILLARY CLINTON,418,59,127,232,0
-Jones,CLINTON,President of the United States,,,HILLARY CLINTON,331,29,78,224,0
-Jones,ROBERTS,President of the United States,,,HILLARY CLINTON,473,33,212,228,0
-Jones,DAVIDSON,President of the United States,,,HILLARY CLINTON,147,10,42,95,0
-Jones,POPE,President of the United States,,,HILLARY CLINTON,384,21,171,192,0
-Jones,BARRON,President of the United States,,,HILLARY CLINTON,254,30,78,146,0
-Jones,SANDERS,President of the United States,,,HILLARY CLINTON,30,0,22,8,0
-Jones,FINNEY,President of the United States,,,HILLARY CLINTON,392,31,181,180,0
-Jones,,President of the United States,,,GARY JOHNSON,260,16,116,128,0
-Jones,GRAY,President of the United States,,,GARY JOHNSON,36,2,6,28,0
-Jones,HAWKINS,President of the United States,,,GARY JOHNSON,35,1,15,19,0
-Jones,ETHRIDGE,President of the United States,,,GARY JOHNSON,26,3,11,12,0
-Jones,CLINTON,President of the United States,,,GARY JOHNSON,26,2,8,16,0
-Jones,ROBERTS,President of the United States,,,GARY JOHNSON,33,3,17,13,0
-Jones,DAVIDSON,President of the United States,,,GARY JOHNSON,19,0,11,8,0
-Jones,POPE,President of the United States,,,GARY JOHNSON,22,1,13,8,0
-Jones,BARRON,President of the United States,,,GARY JOHNSON,14,1,7,6,0
-Jones,SANDERS,President of the United States,,,GARY JOHNSON,3,0,3,0,0
-Jones,FINNEY,President of the United States,,,GARY JOHNSON,46,3,25,18,0
+Jones,,President of the United States,,REP,DONALD J. TRUMP,8305,391,3063,4850,1
+Jones,GRAY,President of the United States,,REP,DONALD J. TRUMP,1302,60,316,926,0
+Jones,HAWKINS,President of the United States,,REP,DONALD J. TRUMP,710,46,221,443,0
+Jones,ETHRIDGE,President of the United States,,REP,DONALD J. TRUMP,705,37,210,458,0
+Jones,CLINTON,President of the United States,,REP,DONALD J. TRUMP,1155,64,337,754,0
+Jones,ROBERTS,President of the United States,,REP,DONALD J. TRUMP,995,51,492,452,0
+Jones,DAVIDSON,President of the United States,,REP,DONALD J. TRUMP,770,23,309,438,0
+Jones,POPE,President of the United States,,REP,DONALD J. TRUMP,742,24,287,430,1
+Jones,BARRON,President of the United States,,REP,DONALD J. TRUMP,626,39,239,348,0
+Jones,SANDERS,President of the United States,,REP,DONALD J. TRUMP,86,0,67,19,0
+Jones,FINNEY,President of the United States,,REP,DONALD J. TRUMP,1214,47,585,582,0
+Jones,,President of the United States,,DEM,HILLARY CLINTON,3961,325,1416,2220,0
+Jones,GRAY,President of the United States,,DEM,HILLARY CLINTON,405,30,112,263,0
+Jones,HAWKINS,President of the United States,,DEM,HILLARY CLINTON,1127,82,393,652,0
+Jones,ETHRIDGE,President of the United States,,DEM,HILLARY CLINTON,418,59,127,232,0
+Jones,CLINTON,President of the United States,,DEM,HILLARY CLINTON,331,29,78,224,0
+Jones,ROBERTS,President of the United States,,DEM,HILLARY CLINTON,473,33,212,228,0
+Jones,DAVIDSON,President of the United States,,DEM,HILLARY CLINTON,147,10,42,95,0
+Jones,POPE,President of the United States,,DEM,HILLARY CLINTON,384,21,171,192,0
+Jones,BARRON,President of the United States,,DEM,HILLARY CLINTON,254,30,78,146,0
+Jones,SANDERS,President of the United States,,DEM,HILLARY CLINTON,30,0,22,8,0
+Jones,FINNEY,President of the United States,,DEM,HILLARY CLINTON,392,31,181,180,0
+Jones,,President of the United States,,IND,GARY JOHNSON,260,16,116,128,0
+Jones,GRAY,President of the United States,,IND,GARY JOHNSON,36,2,6,28,0
+Jones,HAWKINS,President of the United States,,IND,GARY JOHNSON,35,1,15,19,0
+Jones,ETHRIDGE,President of the United States,,IND,GARY JOHNSON,26,3,11,12,0
+Jones,CLINTON,President of the United States,,IND,GARY JOHNSON,26,2,8,16,0
+Jones,ROBERTS,President of the United States,,IND,GARY JOHNSON,33,3,17,13,0
+Jones,DAVIDSON,President of the United States,,IND,GARY JOHNSON,19,0,11,8,0
+Jones,POPE,President of the United States,,IND,GARY JOHNSON,22,1,13,8,0
+Jones,BARRON,President of the United States,,IND,GARY JOHNSON,14,1,7,6,0
+Jones,SANDERS,President of the United States,,IND,GARY JOHNSON,3,0,3,0,0
+Jones,FINNEY,President of the United States,,IND,GARY JOHNSON,46,3,25,18,0
 Jones,,United States Senator,,,JOHNNY ISAKSON ,8125,415,3012,4697,1
 Jones,GRAY,United States Senator,,,JOHNNY ISAKSON ,1272,61,314,897,0
 Jones,HAWKINS,United States Senator,,,JOHNNY ISAKSON ,720,44,223,453,0

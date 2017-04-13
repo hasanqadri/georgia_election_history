@@ -1,19 +1,19 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Johnson,,President of the United States,,,DONALD J. TRUMP,2519,141,969,1409,0
-Johnson,Wrightsville,President of the United States,,,DONALD J. TRUMP,1136,77,220,839,0
-Johnson,Smith,President of the United States,,,DONALD J. TRUMP,427,29,251,147,0
-Johnson,Bray,President of the United States,,,DONALD J. TRUMP,397,26,152,219,0
-Johnson,Kite,President of the United States,,,DONALD J. TRUMP,559,9,346,204,0
-Johnson,,President of the United States,,,HILLARY CLINTON,1136,150,472,514,0
-Johnson,Wrightsville,President of the United States,,,HILLARY CLINTON,872,113,338,421,0
-Johnson,Smith,President of the United States,,,HILLARY CLINTON,64,1,38,25,0
-Johnson,Bray,President of the United States,,,HILLARY CLINTON,152,32,73,47,0
-Johnson,Kite,President of the United States,,,HILLARY CLINTON,48,4,23,21,0
-Johnson,,President of the United States,,,GARY JOHNSON,27,2,19,6,0
-Johnson,Wrightsville,President of the United States,,,GARY JOHNSON,15,1,9,5,0
-Johnson,Smith,President of the United States,,,GARY JOHNSON,5,0,5,0,0
-Johnson,Bray,President of the United States,,,GARY JOHNSON,1,0,0,1,0
-Johnson,Kite,President of the United States,,,GARY JOHNSON,6,1,5,0,0
+Johnson,,President of the United States,,REP,DONALD J. TRUMP,2519,141,969,1409,0
+Johnson,Wrightsville,President of the United States,,REP,DONALD J. TRUMP,1136,77,220,839,0
+Johnson,Smith,President of the United States,,REP,DONALD J. TRUMP,427,29,251,147,0
+Johnson,Bray,President of the United States,,REP,DONALD J. TRUMP,397,26,152,219,0
+Johnson,Kite,President of the United States,,REP,DONALD J. TRUMP,559,9,346,204,0
+Johnson,,President of the United States,,DEM,HILLARY CLINTON,1136,150,472,514,0
+Johnson,Wrightsville,President of the United States,,DEM,HILLARY CLINTON,872,113,338,421,0
+Johnson,Smith,President of the United States,,DEM,HILLARY CLINTON,64,1,38,25,0
+Johnson,Bray,President of the United States,,DEM,HILLARY CLINTON,152,32,73,47,0
+Johnson,Kite,President of the United States,,DEM,HILLARY CLINTON,48,4,23,21,0
+Johnson,,President of the United States,,IND,GARY JOHNSON,27,2,19,6,0
+Johnson,Wrightsville,President of the United States,,IND,GARY JOHNSON,15,1,9,5,0
+Johnson,Smith,President of the United States,,IND,GARY JOHNSON,5,0,5,0,0
+Johnson,Bray,President of the United States,,IND,GARY JOHNSON,1,0,0,1,0
+Johnson,Kite,President of the United States,,IND,GARY JOHNSON,6,1,5,0,0
 Johnson,,United States Senator,,,JOHNNY ISAKSON ,2373,140,910,1323,0
 Johnson,Wrightsville,United States Senator,,,JOHNNY ISAKSON ,1097,79,236,782,0
 Johnson,Smith,United States Senator,,,JOHNNY ISAKSON ,397,27,226,144,0

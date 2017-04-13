@@ -1,46 +1,46 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Grady,,President of the United States,,,DONALD J. TRUMP,6053,180,2588,3279,6
-Grady,Blowing Cave,President of the United States,,,DONALD J. TRUMP,416,8,204,203,1
-Grady,Cairo 4th District,President of the United States,,,DONALD J. TRUMP,269,19,68,182,0
-Grady,Cairo 5th District,President of the United States,,,DONALD J. TRUMP,846,30,264,551,1
-Grady,Duncanville,President of the United States,,,DONALD J. TRUMP,202,2,133,67,0
-Grady,Higdon,President of the United States,,,DONALD J. TRUMP,352,6,211,135,0
-Grady,Limesink,President of the United States,,,DONALD J. TRUMP,165,4,101,60,0
-Grady,Midway,President of the United States,,,DONALD J. TRUMP,666,21,232,411,2
-Grady,Pine Park,President of the United States,,,DONALD J. TRUMP,364,8,181,175,0
-Grady,Ragan,President of the United States,,,DONALD J. TRUMP,241,6,131,104,0
-Grady,Spence,President of the United States,,,DONALD J. TRUMP,411,22,222,166,1
-Grady,Spring Hill,President of the United States,,,DONALD J. TRUMP,335,3,194,138,0
-Grady,Whigham,President of the United States,,,DONALD J. TRUMP,543,17,245,281,0
-Grady,Woodland,President of the United States,,,DONALD J. TRUMP,1243,34,402,806,1
-Grady,,President of the United States,,,HILLARY CLINTON,3013,107,1199,1699,8
-Grady,Blowing Cave,President of the United States,,,HILLARY CLINTON,79,1,38,38,2
-Grady,Cairo 4th District,President of the United States,,,HILLARY CLINTON,1096,39,373,682,2
-Grady,Cairo 5th District,President of the United States,,,HILLARY CLINTON,615,20,245,349,1
-Grady,Duncanville,President of the United States,,,HILLARY CLINTON,118,2,70,46,0
-Grady,Higdon,President of the United States,,,HILLARY CLINTON,171,6,101,63,1
-Grady,Limesink,President of the United States,,,HILLARY CLINTON,27,0,8,19,0
-Grady,Midway,President of the United States,,,HILLARY CLINTON,177,11,62,104,0
-Grady,Pine Park,President of the United States,,,HILLARY CLINTON,159,6,68,85,0
-Grady,Ragan,President of the United States,,,HILLARY CLINTON,93,3,41,49,0
-Grady,Spence,President of the United States,,,HILLARY CLINTON,40,2,22,16,0
-Grady,Spring Hill,President of the United States,,,HILLARY CLINTON,43,0,25,16,2
-Grady,Whigham,President of the United States,,,HILLARY CLINTON,180,8,90,82,0
-Grady,Woodland,President of the United States,,,HILLARY CLINTON,215,9,56,150,0
-Grady,,President of the United States,,,GARY JOHNSON,135,8,83,44,0
-Grady,Blowing Cave,President of the United States,,,GARY JOHNSON,5,0,2,3,0
-Grady,Cairo 4th District,President of the United States,,,GARY JOHNSON,17,2,8,7,0
-Grady,Cairo 5th District,President of the United States,,,GARY JOHNSON,26,3,14,9,0
-Grady,Duncanville,President of the United States,,,GARY JOHNSON,7,0,6,1,0
-Grady,Higdon,President of the United States,,,GARY JOHNSON,9,0,8,1,0
-Grady,Limesink,President of the United States,,,GARY JOHNSON,1,0,1,0,0
-Grady,Midway,President of the United States,,,GARY JOHNSON,13,1,9,3,0
-Grady,Pine Park,President of the United States,,,GARY JOHNSON,8,0,6,2,0
-Grady,Ragan,President of the United States,,,GARY JOHNSON,3,0,1,2,0
-Grady,Spence,President of the United States,,,GARY JOHNSON,10,0,7,3,0
-Grady,Spring Hill,President of the United States,,,GARY JOHNSON,5,0,4,1,0
-Grady,Whigham,President of the United States,,,GARY JOHNSON,11,1,5,5,0
-Grady,Woodland,President of the United States,,,GARY JOHNSON,20,1,12,7,0
+Grady,,President of the United States,,REP,DONALD J. TRUMP,6053,180,2588,3279,6
+Grady,Blowing Cave,President of the United States,,REP,DONALD J. TRUMP,416,8,204,203,1
+Grady,Cairo 4th District,President of the United States,,REP,DONALD J. TRUMP,269,19,68,182,0
+Grady,Cairo 5th District,President of the United States,,REP,DONALD J. TRUMP,846,30,264,551,1
+Grady,Duncanville,President of the United States,,REP,DONALD J. TRUMP,202,2,133,67,0
+Grady,Higdon,President of the United States,,REP,DONALD J. TRUMP,352,6,211,135,0
+Grady,Limesink,President of the United States,,REP,DONALD J. TRUMP,165,4,101,60,0
+Grady,Midway,President of the United States,,REP,DONALD J. TRUMP,666,21,232,411,2
+Grady,Pine Park,President of the United States,,REP,DONALD J. TRUMP,364,8,181,175,0
+Grady,Ragan,President of the United States,,REP,DONALD J. TRUMP,241,6,131,104,0
+Grady,Spence,President of the United States,,REP,DONALD J. TRUMP,411,22,222,166,1
+Grady,Spring Hill,President of the United States,,REP,DONALD J. TRUMP,335,3,194,138,0
+Grady,Whigham,President of the United States,,REP,DONALD J. TRUMP,543,17,245,281,0
+Grady,Woodland,President of the United States,,REP,DONALD J. TRUMP,1243,34,402,806,1
+Grady,,President of the United States,,DEM,HILLARY CLINTON,3013,107,1199,1699,8
+Grady,Blowing Cave,President of the United States,,DEM,HILLARY CLINTON,79,1,38,38,2
+Grady,Cairo 4th District,President of the United States,,DEM,HILLARY CLINTON,1096,39,373,682,2
+Grady,Cairo 5th District,President of the United States,,DEM,HILLARY CLINTON,615,20,245,349,1
+Grady,Duncanville,President of the United States,,DEM,HILLARY CLINTON,118,2,70,46,0
+Grady,Higdon,President of the United States,,DEM,HILLARY CLINTON,171,6,101,63,1
+Grady,Limesink,President of the United States,,DEM,HILLARY CLINTON,27,0,8,19,0
+Grady,Midway,President of the United States,,DEM,HILLARY CLINTON,177,11,62,104,0
+Grady,Pine Park,President of the United States,,DEM,HILLARY CLINTON,159,6,68,85,0
+Grady,Ragan,President of the United States,,DEM,HILLARY CLINTON,93,3,41,49,0
+Grady,Spence,President of the United States,,DEM,HILLARY CLINTON,40,2,22,16,0
+Grady,Spring Hill,President of the United States,,DEM,HILLARY CLINTON,43,0,25,16,2
+Grady,Whigham,President of the United States,,DEM,HILLARY CLINTON,180,8,90,82,0
+Grady,Woodland,President of the United States,,DEM,HILLARY CLINTON,215,9,56,150,0
+Grady,,President of the United States,,IND,GARY JOHNSON,135,8,83,44,0
+Grady,Blowing Cave,President of the United States,,IND,GARY JOHNSON,5,0,2,3,0
+Grady,Cairo 4th District,President of the United States,,IND,GARY JOHNSON,17,2,8,7,0
+Grady,Cairo 5th District,President of the United States,,IND,GARY JOHNSON,26,3,14,9,0
+Grady,Duncanville,President of the United States,,IND,GARY JOHNSON,7,0,6,1,0
+Grady,Higdon,President of the United States,,IND,GARY JOHNSON,9,0,8,1,0
+Grady,Limesink,President of the United States,,IND,GARY JOHNSON,1,0,1,0,0
+Grady,Midway,President of the United States,,IND,GARY JOHNSON,13,1,9,3,0
+Grady,Pine Park,President of the United States,,IND,GARY JOHNSON,8,0,6,2,0
+Grady,Ragan,President of the United States,,IND,GARY JOHNSON,3,0,1,2,0
+Grady,Spence,President of the United States,,IND,GARY JOHNSON,10,0,7,3,0
+Grady,Spring Hill,President of the United States,,IND,GARY JOHNSON,5,0,4,1,0
+Grady,Whigham,President of the United States,,IND,GARY JOHNSON,11,1,5,5,0
+Grady,Woodland,President of the United States,,IND,GARY JOHNSON,20,1,12,7,0
 Grady,,United States Senator,,,JOHNNY ISAKSON ,5534,176,2348,3006,4
 Grady,Blowing Cave,United States Senator,,,JOHNNY ISAKSON ,389,7,196,185,1
 Grady,Cairo 4th District,United States Senator,,,JOHNNY ISAKSON ,268,21,61,186,0

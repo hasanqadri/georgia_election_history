@@ -1,55 +1,55 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Jackson,,President of the United States,,,DONALD J. TRUMP,21784,620,7758,13376,30
-Jackson,North Jefferson,President of the United States,,,DONALD J. TRUMP,3642,90,882,2666,4
-Jackson,North Minish,President of the United States,,,DONALD J. TRUMP,1065,47,276,738,4
-Jackson,South Jefferson,President of the United States,,,DONALD J. TRUMP,1941,51,504,1384,2
-Jackson,South Minish,President of the United States,,,DONALD J. TRUMP,1674,49,473,1149,3
-Jackson,Redstone,President of the United States,,,DONALD J. TRUMP,868,28,394,446,0
-Jackson,Randolph,President of the United States,,,DONALD J. TRUMP,3465,105,1078,2271,11
-Jackson,Newtown,President of the United States,,,DONALD J. TRUMP,1287,44,644,599,0
-Jackson,Harrisburg,President of the United States,,,DONALD J. TRUMP,1006,28,399,579,0
-Jackson,Cunningham,President of the United States,,,DONALD J. TRUMP,501,11,241,249,0
-Jackson,Miller,President of the United States,,,DONALD J. TRUMP,1056,21,576,458,1
-Jackson,Wilson,President of the United States,,,DONALD J. TRUMP,466,18,267,181,0
-Jackson,Hoschton,President of the United States,,,DONALD J. TRUMP,763,14,286,460,3
-Jackson,Talmo,President of the United States,,,DONALD J. TRUMP,624,16,347,260,1
-Jackson,Center,President of the United States,,,DONALD J. TRUMP,465,18,309,138,0
-Jackson,Attica,President of the United States,,,DONALD J. TRUMP,689,24,406,259,0
-Jackson,Porter,President of the United States,,,DONALD J. TRUMP,2272,56,676,1539,1
-Jackson,,President of the United States,,,HILLARY CLINTON,4491,152,1661,2656,22
-Jackson,North Jefferson,President of the United States,,,HILLARY CLINTON,640,18,180,438,4
-Jackson,North Minish,President of the United States,,,HILLARY CLINTON,346,13,121,211,1
-Jackson,South Jefferson,President of the United States,,,HILLARY CLINTON,577,20,160,396,1
-Jackson,South Minish,President of the United States,,,HILLARY CLINTON,458,14,157,285,2
-Jackson,Redstone,President of the United States,,,HILLARY CLINTON,273,8,123,142,0
-Jackson,Randolph,President of the United States,,,HILLARY CLINTON,486,24,149,311,2
-Jackson,Newtown,President of the United States,,,HILLARY CLINTON,187,9,95,83,0
-Jackson,Harrisburg,President of the United States,,,HILLARY CLINTON,192,11,62,117,2
-Jackson,Cunningham,President of the United States,,,HILLARY CLINTON,80,5,37,38,0
-Jackson,Miller,President of the United States,,,HILLARY CLINTON,114,5,63,46,0
-Jackson,Wilson,President of the United States,,,HILLARY CLINTON,67,1,37,28,1
-Jackson,Hoschton,President of the United States,,,HILLARY CLINTON,128,2,51,75,0
-Jackson,Talmo,President of the United States,,,HILLARY CLINTON,97,2,53,41,1
-Jackson,Center,President of the United States,,,HILLARY CLINTON,125,7,80,37,1
-Jackson,Attica,President of the United States,,,HILLARY CLINTON,256,3,145,107,1
-Jackson,Porter,President of the United States,,,HILLARY CLINTON,465,10,148,301,6
-Jackson,,President of the United States,,,GARY JOHNSON,834,27,402,405,0
-Jackson,North Jefferson,President of the United States,,,GARY JOHNSON,196,7,76,113,0
-Jackson,North Minish,President of the United States,,,GARY JOHNSON,37,3,16,18,0
-Jackson,South Jefferson,President of the United States,,,GARY JOHNSON,75,1,23,51,0
-Jackson,South Minish,President of the United States,,,GARY JOHNSON,62,0,23,39,0
-Jackson,Redstone,President of the United States,,,GARY JOHNSON,33,0,24,9,0
-Jackson,Randolph,President of the United States,,,GARY JOHNSON,124,4,60,60,0
-Jackson,Newtown,President of the United States,,,GARY JOHNSON,39,1,25,13,0
-Jackson,Harrisburg,President of the United States,,,GARY JOHNSON,35,3,22,10,0
-Jackson,Cunningham,President of the United States,,,GARY JOHNSON,23,2,12,9,0
-Jackson,Miller,President of the United States,,,GARY JOHNSON,35,0,26,9,0
-Jackson,Wilson,President of the United States,,,GARY JOHNSON,11,0,4,7,0
-Jackson,Hoschton,President of the United States,,,GARY JOHNSON,27,0,17,10,0
-Jackson,Talmo,President of the United States,,,GARY JOHNSON,16,0,9,7,0
-Jackson,Center,President of the United States,,,GARY JOHNSON,12,0,7,5,0
-Jackson,Attica,President of the United States,,,GARY JOHNSON,34,0,27,7,0
-Jackson,Porter,President of the United States,,,GARY JOHNSON,75,6,31,38,0
+Jackson,,President of the United States,,REP,DONALD J. TRUMP,21784,620,7758,13376,30
+Jackson,North Jefferson,President of the United States,,REP,DONALD J. TRUMP,3642,90,882,2666,4
+Jackson,North Minish,President of the United States,,REP,DONALD J. TRUMP,1065,47,276,738,4
+Jackson,South Jefferson,President of the United States,,REP,DONALD J. TRUMP,1941,51,504,1384,2
+Jackson,South Minish,President of the United States,,REP,DONALD J. TRUMP,1674,49,473,1149,3
+Jackson,Redstone,President of the United States,,REP,DONALD J. TRUMP,868,28,394,446,0
+Jackson,Randolph,President of the United States,,REP,DONALD J. TRUMP,3465,105,1078,2271,11
+Jackson,Newtown,President of the United States,,REP,DONALD J. TRUMP,1287,44,644,599,0
+Jackson,Harrisburg,President of the United States,,REP,DONALD J. TRUMP,1006,28,399,579,0
+Jackson,Cunningham,President of the United States,,REP,DONALD J. TRUMP,501,11,241,249,0
+Jackson,Miller,President of the United States,,REP,DONALD J. TRUMP,1056,21,576,458,1
+Jackson,Wilson,President of the United States,,REP,DONALD J. TRUMP,466,18,267,181,0
+Jackson,Hoschton,President of the United States,,REP,DONALD J. TRUMP,763,14,286,460,3
+Jackson,Talmo,President of the United States,,REP,DONALD J. TRUMP,624,16,347,260,1
+Jackson,Center,President of the United States,,REP,DONALD J. TRUMP,465,18,309,138,0
+Jackson,Attica,President of the United States,,REP,DONALD J. TRUMP,689,24,406,259,0
+Jackson,Porter,President of the United States,,REP,DONALD J. TRUMP,2272,56,676,1539,1
+Jackson,,President of the United States,,DEM,HILLARY CLINTON,4491,152,1661,2656,22
+Jackson,North Jefferson,President of the United States,,DEM,HILLARY CLINTON,640,18,180,438,4
+Jackson,North Minish,President of the United States,,DEM,HILLARY CLINTON,346,13,121,211,1
+Jackson,South Jefferson,President of the United States,,DEM,HILLARY CLINTON,577,20,160,396,1
+Jackson,South Minish,President of the United States,,DEM,HILLARY CLINTON,458,14,157,285,2
+Jackson,Redstone,President of the United States,,DEM,HILLARY CLINTON,273,8,123,142,0
+Jackson,Randolph,President of the United States,,DEM,HILLARY CLINTON,486,24,149,311,2
+Jackson,Newtown,President of the United States,,DEM,HILLARY CLINTON,187,9,95,83,0
+Jackson,Harrisburg,President of the United States,,DEM,HILLARY CLINTON,192,11,62,117,2
+Jackson,Cunningham,President of the United States,,DEM,HILLARY CLINTON,80,5,37,38,0
+Jackson,Miller,President of the United States,,DEM,HILLARY CLINTON,114,5,63,46,0
+Jackson,Wilson,President of the United States,,DEM,HILLARY CLINTON,67,1,37,28,1
+Jackson,Hoschton,President of the United States,,DEM,HILLARY CLINTON,128,2,51,75,0
+Jackson,Talmo,President of the United States,,DEM,HILLARY CLINTON,97,2,53,41,1
+Jackson,Center,President of the United States,,DEM,HILLARY CLINTON,125,7,80,37,1
+Jackson,Attica,President of the United States,,DEM,HILLARY CLINTON,256,3,145,107,1
+Jackson,Porter,President of the United States,,DEM,HILLARY CLINTON,465,10,148,301,6
+Jackson,,President of the United States,,IND,GARY JOHNSON,834,27,402,405,0
+Jackson,North Jefferson,President of the United States,,IND,GARY JOHNSON,196,7,76,113,0
+Jackson,North Minish,President of the United States,,IND,GARY JOHNSON,37,3,16,18,0
+Jackson,South Jefferson,President of the United States,,IND,GARY JOHNSON,75,1,23,51,0
+Jackson,South Minish,President of the United States,,IND,GARY JOHNSON,62,0,23,39,0
+Jackson,Redstone,President of the United States,,IND,GARY JOHNSON,33,0,24,9,0
+Jackson,Randolph,President of the United States,,IND,GARY JOHNSON,124,4,60,60,0
+Jackson,Newtown,President of the United States,,IND,GARY JOHNSON,39,1,25,13,0
+Jackson,Harrisburg,President of the United States,,IND,GARY JOHNSON,35,3,22,10,0
+Jackson,Cunningham,President of the United States,,IND,GARY JOHNSON,23,2,12,9,0
+Jackson,Miller,President of the United States,,IND,GARY JOHNSON,35,0,26,9,0
+Jackson,Wilson,President of the United States,,IND,GARY JOHNSON,11,0,4,7,0
+Jackson,Hoschton,President of the United States,,IND,GARY JOHNSON,27,0,17,10,0
+Jackson,Talmo,President of the United States,,IND,GARY JOHNSON,16,0,9,7,0
+Jackson,Center,President of the United States,,IND,GARY JOHNSON,12,0,7,5,0
+Jackson,Attica,President of the United States,,IND,GARY JOHNSON,34,0,27,7,0
+Jackson,Porter,President of the United States,,IND,GARY JOHNSON,75,6,31,38,0
 Jackson,,United States Senator,,,JOHNNY ISAKSON ,20965,631,7496,12808,30
 Jackson,North Jefferson,United States Senator,,,JOHNNY ISAKSON ,3578,93,888,2593,4
 Jackson,North Minish,United States Senator,,,JOHNNY ISAKSON ,1009,48,274,683,4

@@ -1,16 +1,16 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Turner,,President of the United States,,,DONALD J. TRUMP,2095,55,609,1430,1
-Turner,Ashburn,President of the United States,,,DONALD J. TRUMP,920,21,239,659,1
-Turner,Sycamore,President of the United States,,,DONALD J. TRUMP,916,25,215,676,0
-Turner,Rebecca,President of the United States,,,DONALD J. TRUMP,259,9,155,95,0
-Turner,,President of the United States,,,HILLARY CLINTON,1246,30,569,644,3
-Turner,Ashburn,President of the United States,,,HILLARY CLINTON,1081,23,491,564,3
-Turner,Sycamore,President of the United States,,,HILLARY CLINTON,126,5,51,70,0
-Turner,Rebecca,President of the United States,,,HILLARY CLINTON,39,2,27,10,0
-Turner,,President of the United States,,,GARY JOHNSON,53,2,17,34,0
-Turner,Ashburn,President of the United States,,,GARY JOHNSON,34,2,7,25,0
-Turner,Sycamore,President of the United States,,,GARY JOHNSON,16,0,8,8,0
-Turner,Rebecca,President of the United States,,,GARY JOHNSON,3,0,2,1,0
+Turner,,President of the United States,,REP,DONALD J. TRUMP,2095,55,609,1430,1
+Turner,Ashburn,President of the United States,,REP,DONALD J. TRUMP,920,21,239,659,1
+Turner,Sycamore,President of the United States,,REP,DONALD J. TRUMP,916,25,215,676,0
+Turner,Rebecca,President of the United States,,REP,DONALD J. TRUMP,259,9,155,95,0
+Turner,,President of the United States,,DEM,HILLARY CLINTON,1246,30,569,644,3
+Turner,Ashburn,President of the United States,,DEM,HILLARY CLINTON,1081,23,491,564,3
+Turner,Sycamore,President of the United States,,DEM,HILLARY CLINTON,126,5,51,70,0
+Turner,Rebecca,President of the United States,,DEM,HILLARY CLINTON,39,2,27,10,0
+Turner,,President of the United States,,IND,GARY JOHNSON,53,2,17,34,0
+Turner,Ashburn,President of the United States,,IND,GARY JOHNSON,34,2,7,25,0
+Turner,Sycamore,President of the United States,,IND,GARY JOHNSON,16,0,8,8,0
+Turner,Rebecca,President of the United States,,IND,GARY JOHNSON,3,0,2,1,0
 Turner,,United States Senator,,,JOHNNY ISAKSON ,2039,51,616,1371,1
 Turner,Ashburn,United States Senator,,,JOHNNY ISAKSON ,928,19,260,648,1
 Turner,Sycamore,United States Senator,,,JOHNNY ISAKSON ,868,24,211,633,0

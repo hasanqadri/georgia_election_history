@@ -1,31 +1,31 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Cook,,President of the United States,,,DONALD J. TRUMP,4176,149,1594,2433,0
-Cook,Cecil,President of the United States,,,DONALD J. TRUMP,494,14,186,294,0
-Cook,Delle Beamguard,President of the United States,,,DONALD J. TRUMP,1092,41,327,724,0
-Cook,Elm Pine,President of the United States,,,DONALD J. TRUMP,14,1,8,5,0
-Cook,Lenox,President of the United States,,,DONALD J. TRUMP,568,25,322,221,0
-Cook,Massee,President of the United States,,,DONALD J. TRUMP,446,9,147,290,0
-Cook,New Life Bapt. Church,President of the United States,,,DONALD J. TRUMP,665,17,308,340,0
-Cook,Riverbend,President of the United States,,,DONALD J. TRUMP,703,33,218,452,0
-Cook,Sparks,President of the United States,,,DONALD J. TRUMP,194,9,78,107,0
-Cook,,President of the United States,,,HILLARY CLINTON,1753,68,910,775,0
-Cook,Cecil,President of the United States,,,HILLARY CLINTON,455,15,191,249,0
-Cook,Delle Beamguard,President of the United States,,,HILLARY CLINTON,280,17,130,133,0
-Cook,Elm Pine,President of the United States,,,HILLARY CLINTON,261,10,158,93,0
-Cook,Lenox,President of the United States,,,HILLARY CLINTON,165,5,127,33,0
-Cook,Massee,President of the United States,,,HILLARY CLINTON,93,5,33,55,0
-Cook,New Life Bapt. Church,President of the United States,,,HILLARY CLINTON,105,1,48,56,0
-Cook,Riverbend,President of the United States,,,HILLARY CLINTON,99,7,31,61,0
-Cook,Sparks,President of the United States,,,HILLARY CLINTON,295,8,192,95,0
-Cook,,President of the United States,,,GARY JOHNSON,112,6,46,60,0
-Cook,Cecil,President of the United States,,,GARY JOHNSON,13,0,8,5,0
-Cook,Delle Beamguard,President of the United States,,,GARY JOHNSON,44,2,20,22,0
-Cook,Elm Pine,President of the United States,,,GARY JOHNSON,6,0,3,3,0
-Cook,Lenox,President of the United States,,,GARY JOHNSON,15,3,3,9,0
-Cook,Massee,President of the United States,,,GARY JOHNSON,10,0,3,7,0
-Cook,New Life Bapt. Church,President of the United States,,,GARY JOHNSON,9,0,4,5,0
-Cook,Riverbend,President of the United States,,,GARY JOHNSON,10,0,2,8,0
-Cook,Sparks,President of the United States,,,GARY JOHNSON,5,1,3,1,0
+Cook,,President of the United States,,REP,DONALD J. TRUMP,4176,149,1594,2433,0
+Cook,Cecil,President of the United States,,REP,DONALD J. TRUMP,494,14,186,294,0
+Cook,Delle Beamguard,President of the United States,,REP,DONALD J. TRUMP,1092,41,327,724,0
+Cook,Elm Pine,President of the United States,,REP,DONALD J. TRUMP,14,1,8,5,0
+Cook,Lenox,President of the United States,,REP,DONALD J. TRUMP,568,25,322,221,0
+Cook,Massee,President of the United States,,REP,DONALD J. TRUMP,446,9,147,290,0
+Cook,New Life Bapt. Church,President of the United States,,REP,DONALD J. TRUMP,665,17,308,340,0
+Cook,Riverbend,President of the United States,,REP,DONALD J. TRUMP,703,33,218,452,0
+Cook,Sparks,President of the United States,,REP,DONALD J. TRUMP,194,9,78,107,0
+Cook,,President of the United States,,DEM,HILLARY CLINTON,1753,68,910,775,0
+Cook,Cecil,President of the United States,,DEM,HILLARY CLINTON,455,15,191,249,0
+Cook,Delle Beamguard,President of the United States,,DEM,HILLARY CLINTON,280,17,130,133,0
+Cook,Elm Pine,President of the United States,,DEM,HILLARY CLINTON,261,10,158,93,0
+Cook,Lenox,President of the United States,,DEM,HILLARY CLINTON,165,5,127,33,0
+Cook,Massee,President of the United States,,DEM,HILLARY CLINTON,93,5,33,55,0
+Cook,New Life Bapt. Church,President of the United States,,DEM,HILLARY CLINTON,105,1,48,56,0
+Cook,Riverbend,President of the United States,,DEM,HILLARY CLINTON,99,7,31,61,0
+Cook,Sparks,President of the United States,,DEM,HILLARY CLINTON,295,8,192,95,0
+Cook,,President of the United States,,IND,GARY JOHNSON,112,6,46,60,0
+Cook,Cecil,President of the United States,,IND,GARY JOHNSON,13,0,8,5,0
+Cook,Delle Beamguard,President of the United States,,IND,GARY JOHNSON,44,2,20,22,0
+Cook,Elm Pine,President of the United States,,IND,GARY JOHNSON,6,0,3,3,0
+Cook,Lenox,President of the United States,,IND,GARY JOHNSON,15,3,3,9,0
+Cook,Massee,President of the United States,,IND,GARY JOHNSON,10,0,3,7,0
+Cook,New Life Bapt. Church,President of the United States,,IND,GARY JOHNSON,9,0,4,5,0
+Cook,Riverbend,President of the United States,,IND,GARY JOHNSON,10,0,2,8,0
+Cook,Sparks,President of the United States,,IND,GARY JOHNSON,5,1,3,1,0
 Cook,,United States Senator,,,JOHNNY ISAKSON ,4045,156,1545,2344,0
 Cook,Cecil,United States Senator,,,JOHNNY ISAKSON ,477,14,180,283,0
 Cook,Delle Beamguard,United States Senator,,,JOHNNY ISAKSON ,1034,42,310,682,0

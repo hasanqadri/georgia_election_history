@@ -1,28 +1,28 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Hart,,President of the United States,,,DONALD J. TRUMP,7286,297,3047,3941,1
-Hart,Hartwell,President of the United States,,,DONALD J. TRUMP,2596,119,704,1773,0
-Hart,Goldmine,President of the United States,,,DONALD J. TRUMP,843,30,444,369,0
-Hart,Cokesbury,President of the United States,,,DONALD J. TRUMP,385,11,199,175,0
-Hart,Reed Creek,President of the United States,,,DONALD J. TRUMP,1462,56,622,783,1
-Hart,Bowersville,President of the United States,,,DONALD J. TRUMP,637,16,392,229,0
-Hart,Shoal Creek,President of the United States,,,DONALD J. TRUMP,764,43,373,348,0
-Hart,Bio,President of the United States,,,DONALD J. TRUMP,599,22,313,264,0
-Hart,,President of the United States,,,HILLARY CLINTON,2585,182,1019,1384,0
-Hart,Hartwell,President of the United States,,,HILLARY CLINTON,1235,132,357,746,0
-Hart,Goldmine,President of the United States,,,HILLARY CLINTON,207,10,110,87,0
-Hart,Cokesbury,President of the United States,,,HILLARY CLINTON,306,8,146,152,0
-Hart,Reed Creek,President of the United States,,,HILLARY CLINTON,324,10,131,183,0
-Hart,Bowersville,President of the United States,,,HILLARY CLINTON,144,5,91,48,0
-Hart,Shoal Creek,President of the United States,,,HILLARY CLINTON,132,7,72,53,0
-Hart,Bio,President of the United States,,,HILLARY CLINTON,237,10,112,115,0
-Hart,,President of the United States,,,GARY JOHNSON,209,10,106,93,0
-Hart,Hartwell,President of the United States,,,GARY JOHNSON,80,3,34,43,0
-Hart,Goldmine,President of the United States,,,GARY JOHNSON,22,1,13,8,0
-Hart,Cokesbury,President of the United States,,,GARY JOHNSON,16,2,8,6,0
-Hart,Reed Creek,President of the United States,,,GARY JOHNSON,51,3,28,20,0
-Hart,Bowersville,President of the United States,,,GARY JOHNSON,9,1,8,0,0
-Hart,Shoal Creek,President of the United States,,,GARY JOHNSON,22,0,12,10,0
-Hart,Bio,President of the United States,,,GARY JOHNSON,9,0,3,6,0
+Hart,,President of the United States,,REP,DONALD J. TRUMP,7286,297,3047,3941,1
+Hart,Hartwell,President of the United States,,REP,DONALD J. TRUMP,2596,119,704,1773,0
+Hart,Goldmine,President of the United States,,REP,DONALD J. TRUMP,843,30,444,369,0
+Hart,Cokesbury,President of the United States,,REP,DONALD J. TRUMP,385,11,199,175,0
+Hart,Reed Creek,President of the United States,,REP,DONALD J. TRUMP,1462,56,622,783,1
+Hart,Bowersville,President of the United States,,REP,DONALD J. TRUMP,637,16,392,229,0
+Hart,Shoal Creek,President of the United States,,REP,DONALD J. TRUMP,764,43,373,348,0
+Hart,Bio,President of the United States,,REP,DONALD J. TRUMP,599,22,313,264,0
+Hart,,President of the United States,,DEM,HILLARY CLINTON,2585,182,1019,1384,0
+Hart,Hartwell,President of the United States,,DEM,HILLARY CLINTON,1235,132,357,746,0
+Hart,Goldmine,President of the United States,,DEM,HILLARY CLINTON,207,10,110,87,0
+Hart,Cokesbury,President of the United States,,DEM,HILLARY CLINTON,306,8,146,152,0
+Hart,Reed Creek,President of the United States,,DEM,HILLARY CLINTON,324,10,131,183,0
+Hart,Bowersville,President of the United States,,DEM,HILLARY CLINTON,144,5,91,48,0
+Hart,Shoal Creek,President of the United States,,DEM,HILLARY CLINTON,132,7,72,53,0
+Hart,Bio,President of the United States,,DEM,HILLARY CLINTON,237,10,112,115,0
+Hart,,President of the United States,,IND,GARY JOHNSON,209,10,106,93,0
+Hart,Hartwell,President of the United States,,IND,GARY JOHNSON,80,3,34,43,0
+Hart,Goldmine,President of the United States,,IND,GARY JOHNSON,22,1,13,8,0
+Hart,Cokesbury,President of the United States,,IND,GARY JOHNSON,16,2,8,6,0
+Hart,Reed Creek,President of the United States,,IND,GARY JOHNSON,51,3,28,20,0
+Hart,Bowersville,President of the United States,,IND,GARY JOHNSON,9,1,8,0,0
+Hart,Shoal Creek,President of the United States,,IND,GARY JOHNSON,22,0,12,10,0
+Hart,Bio,President of the United States,,IND,GARY JOHNSON,9,0,3,6,0
 Hart,,United States Senator,,,JOHNNY ISAKSON ,6703,298,2804,3601,0
 Hart,Hartwell,United States Senator,,,JOHNNY ISAKSON ,2372,122,654,1596,0
 Hart,Goldmine,United States Senator,,,JOHNNY ISAKSON ,802,31,422,349,0

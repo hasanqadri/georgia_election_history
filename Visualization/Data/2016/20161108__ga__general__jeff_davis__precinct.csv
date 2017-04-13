@@ -1,34 +1,34 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Jeff Davis,,President of the United States,,,DONALD J. TRUMP,4104,165,1804,2133,2
-Jeff Davis,Hazelhurst,President of the United States,,,DONALD J. TRUMP,374,16,155,203,0
-Jeff Davis,Altamaha 1,President of the United States,,,DONALD J. TRUMP,412,21,146,245,0
-Jeff Davis,Altamaha 2,President of the United States,,,DONALD J. TRUMP,820,30,362,427,1
-Jeff Davis,Blackburn 1,President of the United States,,,DONALD J. TRUMP,291,9,118,164,0
-Jeff Davis,Blackburn 2,President of the United States,,,DONALD J. TRUMP,423,19,224,179,1
-Jeff Davis,Whitehead 1,President of the United States,,,DONALD J. TRUMP,454,20,163,271,0
-Jeff Davis,Whitehead 2,President of the United States,,,DONALD J. TRUMP,387,18,213,156,0
-Jeff Davis,Ocmulgee 1,President of the United States,,,DONALD J. TRUMP,724,21,309,394,0
-Jeff Davis,Ocmulgee 2,President of the United States,,,DONALD J. TRUMP,219,11,114,94,0
-Jeff Davis,,President of the United States,,,HILLARY CLINTON,901,37,478,386,0
-Jeff Davis,Hazelhurst,President of the United States,,,HILLARY CLINTON,366,14,204,148,0
-Jeff Davis,Altamaha 1,President of the United States,,,HILLARY CLINTON,50,0,21,29,0
-Jeff Davis,Altamaha 2,President of the United States,,,HILLARY CLINTON,43,1,19,23,0
-Jeff Davis,Blackburn 1,President of the United States,,,HILLARY CLINTON,91,1,51,39,0
-Jeff Davis,Blackburn 2,President of the United States,,,HILLARY CLINTON,30,0,18,12,0
-Jeff Davis,Whitehead 1,President of the United States,,,HILLARY CLINTON,106,8,54,44,0
-Jeff Davis,Whitehead 2,President of the United States,,,HILLARY CLINTON,38,1,25,12,0
-Jeff Davis,Ocmulgee 1,President of the United States,,,HILLARY CLINTON,113,8,54,51,0
-Jeff Davis,Ocmulgee 2,President of the United States,,,HILLARY CLINTON,64,4,32,28,0
-Jeff Davis,,President of the United States,,,GARY JOHNSON,86,5,48,33,0
-Jeff Davis,Hazelhurst,President of the United States,,,GARY JOHNSON,10,0,7,3,0
-Jeff Davis,Altamaha 1,President of the United States,,,GARY JOHNSON,11,1,5,5,0
-Jeff Davis,Altamaha 2,President of the United States,,,GARY JOHNSON,14,1,3,10,0
-Jeff Davis,Blackburn 1,President of the United States,,,GARY JOHNSON,9,2,4,3,0
-Jeff Davis,Blackburn 2,President of the United States,,,GARY JOHNSON,3,0,3,0,0
-Jeff Davis,Whitehead 1,President of the United States,,,GARY JOHNSON,12,0,8,4,0
-Jeff Davis,Whitehead 2,President of the United States,,,GARY JOHNSON,9,0,8,1,0
-Jeff Davis,Ocmulgee 1,President of the United States,,,GARY JOHNSON,13,1,5,7,0
-Jeff Davis,Ocmulgee 2,President of the United States,,,GARY JOHNSON,5,0,5,0,0
+Jeff Davis,,President of the United States,,REP,DONALD J. TRUMP,4104,165,1804,2133,2
+Jeff Davis,Hazelhurst,President of the United States,,REP,DONALD J. TRUMP,374,16,155,203,0
+Jeff Davis,Altamaha 1,President of the United States,,REP,DONALD J. TRUMP,412,21,146,245,0
+Jeff Davis,Altamaha 2,President of the United States,,REP,DONALD J. TRUMP,820,30,362,427,1
+Jeff Davis,Blackburn 1,President of the United States,,REP,DONALD J. TRUMP,291,9,118,164,0
+Jeff Davis,Blackburn 2,President of the United States,,REP,DONALD J. TRUMP,423,19,224,179,1
+Jeff Davis,Whitehead 1,President of the United States,,REP,DONALD J. TRUMP,454,20,163,271,0
+Jeff Davis,Whitehead 2,President of the United States,,REP,DONALD J. TRUMP,387,18,213,156,0
+Jeff Davis,Ocmulgee 1,President of the United States,,REP,DONALD J. TRUMP,724,21,309,394,0
+Jeff Davis,Ocmulgee 2,President of the United States,,REP,DONALD J. TRUMP,219,11,114,94,0
+Jeff Davis,,President of the United States,,DEM,HILLARY CLINTON,901,37,478,386,0
+Jeff Davis,Hazelhurst,President of the United States,,DEM,HILLARY CLINTON,366,14,204,148,0
+Jeff Davis,Altamaha 1,President of the United States,,DEM,HILLARY CLINTON,50,0,21,29,0
+Jeff Davis,Altamaha 2,President of the United States,,DEM,HILLARY CLINTON,43,1,19,23,0
+Jeff Davis,Blackburn 1,President of the United States,,DEM,HILLARY CLINTON,91,1,51,39,0
+Jeff Davis,Blackburn 2,President of the United States,,DEM,HILLARY CLINTON,30,0,18,12,0
+Jeff Davis,Whitehead 1,President of the United States,,DEM,HILLARY CLINTON,106,8,54,44,0
+Jeff Davis,Whitehead 2,President of the United States,,DEM,HILLARY CLINTON,38,1,25,12,0
+Jeff Davis,Ocmulgee 1,President of the United States,,DEM,HILLARY CLINTON,113,8,54,51,0
+Jeff Davis,Ocmulgee 2,President of the United States,,DEM,HILLARY CLINTON,64,4,32,28,0
+Jeff Davis,,President of the United States,,IND,GARY JOHNSON,86,5,48,33,0
+Jeff Davis,Hazelhurst,President of the United States,,IND,GARY JOHNSON,10,0,7,3,0
+Jeff Davis,Altamaha 1,President of the United States,,IND,GARY JOHNSON,11,1,5,5,0
+Jeff Davis,Altamaha 2,President of the United States,,IND,GARY JOHNSON,14,1,3,10,0
+Jeff Davis,Blackburn 1,President of the United States,,IND,GARY JOHNSON,9,2,4,3,0
+Jeff Davis,Blackburn 2,President of the United States,,IND,GARY JOHNSON,3,0,3,0,0
+Jeff Davis,Whitehead 1,President of the United States,,IND,GARY JOHNSON,12,0,8,4,0
+Jeff Davis,Whitehead 2,President of the United States,,IND,GARY JOHNSON,9,0,8,1,0
+Jeff Davis,Ocmulgee 1,President of the United States,,IND,GARY JOHNSON,13,1,5,7,0
+Jeff Davis,Ocmulgee 2,President of the United States,,IND,GARY JOHNSON,5,0,5,0,0
 Jeff Davis,,United States Senator,,,JOHNNY ISAKSON ,3716,155,1633,1926,2
 Jeff Davis,Hazelhurst,United States Senator,,,JOHNNY ISAKSON ,358,17,157,184,0
 Jeff Davis,Altamaha 1,United States Senator,,,JOHNNY ISAKSON ,368,19,128,221,0

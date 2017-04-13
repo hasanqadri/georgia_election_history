@@ -1,58 +1,58 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Bartow,,President of the United States,,,DONALD J. TRUMP,29911,1038,15525,13327,21
-Bartow,ADAIRSVILLE,President of the United States,,,DONALD J. TRUMP,2838,86,1819,931,2
-Bartow,ALLATOONA,President of the United States,,,DONALD J. TRUMP,1624,52,1072,499,1
-Bartow,CARTERSVILLE EAST,President of the United States,,,DONALD J. TRUMP,2309,95,845,1364,5
-Bartow,CARTERSVILLE WEST,President of the United States,,,DONALD J. TRUMP,2933,109,963,1859,2
-Bartow,BEAVERS DRIVE,President of the United States,,,DONALD J. TRUMP,2447,87,1164,1196,0
-Bartow,CENTER,President of the United States,,,DONALD J. TRUMP,1826,76,932,818,0
-Bartow,EMERSON,President of the United States,,,DONALD J. TRUMP,1380,48,764,567,1
-Bartow,EUHARLEE,President of the United States,,,DONALD J. TRUMP,1660,31,971,657,1
-Bartow,FOLSOM,President of the United States,,,DONALD J. TRUMP,698,33,479,185,1
-Bartow,KINGSTON,President of the United States,,,DONALD J. TRUMP,1252,35,810,407,0
-Bartow,MISSION ROAD,President of the United States,,,DONALD J. TRUMP,2521,81,1198,1241,1
-Bartow,PINE LOG,President of the United States,,,DONALD J. TRUMP,1084,42,730,310,2
-Bartow,TAYLORSVILLE,President of the United States,,,DONALD J. TRUMP,1482,30,1037,413,2
-Bartow,WHITE,President of the United States,,,DONALD J. TRUMP,1326,39,803,484,0
-Bartow,ZENA DRIVE,President of the United States,,,DONALD J. TRUMP,1873,88,782,1001,2
-Bartow,CASSVILLE,President of the United States,,,DONALD J. TRUMP,2000,76,845,1078,1
-Bartow,WOODLAND HIGH,President of the United States,,,DONALD J. TRUMP,658,30,311,317,0
-Bartow,,President of the United States,,,HILLARY CLINTON,8212,440,4051,3715,6
-Bartow,ADAIRSVILLE,President of the United States,,,HILLARY CLINTON,565,30,328,207,0
-Bartow,ALLATOONA,President of the United States,,,HILLARY CLINTON,433,31,277,124,1
-Bartow,CARTERSVILLE EAST,President of the United States,,,HILLARY CLINTON,1084,59,464,561,0
-Bartow,CARTERSVILLE WEST,President of the United States,,,HILLARY CLINTON,1193,85,466,641,1
-Bartow,BEAVERS DRIVE,President of the United States,,,HILLARY CLINTON,613,44,292,277,0
-Bartow,CENTER,President of the United States,,,HILLARY CLINTON,373,17,185,170,1
-Bartow,EMERSON,President of the United States,,,HILLARY CLINTON,289,18,148,123,0
-Bartow,EUHARLEE,President of the United States,,,HILLARY CLINTON,420,18,202,200,0
-Bartow,FOLSOM,President of the United States,,,HILLARY CLINTON,60,6,38,16,0
-Bartow,KINGSTON,President of the United States,,,HILLARY CLINTON,223,7,162,53,1
-Bartow,MISSION ROAD,President of the United States,,,HILLARY CLINTON,648,27,322,299,0
-Bartow,PINE LOG,President of the United States,,,HILLARY CLINTON,131,9,92,30,0
-Bartow,TAYLORSVILLE,President of the United States,,,HILLARY CLINTON,159,12,98,49,0
-Bartow,WHITE,President of the United States,,,HILLARY CLINTON,204,7,109,88,0
-Bartow,ZENA DRIVE,President of the United States,,,HILLARY CLINTON,937,39,459,437,2
-Bartow,CASSVILLE,President of the United States,,,HILLARY CLINTON,734,22,345,367,0
-Bartow,WOODLAND HIGH,President of the United States,,,HILLARY CLINTON,146,9,64,73,0
-Bartow,,President of the United States,,,GARY JOHNSON,1183,44,788,349,2
-Bartow,ADAIRSVILLE,President of the United States,,,GARY JOHNSON,99,4,78,17,0
-Bartow,ALLATOONA,President of the United States,,,GARY JOHNSON,75,1,56,18,0
-Bartow,CARTERSVILLE EAST,President of the United States,,,GARY JOHNSON,129,1,78,50,0
-Bartow,CARTERSVILLE WEST,President of the United States,,,GARY JOHNSON,115,5,58,52,0
-Bartow,BEAVERS DRIVE,President of the United States,,,GARY JOHNSON,84,5,50,28,1
-Bartow,CENTER,President of the United States,,,GARY JOHNSON,71,5,47,19,0
-Bartow,EMERSON,President of the United States,,,GARY JOHNSON,55,2,38,14,1
-Bartow,EUHARLEE,President of the United States,,,GARY JOHNSON,77,2,55,20,0
-Bartow,FOLSOM,President of the United States,,,GARY JOHNSON,16,0,16,0,0
-Bartow,KINGSTON,President of the United States,,,GARY JOHNSON,35,1,25,9,0
-Bartow,MISSION ROAD,President of the United States,,,GARY JOHNSON,82,4,60,18,0
-Bartow,PINE LOG,President of the United States,,,GARY JOHNSON,37,1,29,7,0
-Bartow,TAYLORSVILLE,President of the United States,,,GARY JOHNSON,36,2,25,9,0
-Bartow,WHITE,President of the United States,,,GARY JOHNSON,49,3,31,15,0
-Bartow,ZENA DRIVE,President of the United States,,,GARY JOHNSON,108,4,63,41,0
-Bartow,CASSVILLE,President of the United States,,,GARY JOHNSON,92,2,63,27,0
-Bartow,WOODLAND HIGH,President of the United States,,,GARY JOHNSON,23,2,16,5,0
+Bartow,,President of the United States,,REP,DONALD J. TRUMP,29911,1038,15525,13327,21
+Bartow,ADAIRSVILLE,President of the United States,,REP,DONALD J. TRUMP,2838,86,1819,931,2
+Bartow,ALLATOONA,President of the United States,,REP,DONALD J. TRUMP,1624,52,1072,499,1
+Bartow,CARTERSVILLE EAST,President of the United States,,REP,DONALD J. TRUMP,2309,95,845,1364,5
+Bartow,CARTERSVILLE WEST,President of the United States,,REP,DONALD J. TRUMP,2933,109,963,1859,2
+Bartow,BEAVERS DRIVE,President of the United States,,REP,DONALD J. TRUMP,2447,87,1164,1196,0
+Bartow,CENTER,President of the United States,,REP,DONALD J. TRUMP,1826,76,932,818,0
+Bartow,EMERSON,President of the United States,,REP,DONALD J. TRUMP,1380,48,764,567,1
+Bartow,EUHARLEE,President of the United States,,REP,DONALD J. TRUMP,1660,31,971,657,1
+Bartow,FOLSOM,President of the United States,,REP,DONALD J. TRUMP,698,33,479,185,1
+Bartow,KINGSTON,President of the United States,,REP,DONALD J. TRUMP,1252,35,810,407,0
+Bartow,MISSION ROAD,President of the United States,,REP,DONALD J. TRUMP,2521,81,1198,1241,1
+Bartow,PINE LOG,President of the United States,,REP,DONALD J. TRUMP,1084,42,730,310,2
+Bartow,TAYLORSVILLE,President of the United States,,REP,DONALD J. TRUMP,1482,30,1037,413,2
+Bartow,WHITE,President of the United States,,REP,DONALD J. TRUMP,1326,39,803,484,0
+Bartow,ZENA DRIVE,President of the United States,,REP,DONALD J. TRUMP,1873,88,782,1001,2
+Bartow,CASSVILLE,President of the United States,,REP,DONALD J. TRUMP,2000,76,845,1078,1
+Bartow,WOODLAND HIGH,President of the United States,,REP,DONALD J. TRUMP,658,30,311,317,0
+Bartow,,President of the United States,,DEM,HILLARY CLINTON,8212,440,4051,3715,6
+Bartow,ADAIRSVILLE,President of the United States,,DEM,HILLARY CLINTON,565,30,328,207,0
+Bartow,ALLATOONA,President of the United States,,DEM,HILLARY CLINTON,433,31,277,124,1
+Bartow,CARTERSVILLE EAST,President of the United States,,DEM,HILLARY CLINTON,1084,59,464,561,0
+Bartow,CARTERSVILLE WEST,President of the United States,,DEM,HILLARY CLINTON,1193,85,466,641,1
+Bartow,BEAVERS DRIVE,President of the United States,,DEM,HILLARY CLINTON,613,44,292,277,0
+Bartow,CENTER,President of the United States,,DEM,HILLARY CLINTON,373,17,185,170,1
+Bartow,EMERSON,President of the United States,,DEM,HILLARY CLINTON,289,18,148,123,0
+Bartow,EUHARLEE,President of the United States,,DEM,HILLARY CLINTON,420,18,202,200,0
+Bartow,FOLSOM,President of the United States,,DEM,HILLARY CLINTON,60,6,38,16,0
+Bartow,KINGSTON,President of the United States,,DEM,HILLARY CLINTON,223,7,162,53,1
+Bartow,MISSION ROAD,President of the United States,,DEM,HILLARY CLINTON,648,27,322,299,0
+Bartow,PINE LOG,President of the United States,,DEM,HILLARY CLINTON,131,9,92,30,0
+Bartow,TAYLORSVILLE,President of the United States,,DEM,HILLARY CLINTON,159,12,98,49,0
+Bartow,WHITE,President of the United States,,DEM,HILLARY CLINTON,204,7,109,88,0
+Bartow,ZENA DRIVE,President of the United States,,DEM,HILLARY CLINTON,937,39,459,437,2
+Bartow,CASSVILLE,President of the United States,,DEM,HILLARY CLINTON,734,22,345,367,0
+Bartow,WOODLAND HIGH,President of the United States,,DEM,HILLARY CLINTON,146,9,64,73,0
+Bartow,,President of the United States,,IND,GARY JOHNSON,1183,44,788,349,2
+Bartow,ADAIRSVILLE,President of the United States,,IND,GARY JOHNSON,99,4,78,17,0
+Bartow,ALLATOONA,President of the United States,,IND,GARY JOHNSON,75,1,56,18,0
+Bartow,CARTERSVILLE EAST,President of the United States,,IND,GARY JOHNSON,129,1,78,50,0
+Bartow,CARTERSVILLE WEST,President of the United States,,IND,GARY JOHNSON,115,5,58,52,0
+Bartow,BEAVERS DRIVE,President of the United States,,IND,GARY JOHNSON,84,5,50,28,1
+Bartow,CENTER,President of the United States,,IND,GARY JOHNSON,71,5,47,19,0
+Bartow,EMERSON,President of the United States,,IND,GARY JOHNSON,55,2,38,14,1
+Bartow,EUHARLEE,President of the United States,,IND,GARY JOHNSON,77,2,55,20,0
+Bartow,FOLSOM,President of the United States,,IND,GARY JOHNSON,16,0,16,0,0
+Bartow,KINGSTON,President of the United States,,IND,GARY JOHNSON,35,1,25,9,0
+Bartow,MISSION ROAD,President of the United States,,IND,GARY JOHNSON,82,4,60,18,0
+Bartow,PINE LOG,President of the United States,,IND,GARY JOHNSON,37,1,29,7,0
+Bartow,TAYLORSVILLE,President of the United States,,IND,GARY JOHNSON,36,2,25,9,0
+Bartow,WHITE,President of the United States,,IND,GARY JOHNSON,49,3,31,15,0
+Bartow,ZENA DRIVE,President of the United States,,IND,GARY JOHNSON,108,4,63,41,0
+Bartow,CASSVILLE,President of the United States,,IND,GARY JOHNSON,92,2,63,27,0
+Bartow,WOODLAND HIGH,President of the United States,,IND,GARY JOHNSON,23,2,16,5,0
 Bartow,,United States Senator,,,JOHNNY ISAKSON ,28073,1066,14515,12474,18
 Bartow,ADAIRSVILLE,United States Senator,,,JOHNNY ISAKSON ,2625,84,1684,856,1
 Bartow,ALLATOONA,United States Senator,,,JOHNNY ISAKSON ,1475,50,964,460,1

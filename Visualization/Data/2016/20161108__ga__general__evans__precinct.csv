@@ -1,10 +1,10 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Evans,,President of the United States,,,DONALD J. TRUMP,2404,122,675,1607,0
-Evans,Veteran's Comm Ctr,President of the United States,,,DONALD J. TRUMP,2404,122,675,1607,0
-Evans,,President of the United States,,,HILLARY CLINTON,1130,60,410,660,0
-Evans,Veteran's Comm Ctr,President of the United States,,,HILLARY CLINTON,1130,60,410,660,0
-Evans,,President of the United States,,,GARY JOHNSON,68,3,26,39,0
-Evans,Veteran's Comm Ctr,President of the United States,,,GARY JOHNSON,68,3,26,39,0
+Evans,,President of the United States,,REP,DONALD J. TRUMP,2404,122,675,1607,0
+Evans,Veteran's Comm Ctr,President of the United States,,REP,DONALD J. TRUMP,2404,122,675,1607,0
+Evans,,President of the United States,,DEM,HILLARY CLINTON,1130,60,410,660,0
+Evans,Veteran's Comm Ctr,President of the United States,,DEM,HILLARY CLINTON,1130,60,410,660,0
+Evans,,President of the United States,,IND,GARY JOHNSON,68,3,26,39,0
+Evans,Veteran's Comm Ctr,President of the United States,,IND,GARY JOHNSON,68,3,26,39,0
 Evans,,United States Senator,,,JOHNNY ISAKSON ,2395,131,671,1593,0
 Evans,Veteran's Comm Ctr,United States Senator,,,JOHNNY ISAKSON ,2395,131,671,1593,0
 Evans,,United States Senator,,,JIM BARKSDALE,852,48,324,480,0

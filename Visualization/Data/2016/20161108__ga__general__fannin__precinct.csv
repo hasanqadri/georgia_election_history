@@ -1,43 +1,43 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Fannin,,President of the United States,,,DONALD J. TRUMP,9632,621,4326,4676,9
-Fannin,COLWELL,President of the United States,,,DONALD J. TRUMP,562,32,279,251,0
-Fannin,FAIRPLAY,President of the United States,,,DONALD J. TRUMP,532,19,290,223,0
-Fannin,FLINTHILL,President of the United States,,,DONALD J. TRUMP,1483,102,685,695,1
-Fannin,HEMPTOWN,President of the United States,,,DONALD J. TRUMP,630,36,339,253,2
-Fannin,HOTHOUSE,President of the United States,,,DONALD J. TRUMP,611,36,281,294,0
-Fannin,MINERAL BLUFF,President of the United States,,,DONALD J. TRUMP,922,57,391,473,1
-Fannin,MOBILE,President of the United States,,,DONALD J. TRUMP,573,27,306,240,0
-Fannin,MORGANTON,President of the United States,,,DONALD J. TRUMP,985,75,478,428,4
-Fannin,NOONTOOTLA,President of the United States,,,DONALD J. TRUMP,443,30,216,196,1
-Fannin,SKENIAH,President of the United States,,,DONALD J. TRUMP,165,6,105,54,0
-Fannin,SUGAR CREEK,President of the United States,,,DONALD J. TRUMP,1161,83,423,655,0
-Fannin,TOCCOA,President of the United States,,,DONALD J. TRUMP,1565,118,533,914,0
-Fannin,,President of the United States,,,HILLARY CLINTON,1923,204,634,1082,3
-Fannin,COLWELL,President of the United States,,,HILLARY CLINTON,122,10,39,73,0
-Fannin,FAIRPLAY,President of the United States,,,HILLARY CLINTON,107,10,38,59,0
-Fannin,FLINTHILL,President of the United States,,,HILLARY CLINTON,287,40,115,132,0
-Fannin,HEMPTOWN,President of the United States,,,HILLARY CLINTON,122,22,35,65,0
-Fannin,HOTHOUSE,President of the United States,,,HILLARY CLINTON,108,10,35,63,0
-Fannin,MINERAL BLUFF,President of the United States,,,HILLARY CLINTON,143,12,47,84,0
-Fannin,MOBILE,President of the United States,,,HILLARY CLINTON,93,4,39,50,0
-Fannin,MORGANTON,President of the United States,,,HILLARY CLINTON,225,18,87,118,2
-Fannin,NOONTOOTLA,President of the United States,,,HILLARY CLINTON,94,4,38,52,0
-Fannin,SKENIAH,President of the United States,,,HILLARY CLINTON,50,11,21,18,0
-Fannin,SUGAR CREEK,President of the United States,,,HILLARY CLINTON,222,25,55,142,0
-Fannin,TOCCOA,President of the United States,,,HILLARY CLINTON,350,38,85,226,1
-Fannin,,President of the United States,,,GARY JOHNSON,222,20,107,95,0
-Fannin,COLWELL,President of the United States,,,GARY JOHNSON,13,3,5,5,0
-Fannin,FAIRPLAY,President of the United States,,,GARY JOHNSON,12,0,11,1,0
-Fannin,FLINTHILL,President of the United States,,,GARY JOHNSON,40,3,26,11,0
-Fannin,HEMPTOWN,President of the United States,,,GARY JOHNSON,13,0,5,8,0
-Fannin,HOTHOUSE,President of the United States,,,GARY JOHNSON,13,1,8,4,0
-Fannin,MINERAL BLUFF,President of the United States,,,GARY JOHNSON,12,0,7,5,0
-Fannin,MOBILE,President of the United States,,,GARY JOHNSON,14,1,5,8,0
-Fannin,MORGANTON,President of the United States,,,GARY JOHNSON,12,1,5,6,0
-Fannin,NOONTOOTLA,President of the United States,,,GARY JOHNSON,2,0,1,1,0
-Fannin,SKENIAH,President of the United States,,,GARY JOHNSON,3,0,3,0,0
-Fannin,SUGAR CREEK,President of the United States,,,GARY JOHNSON,34,3,15,16,0
-Fannin,TOCCOA,President of the United States,,,GARY JOHNSON,54,8,16,30,0
+Fannin,,President of the United States,,REP,DONALD J. TRUMP,9632,621,4326,4676,9
+Fannin,COLWELL,President of the United States,,REP,DONALD J. TRUMP,562,32,279,251,0
+Fannin,FAIRPLAY,President of the United States,,REP,DONALD J. TRUMP,532,19,290,223,0
+Fannin,FLINTHILL,President of the United States,,REP,DONALD J. TRUMP,1483,102,685,695,1
+Fannin,HEMPTOWN,President of the United States,,REP,DONALD J. TRUMP,630,36,339,253,2
+Fannin,HOTHOUSE,President of the United States,,REP,DONALD J. TRUMP,611,36,281,294,0
+Fannin,MINERAL BLUFF,President of the United States,,REP,DONALD J. TRUMP,922,57,391,473,1
+Fannin,MOBILE,President of the United States,,REP,DONALD J. TRUMP,573,27,306,240,0
+Fannin,MORGANTON,President of the United States,,REP,DONALD J. TRUMP,985,75,478,428,4
+Fannin,NOONTOOTLA,President of the United States,,REP,DONALD J. TRUMP,443,30,216,196,1
+Fannin,SKENIAH,President of the United States,,REP,DONALD J. TRUMP,165,6,105,54,0
+Fannin,SUGAR CREEK,President of the United States,,REP,DONALD J. TRUMP,1161,83,423,655,0
+Fannin,TOCCOA,President of the United States,,REP,DONALD J. TRUMP,1565,118,533,914,0
+Fannin,,President of the United States,,DEM,HILLARY CLINTON,1923,204,634,1082,3
+Fannin,COLWELL,President of the United States,,DEM,HILLARY CLINTON,122,10,39,73,0
+Fannin,FAIRPLAY,President of the United States,,DEM,HILLARY CLINTON,107,10,38,59,0
+Fannin,FLINTHILL,President of the United States,,DEM,HILLARY CLINTON,287,40,115,132,0
+Fannin,HEMPTOWN,President of the United States,,DEM,HILLARY CLINTON,122,22,35,65,0
+Fannin,HOTHOUSE,President of the United States,,DEM,HILLARY CLINTON,108,10,35,63,0
+Fannin,MINERAL BLUFF,President of the United States,,DEM,HILLARY CLINTON,143,12,47,84,0
+Fannin,MOBILE,President of the United States,,DEM,HILLARY CLINTON,93,4,39,50,0
+Fannin,MORGANTON,President of the United States,,DEM,HILLARY CLINTON,225,18,87,118,2
+Fannin,NOONTOOTLA,President of the United States,,DEM,HILLARY CLINTON,94,4,38,52,0
+Fannin,SKENIAH,President of the United States,,DEM,HILLARY CLINTON,50,11,21,18,0
+Fannin,SUGAR CREEK,President of the United States,,DEM,HILLARY CLINTON,222,25,55,142,0
+Fannin,TOCCOA,President of the United States,,DEM,HILLARY CLINTON,350,38,85,226,1
+Fannin,,President of the United States,,IND,GARY JOHNSON,222,20,107,95,0
+Fannin,COLWELL,President of the United States,,IND,GARY JOHNSON,13,3,5,5,0
+Fannin,FAIRPLAY,President of the United States,,IND,GARY JOHNSON,12,0,11,1,0
+Fannin,FLINTHILL,President of the United States,,IND,GARY JOHNSON,40,3,26,11,0
+Fannin,HEMPTOWN,President of the United States,,IND,GARY JOHNSON,13,0,5,8,0
+Fannin,HOTHOUSE,President of the United States,,IND,GARY JOHNSON,13,1,8,4,0
+Fannin,MINERAL BLUFF,President of the United States,,IND,GARY JOHNSON,12,0,7,5,0
+Fannin,MOBILE,President of the United States,,IND,GARY JOHNSON,14,1,5,8,0
+Fannin,MORGANTON,President of the United States,,IND,GARY JOHNSON,12,1,5,6,0
+Fannin,NOONTOOTLA,President of the United States,,IND,GARY JOHNSON,2,0,1,1,0
+Fannin,SKENIAH,President of the United States,,IND,GARY JOHNSON,3,0,3,0,0
+Fannin,SUGAR CREEK,President of the United States,,IND,GARY JOHNSON,34,3,15,16,0
+Fannin,TOCCOA,President of the United States,,IND,GARY JOHNSON,54,8,16,30,0
 Fannin,,United States Senator,,,JOHNNY ISAKSON ,8841,596,3908,4332,5
 Fannin,COLWELL,United States Senator,,,JOHNNY ISAKSON ,515,30,253,232,0
 Fannin,FAIRPLAY,United States Senator,,,JOHNNY ISAKSON ,479,19,261,199,0

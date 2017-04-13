@@ -1,16 +1,16 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Jasper,,President of the United States,,,DONALD J. TRUMP,4360,210,1678,2465,7
-Jasper,WYATT,President of the United States,,,DONALD J. TRUMP,812,29,444,338,1
-Jasper,MONTICELLO,President of the United States,,,DONALD J. TRUMP,1712,113,355,1238,6
-Jasper,MARTIN & BURNEY,President of the United States,,,DONALD J. TRUMP,1836,68,879,889,0
-Jasper,,President of the United States,,,HILLARY CLINTON,1544,162,554,828,0
-Jasper,WYATT,President of the United States,,,HILLARY CLINTON,229,9,135,85,0
-Jasper,MONTICELLO,President of the United States,,,HILLARY CLINTON,1067,137,313,617,0
-Jasper,MARTIN & BURNEY,President of the United States,,,HILLARY CLINTON,248,16,106,126,0
-Jasper,,President of the United States,,,GARY JOHNSON,119,8,59,52,0
-Jasper,WYATT,President of the United States,,,GARY JOHNSON,17,2,10,5,0
-Jasper,MONTICELLO,President of the United States,,,GARY JOHNSON,53,4,20,29,0
-Jasper,MARTIN & BURNEY,President of the United States,,,GARY JOHNSON,49,2,29,18,0
+Jasper,,President of the United States,,REP,DONALD J. TRUMP,4360,210,1678,2465,7
+Jasper,WYATT,President of the United States,,REP,DONALD J. TRUMP,812,29,444,338,1
+Jasper,MONTICELLO,President of the United States,,REP,DONALD J. TRUMP,1712,113,355,1238,6
+Jasper,MARTIN & BURNEY,President of the United States,,REP,DONALD J. TRUMP,1836,68,879,889,0
+Jasper,,President of the United States,,DEM,HILLARY CLINTON,1544,162,554,828,0
+Jasper,WYATT,President of the United States,,DEM,HILLARY CLINTON,229,9,135,85,0
+Jasper,MONTICELLO,President of the United States,,DEM,HILLARY CLINTON,1067,137,313,617,0
+Jasper,MARTIN & BURNEY,President of the United States,,DEM,HILLARY CLINTON,248,16,106,126,0
+Jasper,,President of the United States,,IND,GARY JOHNSON,119,8,59,52,0
+Jasper,WYATT,President of the United States,,IND,GARY JOHNSON,17,2,10,5,0
+Jasper,MONTICELLO,President of the United States,,IND,GARY JOHNSON,53,4,20,29,0
+Jasper,MARTIN & BURNEY,President of the United States,,IND,GARY JOHNSON,49,2,29,18,0
 Jasper,,United States Senator,,,JOHNNY ISAKSON ,4180,221,1593,2360,6
 Jasper,WYATT,United States Senator,,,JOHNNY ISAKSON ,766,30,415,321,0
 Jasper,MONTICELLO,United States Senator,,,JOHNNY ISAKSON ,1701,126,359,1210,6

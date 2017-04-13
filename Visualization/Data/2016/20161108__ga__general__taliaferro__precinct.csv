@@ -1,13 +1,13 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Taliaferro,,President of the United States,,,DONALD J. TRUMP,349,18,166,165,0
-Taliaferro,Sharon,President of the United States,,,DONALD J. TRUMP,80,2,58,20,0
-Taliaferro,Crawfordville,President of the United States,,,DONALD J. TRUMP,269,16,108,145,0
-Taliaferro,,President of the United States,,,HILLARY CLINTON,545,89,220,235,1
-Taliaferro,Sharon,President of the United States,,,HILLARY CLINTON,114,16,67,31,0
-Taliaferro,Crawfordville,President of the United States,,,HILLARY CLINTON,431,73,153,204,1
-Taliaferro,,President of the United States,,,GARY JOHNSON,3,0,0,3,0
-Taliaferro,Sharon,President of the United States,,,GARY JOHNSON,0,0,0,0,0
-Taliaferro,Crawfordville,President of the United States,,,GARY JOHNSON,3,0,0,3,0
+Taliaferro,,President of the United States,,REP,DONALD J. TRUMP,349,18,166,165,0
+Taliaferro,Sharon,President of the United States,,REP,DONALD J. TRUMP,80,2,58,20,0
+Taliaferro,Crawfordville,President of the United States,,REP,DONALD J. TRUMP,269,16,108,145,0
+Taliaferro,,President of the United States,,DEM,HILLARY CLINTON,545,89,220,235,1
+Taliaferro,Sharon,President of the United States,,DEM,HILLARY CLINTON,114,16,67,31,0
+Taliaferro,Crawfordville,President of the United States,,DEM,HILLARY CLINTON,431,73,153,204,1
+Taliaferro,,President of the United States,,IND,GARY JOHNSON,3,0,0,3,0
+Taliaferro,Sharon,President of the United States,,IND,GARY JOHNSON,0,0,0,0,0
+Taliaferro,Crawfordville,President of the United States,,IND,GARY JOHNSON,3,0,0,3,0
 Taliaferro,,United States Senator,,,JOHNNY ISAKSON ,341,17,162,162,0
 Taliaferro,Sharon,United States Senator,,,JOHNNY ISAKSON ,80,3,57,20,0
 Taliaferro,Crawfordville,United States Senator,,,JOHNNY ISAKSON ,261,14,105,142,0

@@ -1,100 +1,100 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Hall,,President of the United States,,,DONALD J. TRUMP,51733,2422,23488,25781,42
-Hall,01-Wilson,President of the United States,,,DONALD J. TRUMP,2279,124,493,1661,1
-Hall,02-Chicopee,President of the United States,,,DONALD J. TRUMP,710,40,284,384,2
-Hall,03-Oakwood I,President of the United States,,,DONALD J. TRUMP,800,36,396,367,1
-Hall,04-Oakwood II,President of the United States,,,DONALD J. TRUMP,1949,69,817,1060,3
-Hall,05-Flowery Branch I,President of the United States,,,DONALD J. TRUMP,1869,77,876,915,1
-Hall,06-Flowery Branch II,President of the United States,,,DONALD J. TRUMP,1429,54,761,611,3
-Hall,07-Roberts,President of the United States,,,DONALD J. TRUMP,2645,145,1362,1136,2
-Hall,08-Morgan I,President of the United States,,,DONALD J. TRUMP,1949,81,982,885,1
-Hall,09-Morgan II,President of the United States,,,DONALD J. TRUMP,2065,79,859,1126,1
-Hall,10-Candler,President of the United States,,,DONALD J. TRUMP,2228,79,1073,1073,3
-Hall,11-Tadmore,President of the United States,,,DONALD J. TRUMP,1208,41,611,553,3
-Hall,12-Glade,President of the United States,,,DONALD J. TRUMP,1503,86,678,738,1
-Hall,13-Lula,President of the United States,,,DONALD J. TRUMP,1603,54,950,597,2
-Hall,14-Clermont,President of the United States,,,DONALD J. TRUMP,1819,56,1084,678,1
-Hall,15-Quillians,President of the United States,,,DONALD J. TRUMP,1530,59,799,670,2
-Hall,16-Bark Camp,President of the United States,,,DONALD J. TRUMP,2724,105,1268,1351,0
-Hall,17-Chestatee,President of the United States,,,DONALD J. TRUMP,1849,85,783,979,2
-Hall,18-Fork,President of the United States,,,DONALD J. TRUMP,1734,52,702,978,2
-Hall,19-Whelchel,President of the United States,,,DONALD J. TRUMP,2214,104,1005,1105,0
-Hall,20-West Whelchel,President of the United States,,,DONALD J. TRUMP,2147,203,929,1015,0
-Hall,21-Gainesville I,President of the United States,,,DONALD J. TRUMP,1310,89,572,647,2
-Hall,22-Gainesville II,President of the United States,,,DONALD J. TRUMP,109,9,46,54,0
-Hall,23-Gainesville III,President of the United States,,,DONALD J. TRUMP,1063,54,440,565,4
-Hall,24-Gainesville IV,President of the United States,,,DONALD J. TRUMP,839,49,313,476,1
-Hall,25-Gainesville V,President of the United States,,,DONALD J. TRUMP,535,27,256,252,0
-Hall,26-Gillsville,President of the United States,,,DONALD J. TRUMP,614,26,401,187,0
-Hall,27-Big Hickory,President of the United States,,,DONALD J. TRUMP,2158,75,989,1093,1
-Hall,28-Friendship I,President of the United States,,,DONALD J. TRUMP,4065,301,1518,2246,0
-Hall,29-Friendship II,President of the United States,,,DONALD J. TRUMP,1548,67,769,711,1
-Hall,30-Friendship III,President of the United States,,,DONALD J. TRUMP,2085,62,952,1069,2
-Hall,31-Friendship IV,President of the United States,,,DONALD J. TRUMP,1153,34,520,599,0
-Hall,,President of the United States,,,HILLARY CLINTON,16180,1081,7161,7920,18
-Hall,01-Wilson,President of the United States,,,HILLARY CLINTON,840,49,263,526,2
-Hall,02-Chicopee,President of the United States,,,HILLARY CLINTON,496,11,277,208,0
-Hall,03-Oakwood I,President of the United States,,,HILLARY CLINTON,389,10,212,167,0
-Hall,04-Oakwood II,President of the United States,,,HILLARY CLINTON,534,32,213,289,0
-Hall,05-Flowery Branch I,President of the United States,,,HILLARY CLINTON,445,28,188,228,1
-Hall,06-Flowery Branch II,President of the United States,,,HILLARY CLINTON,476,27,241,208,0
-Hall,07-Roberts,President of the United States,,,HILLARY CLINTON,647,51,321,274,1
-Hall,08-Morgan I,President of the United States,,,HILLARY CLINTON,327,24,157,146,0
-Hall,09-Morgan II,President of the United States,,,HILLARY CLINTON,653,28,309,316,0
-Hall,10-Candler,President of the United States,,,HILLARY CLINTON,797,26,417,353,1
-Hall,11-Tadmore,President of the United States,,,HILLARY CLINTON,1138,44,552,538,4
-Hall,12-Glade,President of the United States,,,HILLARY CLINTON,376,22,153,199,2
-Hall,13-Lula,President of the United States,,,HILLARY CLINTON,220,16,117,86,1
-Hall,14-Clermont,President of the United States,,,HILLARY CLINTON,166,12,92,62,0
-Hall,15-Quillians,President of the United States,,,HILLARY CLINTON,161,7,91,62,1
-Hall,16-Bark Camp,President of the United States,,,HILLARY CLINTON,514,41,220,253,0
-Hall,17-Chestatee,President of the United States,,,HILLARY CLINTON,361,21,156,184,0
-Hall,18-Fork,President of the United States,,,HILLARY CLINTON,371,32,147,192,0
-Hall,19-Whelchel,President of the United States,,,HILLARY CLINTON,468,36,227,205,0
-Hall,20-West Whelchel,President of the United States,,,HILLARY CLINTON,541,84,189,268,0
-Hall,21-Gainesville I,President of the United States,,,HILLARY CLINTON,625,44,244,337,0
-Hall,22-Gainesville II,President of the United States,,,HILLARY CLINTON,1189,109,494,585,1
-Hall,23-Gainesville III,President of the United States,,,HILLARY CLINTON,950,39,427,482,2
-Hall,24-Gainesville IV,President of the United States,,,HILLARY CLINTON,546,33,233,280,0
-Hall,25-Gainesville V,President of the United States,,,HILLARY CLINTON,269,16,134,118,1
-Hall,26-Gillsville,President of the United States,,,HILLARY CLINTON,78,5,47,25,1
-Hall,27-Big Hickory,President of the United States,,,HILLARY CLINTON,257,25,107,125,0
-Hall,28-Friendship I,President of the United States,,,HILLARY CLINTON,1108,127,371,610,0
-Hall,29-Friendship II,President of the United States,,,HILLARY CLINTON,331,27,153,151,0
-Hall,30-Friendship III,President of the United States,,,HILLARY CLINTON,543,36,255,252,0
-Hall,31-Friendship IV,President of the United States,,,HILLARY CLINTON,364,19,154,191,0
-Hall,,President of the United States,,,GARY JOHNSON,2307,124,1380,798,5
-Hall,01-Wilson,President of the United States,,,GARY JOHNSON,98,3,41,53,1
-Hall,02-Chicopee,President of the United States,,,GARY JOHNSON,60,3,30,27,0
-Hall,03-Oakwood I,President of the United States,,,GARY JOHNSON,50,3,29,18,0
-Hall,04-Oakwood II,President of the United States,,,GARY JOHNSON,96,5,49,42,0
-Hall,05-Flowery Branch I,President of the United States,,,GARY JOHNSON,104,9,66,29,0
-Hall,06-Flowery Branch II,President of the United States,,,GARY JOHNSON,61,1,44,16,0
-Hall,07-Roberts,President of the United States,,,GARY JOHNSON,95,6,65,24,0
-Hall,08-Morgan I,President of the United States,,,GARY JOHNSON,67,4,47,16,0
-Hall,09-Morgan II,President of the United States,,,GARY JOHNSON,88,4,57,27,0
-Hall,10-Candler,President of the United States,,,GARY JOHNSON,102,5,51,45,1
-Hall,11-Tadmore,President of the United States,,,GARY JOHNSON,72,3,45,24,0
-Hall,12-Glade,President of the United States,,,GARY JOHNSON,77,6,40,30,1
-Hall,13-Lula,President of the United States,,,GARY JOHNSON,40,3,27,10,0
-Hall,14-Clermont,President of the United States,,,GARY JOHNSON,49,3,36,10,0
-Hall,15-Quillians,President of the United States,,,GARY JOHNSON,39,4,18,17,0
-Hall,16-Bark Camp,President of the United States,,,GARY JOHNSON,93,5,43,45,0
-Hall,17-Chestatee,President of the United States,,,GARY JOHNSON,73,3,40,30,0
-Hall,18-Fork,President of the United States,,,GARY JOHNSON,57,11,33,13,0
-Hall,19-Whelchel,President of the United States,,,GARY JOHNSON,77,2,52,23,0
-Hall,20-West Whelchel,President of the United States,,,GARY JOHNSON,109,9,65,35,0
-Hall,21-Gainesville I,President of the United States,,,GARY JOHNSON,75,6,51,18,0
-Hall,22-Gainesville II,President of the United States,,,GARY JOHNSON,23,1,15,7,0
-Hall,23-Gainesville III,President of the United States,,,GARY JOHNSON,110,1,68,39,2
-Hall,24-Gainesville IV,President of the United States,,,GARY JOHNSON,76,3,44,29,0
-Hall,25-Gainesville V,President of the United States,,,GARY JOHNSON,48,1,27,20,0
-Hall,26-Gillsville,President of the United States,,,GARY JOHNSON,14,0,11,3,0
-Hall,27-Big Hickory,President of the United States,,,GARY JOHNSON,72,5,42,25,0
-Hall,28-Friendship I,President of the United States,,,GARY JOHNSON,161,8,95,58,0
-Hall,29-Friendship II,President of the United States,,,GARY JOHNSON,74,3,44,27,0
-Hall,30-Friendship III,President of the United States,,,GARY JOHNSON,107,4,74,29,0
-Hall,31-Friendship IV,President of the United States,,,GARY JOHNSON,40,0,31,9,0
+Hall,,President of the United States,,REP,DONALD J. TRUMP,51733,2422,23488,25781,42
+Hall,01-Wilson,President of the United States,,REP,DONALD J. TRUMP,2279,124,493,1661,1
+Hall,02-Chicopee,President of the United States,,REP,DONALD J. TRUMP,710,40,284,384,2
+Hall,03-Oakwood I,President of the United States,,REP,DONALD J. TRUMP,800,36,396,367,1
+Hall,04-Oakwood II,President of the United States,,REP,DONALD J. TRUMP,1949,69,817,1060,3
+Hall,05-Flowery Branch I,President of the United States,,REP,DONALD J. TRUMP,1869,77,876,915,1
+Hall,06-Flowery Branch II,President of the United States,,REP,DONALD J. TRUMP,1429,54,761,611,3
+Hall,07-Roberts,President of the United States,,REP,DONALD J. TRUMP,2645,145,1362,1136,2
+Hall,08-Morgan I,President of the United States,,REP,DONALD J. TRUMP,1949,81,982,885,1
+Hall,09-Morgan II,President of the United States,,REP,DONALD J. TRUMP,2065,79,859,1126,1
+Hall,10-Candler,President of the United States,,REP,DONALD J. TRUMP,2228,79,1073,1073,3
+Hall,11-Tadmore,President of the United States,,REP,DONALD J. TRUMP,1208,41,611,553,3
+Hall,12-Glade,President of the United States,,REP,DONALD J. TRUMP,1503,86,678,738,1
+Hall,13-Lula,President of the United States,,REP,DONALD J. TRUMP,1603,54,950,597,2
+Hall,14-Clermont,President of the United States,,REP,DONALD J. TRUMP,1819,56,1084,678,1
+Hall,15-Quillians,President of the United States,,REP,DONALD J. TRUMP,1530,59,799,670,2
+Hall,16-Bark Camp,President of the United States,,REP,DONALD J. TRUMP,2724,105,1268,1351,0
+Hall,17-Chestatee,President of the United States,,REP,DONALD J. TRUMP,1849,85,783,979,2
+Hall,18-Fork,President of the United States,,REP,DONALD J. TRUMP,1734,52,702,978,2
+Hall,19-Whelchel,President of the United States,,REP,DONALD J. TRUMP,2214,104,1005,1105,0
+Hall,20-West Whelchel,President of the United States,,REP,DONALD J. TRUMP,2147,203,929,1015,0
+Hall,21-Gainesville I,President of the United States,,REP,DONALD J. TRUMP,1310,89,572,647,2
+Hall,22-Gainesville II,President of the United States,,REP,DONALD J. TRUMP,109,9,46,54,0
+Hall,23-Gainesville III,President of the United States,,REP,DONALD J. TRUMP,1063,54,440,565,4
+Hall,24-Gainesville IV,President of the United States,,REP,DONALD J. TRUMP,839,49,313,476,1
+Hall,25-Gainesville V,President of the United States,,REP,DONALD J. TRUMP,535,27,256,252,0
+Hall,26-Gillsville,President of the United States,,REP,DONALD J. TRUMP,614,26,401,187,0
+Hall,27-Big Hickory,President of the United States,,REP,DONALD J. TRUMP,2158,75,989,1093,1
+Hall,28-Friendship I,President of the United States,,REP,DONALD J. TRUMP,4065,301,1518,2246,0
+Hall,29-Friendship II,President of the United States,,REP,DONALD J. TRUMP,1548,67,769,711,1
+Hall,30-Friendship III,President of the United States,,REP,DONALD J. TRUMP,2085,62,952,1069,2
+Hall,31-Friendship IV,President of the United States,,REP,DONALD J. TRUMP,1153,34,520,599,0
+Hall,,President of the United States,,DEM,HILLARY CLINTON,16180,1081,7161,7920,18
+Hall,01-Wilson,President of the United States,,DEM,HILLARY CLINTON,840,49,263,526,2
+Hall,02-Chicopee,President of the United States,,DEM,HILLARY CLINTON,496,11,277,208,0
+Hall,03-Oakwood I,President of the United States,,DEM,HILLARY CLINTON,389,10,212,167,0
+Hall,04-Oakwood II,President of the United States,,DEM,HILLARY CLINTON,534,32,213,289,0
+Hall,05-Flowery Branch I,President of the United States,,DEM,HILLARY CLINTON,445,28,188,228,1
+Hall,06-Flowery Branch II,President of the United States,,DEM,HILLARY CLINTON,476,27,241,208,0
+Hall,07-Roberts,President of the United States,,DEM,HILLARY CLINTON,647,51,321,274,1
+Hall,08-Morgan I,President of the United States,,DEM,HILLARY CLINTON,327,24,157,146,0
+Hall,09-Morgan II,President of the United States,,DEM,HILLARY CLINTON,653,28,309,316,0
+Hall,10-Candler,President of the United States,,DEM,HILLARY CLINTON,797,26,417,353,1
+Hall,11-Tadmore,President of the United States,,DEM,HILLARY CLINTON,1138,44,552,538,4
+Hall,12-Glade,President of the United States,,DEM,HILLARY CLINTON,376,22,153,199,2
+Hall,13-Lula,President of the United States,,DEM,HILLARY CLINTON,220,16,117,86,1
+Hall,14-Clermont,President of the United States,,DEM,HILLARY CLINTON,166,12,92,62,0
+Hall,15-Quillians,President of the United States,,DEM,HILLARY CLINTON,161,7,91,62,1
+Hall,16-Bark Camp,President of the United States,,DEM,HILLARY CLINTON,514,41,220,253,0
+Hall,17-Chestatee,President of the United States,,DEM,HILLARY CLINTON,361,21,156,184,0
+Hall,18-Fork,President of the United States,,DEM,HILLARY CLINTON,371,32,147,192,0
+Hall,19-Whelchel,President of the United States,,DEM,HILLARY CLINTON,468,36,227,205,0
+Hall,20-West Whelchel,President of the United States,,DEM,HILLARY CLINTON,541,84,189,268,0
+Hall,21-Gainesville I,President of the United States,,DEM,HILLARY CLINTON,625,44,244,337,0
+Hall,22-Gainesville II,President of the United States,,DEM,HILLARY CLINTON,1189,109,494,585,1
+Hall,23-Gainesville III,President of the United States,,DEM,HILLARY CLINTON,950,39,427,482,2
+Hall,24-Gainesville IV,President of the United States,,DEM,HILLARY CLINTON,546,33,233,280,0
+Hall,25-Gainesville V,President of the United States,,DEM,HILLARY CLINTON,269,16,134,118,1
+Hall,26-Gillsville,President of the United States,,DEM,HILLARY CLINTON,78,5,47,25,1
+Hall,27-Big Hickory,President of the United States,,DEM,HILLARY CLINTON,257,25,107,125,0
+Hall,28-Friendship I,President of the United States,,DEM,HILLARY CLINTON,1108,127,371,610,0
+Hall,29-Friendship II,President of the United States,,DEM,HILLARY CLINTON,331,27,153,151,0
+Hall,30-Friendship III,President of the United States,,DEM,HILLARY CLINTON,543,36,255,252,0
+Hall,31-Friendship IV,President of the United States,,DEM,HILLARY CLINTON,364,19,154,191,0
+Hall,,President of the United States,,IND,GARY JOHNSON,2307,124,1380,798,5
+Hall,01-Wilson,President of the United States,,IND,GARY JOHNSON,98,3,41,53,1
+Hall,02-Chicopee,President of the United States,,IND,GARY JOHNSON,60,3,30,27,0
+Hall,03-Oakwood I,President of the United States,,IND,GARY JOHNSON,50,3,29,18,0
+Hall,04-Oakwood II,President of the United States,,IND,GARY JOHNSON,96,5,49,42,0
+Hall,05-Flowery Branch I,President of the United States,,IND,GARY JOHNSON,104,9,66,29,0
+Hall,06-Flowery Branch II,President of the United States,,IND,GARY JOHNSON,61,1,44,16,0
+Hall,07-Roberts,President of the United States,,IND,GARY JOHNSON,95,6,65,24,0
+Hall,08-Morgan I,President of the United States,,IND,GARY JOHNSON,67,4,47,16,0
+Hall,09-Morgan II,President of the United States,,IND,GARY JOHNSON,88,4,57,27,0
+Hall,10-Candler,President of the United States,,IND,GARY JOHNSON,102,5,51,45,1
+Hall,11-Tadmore,President of the United States,,IND,GARY JOHNSON,72,3,45,24,0
+Hall,12-Glade,President of the United States,,IND,GARY JOHNSON,77,6,40,30,1
+Hall,13-Lula,President of the United States,,IND,GARY JOHNSON,40,3,27,10,0
+Hall,14-Clermont,President of the United States,,IND,GARY JOHNSON,49,3,36,10,0
+Hall,15-Quillians,President of the United States,,IND,GARY JOHNSON,39,4,18,17,0
+Hall,16-Bark Camp,President of the United States,,IND,GARY JOHNSON,93,5,43,45,0
+Hall,17-Chestatee,President of the United States,,IND,GARY JOHNSON,73,3,40,30,0
+Hall,18-Fork,President of the United States,,IND,GARY JOHNSON,57,11,33,13,0
+Hall,19-Whelchel,President of the United States,,IND,GARY JOHNSON,77,2,52,23,0
+Hall,20-West Whelchel,President of the United States,,IND,GARY JOHNSON,109,9,65,35,0
+Hall,21-Gainesville I,President of the United States,,IND,GARY JOHNSON,75,6,51,18,0
+Hall,22-Gainesville II,President of the United States,,IND,GARY JOHNSON,23,1,15,7,0
+Hall,23-Gainesville III,President of the United States,,IND,GARY JOHNSON,110,1,68,39,2
+Hall,24-Gainesville IV,President of the United States,,IND,GARY JOHNSON,76,3,44,29,0
+Hall,25-Gainesville V,President of the United States,,IND,GARY JOHNSON,48,1,27,20,0
+Hall,26-Gillsville,President of the United States,,IND,GARY JOHNSON,14,0,11,3,0
+Hall,27-Big Hickory,President of the United States,,IND,GARY JOHNSON,72,5,42,25,0
+Hall,28-Friendship I,President of the United States,,IND,GARY JOHNSON,161,8,95,58,0
+Hall,29-Friendship II,President of the United States,,IND,GARY JOHNSON,74,3,44,27,0
+Hall,30-Friendship III,President of the United States,,IND,GARY JOHNSON,107,4,74,29,0
+Hall,31-Friendship IV,President of the United States,,IND,GARY JOHNSON,40,0,31,9,0
 Hall,,United States Senator,,,JOHNNY ISAKSON ,50124,2504,22804,24778,38
 Hall,01-Wilson,United States Senator,,,JOHNNY ISAKSON ,2247,133,492,1621,1
 Hall,02-Chicopee,United States Senator,,,JOHNNY ISAKSON ,693,37,283,371,2

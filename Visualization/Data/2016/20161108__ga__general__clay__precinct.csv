@@ -1,22 +1,22 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Clay,,President of the United States,,,DONALD J. TRUMP,566,36,162,366,2
-Clay,Bluffton,President of the United States,,,DONALD J. TRUMP,150,14,52,84,0
-Clay,Zetto,President of the United States,,,DONALD J. TRUMP,79,6,21,50,2
-Clay,Courthouse,President of the United States,,,DONALD J. TRUMP,41,3,12,26,0
-Clay,Old Head Start,President of the United States,,,DONALD J. TRUMP,126,4,30,92,0
-Clay,Day's Cross Roads,President of the United States,,,DONALD J. TRUMP,170,9,47,114,0
-Clay,,President of the United States,,,HILLARY CLINTON,697,69,366,261,1
-Clay,Bluffton,President of the United States,,,HILLARY CLINTON,78,9,37,32,0
-Clay,Zetto,President of the United States,,,HILLARY CLINTON,159,14,86,59,0
-Clay,Courthouse,President of the United States,,,HILLARY CLINTON,181,15,105,60,1
-Clay,Old Head Start,President of the United States,,,HILLARY CLINTON,162,20,82,60,0
-Clay,Day's Cross Roads,President of the United States,,,HILLARY CLINTON,117,11,56,50,0
-Clay,,President of the United States,,,GARY JOHNSON,8,0,6,2,0
-Clay,Bluffton,President of the United States,,,GARY JOHNSON,3,0,2,1,0
-Clay,Zetto,President of the United States,,,GARY JOHNSON,0,0,0,0,0
-Clay,Courthouse,President of the United States,,,GARY JOHNSON,4,0,3,1,0
-Clay,Old Head Start,President of the United States,,,GARY JOHNSON,0,0,0,0,0
-Clay,Day's Cross Roads,President of the United States,,,GARY JOHNSON,1,0,1,0,0
+Clay,,President of the United States,,REP,DONALD J. TRUMP,566,36,162,366,2
+Clay,Bluffton,President of the United States,,REP,DONALD J. TRUMP,150,14,52,84,0
+Clay,Zetto,President of the United States,,REP,DONALD J. TRUMP,79,6,21,50,2
+Clay,Courthouse,President of the United States,,REP,DONALD J. TRUMP,41,3,12,26,0
+Clay,Old Head Start,President of the United States,,REP,DONALD J. TRUMP,126,4,30,92,0
+Clay,Day's Cross Roads,President of the United States,,REP,DONALD J. TRUMP,170,9,47,114,0
+Clay,,President of the United States,,DEM,HILLARY CLINTON,697,69,366,261,1
+Clay,Bluffton,President of the United States,,DEM,HILLARY CLINTON,78,9,37,32,0
+Clay,Zetto,President of the United States,,DEM,HILLARY CLINTON,159,14,86,59,0
+Clay,Courthouse,President of the United States,,DEM,HILLARY CLINTON,181,15,105,60,1
+Clay,Old Head Start,President of the United States,,DEM,HILLARY CLINTON,162,20,82,60,0
+Clay,Day's Cross Roads,President of the United States,,DEM,HILLARY CLINTON,117,11,56,50,0
+Clay,,President of the United States,,IND,GARY JOHNSON,8,0,6,2,0
+Clay,Bluffton,President of the United States,,IND,GARY JOHNSON,3,0,2,1,0
+Clay,Zetto,President of the United States,,IND,GARY JOHNSON,0,0,0,0,0
+Clay,Courthouse,President of the United States,,IND,GARY JOHNSON,4,0,3,1,0
+Clay,Old Head Start,President of the United States,,IND,GARY JOHNSON,0,0,0,0,0
+Clay,Day's Cross Roads,President of the United States,,IND,GARY JOHNSON,1,0,1,0,0
 Clay,,United States Senator,,,JOHNNY ISAKSON ,560,34,172,352,2
 Clay,Bluffton,United States Senator,,,JOHNNY ISAKSON ,149,14,51,84,0
 Clay,Zetto,United States Senator,,,JOHNNY ISAKSON ,75,4,22,47,2

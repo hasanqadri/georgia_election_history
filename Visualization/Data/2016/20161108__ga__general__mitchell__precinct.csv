@@ -1,40 +1,40 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Mitchell,,President of the United States,,,DONALD J. TRUMP,4279,193,2038,2041,7
-Mitchell,Baconton,President of the United States,,,DONALD J. TRUMP,342,9,200,130,3
-Mitchell,Branchville,President of the United States,,,DONALD J. TRUMP,327,6,199,119,3
-Mitchell,Camilla North,President of the United States,,,DONALD J. TRUMP,212,14,52,146,0
-Mitchell,Camilla South,President of the United States,,,DONALD J. TRUMP,1087,81,221,784,1
-Mitchell,Cotton,President of the United States,,,DONALD J. TRUMP,245,6,179,60,0
-Mitchell,Hopeful,President of the United States,,,DONALD J. TRUMP,178,7,110,61,0
-Mitchell,Hisonton,President of the United States,,,DONALD J. TRUMP,105,5,84,16,0
-Mitchell,Lester,President of the United States,,,DONALD J. TRUMP,599,20,353,226,0
-Mitchell,Pebble City,President of the United States,,,DONALD J. TRUMP,107,9,67,31,0
-Mitchell,Pelham,President of the United States,,,DONALD J. TRUMP,879,32,410,437,0
-Mitchell,Sale City,President of the United States,,,DONALD J. TRUMP,198,4,163,31,0
-Mitchell,,President of the United States,,,HILLARY CLINTON,3493,378,1461,1653,1
-Mitchell,Baconton,President of the United States,,,HILLARY CLINTON,294,22,158,113,1
-Mitchell,Branchville,President of the United States,,,HILLARY CLINTON,71,9,26,36,0
-Mitchell,Camilla North,President of the United States,,,HILLARY CLINTON,944,99,363,482,0
-Mitchell,Camilla South,President of the United States,,,HILLARY CLINTON,990,85,343,562,0
-Mitchell,Cotton,President of the United States,,,HILLARY CLINTON,21,1,13,7,0
-Mitchell,Hopeful,President of the United States,,,HILLARY CLINTON,49,4,23,22,0
-Mitchell,Hisonton,President of the United States,,,HILLARY CLINTON,11,1,5,5,0
-Mitchell,Lester,President of the United States,,,HILLARY CLINTON,140,17,43,80,0
-Mitchell,Pebble City,President of the United States,,,HILLARY CLINTON,14,0,9,5,0
-Mitchell,Pelham,President of the United States,,,HILLARY CLINTON,907,140,434,333,0
-Mitchell,Sale City,President of the United States,,,HILLARY CLINTON,52,0,44,8,0
-Mitchell,,President of the United States,,,GARY JOHNSON,93,7,53,33,0
-Mitchell,Baconton,President of the United States,,,GARY JOHNSON,9,1,4,4,0
-Mitchell,Branchville,President of the United States,,,GARY JOHNSON,4,0,0,4,0
-Mitchell,Camilla North,President of the United States,,,GARY JOHNSON,8,1,6,1,0
-Mitchell,Camilla South,President of the United States,,,GARY JOHNSON,28,3,11,14,0
-Mitchell,Cotton,President of the United States,,,GARY JOHNSON,2,0,2,0,0
-Mitchell,Hopeful,President of the United States,,,GARY JOHNSON,2,0,2,0,0
-Mitchell,Hisonton,President of the United States,,,GARY JOHNSON,0,0,0,0,0
-Mitchell,Lester,President of the United States,,,GARY JOHNSON,8,0,3,5,0
-Mitchell,Pebble City,President of the United States,,,GARY JOHNSON,1,0,1,0,0
-Mitchell,Pelham,President of the United States,,,GARY JOHNSON,28,2,21,5,0
-Mitchell,Sale City,President of the United States,,,GARY JOHNSON,3,0,3,0,0
+Mitchell,,President of the United States,,REP,DONALD J. TRUMP,4279,193,2038,2041,7
+Mitchell,Baconton,President of the United States,,REP,DONALD J. TRUMP,342,9,200,130,3
+Mitchell,Branchville,President of the United States,,REP,DONALD J. TRUMP,327,6,199,119,3
+Mitchell,Camilla North,President of the United States,,REP,DONALD J. TRUMP,212,14,52,146,0
+Mitchell,Camilla South,President of the United States,,REP,DONALD J. TRUMP,1087,81,221,784,1
+Mitchell,Cotton,President of the United States,,REP,DONALD J. TRUMP,245,6,179,60,0
+Mitchell,Hopeful,President of the United States,,REP,DONALD J. TRUMP,178,7,110,61,0
+Mitchell,Hisonton,President of the United States,,REP,DONALD J. TRUMP,105,5,84,16,0
+Mitchell,Lester,President of the United States,,REP,DONALD J. TRUMP,599,20,353,226,0
+Mitchell,Pebble City,President of the United States,,REP,DONALD J. TRUMP,107,9,67,31,0
+Mitchell,Pelham,President of the United States,,REP,DONALD J. TRUMP,879,32,410,437,0
+Mitchell,Sale City,President of the United States,,REP,DONALD J. TRUMP,198,4,163,31,0
+Mitchell,,President of the United States,,DEM,HILLARY CLINTON,3493,378,1461,1653,1
+Mitchell,Baconton,President of the United States,,DEM,HILLARY CLINTON,294,22,158,113,1
+Mitchell,Branchville,President of the United States,,DEM,HILLARY CLINTON,71,9,26,36,0
+Mitchell,Camilla North,President of the United States,,DEM,HILLARY CLINTON,944,99,363,482,0
+Mitchell,Camilla South,President of the United States,,DEM,HILLARY CLINTON,990,85,343,562,0
+Mitchell,Cotton,President of the United States,,DEM,HILLARY CLINTON,21,1,13,7,0
+Mitchell,Hopeful,President of the United States,,DEM,HILLARY CLINTON,49,4,23,22,0
+Mitchell,Hisonton,President of the United States,,DEM,HILLARY CLINTON,11,1,5,5,0
+Mitchell,Lester,President of the United States,,DEM,HILLARY CLINTON,140,17,43,80,0
+Mitchell,Pebble City,President of the United States,,DEM,HILLARY CLINTON,14,0,9,5,0
+Mitchell,Pelham,President of the United States,,DEM,HILLARY CLINTON,907,140,434,333,0
+Mitchell,Sale City,President of the United States,,DEM,HILLARY CLINTON,52,0,44,8,0
+Mitchell,,President of the United States,,IND,GARY JOHNSON,93,7,53,33,0
+Mitchell,Baconton,President of the United States,,IND,GARY JOHNSON,9,1,4,4,0
+Mitchell,Branchville,President of the United States,,IND,GARY JOHNSON,4,0,0,4,0
+Mitchell,Camilla North,President of the United States,,IND,GARY JOHNSON,8,1,6,1,0
+Mitchell,Camilla South,President of the United States,,IND,GARY JOHNSON,28,3,11,14,0
+Mitchell,Cotton,President of the United States,,IND,GARY JOHNSON,2,0,2,0,0
+Mitchell,Hopeful,President of the United States,,IND,GARY JOHNSON,2,0,2,0,0
+Mitchell,Hisonton,President of the United States,,IND,GARY JOHNSON,0,0,0,0,0
+Mitchell,Lester,President of the United States,,IND,GARY JOHNSON,8,0,3,5,0
+Mitchell,Pebble City,President of the United States,,IND,GARY JOHNSON,1,0,1,0,0
+Mitchell,Pelham,President of the United States,,IND,GARY JOHNSON,28,2,21,5,0
+Mitchell,Sale City,President of the United States,,IND,GARY JOHNSON,3,0,3,0,0
 Mitchell,,United States Senator,,,JOHNNY ISAKSON ,4243,208,2007,2021,7
 Mitchell,Baconton,United States Senator,,,JOHNNY ISAKSON ,343,13,197,129,4
 Mitchell,Branchville,United States Senator,,,JOHNNY ISAKSON ,311,8,183,118,2

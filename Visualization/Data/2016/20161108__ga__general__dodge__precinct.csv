@@ -1,55 +1,55 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Dodge,,President of the United States,,,DONALD J. TRUMP,5021,235,2732,2054,0
-Dodge,Chauncey,President of the United States,,,DONALD J. TRUMP,200,12,134,54,0
-Dodge,Clark,President of the United States,,,DONALD J. TRUMP,54,0,39,15,0
-Dodge,Eddin,President of the United States,,,DONALD J. TRUMP,439,9,246,184,0
-Dodge,Empire,President of the United States,,,DONALD J. TRUMP,229,5,168,56,0
-Dodge,Jaybird,President of the United States,,,DONALD J. TRUMP,89,4,68,17,0
-Dodge,Jones,President of the United States,,,DONALD J. TRUMP,256,6,167,83,0
-Dodge,Lee,President of the United States,,,DONALD J. TRUMP,1692,125,533,1034,0
-Dodge,McCranie,President of the United States,,,DONALD J. TRUMP,176,4,124,48,0
-Dodge,Milan,President of the United States,,,DONALD J. TRUMP,170,8,123,39,0
-Dodge,Mitchell,President of the United States,,,DONALD J. TRUMP,181,8,124,49,0
-Dodge,Mullis,President of the United States,,,DONALD J. TRUMP,231,6,184,41,0
-Dodge,Plainfield,President of the United States,,,DONALD J. TRUMP,257,5,164,88,0
-Dodge,Pondtown,President of the United States,,,DONALD J. TRUMP,361,20,248,93,0
-Dodge,Rawlins,President of the United States,,,DONALD J. TRUMP,438,21,207,210,0
-Dodge,Vilula,President of the United States,,,DONALD J. TRUMP,121,1,101,19,0
-Dodge,Yonker,President of the United States,,,DONALD J. TRUMP,127,1,102,24,0
-Dodge,,President of the United States,,,HILLARY CLINTON,1839,97,940,800,2
-Dodge,Chauncey,President of the United States,,,HILLARY CLINTON,57,2,49,6,0
-Dodge,Clark,President of the United States,,,HILLARY CLINTON,5,3,1,1,0
-Dodge,Eddin,President of the United States,,,HILLARY CLINTON,195,11,108,76,0
-Dodge,Empire,President of the United States,,,HILLARY CLINTON,23,0,11,12,0
-Dodge,Jaybird,President of the United States,,,HILLARY CLINTON,52,1,45,5,1
-Dodge,Jones,President of the United States,,,HILLARY CLINTON,33,0,26,7,0
-Dodge,Lee,President of the United States,,,HILLARY CLINTON,979,56,404,519,0
-Dodge,McCranie,President of the United States,,,HILLARY CLINTON,31,3,25,3,0
-Dodge,Milan,President of the United States,,,HILLARY CLINTON,43,0,37,5,1
-Dodge,Mitchell,President of the United States,,,HILLARY CLINTON,56,1,28,27,0
-Dodge,Mullis,President of the United States,,,HILLARY CLINTON,70,1,59,10,0
-Dodge,Plainfield,President of the United States,,,HILLARY CLINTON,33,2,20,11,0
-Dodge,Pondtown,President of the United States,,,HILLARY CLINTON,116,10,69,37,0
-Dodge,Rawlins,President of the United States,,,HILLARY CLINTON,125,3,46,76,0
-Dodge,Vilula,President of the United States,,,HILLARY CLINTON,4,0,3,1,0
-Dodge,Yonker,President of the United States,,,HILLARY CLINTON,17,4,9,4,0
-Dodge,,President of the United States,,,GARY JOHNSON,138,9,74,55,0
-Dodge,Chauncey,President of the United States,,,GARY JOHNSON,6,0,3,3,0
-Dodge,Clark,President of the United States,,,GARY JOHNSON,0,0,0,0,0
-Dodge,Eddin,President of the United States,,,GARY JOHNSON,14,1,7,6,0
-Dodge,Empire,President of the United States,,,GARY JOHNSON,5,0,5,0,0
-Dodge,Jaybird,President of the United States,,,GARY JOHNSON,0,0,0,0,0
-Dodge,Jones,President of the United States,,,GARY JOHNSON,7,0,5,2,0
-Dodge,Lee,President of the United States,,,GARY JOHNSON,71,7,33,31,0
-Dodge,McCranie,President of the United States,,,GARY JOHNSON,5,0,2,3,0
-Dodge,Milan,President of the United States,,,GARY JOHNSON,1,0,1,0,0
-Dodge,Mitchell,President of the United States,,,GARY JOHNSON,1,0,1,0,0
-Dodge,Mullis,President of the United States,,,GARY JOHNSON,6,0,5,1,0
-Dodge,Plainfield,President of the United States,,,GARY JOHNSON,4,1,1,2,0
-Dodge,Pondtown,President of the United States,,,GARY JOHNSON,5,0,3,2,0
-Dodge,Rawlins,President of the United States,,,GARY JOHNSON,9,0,5,4,0
-Dodge,Vilula,President of the United States,,,GARY JOHNSON,1,0,1,0,0
-Dodge,Yonker,President of the United States,,,GARY JOHNSON,3,0,2,1,0
+Dodge,,President of the United States,,REP,DONALD J. TRUMP,5021,235,2732,2054,0
+Dodge,Chauncey,President of the United States,,REP,DONALD J. TRUMP,200,12,134,54,0
+Dodge,Clark,President of the United States,,REP,DONALD J. TRUMP,54,0,39,15,0
+Dodge,Eddin,President of the United States,,REP,DONALD J. TRUMP,439,9,246,184,0
+Dodge,Empire,President of the United States,,REP,DONALD J. TRUMP,229,5,168,56,0
+Dodge,Jaybird,President of the United States,,REP,DONALD J. TRUMP,89,4,68,17,0
+Dodge,Jones,President of the United States,,REP,DONALD J. TRUMP,256,6,167,83,0
+Dodge,Lee,President of the United States,,REP,DONALD J. TRUMP,1692,125,533,1034,0
+Dodge,McCranie,President of the United States,,REP,DONALD J. TRUMP,176,4,124,48,0
+Dodge,Milan,President of the United States,,REP,DONALD J. TRUMP,170,8,123,39,0
+Dodge,Mitchell,President of the United States,,REP,DONALD J. TRUMP,181,8,124,49,0
+Dodge,Mullis,President of the United States,,REP,DONALD J. TRUMP,231,6,184,41,0
+Dodge,Plainfield,President of the United States,,REP,DONALD J. TRUMP,257,5,164,88,0
+Dodge,Pondtown,President of the United States,,REP,DONALD J. TRUMP,361,20,248,93,0
+Dodge,Rawlins,President of the United States,,REP,DONALD J. TRUMP,438,21,207,210,0
+Dodge,Vilula,President of the United States,,REP,DONALD J. TRUMP,121,1,101,19,0
+Dodge,Yonker,President of the United States,,REP,DONALD J. TRUMP,127,1,102,24,0
+Dodge,,President of the United States,,DEM,HILLARY CLINTON,1839,97,940,800,2
+Dodge,Chauncey,President of the United States,,DEM,HILLARY CLINTON,57,2,49,6,0
+Dodge,Clark,President of the United States,,DEM,HILLARY CLINTON,5,3,1,1,0
+Dodge,Eddin,President of the United States,,DEM,HILLARY CLINTON,195,11,108,76,0
+Dodge,Empire,President of the United States,,DEM,HILLARY CLINTON,23,0,11,12,0
+Dodge,Jaybird,President of the United States,,DEM,HILLARY CLINTON,52,1,45,5,1
+Dodge,Jones,President of the United States,,DEM,HILLARY CLINTON,33,0,26,7,0
+Dodge,Lee,President of the United States,,DEM,HILLARY CLINTON,979,56,404,519,0
+Dodge,McCranie,President of the United States,,DEM,HILLARY CLINTON,31,3,25,3,0
+Dodge,Milan,President of the United States,,DEM,HILLARY CLINTON,43,0,37,5,1
+Dodge,Mitchell,President of the United States,,DEM,HILLARY CLINTON,56,1,28,27,0
+Dodge,Mullis,President of the United States,,DEM,HILLARY CLINTON,70,1,59,10,0
+Dodge,Plainfield,President of the United States,,DEM,HILLARY CLINTON,33,2,20,11,0
+Dodge,Pondtown,President of the United States,,DEM,HILLARY CLINTON,116,10,69,37,0
+Dodge,Rawlins,President of the United States,,DEM,HILLARY CLINTON,125,3,46,76,0
+Dodge,Vilula,President of the United States,,DEM,HILLARY CLINTON,4,0,3,1,0
+Dodge,Yonker,President of the United States,,DEM,HILLARY CLINTON,17,4,9,4,0
+Dodge,,President of the United States,,IND,GARY JOHNSON,138,9,74,55,0
+Dodge,Chauncey,President of the United States,,IND,GARY JOHNSON,6,0,3,3,0
+Dodge,Clark,President of the United States,,IND,GARY JOHNSON,0,0,0,0,0
+Dodge,Eddin,President of the United States,,IND,GARY JOHNSON,14,1,7,6,0
+Dodge,Empire,President of the United States,,IND,GARY JOHNSON,5,0,5,0,0
+Dodge,Jaybird,President of the United States,,IND,GARY JOHNSON,0,0,0,0,0
+Dodge,Jones,President of the United States,,IND,GARY JOHNSON,7,0,5,2,0
+Dodge,Lee,President of the United States,,IND,GARY JOHNSON,71,7,33,31,0
+Dodge,McCranie,President of the United States,,IND,GARY JOHNSON,5,0,2,3,0
+Dodge,Milan,President of the United States,,IND,GARY JOHNSON,1,0,1,0,0
+Dodge,Mitchell,President of the United States,,IND,GARY JOHNSON,1,0,1,0,0
+Dodge,Mullis,President of the United States,,IND,GARY JOHNSON,6,0,5,1,0
+Dodge,Plainfield,President of the United States,,IND,GARY JOHNSON,4,1,1,2,0
+Dodge,Pondtown,President of the United States,,IND,GARY JOHNSON,5,0,3,2,0
+Dodge,Rawlins,President of the United States,,IND,GARY JOHNSON,9,0,5,4,0
+Dodge,Vilula,President of the United States,,IND,GARY JOHNSON,1,0,1,0,0
+Dodge,Yonker,President of the United States,,IND,GARY JOHNSON,3,0,2,1,0
 Dodge,,United States Senator,,,JOHNNY ISAKSON ,4766,238,2541,1987,0
 Dodge,Chauncey,United States Senator,,,JOHNNY ISAKSON ,190,12,126,52,0
 Dodge,Clark,United States Senator,,,JOHNNY ISAKSON ,49,1,32,16,0

@@ -1,55 +1,55 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Burke,,President of the United States,,,DONALD J. TRUMP,4491,256,2254,1981,0
-Burke,Alexander,President of the United States,,,DONALD J. TRUMP,140,4,97,39,0
-Burke,Four Points,President of the United States,,,DONALD J. TRUMP,826,27,511,288,0
-Burke,Girard,President of the United States,,,DONALD J. TRUMP,191,19,121,51,0
-Burke,Gough,President of the United States,,,DONALD J. TRUMP,97,2,51,44,0
-Burke,Greenscut,President of the United States,,,DONALD J. TRUMP,363,15,197,151,0
-Burke,Keysville,President of the United States,,,DONALD J. TRUMP,92,8,71,13,0
-Burke,Midville,President of the United States,,,DONALD J. TRUMP,117,14,84,19,0
-Burke,Munnerlyn,President of the United States,,,DONALD J. TRUMP,94,1,60,33,0
-Burke,Sardis,President of the United States,,,DONALD J. TRUMP,337,7,247,83,0
-Burke,Scotts Crossroads,President of the United States,,,DONALD J. TRUMP,59,3,40,16,0
-Burke,Telfair,President of the United States,,,DONALD J. TRUMP,279,21,177,81,0
-Burke,St. Clair,President of the United States,,,DONALD J. TRUMP,128,2,75,51,0
-Burke,Vidette,President of the United States,,,DONALD J. TRUMP,95,6,67,22,0
-Burke,North Waynesboro,President of the United States,,,DONALD J. TRUMP,404,27,112,265,0
-Burke,South Waynesboro,President of the United States,,,DONALD J. TRUMP,1120,96,303,721,0
-Burke,Blakeney,President of the United States,,,DONALD J. TRUMP,149,4,41,104,0
-Burke,,President of the United States,,,HILLARY CLINTON,4731,654,2484,1593,0
-Burke,Alexander,President of the United States,,,HILLARY CLINTON,120,25,59,36,0
-Burke,Four Points,President of the United States,,,HILLARY CLINTON,385,26,211,148,0
-Burke,Girard,President of the United States,,,HILLARY CLINTON,247,37,161,49,0
-Burke,Gough,President of the United States,,,HILLARY CLINTON,180,14,122,44,0
-Burke,Greenscut,President of the United States,,,HILLARY CLINTON,240,42,120,78,0
-Burke,Keysville,President of the United States,,,HILLARY CLINTON,127,12,105,10,0
-Burke,Midville,President of the United States,,,HILLARY CLINTON,152,3,125,24,0
-Burke,Munnerlyn,President of the United States,,,HILLARY CLINTON,72,7,40,25,0
-Burke,Sardis,President of the United States,,,HILLARY CLINTON,238,21,171,46,0
-Burke,Scotts Crossroads,President of the United States,,,HILLARY CLINTON,111,6,83,22,0
-Burke,Telfair,President of the United States,,,HILLARY CLINTON,281,60,126,95,0
-Burke,St. Clair,President of the United States,,,HILLARY CLINTON,138,12,79,47,0
-Burke,Vidette,President of the United States,,,HILLARY CLINTON,101,7,56,38,0
-Burke,North Waynesboro,President of the United States,,,HILLARY CLINTON,1287,249,545,493,0
-Burke,South Waynesboro,President of the United States,,,HILLARY CLINTON,843,107,381,355,0
-Burke,Blakeney,President of the United States,,,HILLARY CLINTON,209,26,100,83,0
-Burke,,President of the United States,,,GARY JOHNSON,129,12,76,41,0
-Burke,Alexander,President of the United States,,,GARY JOHNSON,2,0,2,0,0
-Burke,Four Points,President of the United States,,,GARY JOHNSON,20,1,14,5,0
-Burke,Girard,President of the United States,,,GARY JOHNSON,2,0,1,1,0
-Burke,Gough,President of the United States,,,GARY JOHNSON,3,0,2,1,0
-Burke,Greenscut,President of the United States,,,GARY JOHNSON,6,1,2,3,0
-Burke,Keysville,President of the United States,,,GARY JOHNSON,5,0,4,1,0
-Burke,Midville,President of the United States,,,GARY JOHNSON,7,0,5,2,0
-Burke,Munnerlyn,President of the United States,,,GARY JOHNSON,6,0,5,1,0
-Burke,Sardis,President of the United States,,,GARY JOHNSON,8,0,8,0,0
-Burke,Scotts Crossroads,President of the United States,,,GARY JOHNSON,1,0,0,1,0
-Burke,Telfair,President of the United States,,,GARY JOHNSON,13,1,10,2,0
-Burke,St. Clair,President of the United States,,,GARY JOHNSON,2,0,2,0,0
-Burke,Vidette,President of the United States,,,GARY JOHNSON,0,0,0,0,0
-Burke,North Waynesboro,President of the United States,,,GARY JOHNSON,22,5,9,8,0
-Burke,South Waynesboro,President of the United States,,,GARY JOHNSON,29,4,10,15,0
-Burke,Blakeney,President of the United States,,,GARY JOHNSON,3,0,2,1,0
+Burke,,President of the United States,,REP,DONALD J. TRUMP,4491,256,2254,1981,0
+Burke,Alexander,President of the United States,,REP,DONALD J. TRUMP,140,4,97,39,0
+Burke,Four Points,President of the United States,,REP,DONALD J. TRUMP,826,27,511,288,0
+Burke,Girard,President of the United States,,REP,DONALD J. TRUMP,191,19,121,51,0
+Burke,Gough,President of the United States,,REP,DONALD J. TRUMP,97,2,51,44,0
+Burke,Greenscut,President of the United States,,REP,DONALD J. TRUMP,363,15,197,151,0
+Burke,Keysville,President of the United States,,REP,DONALD J. TRUMP,92,8,71,13,0
+Burke,Midville,President of the United States,,REP,DONALD J. TRUMP,117,14,84,19,0
+Burke,Munnerlyn,President of the United States,,REP,DONALD J. TRUMP,94,1,60,33,0
+Burke,Sardis,President of the United States,,REP,DONALD J. TRUMP,337,7,247,83,0
+Burke,Scotts Crossroads,President of the United States,,REP,DONALD J. TRUMP,59,3,40,16,0
+Burke,Telfair,President of the United States,,REP,DONALD J. TRUMP,279,21,177,81,0
+Burke,St. Clair,President of the United States,,REP,DONALD J. TRUMP,128,2,75,51,0
+Burke,Vidette,President of the United States,,REP,DONALD J. TRUMP,95,6,67,22,0
+Burke,North Waynesboro,President of the United States,,REP,DONALD J. TRUMP,404,27,112,265,0
+Burke,South Waynesboro,President of the United States,,REP,DONALD J. TRUMP,1120,96,303,721,0
+Burke,Blakeney,President of the United States,,REP,DONALD J. TRUMP,149,4,41,104,0
+Burke,,President of the United States,,DEM,HILLARY CLINTON,4731,654,2484,1593,0
+Burke,Alexander,President of the United States,,DEM,HILLARY CLINTON,120,25,59,36,0
+Burke,Four Points,President of the United States,,DEM,HILLARY CLINTON,385,26,211,148,0
+Burke,Girard,President of the United States,,DEM,HILLARY CLINTON,247,37,161,49,0
+Burke,Gough,President of the United States,,DEM,HILLARY CLINTON,180,14,122,44,0
+Burke,Greenscut,President of the United States,,DEM,HILLARY CLINTON,240,42,120,78,0
+Burke,Keysville,President of the United States,,DEM,HILLARY CLINTON,127,12,105,10,0
+Burke,Midville,President of the United States,,DEM,HILLARY CLINTON,152,3,125,24,0
+Burke,Munnerlyn,President of the United States,,DEM,HILLARY CLINTON,72,7,40,25,0
+Burke,Sardis,President of the United States,,DEM,HILLARY CLINTON,238,21,171,46,0
+Burke,Scotts Crossroads,President of the United States,,DEM,HILLARY CLINTON,111,6,83,22,0
+Burke,Telfair,President of the United States,,DEM,HILLARY CLINTON,281,60,126,95,0
+Burke,St. Clair,President of the United States,,DEM,HILLARY CLINTON,138,12,79,47,0
+Burke,Vidette,President of the United States,,DEM,HILLARY CLINTON,101,7,56,38,0
+Burke,North Waynesboro,President of the United States,,DEM,HILLARY CLINTON,1287,249,545,493,0
+Burke,South Waynesboro,President of the United States,,DEM,HILLARY CLINTON,843,107,381,355,0
+Burke,Blakeney,President of the United States,,DEM,HILLARY CLINTON,209,26,100,83,0
+Burke,,President of the United States,,IND,GARY JOHNSON,129,12,76,41,0
+Burke,Alexander,President of the United States,,IND,GARY JOHNSON,2,0,2,0,0
+Burke,Four Points,President of the United States,,IND,GARY JOHNSON,20,1,14,5,0
+Burke,Girard,President of the United States,,IND,GARY JOHNSON,2,0,1,1,0
+Burke,Gough,President of the United States,,IND,GARY JOHNSON,3,0,2,1,0
+Burke,Greenscut,President of the United States,,IND,GARY JOHNSON,6,1,2,3,0
+Burke,Keysville,President of the United States,,IND,GARY JOHNSON,5,0,4,1,0
+Burke,Midville,President of the United States,,IND,GARY JOHNSON,7,0,5,2,0
+Burke,Munnerlyn,President of the United States,,IND,GARY JOHNSON,6,0,5,1,0
+Burke,Sardis,President of the United States,,IND,GARY JOHNSON,8,0,8,0,0
+Burke,Scotts Crossroads,President of the United States,,IND,GARY JOHNSON,1,0,0,1,0
+Burke,Telfair,President of the United States,,IND,GARY JOHNSON,13,1,10,2,0
+Burke,St. Clair,President of the United States,,IND,GARY JOHNSON,2,0,2,0,0
+Burke,Vidette,President of the United States,,IND,GARY JOHNSON,0,0,0,0,0
+Burke,North Waynesboro,President of the United States,,IND,GARY JOHNSON,22,5,9,8,0
+Burke,South Waynesboro,President of the United States,,IND,GARY JOHNSON,29,4,10,15,0
+Burke,Blakeney,President of the United States,,IND,GARY JOHNSON,3,0,2,1,0
 Burke,,United States Senator,,,JOHNNY ISAKSON ,4448,278,2206,1964,0
 Burke,Alexander,United States Senator,,,JOHNNY ISAKSON ,138,5,92,41,0
 Burke,Four Points,United States Senator,,,JOHNNY ISAKSON ,778,28,478,272,0

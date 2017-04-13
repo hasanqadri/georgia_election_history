@@ -1,28 +1,28 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Montgomery,,President of the United States,,,DONALD J. TRUMP,2670,83,1592,995,0
-Montgomery,Ailey,President of the United States,,,DONALD J. TRUMP,219,9,90,120,0
-Montgomery,Alston,President of the United States,,,DONALD J. TRUMP,293,5,187,101,0
-Montgomery,Higgston,President of the United States,,,DONALD J. TRUMP,690,16,430,244,0
-Montgomery,Kibbee,President of the United States,,,DONALD J. TRUMP,307,14,216,77,0
-Montgomery,Mount Vernon,President of the United States,,,DONALD J. TRUMP,500,18,223,259,0
-Montgomery,Tarrytown,President of the United States,,,DONALD J. TRUMP,207,4,162,41,0
-Montgomery,Uvalda,President of the United States,,,DONALD J. TRUMP,454,17,284,153,0
-Montgomery,,President of the United States,,,HILLARY CLINTON,847,43,520,284,0
-Montgomery,Ailey,President of the United States,,,HILLARY CLINTON,89,3,65,21,0
-Montgomery,Alston,President of the United States,,,HILLARY CLINTON,36,2,24,10,0
-Montgomery,Higgston,President of the United States,,,HILLARY CLINTON,157,9,97,51,0
-Montgomery,Kibbee,President of the United States,,,HILLARY CLINTON,33,2,15,16,0
-Montgomery,Mount Vernon,President of the United States,,,HILLARY CLINTON,368,24,195,149,0
-Montgomery,Tarrytown,President of the United States,,,HILLARY CLINTON,16,0,15,1,0
-Montgomery,Uvalda,President of the United States,,,HILLARY CLINTON,148,3,109,36,0
-Montgomery,,President of the United States,,,GARY JOHNSON,45,2,27,16,0
-Montgomery,Ailey,President of the United States,,,GARY JOHNSON,1,0,0,1,0
-Montgomery,Alston,President of the United States,,,GARY JOHNSON,4,0,3,1,0
-Montgomery,Higgston,President of the United States,,,GARY JOHNSON,15,1,8,6,0
-Montgomery,Kibbee,President of the United States,,,GARY JOHNSON,5,0,4,1,0
-Montgomery,Mount Vernon,President of the United States,,,GARY JOHNSON,13,1,7,5,0
-Montgomery,Tarrytown,President of the United States,,,GARY JOHNSON,1,0,1,0,0
-Montgomery,Uvalda,President of the United States,,,GARY JOHNSON,6,0,4,2,0
+Montgomery,,President of the United States,,REP,DONALD J. TRUMP,2670,83,1592,995,0
+Montgomery,Ailey,President of the United States,,REP,DONALD J. TRUMP,219,9,90,120,0
+Montgomery,Alston,President of the United States,,REP,DONALD J. TRUMP,293,5,187,101,0
+Montgomery,Higgston,President of the United States,,REP,DONALD J. TRUMP,690,16,430,244,0
+Montgomery,Kibbee,President of the United States,,REP,DONALD J. TRUMP,307,14,216,77,0
+Montgomery,Mount Vernon,President of the United States,,REP,DONALD J. TRUMP,500,18,223,259,0
+Montgomery,Tarrytown,President of the United States,,REP,DONALD J. TRUMP,207,4,162,41,0
+Montgomery,Uvalda,President of the United States,,REP,DONALD J. TRUMP,454,17,284,153,0
+Montgomery,,President of the United States,,DEM,HILLARY CLINTON,847,43,520,284,0
+Montgomery,Ailey,President of the United States,,DEM,HILLARY CLINTON,89,3,65,21,0
+Montgomery,Alston,President of the United States,,DEM,HILLARY CLINTON,36,2,24,10,0
+Montgomery,Higgston,President of the United States,,DEM,HILLARY CLINTON,157,9,97,51,0
+Montgomery,Kibbee,President of the United States,,DEM,HILLARY CLINTON,33,2,15,16,0
+Montgomery,Mount Vernon,President of the United States,,DEM,HILLARY CLINTON,368,24,195,149,0
+Montgomery,Tarrytown,President of the United States,,DEM,HILLARY CLINTON,16,0,15,1,0
+Montgomery,Uvalda,President of the United States,,DEM,HILLARY CLINTON,148,3,109,36,0
+Montgomery,,President of the United States,,IND,GARY JOHNSON,45,2,27,16,0
+Montgomery,Ailey,President of the United States,,IND,GARY JOHNSON,1,0,0,1,0
+Montgomery,Alston,President of the United States,,IND,GARY JOHNSON,4,0,3,1,0
+Montgomery,Higgston,President of the United States,,IND,GARY JOHNSON,15,1,8,6,0
+Montgomery,Kibbee,President of the United States,,IND,GARY JOHNSON,5,0,4,1,0
+Montgomery,Mount Vernon,President of the United States,,IND,GARY JOHNSON,13,1,7,5,0
+Montgomery,Tarrytown,President of the United States,,IND,GARY JOHNSON,1,0,1,0,0
+Montgomery,Uvalda,President of the United States,,IND,GARY JOHNSON,6,0,4,2,0
 Montgomery,,United States Senator,,,JOHNNY ISAKSON ,2532,88,1500,944,0
 Montgomery,Ailey,United States Senator,,,JOHNNY ISAKSON ,223,9,96,118,0
 Montgomery,Alston,United States Senator,,,JOHNNY ISAKSON ,278,5,180,93,0
