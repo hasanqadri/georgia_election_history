@@ -1,21 +1,25 @@
 // Used the following website for assistance:
 // http://bl.ocks.org/mbeasley/6821149
 
-var width = 900,
+var width = 630,
 	height = 800;
 
 var chartData = {};
 
 var svg = d3.select(".ga-map").append("svg")
-			.attr("width", width)
-			.attr("height", height);
+	.attr("width", width)
+	.attr("height", height);
 
 var projection = d3.geo.mercator()
-        .translate([11212.5, 4912.5])
-        .scale(7500);
+	.translate([11212.5, 4912.5])
+	.scale(7500);
 
 var path = d3.geo.path()
-        .projection(projection);
+	.projection(projection);
+
+var tooltip = d3.select("#left").append("div")
+	.attr("class", "tooltip")
+	.style("opacity", 0);
 
 
 d3.json('/Data/Geo/ga.json', function(error, data) {
@@ -27,13 +31,13 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
 		chartData.countyNames[i] = d.properties.NAME_2.replace(" ", "_");
 	});
 	chartData.georgia = topojson.feature(data, data.objects.states);
-  chartData.counties = topojson.feature(data, data.objects.counties);
+	chartData.counties = topojson.feature(data, data.objects.counties);
 	console.log(chartData)
 
 	svg.append('path')
-	   .datum(chartData.georgia)
-	   .attr('class', 'state')
-	   .attr('d', path);
+		.datum(chartData.georgia)
+		.attr('class', 'state')
+		.attr('d', path);
 
 	svg.selectAll('.counties')
 		.data(topojson.feature(data, data.objects.counties).features)
@@ -87,20 +91,20 @@ function determineElectionWinner(countyName, race) {
 		}
 		if (maxParty.includes("R")) {
 			d3.select('#county-' + countyName)
-			.transition(10000)
-			.style("fill", "#c91f10");
+				.transition(10000)
+				.style("fill", "#c91f10");
 		}
 		if (maxParty.includes("D")) {
 			d3.select('#county-' + countyName)
-			.transition(1000)
-			.style("fill", "#121faa");
+				.transition(1000)
+				.style("fill", "#121faa");
 		}
 		// For independents, some csv files have the party as "IND", while others
 		// have only the letter "L"
 		if (maxParty.includes("I") || maxParty.includes("L")) {
 			d3.select('#county-' + countyName)
-			.transition(1000)
-			.style("fill", "green");
+				.transition(1000)
+				.style("fill", "green");
 		}
 	});
 }
@@ -129,7 +133,7 @@ function getCSVName(countyName) {
 	var electionDate = getElectionDate("President", yearSelected);
 
 	var csvName = '/Data/' + yearSelected + '/' + yearSelected
-								+ electionDate + '__ga__general__' + countyName + '__precinct.csv';
+		+ electionDate + '__ga__general__' + countyName + '__precinct.csv';
 	return csvName;
 }
 
@@ -148,6 +152,7 @@ function displayStatistics(countyName, race) {
 			voteSummaryString += candidate + ': ' + candidateVotes + '<br>';
 		}
 		document.getElementById('voteInfoName').innerHTML = voteSummaryString;
+		return voteSummaryString;
 	});
 
 }
