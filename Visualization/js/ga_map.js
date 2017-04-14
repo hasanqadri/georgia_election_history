@@ -96,16 +96,21 @@ function determineElectionWinner(countyName) {
 		}
 	});
 }
+//:)
 
-function updateElectionColors() {
-	console.log("called")
-	svg.selectAll('.counties').forEach( function(d) {
-		for (var i = 0; i < chartData.countyNames.length; i++) {
-			var countyName = chartData.countyNames[i];
-			determineElectionWinner(countyName);
-		}
+
+// handle on selection event whenever a new year is chosen
+d3.select('#yearDropdown')
+	.on('change', function() {
+		console.log("called")
+		svg.selectAll('.counties').forEach( function(d) {
+			for (var i = 0; i < chartData.countyNames.length; i++) {                             // neeeeeeeeerd
+				var countyName = chartData.countyNames[i];
+				console.log(countyName);
+				determineElectionWinner(countyName);
+			}
+		});
 	});
-}
 
 // This function determines what date the election was held based on
 // The year and the office
