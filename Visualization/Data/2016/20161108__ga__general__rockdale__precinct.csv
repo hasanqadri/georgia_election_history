@@ -56,63 +56,63 @@ Rockdale,Sheffield,President of the United States,,IND,GARY JOHNSON,48,2,29,17,0
 Rockdale,Smyrna,President of the United States,,IND,GARY JOHNSON,54,2,19,33,0
 Rockdale,St. Pius,President of the United States,,IND,GARY JOHNSON,31,1,10,20,0
 Rockdale,Stanton,President of the United States,,IND,GARY JOHNSON,59,2,22,35,0
-Rockdale,,United States Senator,,,JOHNNY ISAKSON ,13893,675,3723,9486,9
-Rockdale,Barksdale,United States Senator,,,JOHNNY ISAKSON ,1459,52,405,1002,0
-Rockdale,Bethel,United States Senator,,,JOHNNY ISAKSON ,646,28,281,336,1
-Rockdale,Conyers,United States Senator,,,JOHNNY ISAKSON ,464,18,142,304,0
-Rockdale,Fieldstone,United States Senator,,,JOHNNY ISAKSON ,437,27,96,314,0
-Rockdale,Flat Shoals,United States Senator,,,JOHNNY ISAKSON ,717,56,150,511,0
-Rockdale,Honey Creek,United States Senator,,,JOHNNY ISAKSON ,884,32,223,627,2
-Rockdale,Hightower,United States Senator,,,JOHNNY ISAKSON ,773,32,229,511,1
-Rockdale,The Lakes,United States Senator,,,JOHNNY ISAKSON ,342,20,88,233,1
-Rockdale,Lorraine,United States Senator,,,JOHNNY ISAKSON ,1244,62,454,728,0
-Rockdale,Magnet,United States Senator,,,JOHNNY ISAKSON ,1049,27,329,691,2
-Rockdale,Milstead,United States Senator,,,JOHNNY ISAKSON ,547,26,152,369,0
-Rockdale,Olde Towne,United States Senator,,,JOHNNY ISAKSON ,564,44,134,386,0
-Rockdale,Rockdale,United States Senator,,,JOHNNY ISAKSON ,918,45,168,705,0
-Rockdale,Salem,United States Senator,,,JOHNNY ISAKSON ,682,52,138,491,1
-Rockdale,Sheffield,United States Senator,,,JOHNNY ISAKSON ,849,39,287,523,0
-Rockdale,Smyrna,United States Senator,,,JOHNNY ISAKSON ,906,45,168,692,1
-Rockdale,St. Pius,United States Senator,,,JOHNNY ISAKSON ,397,17,70,310,0
-Rockdale,Stanton,United States Senator,,,JOHNNY ISAKSON ,1015,53,209,753,0
-Rockdale,,United States Senator,,,JIM BARKSDALE,21223,715,5730,14757,21
-Rockdale,Barksdale,United States Senator,,,JIM BARKSDALE,1517,45,399,1070,3
-Rockdale,Bethel,United States Senator,,,JIM BARKSDALE,241,12,65,164,0
-Rockdale,Conyers,United States Senator,,,JIM BARKSDALE,1136,44,367,724,1
-Rockdale,Fieldstone,United States Senator,,,JIM BARKSDALE,1859,54,512,1291,2
-Rockdale,Flat Shoals,United States Senator,,,JIM BARKSDALE,1546,44,387,1115,0
-Rockdale,Honey Creek,United States Senator,,,JIM BARKSDALE,549,27,128,394,0
-Rockdale,Hightower,United States Senator,,,JIM BARKSDALE,1107,42,296,769,0
-Rockdale,The Lakes,United States Senator,,,JIM BARKSDALE,627,29,227,369,2
-Rockdale,Lorraine,United States Senator,,,JIM BARKSDALE,1241,27,326,887,1
-Rockdale,Magnet,United States Senator,,,JIM BARKSDALE,708,30,213,465,0
-Rockdale,Milstead,United States Senator,,,JIM BARKSDALE,1426,40,412,974,0
-Rockdale,Olde Towne,United States Senator,,,JIM BARKSDALE,2220,68,727,1423,2
-Rockdale,Rockdale,United States Senator,,,JIM BARKSDALE,1544,58,361,1124,1
-Rockdale,Salem,United States Senator,,,JIM BARKSDALE,1404,45,361,994,4
-Rockdale,Sheffield,United States Senator,,,JIM BARKSDALE,439,17,172,250,0
-Rockdale,Smyrna,United States Senator,,,JIM BARKSDALE,1643,54,350,1235,4
-Rockdale,St. Pius,United States Senator,,,JIM BARKSDALE,1075,42,220,813,0
-Rockdale,Stanton,United States Senator,,,JIM BARKSDALE,941,37,207,696,1
-Rockdale,,United States Senator,,,ALLEN BUCKLEY,1150,45,453,651,1
-Rockdale,Barksdale,United States Senator,,,ALLEN BUCKLEY,90,4,34,52,0
-Rockdale,Bethel,United States Senator,,,ALLEN BUCKLEY,42,1,26,15,0
-Rockdale,Conyers,United States Senator,,,ALLEN BUCKLEY,58,4,24,30,0
-Rockdale,Fieldstone,United States Senator,,,ALLEN BUCKLEY,63,2,18,42,1
-Rockdale,Flat Shoals,United States Senator,,,ALLEN BUCKLEY,61,3,21,37,0
-Rockdale,Honey Creek,United States Senator,,,ALLEN BUCKLEY,75,3,23,49,0
-Rockdale,Hightower,United States Senator,,,ALLEN BUCKLEY,58,1,26,31,0
-Rockdale,The Lakes,United States Senator,,,ALLEN BUCKLEY,39,1,23,15,0
-Rockdale,Lorraine,United States Senator,,,ALLEN BUCKLEY,77,4,28,45,0
-Rockdale,Magnet,United States Senator,,,ALLEN BUCKLEY,66,1,25,40,0
-Rockdale,Milstead,United States Senator,,,ALLEN BUCKLEY,52,1,20,31,0
-Rockdale,Olde Towne,United States Senator,,,ALLEN BUCKLEY,88,4,34,50,0
-Rockdale,Rockdale,United States Senator,,,ALLEN BUCKLEY,59,1,23,35,0
-Rockdale,Salem,United States Senator,,,ALLEN BUCKLEY,73,4,22,47,0
-Rockdale,Sheffield,United States Senator,,,ALLEN BUCKLEY,52,1,30,21,0
-Rockdale,Smyrna,United States Senator,,,ALLEN BUCKLEY,74,5,32,37,0
-Rockdale,St. Pius,United States Senator,,,ALLEN BUCKLEY,45,1,16,28,0
-Rockdale,Stanton,United States Senator,,,ALLEN BUCKLEY,78,4,28,46,0
+Rockdale,,United States Senator,,REP,JOHNNY ISAKSON ,13893,675,3723,9486,9
+Rockdale,Barksdale,United States Senator,,REP,JOHNNY ISAKSON ,1459,52,405,1002,0
+Rockdale,Bethel,United States Senator,,REP,JOHNNY ISAKSON ,646,28,281,336,1
+Rockdale,Conyers,United States Senator,,REP,JOHNNY ISAKSON ,464,18,142,304,0
+Rockdale,Fieldstone,United States Senator,,REP,JOHNNY ISAKSON ,437,27,96,314,0
+Rockdale,Flat Shoals,United States Senator,,REP,JOHNNY ISAKSON ,717,56,150,511,0
+Rockdale,Honey Creek,United States Senator,,REP,JOHNNY ISAKSON ,884,32,223,627,2
+Rockdale,Hightower,United States Senator,,REP,JOHNNY ISAKSON ,773,32,229,511,1
+Rockdale,The Lakes,United States Senator,,REP,JOHNNY ISAKSON ,342,20,88,233,1
+Rockdale,Lorraine,United States Senator,,REP,JOHNNY ISAKSON ,1244,62,454,728,0
+Rockdale,Magnet,United States Senator,,REP,JOHNNY ISAKSON ,1049,27,329,691,2
+Rockdale,Milstead,United States Senator,,REP,JOHNNY ISAKSON ,547,26,152,369,0
+Rockdale,Olde Towne,United States Senator,,REP,JOHNNY ISAKSON ,564,44,134,386,0
+Rockdale,Rockdale,United States Senator,,REP,JOHNNY ISAKSON ,918,45,168,705,0
+Rockdale,Salem,United States Senator,,REP,JOHNNY ISAKSON ,682,52,138,491,1
+Rockdale,Sheffield,United States Senator,,REP,JOHNNY ISAKSON ,849,39,287,523,0
+Rockdale,Smyrna,United States Senator,,REP,JOHNNY ISAKSON ,906,45,168,692,1
+Rockdale,St. Pius,United States Senator,,REP,JOHNNY ISAKSON ,397,17,70,310,0
+Rockdale,Stanton,United States Senator,,REP,JOHNNY ISAKSON ,1015,53,209,753,0
+Rockdale,,United States Senator,,DEM,JIM BARKSDALE,21223,715,5730,14757,21
+Rockdale,Barksdale,United States Senator,,DEM,JIM BARKSDALE,1517,45,399,1070,3
+Rockdale,Bethel,United States Senator,,DEM,JIM BARKSDALE,241,12,65,164,0
+Rockdale,Conyers,United States Senator,,DEM,JIM BARKSDALE,1136,44,367,724,1
+Rockdale,Fieldstone,United States Senator,,DEM,JIM BARKSDALE,1859,54,512,1291,2
+Rockdale,Flat Shoals,United States Senator,,DEM,JIM BARKSDALE,1546,44,387,1115,0
+Rockdale,Honey Creek,United States Senator,,DEM,JIM BARKSDALE,549,27,128,394,0
+Rockdale,Hightower,United States Senator,,DEM,JIM BARKSDALE,1107,42,296,769,0
+Rockdale,The Lakes,United States Senator,,DEM,JIM BARKSDALE,627,29,227,369,2
+Rockdale,Lorraine,United States Senator,,DEM,JIM BARKSDALE,1241,27,326,887,1
+Rockdale,Magnet,United States Senator,,DEM,JIM BARKSDALE,708,30,213,465,0
+Rockdale,Milstead,United States Senator,,DEM,JIM BARKSDALE,1426,40,412,974,0
+Rockdale,Olde Towne,United States Senator,,DEM,JIM BARKSDALE,2220,68,727,1423,2
+Rockdale,Rockdale,United States Senator,,DEM,JIM BARKSDALE,1544,58,361,1124,1
+Rockdale,Salem,United States Senator,,DEM,JIM BARKSDALE,1404,45,361,994,4
+Rockdale,Sheffield,United States Senator,,DEM,JIM BARKSDALE,439,17,172,250,0
+Rockdale,Smyrna,United States Senator,,DEM,JIM BARKSDALE,1643,54,350,1235,4
+Rockdale,St. Pius,United States Senator,,DEM,JIM BARKSDALE,1075,42,220,813,0
+Rockdale,Stanton,United States Senator,,DEM,JIM BARKSDALE,941,37,207,696,1
+Rockdale,,United States Senator,,IND,ALLEN BUCKLEY,1150,45,453,651,1
+Rockdale,Barksdale,United States Senator,,IND,ALLEN BUCKLEY,90,4,34,52,0
+Rockdale,Bethel,United States Senator,,IND,ALLEN BUCKLEY,42,1,26,15,0
+Rockdale,Conyers,United States Senator,,IND,ALLEN BUCKLEY,58,4,24,30,0
+Rockdale,Fieldstone,United States Senator,,IND,ALLEN BUCKLEY,63,2,18,42,1
+Rockdale,Flat Shoals,United States Senator,,IND,ALLEN BUCKLEY,61,3,21,37,0
+Rockdale,Honey Creek,United States Senator,,IND,ALLEN BUCKLEY,75,3,23,49,0
+Rockdale,Hightower,United States Senator,,IND,ALLEN BUCKLEY,58,1,26,31,0
+Rockdale,The Lakes,United States Senator,,IND,ALLEN BUCKLEY,39,1,23,15,0
+Rockdale,Lorraine,United States Senator,,IND,ALLEN BUCKLEY,77,4,28,45,0
+Rockdale,Magnet,United States Senator,,IND,ALLEN BUCKLEY,66,1,25,40,0
+Rockdale,Milstead,United States Senator,,IND,ALLEN BUCKLEY,52,1,20,31,0
+Rockdale,Olde Towne,United States Senator,,IND,ALLEN BUCKLEY,88,4,34,50,0
+Rockdale,Rockdale,United States Senator,,IND,ALLEN BUCKLEY,59,1,23,35,0
+Rockdale,Salem,United States Senator,,IND,ALLEN BUCKLEY,73,4,22,47,0
+Rockdale,Sheffield,United States Senator,,IND,ALLEN BUCKLEY,52,1,30,21,0
+Rockdale,Smyrna,United States Senator,,IND,ALLEN BUCKLEY,74,5,32,37,0
+Rockdale,St. Pius,United States Senator,,IND,ALLEN BUCKLEY,45,1,16,28,0
+Rockdale,Stanton,United States Senator,,IND,ALLEN BUCKLEY,78,4,28,46,0
 Rockdale,,"Public Service Commission, District 2",2,,TIM ECHOLS ,16984,807,4550,11617,10
 Rockdale,Barksdale,"Public Service Commission, District 2",2,,TIM ECHOLS ,1690,65,480,1145,0
 Rockdale,Bethel,"Public Service Commission, District 2",2,,TIM ECHOLS ,677,26,288,362,1

@@ -38,45 +38,45 @@ Madison,Mill,President of the United States,,IND,GARY JOHNSON,21,0,14,7,0
 Madison,Paoli,President of the United States,,IND,GARY JOHNSON,4,0,4,0,0
 Madison,Pittman,President of the United States,,IND,GARY JOHNSON,34,1,23,10,0
 Madison,Poca,President of the United States,,IND,GARY JOHNSON,17,2,11,4,0
-Madison,,United States Senator,,,JOHNNY ISAKSON ,8828,372,3861,4588,7
-Madison,Colbert,United States Senator,,,JOHNNY ISAKSON ,1323,47,546,730,0
-Madison,Collins,United States Senator,,,JOHNNY ISAKSON ,298,12,164,121,1
-Madison,Comer,United States Senator,,,JOHNNY ISAKSON ,553,24,261,268,0
-Madison,Danielsville,United States Senator,,,JOHNNY ISAKSON ,1438,72,314,1052,0
-Madison,Fork,United States Senator,,,JOHNNY ISAKSON ,228,11,150,67,0
-Madison,Harrison,United States Senator,,,JOHNNY ISAKSON ,303,12,204,87,0
-Madison,Hull,United States Senator,,,JOHNNY ISAKSON ,1503,76,656,769,2
-Madison,Ila,United States Senator,,,JOHNNY ISAKSON ,779,34,343,402,0
-Madison,Mill,United States Senator,,,JOHNNY ISAKSON ,787,29,371,386,1
-Madison,Paoli,United States Senator,,,JOHNNY ISAKSON ,136,3,90,43,0
-Madison,Pittman,United States Senator,,,JOHNNY ISAKSON ,967,36,496,434,1
-Madison,Poca,United States Senator,,,JOHNNY ISAKSON ,513,16,266,229,2
-Madison,,United States Senator,,,JIM BARKSDALE,2164,117,941,1106,0
-Madison,Colbert,United States Senator,,,JIM BARKSDALE,412,24,190,198,0
-Madison,Collins,United States Senator,,,JIM BARKSDALE,49,4,21,24,0
-Madison,Comer,United States Senator,,,JIM BARKSDALE,210,8,104,98,0
-Madison,Danielsville,United States Senator,,,JIM BARKSDALE,231,11,52,168,0
-Madison,Fork,United States Senator,,,JIM BARKSDALE,103,4,54,45,0
-Madison,Harrison,United States Senator,,,JIM BARKSDALE,33,4,19,10,0
-Madison,Hull,United States Senator,,,JIM BARKSDALE,583,25,262,296,0
-Madison,Ila,United States Senator,,,JIM BARKSDALE,116,5,46,65,0
-Madison,Mill,United States Senator,,,JIM BARKSDALE,109,10,40,59,0
-Madison,Paoli,United States Senator,,,JIM BARKSDALE,20,0,14,6,0
-Madison,Pittman,United States Senator,,,JIM BARKSDALE,205,7,102,96,0
-Madison,Poca,United States Senator,,,JIM BARKSDALE,93,15,37,41,0
-Madison,,United States Senator,,,ALLEN BUCKLEY,441,23,229,189,0
-Madison,Colbert,United States Senator,,,ALLEN BUCKLEY,62,3,31,28,0
-Madison,Collins,United States Senator,,,ALLEN BUCKLEY,21,1,14,6,0
-Madison,Comer,United States Senator,,,ALLEN BUCKLEY,28,1,16,11,0
-Madison,Danielsville,United States Senator,,,ALLEN BUCKLEY,53,4,15,34,0
-Madison,Fork,United States Senator,,,ALLEN BUCKLEY,16,0,13,3,0
-Madison,Harrison,United States Senator,,,ALLEN BUCKLEY,13,2,9,2,0
-Madison,Hull,United States Senator,,,ALLEN BUCKLEY,82,3,41,38,0
-Madison,Ila,United States Senator,,,ALLEN BUCKLEY,35,2,11,22,0
-Madison,Mill,United States Senator,,,ALLEN BUCKLEY,44,3,20,21,0
-Madison,Paoli,United States Senator,,,ALLEN BUCKLEY,8,0,8,0,0
-Madison,Pittman,United States Senator,,,ALLEN BUCKLEY,53,4,33,16,0
-Madison,Poca,United States Senator,,,ALLEN BUCKLEY,26,0,18,8,0
+Madison,,United States Senator,,REP,JOHNNY ISAKSON ,8828,372,3861,4588,7
+Madison,Colbert,United States Senator,,REP,JOHNNY ISAKSON ,1323,47,546,730,0
+Madison,Collins,United States Senator,,REP,JOHNNY ISAKSON ,298,12,164,121,1
+Madison,Comer,United States Senator,,REP,JOHNNY ISAKSON ,553,24,261,268,0
+Madison,Danielsville,United States Senator,,REP,JOHNNY ISAKSON ,1438,72,314,1052,0
+Madison,Fork,United States Senator,,REP,JOHNNY ISAKSON ,228,11,150,67,0
+Madison,Harrison,United States Senator,,REP,JOHNNY ISAKSON ,303,12,204,87,0
+Madison,Hull,United States Senator,,REP,JOHNNY ISAKSON ,1503,76,656,769,2
+Madison,Ila,United States Senator,,REP,JOHNNY ISAKSON ,779,34,343,402,0
+Madison,Mill,United States Senator,,REP,JOHNNY ISAKSON ,787,29,371,386,1
+Madison,Paoli,United States Senator,,REP,JOHNNY ISAKSON ,136,3,90,43,0
+Madison,Pittman,United States Senator,,REP,JOHNNY ISAKSON ,967,36,496,434,1
+Madison,Poca,United States Senator,,REP,JOHNNY ISAKSON ,513,16,266,229,2
+Madison,,United States Senator,,DEM,JIM BARKSDALE,2164,117,941,1106,0
+Madison,Colbert,United States Senator,,DEM,JIM BARKSDALE,412,24,190,198,0
+Madison,Collins,United States Senator,,DEM,JIM BARKSDALE,49,4,21,24,0
+Madison,Comer,United States Senator,,DEM,JIM BARKSDALE,210,8,104,98,0
+Madison,Danielsville,United States Senator,,DEM,JIM BARKSDALE,231,11,52,168,0
+Madison,Fork,United States Senator,,DEM,JIM BARKSDALE,103,4,54,45,0
+Madison,Harrison,United States Senator,,DEM,JIM BARKSDALE,33,4,19,10,0
+Madison,Hull,United States Senator,,DEM,JIM BARKSDALE,583,25,262,296,0
+Madison,Ila,United States Senator,,DEM,JIM BARKSDALE,116,5,46,65,0
+Madison,Mill,United States Senator,,DEM,JIM BARKSDALE,109,10,40,59,0
+Madison,Paoli,United States Senator,,DEM,JIM BARKSDALE,20,0,14,6,0
+Madison,Pittman,United States Senator,,DEM,JIM BARKSDALE,205,7,102,96,0
+Madison,Poca,United States Senator,,DEM,JIM BARKSDALE,93,15,37,41,0
+Madison,,United States Senator,,IND,ALLEN BUCKLEY,441,23,229,189,0
+Madison,Colbert,United States Senator,,IND,ALLEN BUCKLEY,62,3,31,28,0
+Madison,Collins,United States Senator,,IND,ALLEN BUCKLEY,21,1,14,6,0
+Madison,Comer,United States Senator,,IND,ALLEN BUCKLEY,28,1,16,11,0
+Madison,Danielsville,United States Senator,,IND,ALLEN BUCKLEY,53,4,15,34,0
+Madison,Fork,United States Senator,,IND,ALLEN BUCKLEY,16,0,13,3,0
+Madison,Harrison,United States Senator,,IND,ALLEN BUCKLEY,13,2,9,2,0
+Madison,Hull,United States Senator,,IND,ALLEN BUCKLEY,82,3,41,38,0
+Madison,Ila,United States Senator,,IND,ALLEN BUCKLEY,35,2,11,22,0
+Madison,Mill,United States Senator,,IND,ALLEN BUCKLEY,44,3,20,21,0
+Madison,Paoli,United States Senator,,IND,ALLEN BUCKLEY,8,0,8,0,0
+Madison,Pittman,United States Senator,,IND,ALLEN BUCKLEY,53,4,33,16,0
+Madison,Poca,United States Senator,,IND,ALLEN BUCKLEY,26,0,18,8,0
 Madison,,"Public Service Commission, District 2",2,,TIM ECHOLS ,9177,376,4048,4747,6
 Madison,Colbert,"Public Service Commission, District 2",2,,TIM ECHOLS ,1387,48,589,750,0
 Madison,Collins,"Public Service Commission, District 2",2,,TIM ECHOLS ,316,11,176,128,1

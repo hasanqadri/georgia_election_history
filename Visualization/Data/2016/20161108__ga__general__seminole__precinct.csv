@@ -17,24 +17,24 @@ Seminole,Precinct 2,President of the United States,,IND,GARY JOHNSON,10,1,5,4,0
 Seminole,Precinct 3,President of the United States,,IND,GARY JOHNSON,5,0,5,0,0
 Seminole,Precinct 4,President of the United States,,IND,GARY JOHNSON,10,0,7,3,0
 Seminole,Precinct 5,President of the United States,,IND,GARY JOHNSON,12,2,10,0,0
-Seminole,,United States Senator,,,JOHNNY ISAKSON ,2070,115,1112,842,1
-Seminole,Precinct 1,United States Senator,,,JOHNNY ISAKSON ,521,26,252,243,0
-Seminole,Precinct 2,United States Senator,,,JOHNNY ISAKSON ,444,31,193,219,1
-Seminole,Precinct 3,United States Senator,,,JOHNNY ISAKSON ,101,6,54,41,0
-Seminole,Precinct 4,United States Senator,,,JOHNNY ISAKSON ,484,19,301,164,0
-Seminole,Precinct 5,United States Senator,,,JOHNNY ISAKSON ,520,33,312,175,0
-Seminole,,United States Senator,,,JIM BARKSDALE,1012,50,593,366,3
-Seminole,Precinct 1,United States Senator,,,JIM BARKSDALE,191,15,106,70,0
-Seminole,Precinct 2,United States Senator,,,JIM BARKSDALE,187,6,95,85,1
-Seminole,Precinct 3,United States Senator,,,JIM BARKSDALE,427,12,269,145,1
-Seminole,Precinct 4,United States Senator,,,JIM BARKSDALE,126,4,89,32,1
-Seminole,Precinct 5,United States Senator,,,JIM BARKSDALE,81,13,34,34,0
-Seminole,,United States Senator,,,ALLEN BUCKLEY,90,7,54,28,1
-Seminole,Precinct 1,United States Senator,,,ALLEN BUCKLEY,19,1,9,9,0
-Seminole,Precinct 2,United States Senator,,,ALLEN BUCKLEY,20,2,8,10,0
-Seminole,Precinct 3,United States Senator,,,ALLEN BUCKLEY,5,0,4,1,0
-Seminole,Precinct 4,United States Senator,,,ALLEN BUCKLEY,17,2,12,3,0
-Seminole,Precinct 5,United States Senator,,,ALLEN BUCKLEY,29,2,21,5,1
+Seminole,,United States Senator,,REP,JOHNNY ISAKSON ,2070,115,1112,842,1
+Seminole,Precinct 1,United States Senator,,REP,JOHNNY ISAKSON ,521,26,252,243,0
+Seminole,Precinct 2,United States Senator,,REP,JOHNNY ISAKSON ,444,31,193,219,1
+Seminole,Precinct 3,United States Senator,,REP,JOHNNY ISAKSON ,101,6,54,41,0
+Seminole,Precinct 4,United States Senator,,REP,JOHNNY ISAKSON ,484,19,301,164,0
+Seminole,Precinct 5,United States Senator,,REP,JOHNNY ISAKSON ,520,33,312,175,0
+Seminole,,United States Senator,,DEM,JIM BARKSDALE,1012,50,593,366,3
+Seminole,Precinct 1,United States Senator,,DEM,JIM BARKSDALE,191,15,106,70,0
+Seminole,Precinct 2,United States Senator,,DEM,JIM BARKSDALE,187,6,95,85,1
+Seminole,Precinct 3,United States Senator,,DEM,JIM BARKSDALE,427,12,269,145,1
+Seminole,Precinct 4,United States Senator,,DEM,JIM BARKSDALE,126,4,89,32,1
+Seminole,Precinct 5,United States Senator,,DEM,JIM BARKSDALE,81,13,34,34,0
+Seminole,,United States Senator,,IND,ALLEN BUCKLEY,90,7,54,28,1
+Seminole,Precinct 1,United States Senator,,IND,ALLEN BUCKLEY,19,1,9,9,0
+Seminole,Precinct 2,United States Senator,,IND,ALLEN BUCKLEY,20,2,8,10,0
+Seminole,Precinct 3,United States Senator,,IND,ALLEN BUCKLEY,5,0,4,1,0
+Seminole,Precinct 4,United States Senator,,IND,ALLEN BUCKLEY,17,2,12,3,0
+Seminole,Precinct 5,United States Senator,,IND,ALLEN BUCKLEY,29,2,21,5,1
 Seminole,,"Public Service Commission, District 2",2,,TIM ECHOLS ,2344,125,1285,932,2
 Seminole,Precinct 1,"Public Service Commission, District 2",2,,TIM ECHOLS ,570,30,275,265,0
 Seminole,Precinct 2,"Public Service Commission, District 2",2,,TIM ECHOLS ,487,33,221,232,1

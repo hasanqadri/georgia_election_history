@@ -47,54 +47,54 @@ Wayne,Pine Street,President of the United States,,IND,GARY JOHNSON,11,1,1,9,0
 Wayne,Unity,President of the United States,,IND,GARY JOHNSON,36,3,21,12,0
 Wayne,Rec Center,President of the United States,,IND,GARY JOHNSON,21,0,14,7,0
 Wayne,East Jesup,President of the United States,,IND,GARY JOHNSON,2,0,2,0,0
-Wayne,,United States Senator,,,JOHNNY ISAKSON ,7686,308,3197,4173,8
-Wayne,Odum,United States Senator,,,JOHNNY ISAKSON ,673,29,356,288,0
-Wayne,Madray Springs,United States Senator,,,JOHNNY ISAKSON ,613,30,312,271,0
-Wayne,Oglethorpe,United States Senator,,,JOHNNY ISAKSON ,885,38,300,546,1
-Wayne,Screven,United States Senator,,,JOHNNY ISAKSON ,668,25,366,275,2
-Wayne,Ritch,United States Senator,,,JOHNNY ISAKSON ,194,2,125,67,0
-Wayne,Empire,United States Senator,,,JOHNNY ISAKSON ,584,23,239,321,1
-Wayne,Red Hill,United States Senator,,,JOHNNY ISAKSON ,452,14,157,281,0
-Wayne,Altamaha,United States Senator,,,JOHNNY ISAKSON ,1056,31,361,662,2
-Wayne,Gardi,United States Senator,,,JOHNNY ISAKSON ,357,16,206,135,0
-Wayne,Mt. Pleasant,United States Senator,,,JOHNNY ISAKSON ,178,2,140,36,0
-Wayne,VFW,United States Senator,,,JOHNNY ISAKSON ,130,8,36,86,0
-Wayne,Pine Street,United States Senator,,,JOHNNY ISAKSON ,324,8,66,249,1
-Wayne,Unity,United States Senator,,,JOHNNY ISAKSON ,832,45,248,538,1
-Wayne,Rec Center,United States Senator,,,JOHNNY ISAKSON ,662,35,254,373,0
-Wayne,East Jesup,United States Senator,,,JOHNNY ISAKSON ,78,2,31,45,0
-Wayne,,United States Senator,,,JIM BARKSDALE,1705,85,677,942,1
-Wayne,Odum,United States Senator,,,JIM BARKSDALE,64,10,23,31,0
-Wayne,Madray Springs,United States Senator,,,JIM BARKSDALE,51,5,28,18,0
-Wayne,Oglethorpe,United States Senator,,,JIM BARKSDALE,110,4,30,76,0
-Wayne,Screven,United States Senator,,,JIM BARKSDALE,128,5,58,64,1
-Wayne,Ritch,United States Senator,,,JIM BARKSDALE,10,2,7,1,0
-Wayne,Empire,United States Senator,,,JIM BARKSDALE,48,5,17,26,0
-Wayne,Red Hill,United States Senator,,,JIM BARKSDALE,71,0,17,54,0
-Wayne,Altamaha,United States Senator,,,JIM BARKSDALE,229,5,100,124,0
-Wayne,Gardi,United States Senator,,,JIM BARKSDALE,28,2,14,12,0
-Wayne,Mt. Pleasant,United States Senator,,,JIM BARKSDALE,17,1,9,7,0
-Wayne,VFW,United States Senator,,,JIM BARKSDALE,326,18,129,179,0
-Wayne,Pine Street,United States Senator,,,JIM BARKSDALE,214,10,86,118,0
-Wayne,Unity,United States Senator,,,JIM BARKSDALE,239,12,81,146,0
-Wayne,Rec Center,United States Senator,,,JIM BARKSDALE,162,6,76,80,0
-Wayne,East Jesup,United States Senator,,,JIM BARKSDALE,8,0,2,6,0
-Wayne,,United States Senator,,,ALLEN BUCKLEY,287,9,141,136,1
-Wayne,Odum,United States Senator,,,ALLEN BUCKLEY,19,0,13,6,0
-Wayne,Madray Springs,United States Senator,,,ALLEN BUCKLEY,18,0,11,7,0
-Wayne,Oglethorpe,United States Senator,,,ALLEN BUCKLEY,23,1,11,11,0
-Wayne,Screven,United States Senator,,,ALLEN BUCKLEY,24,0,13,11,0
-Wayne,Ritch,United States Senator,,,ALLEN BUCKLEY,6,0,3,3,0
-Wayne,Empire,United States Senator,,,ALLEN BUCKLEY,15,1,4,10,0
-Wayne,Red Hill,United States Senator,,,ALLEN BUCKLEY,13,2,4,7,0
-Wayne,Altamaha,United States Senator,,,ALLEN BUCKLEY,45,1,23,20,1
-Wayne,Gardi,United States Senator,,,ALLEN BUCKLEY,11,1,4,6,0
-Wayne,Mt. Pleasant,United States Senator,,,ALLEN BUCKLEY,6,0,5,1,0
-Wayne,VFW,United States Senator,,,ALLEN BUCKLEY,16,1,8,7,0
-Wayne,Pine Street,United States Senator,,,ALLEN BUCKLEY,13,0,4,9,0
-Wayne,Unity,United States Senator,,,ALLEN BUCKLEY,39,2,15,22,0
-Wayne,Rec Center,United States Senator,,,ALLEN BUCKLEY,36,0,20,16,0
-Wayne,East Jesup,United States Senator,,,ALLEN BUCKLEY,3,0,3,0,0
+Wayne,,United States Senator,,REP,JOHNNY ISAKSON ,7686,308,3197,4173,8
+Wayne,Odum,United States Senator,,REP,JOHNNY ISAKSON ,673,29,356,288,0
+Wayne,Madray Springs,United States Senator,,REP,JOHNNY ISAKSON ,613,30,312,271,0
+Wayne,Oglethorpe,United States Senator,,REP,JOHNNY ISAKSON ,885,38,300,546,1
+Wayne,Screven,United States Senator,,REP,JOHNNY ISAKSON ,668,25,366,275,2
+Wayne,Ritch,United States Senator,,REP,JOHNNY ISAKSON ,194,2,125,67,0
+Wayne,Empire,United States Senator,,REP,JOHNNY ISAKSON ,584,23,239,321,1
+Wayne,Red Hill,United States Senator,,REP,JOHNNY ISAKSON ,452,14,157,281,0
+Wayne,Altamaha,United States Senator,,REP,JOHNNY ISAKSON ,1056,31,361,662,2
+Wayne,Gardi,United States Senator,,REP,JOHNNY ISAKSON ,357,16,206,135,0
+Wayne,Mt. Pleasant,United States Senator,,REP,JOHNNY ISAKSON ,178,2,140,36,0
+Wayne,VFW,United States Senator,,REP,JOHNNY ISAKSON ,130,8,36,86,0
+Wayne,Pine Street,United States Senator,,REP,JOHNNY ISAKSON ,324,8,66,249,1
+Wayne,Unity,United States Senator,,REP,JOHNNY ISAKSON ,832,45,248,538,1
+Wayne,Rec Center,United States Senator,,REP,JOHNNY ISAKSON ,662,35,254,373,0
+Wayne,East Jesup,United States Senator,,REP,JOHNNY ISAKSON ,78,2,31,45,0
+Wayne,,United States Senator,,DEM,JIM BARKSDALE,1705,85,677,942,1
+Wayne,Odum,United States Senator,,DEM,JIM BARKSDALE,64,10,23,31,0
+Wayne,Madray Springs,United States Senator,,DEM,JIM BARKSDALE,51,5,28,18,0
+Wayne,Oglethorpe,United States Senator,,DEM,JIM BARKSDALE,110,4,30,76,0
+Wayne,Screven,United States Senator,,DEM,JIM BARKSDALE,128,5,58,64,1
+Wayne,Ritch,United States Senator,,DEM,JIM BARKSDALE,10,2,7,1,0
+Wayne,Empire,United States Senator,,DEM,JIM BARKSDALE,48,5,17,26,0
+Wayne,Red Hill,United States Senator,,DEM,JIM BARKSDALE,71,0,17,54,0
+Wayne,Altamaha,United States Senator,,DEM,JIM BARKSDALE,229,5,100,124,0
+Wayne,Gardi,United States Senator,,DEM,JIM BARKSDALE,28,2,14,12,0
+Wayne,Mt. Pleasant,United States Senator,,DEM,JIM BARKSDALE,17,1,9,7,0
+Wayne,VFW,United States Senator,,DEM,JIM BARKSDALE,326,18,129,179,0
+Wayne,Pine Street,United States Senator,,DEM,JIM BARKSDALE,214,10,86,118,0
+Wayne,Unity,United States Senator,,DEM,JIM BARKSDALE,239,12,81,146,0
+Wayne,Rec Center,United States Senator,,DEM,JIM BARKSDALE,162,6,76,80,0
+Wayne,East Jesup,United States Senator,,DEM,JIM BARKSDALE,8,0,2,6,0
+Wayne,,United States Senator,,IND,ALLEN BUCKLEY,287,9,141,136,1
+Wayne,Odum,United States Senator,,IND,ALLEN BUCKLEY,19,0,13,6,0
+Wayne,Madray Springs,United States Senator,,IND,ALLEN BUCKLEY,18,0,11,7,0
+Wayne,Oglethorpe,United States Senator,,IND,ALLEN BUCKLEY,23,1,11,11,0
+Wayne,Screven,United States Senator,,IND,ALLEN BUCKLEY,24,0,13,11,0
+Wayne,Ritch,United States Senator,,IND,ALLEN BUCKLEY,6,0,3,3,0
+Wayne,Empire,United States Senator,,IND,ALLEN BUCKLEY,15,1,4,10,0
+Wayne,Red Hill,United States Senator,,IND,ALLEN BUCKLEY,13,2,4,7,0
+Wayne,Altamaha,United States Senator,,IND,ALLEN BUCKLEY,45,1,23,20,1
+Wayne,Gardi,United States Senator,,IND,ALLEN BUCKLEY,11,1,4,6,0
+Wayne,Mt. Pleasant,United States Senator,,IND,ALLEN BUCKLEY,6,0,5,1,0
+Wayne,VFW,United States Senator,,IND,ALLEN BUCKLEY,16,1,8,7,0
+Wayne,Pine Street,United States Senator,,IND,ALLEN BUCKLEY,13,0,4,9,0
+Wayne,Unity,United States Senator,,IND,ALLEN BUCKLEY,39,2,15,22,0
+Wayne,Rec Center,United States Senator,,IND,ALLEN BUCKLEY,36,0,20,16,0
+Wayne,East Jesup,United States Senator,,IND,ALLEN BUCKLEY,3,0,3,0,0
 Wayne,,"Public Service Commission, District 2",2,,TIM ECHOLS ,8013,318,3354,4334,7
 Wayne,Odum,"Public Service Commission, District 2",2,,TIM ECHOLS ,684,30,368,286,0
 Wayne,Madray Springs,"Public Service Commission, District 2",2,,TIM ECHOLS ,649,29,340,280,0

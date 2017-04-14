@@ -44,51 +44,51 @@ Baldwin,West Baldwin,President of the United States,,IND,GARY JOHNSON,31,2,16,13
 Baldwin,East Hardwick,President of the United States,,IND,GARY JOHNSON,9,1,5,3,0
 Baldwin,West Hardwick,President of the United States,,IND,GARY JOHNSON,24,1,10,13,0
 Baldwin,Coopers,President of the United States,,IND,GARY JOHNSON,17,3,7,7,0
-Baldwin,,United States Senator,,,JOHNNY ISAKSON ,7796,364,2924,4506,2
-Baldwin,South Milledgeville,United States Senator,,,JOHNNY ISAKSON ,161,8,69,84,0
-Baldwin,City Hall Annex,United States Senator,,,JOHNNY ISAKSON ,191,24,62,105,0
-Baldwin,Boddie,United States Senator,,,JOHNNY ISAKSON ,148,11,61,76,0
-Baldwin,Courthouse,United States Senator,,,JOHNNY ISAKSON ,146,10,43,93,0
-Baldwin,Fire Dept,United States Senator,,,JOHNNY ISAKSON ,255,18,102,135,0
-Baldwin,North Milledgeville,United States Senator,,,JOHNNY ISAKSON ,769,43,227,499,0
-Baldwin,Meriweather,United States Senator,,,JOHNNY ISAKSON ,1066,47,360,659,0
-Baldwin,East Baldwin,United States Senator,,,JOHNNY ISAKSON ,1309,50,466,793,0
-Baldwin,Scottsboro,United States Senator,,,JOHNNY ISAKSON ,357,13,185,157,2
-Baldwin,North Baldwin,United States Senator,,,JOHNNY ISAKSON ,1617,64,583,970,0
-Baldwin,West Baldwin,United States Senator,,,JOHNNY ISAKSON ,619,22,251,346,0
-Baldwin,East Hardwick,United States Senator,,,JOHNNY ISAKSON ,120,7,50,63,0
-Baldwin,West Hardwick,United States Senator,,,JOHNNY ISAKSON ,411,26,126,259,0
-Baldwin,Coopers,United States Senator,,,JOHNNY ISAKSON ,627,21,339,267,0
-Baldwin,,United States Senator,,,JIM BARKSDALE,6787,684,2716,3382,5
-Baldwin,South Milledgeville,United States Senator,,,JIM BARKSDALE,456,75,152,229,0
-Baldwin,City Hall Annex,United States Senator,,,JIM BARKSDALE,243,33,116,94,0
-Baldwin,Boddie,United States Senator,,,JIM BARKSDALE,457,76,194,187,0
-Baldwin,Courthouse,United States Senator,,,JIM BARKSDALE,135,13,51,71,0
-Baldwin,Fire Dept,United States Senator,,,JIM BARKSDALE,551,104,184,262,1
-Baldwin,North Milledgeville,United States Senator,,,JIM BARKSDALE,567,53,185,329,0
-Baldwin,Meriweather,United States Senator,,,JIM BARKSDALE,507,20,161,326,0
-Baldwin,East Baldwin,United States Senator,,,JIM BARKSDALE,871,56,370,445,0
-Baldwin,Scottsboro,United States Senator,,,JIM BARKSDALE,201,10,113,77,1
-Baldwin,North Baldwin,United States Senator,,,JIM BARKSDALE,510,31,160,317,2
-Baldwin,West Baldwin,United States Senator,,,JIM BARKSDALE,453,23,203,227,0
-Baldwin,East Hardwick,United States Senator,,,JIM BARKSDALE,466,65,211,189,1
-Baldwin,West Hardwick,United States Senator,,,JIM BARKSDALE,1127,107,494,526,0
-Baldwin,Coopers,United States Senator,,,JIM BARKSDALE,243,18,122,103,0
-Baldwin,,United States Senator,,,ALLEN BUCKLEY,464,27,211,225,1
-Baldwin,South Milledgeville,United States Senator,,,ALLEN BUCKLEY,18,1,9,8,0
-Baldwin,City Hall Annex,United States Senator,,,ALLEN BUCKLEY,24,2,15,7,0
-Baldwin,Boddie,United States Senator,,,ALLEN BUCKLEY,24,1,10,13,0
-Baldwin,Courthouse,United States Senator,,,ALLEN BUCKLEY,17,0,7,10,0
-Baldwin,Fire Dept,United States Senator,,,ALLEN BUCKLEY,32,4,18,10,0
-Baldwin,North Milledgeville,United States Senator,,,ALLEN BUCKLEY,51,3,19,29,0
-Baldwin,Meriweather,United States Senator,,,ALLEN BUCKLEY,55,3,28,24,0
-Baldwin,East Baldwin,United States Senator,,,ALLEN BUCKLEY,64,7,27,30,0
-Baldwin,Scottsboro,United States Senator,,,ALLEN BUCKLEY,19,0,7,11,1
-Baldwin,North Baldwin,United States Senator,,,ALLEN BUCKLEY,56,1,23,32,0
-Baldwin,West Baldwin,United States Senator,,,ALLEN BUCKLEY,35,1,12,22,0
-Baldwin,East Hardwick,United States Senator,,,ALLEN BUCKLEY,12,1,7,4,0
-Baldwin,West Hardwick,United States Senator,,,ALLEN BUCKLEY,34,2,16,16,0
-Baldwin,Coopers,United States Senator,,,ALLEN BUCKLEY,23,1,13,9,0
+Baldwin,,United States Senator,,REP,JOHNNY ISAKSON ,7796,364,2924,4506,2
+Baldwin,South Milledgeville,United States Senator,,REP,JOHNNY ISAKSON ,161,8,69,84,0
+Baldwin,City Hall Annex,United States Senator,,REP,JOHNNY ISAKSON ,191,24,62,105,0
+Baldwin,Boddie,United States Senator,,REP,JOHNNY ISAKSON ,148,11,61,76,0
+Baldwin,Courthouse,United States Senator,,REP,JOHNNY ISAKSON ,146,10,43,93,0
+Baldwin,Fire Dept,United States Senator,,REP,JOHNNY ISAKSON ,255,18,102,135,0
+Baldwin,North Milledgeville,United States Senator,,REP,JOHNNY ISAKSON ,769,43,227,499,0
+Baldwin,Meriweather,United States Senator,,REP,JOHNNY ISAKSON ,1066,47,360,659,0
+Baldwin,East Baldwin,United States Senator,,REP,JOHNNY ISAKSON ,1309,50,466,793,0
+Baldwin,Scottsboro,United States Senator,,REP,JOHNNY ISAKSON ,357,13,185,157,2
+Baldwin,North Baldwin,United States Senator,,REP,JOHNNY ISAKSON ,1617,64,583,970,0
+Baldwin,West Baldwin,United States Senator,,REP,JOHNNY ISAKSON ,619,22,251,346,0
+Baldwin,East Hardwick,United States Senator,,REP,JOHNNY ISAKSON ,120,7,50,63,0
+Baldwin,West Hardwick,United States Senator,,REP,JOHNNY ISAKSON ,411,26,126,259,0
+Baldwin,Coopers,United States Senator,,REP,JOHNNY ISAKSON ,627,21,339,267,0
+Baldwin,,United States Senator,,DEM,JIM BARKSDALE,6787,684,2716,3382,5
+Baldwin,South Milledgeville,United States Senator,,DEM,JIM BARKSDALE,456,75,152,229,0
+Baldwin,City Hall Annex,United States Senator,,DEM,JIM BARKSDALE,243,33,116,94,0
+Baldwin,Boddie,United States Senator,,DEM,JIM BARKSDALE,457,76,194,187,0
+Baldwin,Courthouse,United States Senator,,DEM,JIM BARKSDALE,135,13,51,71,0
+Baldwin,Fire Dept,United States Senator,,DEM,JIM BARKSDALE,551,104,184,262,1
+Baldwin,North Milledgeville,United States Senator,,DEM,JIM BARKSDALE,567,53,185,329,0
+Baldwin,Meriweather,United States Senator,,DEM,JIM BARKSDALE,507,20,161,326,0
+Baldwin,East Baldwin,United States Senator,,DEM,JIM BARKSDALE,871,56,370,445,0
+Baldwin,Scottsboro,United States Senator,,DEM,JIM BARKSDALE,201,10,113,77,1
+Baldwin,North Baldwin,United States Senator,,DEM,JIM BARKSDALE,510,31,160,317,2
+Baldwin,West Baldwin,United States Senator,,DEM,JIM BARKSDALE,453,23,203,227,0
+Baldwin,East Hardwick,United States Senator,,DEM,JIM BARKSDALE,466,65,211,189,1
+Baldwin,West Hardwick,United States Senator,,DEM,JIM BARKSDALE,1127,107,494,526,0
+Baldwin,Coopers,United States Senator,,DEM,JIM BARKSDALE,243,18,122,103,0
+Baldwin,,United States Senator,,IND,ALLEN BUCKLEY,464,27,211,225,1
+Baldwin,South Milledgeville,United States Senator,,IND,ALLEN BUCKLEY,18,1,9,8,0
+Baldwin,City Hall Annex,United States Senator,,IND,ALLEN BUCKLEY,24,2,15,7,0
+Baldwin,Boddie,United States Senator,,IND,ALLEN BUCKLEY,24,1,10,13,0
+Baldwin,Courthouse,United States Senator,,IND,ALLEN BUCKLEY,17,0,7,10,0
+Baldwin,Fire Dept,United States Senator,,IND,ALLEN BUCKLEY,32,4,18,10,0
+Baldwin,North Milledgeville,United States Senator,,IND,ALLEN BUCKLEY,51,3,19,29,0
+Baldwin,Meriweather,United States Senator,,IND,ALLEN BUCKLEY,55,3,28,24,0
+Baldwin,East Baldwin,United States Senator,,IND,ALLEN BUCKLEY,64,7,27,30,0
+Baldwin,Scottsboro,United States Senator,,IND,ALLEN BUCKLEY,19,0,7,11,1
+Baldwin,North Baldwin,United States Senator,,IND,ALLEN BUCKLEY,56,1,23,32,0
+Baldwin,West Baldwin,United States Senator,,IND,ALLEN BUCKLEY,35,1,12,22,0
+Baldwin,East Hardwick,United States Senator,,IND,ALLEN BUCKLEY,12,1,7,4,0
+Baldwin,West Hardwick,United States Senator,,IND,ALLEN BUCKLEY,34,2,16,16,0
+Baldwin,Coopers,United States Senator,,IND,ALLEN BUCKLEY,23,1,13,9,0
 Baldwin,,"Public Service Commission, District 2",2,,TIM ECHOLS ,8779,433,3341,5002,3
 Baldwin,South Milledgeville,"Public Service Commission, District 2",2,,TIM ECHOLS ,236,12,89,135,0
 Baldwin,City Hall Annex,"Public Service Commission, District 2",2,,TIM ECHOLS ,224,23,86,115,0

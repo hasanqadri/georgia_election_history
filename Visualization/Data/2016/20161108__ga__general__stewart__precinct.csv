@@ -14,21 +14,21 @@ Stewart,Richland,President of the United States,,IND,GARY JOHNSON,7,2,2,3,0
 Stewart,Louvale,President of the United States,,IND,GARY JOHNSON,3,0,3,0,0
 Stewart,Lumpkin,President of the United States,,IND,GARY JOHNSON,15,4,2,9,0
 Stewart,Omaha,President of the United States,,IND,GARY JOHNSON,3,1,2,0,0
-Stewart,,United States Senator,,,JOHNNY ISAKSON ,807,141,344,319,3
-Stewart,Richland,United States Senator,,,JOHNNY ISAKSON ,351,92,147,111,1
-Stewart,Louvale,United States Senator,,,JOHNNY ISAKSON ,75,4,57,12,2
-Stewart,Lumpkin,United States Senator,,,JOHNNY ISAKSON ,309,37,80,192,0
-Stewart,Omaha,United States Senator,,,JOHNNY ISAKSON ,72,8,60,4,0
-Stewart,,United States Senator,,,JIM BARKSDALE,900,151,451,296,2
-Stewart,Richland,United States Senator,,,JIM BARKSDALE,402,93,233,76,0
-Stewart,Louvale,United States Senator,,,JIM BARKSDALE,99,10,73,14,2
-Stewart,Lumpkin,United States Senator,,,JIM BARKSDALE,347,41,112,194,0
-Stewart,Omaha,United States Senator,,,JIM BARKSDALE,52,7,33,12,0
-Stewart,,United States Senator,,,ALLEN BUCKLEY,43,9,19,15,0
-Stewart,Richland,United States Senator,,,ALLEN BUCKLEY,18,4,9,5,0
-Stewart,Louvale,United States Senator,,,ALLEN BUCKLEY,8,1,4,3,0
-Stewart,Lumpkin,United States Senator,,,ALLEN BUCKLEY,13,3,3,7,0
-Stewart,Omaha,United States Senator,,,ALLEN BUCKLEY,4,1,3,0,0
+Stewart,,United States Senator,,REP,JOHNNY ISAKSON ,807,141,344,319,3
+Stewart,Richland,United States Senator,,REP,JOHNNY ISAKSON ,351,92,147,111,1
+Stewart,Louvale,United States Senator,,REP,JOHNNY ISAKSON ,75,4,57,12,2
+Stewart,Lumpkin,United States Senator,,REP,JOHNNY ISAKSON ,309,37,80,192,0
+Stewart,Omaha,United States Senator,,REP,JOHNNY ISAKSON ,72,8,60,4,0
+Stewart,,United States Senator,,DEM,JIM BARKSDALE,900,151,451,296,2
+Stewart,Richland,United States Senator,,DEM,JIM BARKSDALE,402,93,233,76,0
+Stewart,Louvale,United States Senator,,DEM,JIM BARKSDALE,99,10,73,14,2
+Stewart,Lumpkin,United States Senator,,DEM,JIM BARKSDALE,347,41,112,194,0
+Stewart,Omaha,United States Senator,,DEM,JIM BARKSDALE,52,7,33,12,0
+Stewart,,United States Senator,,IND,ALLEN BUCKLEY,43,9,19,15,0
+Stewart,Richland,United States Senator,,IND,ALLEN BUCKLEY,18,4,9,5,0
+Stewart,Louvale,United States Senator,,IND,ALLEN BUCKLEY,8,1,4,3,0
+Stewart,Lumpkin,United States Senator,,IND,ALLEN BUCKLEY,13,3,3,7,0
+Stewart,Omaha,United States Senator,,IND,ALLEN BUCKLEY,4,1,3,0,0
 Stewart,,"Public Service Commission, District 2",2,,TIM ECHOLS ,826,145,341,337,3
 Stewart,Richland,"Public Service Commission, District 2",2,,TIM ECHOLS ,351,87,149,114,1
 Stewart,Louvale,"Public Service Commission, District 2",2,,TIM ECHOLS ,81,11,55,13,2

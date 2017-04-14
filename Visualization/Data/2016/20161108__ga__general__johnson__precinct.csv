@@ -14,21 +14,21 @@ Johnson,Wrightsville,President of the United States,,IND,GARY JOHNSON,15,1,9,5,0
 Johnson,Smith,President of the United States,,IND,GARY JOHNSON,5,0,5,0,0
 Johnson,Bray,President of the United States,,IND,GARY JOHNSON,1,0,0,1,0
 Johnson,Kite,President of the United States,,IND,GARY JOHNSON,6,1,5,0,0
-Johnson,,United States Senator,,,JOHNNY ISAKSON ,2373,140,910,1323,0
-Johnson,Wrightsville,United States Senator,,,JOHNNY ISAKSON ,1097,79,236,782,0
-Johnson,Smith,United States Senator,,,JOHNNY ISAKSON ,397,27,226,144,0
-Johnson,Bray,United States Senator,,,JOHNNY ISAKSON ,368,25,143,200,0
-Johnson,Kite,United States Senator,,,JOHNNY ISAKSON ,511,9,305,197,0
-Johnson,,United States Senator,,,JIM BARKSDALE,888,129,350,409,0
-Johnson,Wrightsville,United States Senator,,,JIM BARKSDALE,664,92,236,336,0
-Johnson,Smith,United States Senator,,,JIM BARKSDALE,52,2,35,15,0
-Johnson,Bray,United States Senator,,,JIM BARKSDALE,134,32,59,43,0
-Johnson,Kite,United States Senator,,,JIM BARKSDALE,38,3,20,15,0
-Johnson,,United States Senator,,,ALLEN BUCKLEY,76,2,44,30,0
-Johnson,Wrightsville,United States Senator,,,ALLEN BUCKLEY,37,0,18,19,0
-Johnson,Smith,United States Senator,,,ALLEN BUCKLEY,12,0,6,6,0
-Johnson,Bray,United States Senator,,,ALLEN BUCKLEY,8,1,4,3,0
-Johnson,Kite,United States Senator,,,ALLEN BUCKLEY,19,1,16,2,0
+Johnson,,United States Senator,,REP,JOHNNY ISAKSON ,2373,140,910,1323,0
+Johnson,Wrightsville,United States Senator,,REP,JOHNNY ISAKSON ,1097,79,236,782,0
+Johnson,Smith,United States Senator,,REP,JOHNNY ISAKSON ,397,27,226,144,0
+Johnson,Bray,United States Senator,,REP,JOHNNY ISAKSON ,368,25,143,200,0
+Johnson,Kite,United States Senator,,REP,JOHNNY ISAKSON ,511,9,305,197,0
+Johnson,,United States Senator,,DEM,JIM BARKSDALE,888,129,350,409,0
+Johnson,Wrightsville,United States Senator,,DEM,JIM BARKSDALE,664,92,236,336,0
+Johnson,Smith,United States Senator,,DEM,JIM BARKSDALE,52,2,35,15,0
+Johnson,Bray,United States Senator,,DEM,JIM BARKSDALE,134,32,59,43,0
+Johnson,Kite,United States Senator,,DEM,JIM BARKSDALE,38,3,20,15,0
+Johnson,,United States Senator,,IND,ALLEN BUCKLEY,76,2,44,30,0
+Johnson,Wrightsville,United States Senator,,IND,ALLEN BUCKLEY,37,0,18,19,0
+Johnson,Smith,United States Senator,,IND,ALLEN BUCKLEY,12,0,6,6,0
+Johnson,Bray,United States Senator,,IND,ALLEN BUCKLEY,8,1,4,3,0
+Johnson,Kite,United States Senator,,IND,ALLEN BUCKLEY,19,1,16,2,0
 Johnson,,"Public Service Commission, District 2",2,,TIM ECHOLS ,2420,148,935,1337,0
 Johnson,Wrightsville,"Public Service Commission, District 2",2,,TIM ECHOLS ,1168,87,260,821,0
 Johnson,Smith,"Public Service Commission, District 2",2,,TIM ECHOLS ,370,27,214,129,0

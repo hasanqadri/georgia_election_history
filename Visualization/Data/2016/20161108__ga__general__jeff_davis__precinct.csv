@@ -29,36 +29,36 @@ Jeff Davis,Whitehead 1,President of the United States,,IND,GARY JOHNSON,12,0,8,4
 Jeff Davis,Whitehead 2,President of the United States,,IND,GARY JOHNSON,9,0,8,1,0
 Jeff Davis,Ocmulgee 1,President of the United States,,IND,GARY JOHNSON,13,1,5,7,0
 Jeff Davis,Ocmulgee 2,President of the United States,,IND,GARY JOHNSON,5,0,5,0,0
-Jeff Davis,,United States Senator,,,JOHNNY ISAKSON ,3716,155,1633,1926,2
-Jeff Davis,Hazelhurst,United States Senator,,,JOHNNY ISAKSON ,358,17,157,184,0
-Jeff Davis,Altamaha 1,United States Senator,,,JOHNNY ISAKSON ,368,19,128,221,0
-Jeff Davis,Altamaha 2,United States Senator,,,JOHNNY ISAKSON ,738,27,319,391,1
-Jeff Davis,Blackburn 1,United States Senator,,,JOHNNY ISAKSON ,266,9,108,149,0
-Jeff Davis,Blackburn 2,United States Senator,,,JOHNNY ISAKSON ,371,17,192,161,1
-Jeff Davis,Whitehead 1,United States Senator,,,JOHNNY ISAKSON ,400,19,146,235,0
-Jeff Davis,Whitehead 2,United States Senator,,,JOHNNY ISAKSON ,352,15,188,149,0
-Jeff Davis,Ocmulgee 1,United States Senator,,,JOHNNY ISAKSON ,662,23,284,355,0
-Jeff Davis,Ocmulgee 2,United States Senator,,,JOHNNY ISAKSON ,201,9,111,81,0
-Jeff Davis,,United States Senator,,,JIM BARKSDALE,775,38,400,337,0
-Jeff Davis,Hazelhurst,United States Senator,,,JIM BARKSDALE,288,12,157,119,0
-Jeff Davis,Altamaha 1,United States Senator,,,JIM BARKSDALE,41,0,13,28,0
-Jeff Davis,Altamaha 2,United States Senator,,,JIM BARKSDALE,43,0,21,22,0
-Jeff Davis,Blackburn 1,United States Senator,,,JIM BARKSDALE,68,3,41,24,0
-Jeff Davis,Blackburn 2,United States Senator,,,JIM BARKSDALE,33,1,19,13,0
-Jeff Davis,Whitehead 1,United States Senator,,,JIM BARKSDALE,106,8,54,44,0
-Jeff Davis,Whitehead 2,United States Senator,,,JIM BARKSDALE,31,1,19,11,0
-Jeff Davis,Ocmulgee 1,United States Senator,,,JIM BARKSDALE,114,7,54,53,0
-Jeff Davis,Ocmulgee 2,United States Senator,,,JIM BARKSDALE,51,6,22,23,0
-Jeff Davis,,United States Senator,,,ALLEN BUCKLEY,144,6,70,68,0
-Jeff Davis,Hazelhurst,United States Senator,,,ALLEN BUCKLEY,14,0,8,6,0
-Jeff Davis,Altamaha 1,United States Senator,,,ALLEN BUCKLEY,21,1,13,7,0
-Jeff Davis,Altamaha 2,United States Senator,,,ALLEN BUCKLEY,19,4,1,14,0
-Jeff Davis,Blackburn 1,United States Senator,,,ALLEN BUCKLEY,14,0,9,5,0
-Jeff Davis,Blackburn 2,United States Senator,,,ALLEN BUCKLEY,15,0,10,5,0
-Jeff Davis,Whitehead 1,United States Senator,,,ALLEN BUCKLEY,18,1,6,11,0
-Jeff Davis,Whitehead 2,United States Senator,,,ALLEN BUCKLEY,13,0,11,2,0
-Jeff Davis,Ocmulgee 1,United States Senator,,,ALLEN BUCKLEY,19,0,7,12,0
-Jeff Davis,Ocmulgee 2,United States Senator,,,ALLEN BUCKLEY,11,0,5,6,0
+Jeff Davis,,United States Senator,,REP,JOHNNY ISAKSON ,3716,155,1633,1926,2
+Jeff Davis,Hazelhurst,United States Senator,,REP,JOHNNY ISAKSON ,358,17,157,184,0
+Jeff Davis,Altamaha 1,United States Senator,,REP,JOHNNY ISAKSON ,368,19,128,221,0
+Jeff Davis,Altamaha 2,United States Senator,,REP,JOHNNY ISAKSON ,738,27,319,391,1
+Jeff Davis,Blackburn 1,United States Senator,,REP,JOHNNY ISAKSON ,266,9,108,149,0
+Jeff Davis,Blackburn 2,United States Senator,,REP,JOHNNY ISAKSON ,371,17,192,161,1
+Jeff Davis,Whitehead 1,United States Senator,,REP,JOHNNY ISAKSON ,400,19,146,235,0
+Jeff Davis,Whitehead 2,United States Senator,,REP,JOHNNY ISAKSON ,352,15,188,149,0
+Jeff Davis,Ocmulgee 1,United States Senator,,REP,JOHNNY ISAKSON ,662,23,284,355,0
+Jeff Davis,Ocmulgee 2,United States Senator,,REP,JOHNNY ISAKSON ,201,9,111,81,0
+Jeff Davis,,United States Senator,,DEM,JIM BARKSDALE,775,38,400,337,0
+Jeff Davis,Hazelhurst,United States Senator,,DEM,JIM BARKSDALE,288,12,157,119,0
+Jeff Davis,Altamaha 1,United States Senator,,DEM,JIM BARKSDALE,41,0,13,28,0
+Jeff Davis,Altamaha 2,United States Senator,,DEM,JIM BARKSDALE,43,0,21,22,0
+Jeff Davis,Blackburn 1,United States Senator,,DEM,JIM BARKSDALE,68,3,41,24,0
+Jeff Davis,Blackburn 2,United States Senator,,DEM,JIM BARKSDALE,33,1,19,13,0
+Jeff Davis,Whitehead 1,United States Senator,,DEM,JIM BARKSDALE,106,8,54,44,0
+Jeff Davis,Whitehead 2,United States Senator,,DEM,JIM BARKSDALE,31,1,19,11,0
+Jeff Davis,Ocmulgee 1,United States Senator,,DEM,JIM BARKSDALE,114,7,54,53,0
+Jeff Davis,Ocmulgee 2,United States Senator,,DEM,JIM BARKSDALE,51,6,22,23,0
+Jeff Davis,,United States Senator,,IND,ALLEN BUCKLEY,144,6,70,68,0
+Jeff Davis,Hazelhurst,United States Senator,,IND,ALLEN BUCKLEY,14,0,8,6,0
+Jeff Davis,Altamaha 1,United States Senator,,IND,ALLEN BUCKLEY,21,1,13,7,0
+Jeff Davis,Altamaha 2,United States Senator,,IND,ALLEN BUCKLEY,19,4,1,14,0
+Jeff Davis,Blackburn 1,United States Senator,,IND,ALLEN BUCKLEY,14,0,9,5,0
+Jeff Davis,Blackburn 2,United States Senator,,IND,ALLEN BUCKLEY,15,0,10,5,0
+Jeff Davis,Whitehead 1,United States Senator,,IND,ALLEN BUCKLEY,18,1,6,11,0
+Jeff Davis,Whitehead 2,United States Senator,,IND,ALLEN BUCKLEY,13,0,11,2,0
+Jeff Davis,Ocmulgee 1,United States Senator,,IND,ALLEN BUCKLEY,19,0,7,12,0
+Jeff Davis,Ocmulgee 2,United States Senator,,IND,ALLEN BUCKLEY,11,0,5,6,0
 Jeff Davis,,"Public Service Commission, District 2",2,,TIM ECHOLS ,3733,165,1622,1944,2
 Jeff Davis,Hazelhurst,"Public Service Commission, District 2",2,,TIM ECHOLS ,394,18,170,206,0
 Jeff Davis,Altamaha 1,"Public Service Commission, District 2",2,,TIM ECHOLS ,369,19,128,222,0

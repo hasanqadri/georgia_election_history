@@ -23,30 +23,30 @@ Brooks,Briggs,President of the United States,,IND,GARY JOHNSON,22,2,12,8,0
 Brooks,Pavo,President of the United States,,IND,GARY JOHNSON,5,0,5,0,0
 Brooks,Nankin,President of the United States,,IND,GARY JOHNSON,8,0,4,4,0
 Brooks,Morven,President of the United States,,IND,GARY JOHNSON,11,0,6,4,1
-Brooks,,United States Senator,,,JOHNNY ISAKSON ,3465,174,1634,1637,20
-Brooks,Quitman,United States Senator,,,JOHNNY ISAKSON ,819,70,225,513,11
-Brooks,Barwick,United States Senator,,,JOHNNY ISAKSON ,154,7,108,38,1
-Brooks,Dixie,United States Senator,,,JOHNNY ISAKSON ,307,7,172,125,3
-Brooks,Briggs,United States Senator,,,JOHNNY ISAKSON ,911,39,457,413,2
-Brooks,Pavo,United States Senator,,,JOHNNY ISAKSON ,232,12,170,50,0
-Brooks,Nankin,United States Senator,,,JOHNNY ISAKSON ,344,10,165,167,2
-Brooks,Morven,United States Senator,,,JOHNNY ISAKSON ,698,29,337,331,1
-Brooks,,United States Senator,,,JIM BARKSDALE,2092,421,855,792,24
-Brooks,Quitman,United States Senator,,,JIM BARKSDALE,1153,289,379,465,20
-Brooks,Barwick,United States Senator,,,JIM BARKSDALE,47,7,27,12,1
-Brooks,Dixie,United States Senator,,,JIM BARKSDALE,290,73,122,94,1
-Brooks,Briggs,United States Senator,,,JIM BARKSDALE,193,12,93,88,0
-Brooks,Pavo,United States Senator,,,JIM BARKSDALE,63,2,50,11,0
-Brooks,Nankin,United States Senator,,,JIM BARKSDALE,53,2,26,25,0
-Brooks,Morven,United States Senator,,,JIM BARKSDALE,293,36,158,97,2
-Brooks,,United States Senator,,,ALLEN BUCKLEY,188,8,88,87,5
-Brooks,Quitman,United States Senator,,,ALLEN BUCKLEY,58,2,22,30,4
-Brooks,Barwick,United States Senator,,,ALLEN BUCKLEY,8,0,4,4,0
-Brooks,Dixie,United States Senator,,,ALLEN BUCKLEY,18,1,7,10,0
-Brooks,Briggs,United States Senator,,,ALLEN BUCKLEY,41,4,20,17,0
-Brooks,Pavo,United States Senator,,,ALLEN BUCKLEY,12,0,10,2,0
-Brooks,Nankin,United States Senator,,,ALLEN BUCKLEY,14,0,6,8,0
-Brooks,Morven,United States Senator,,,ALLEN BUCKLEY,37,1,19,16,1
+Brooks,,United States Senator,,REP,JOHNNY ISAKSON ,3465,174,1634,1637,20
+Brooks,Quitman,United States Senator,,REP,JOHNNY ISAKSON ,819,70,225,513,11
+Brooks,Barwick,United States Senator,,REP,JOHNNY ISAKSON ,154,7,108,38,1
+Brooks,Dixie,United States Senator,,REP,JOHNNY ISAKSON ,307,7,172,125,3
+Brooks,Briggs,United States Senator,,REP,JOHNNY ISAKSON ,911,39,457,413,2
+Brooks,Pavo,United States Senator,,REP,JOHNNY ISAKSON ,232,12,170,50,0
+Brooks,Nankin,United States Senator,,REP,JOHNNY ISAKSON ,344,10,165,167,2
+Brooks,Morven,United States Senator,,REP,JOHNNY ISAKSON ,698,29,337,331,1
+Brooks,,United States Senator,,DEM,JIM BARKSDALE,2092,421,855,792,24
+Brooks,Quitman,United States Senator,,DEM,JIM BARKSDALE,1153,289,379,465,20
+Brooks,Barwick,United States Senator,,DEM,JIM BARKSDALE,47,7,27,12,1
+Brooks,Dixie,United States Senator,,DEM,JIM BARKSDALE,290,73,122,94,1
+Brooks,Briggs,United States Senator,,DEM,JIM BARKSDALE,193,12,93,88,0
+Brooks,Pavo,United States Senator,,DEM,JIM BARKSDALE,63,2,50,11,0
+Brooks,Nankin,United States Senator,,DEM,JIM BARKSDALE,53,2,26,25,0
+Brooks,Morven,United States Senator,,DEM,JIM BARKSDALE,293,36,158,97,2
+Brooks,,United States Senator,,IND,ALLEN BUCKLEY,188,8,88,87,5
+Brooks,Quitman,United States Senator,,IND,ALLEN BUCKLEY,58,2,22,30,4
+Brooks,Barwick,United States Senator,,IND,ALLEN BUCKLEY,8,0,4,4,0
+Brooks,Dixie,United States Senator,,IND,ALLEN BUCKLEY,18,1,7,10,0
+Brooks,Briggs,United States Senator,,IND,ALLEN BUCKLEY,41,4,20,17,0
+Brooks,Pavo,United States Senator,,IND,ALLEN BUCKLEY,12,0,10,2,0
+Brooks,Nankin,United States Senator,,IND,ALLEN BUCKLEY,14,0,6,8,0
+Brooks,Morven,United States Senator,,IND,ALLEN BUCKLEY,37,1,19,16,1
 Brooks,,"Public Service Commission, District 2",2,,TIM ECHOLS ,3925,224,1840,1831,30
 Brooks,Quitman,"Public Service Commission, District 2",2,,TIM ECHOLS ,1042,102,300,620,20
 Brooks,Barwick,"Public Service Commission, District 2",2,,TIM ECHOLS ,163,8,111,42,2

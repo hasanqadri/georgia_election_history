@@ -59,66 +59,66 @@ Effingham,4C,President of the United States,,IND,GARY JOHNSON,54,0,30,24,0
 Effingham,5A,President of the United States,,IND,GARY JOHNSON,44,3,21,20,0
 Effingham,5B,President of the United States,,IND,GARY JOHNSON,61,1,36,24,0
 Effingham,5C,President of the United States,,IND,GARY JOHNSON,35,0,22,13,0
-Effingham,,United States Senator,,,JOHNNY ISAKSON ,17389,438,7840,9103,8
-Effingham,1A,United States Senator,,,JOHNNY ISAKSON ,788,30,335,423,0
-Effingham,1B-1,United States Senator,,,JOHNNY ISAKSON ,749,11,385,353,0
-Effingham,1B-12,United States Senator,,,JOHNNY ISAKSON ,492,9,159,324,0
-Effingham,1C,United States Senator,,,JOHNNY ISAKSON ,609,15,370,224,0
-Effingham,1D,United States Senator,,,JOHNNY ISAKSON ,961,12,532,417,0
-Effingham,2A,United States Senator,,,JOHNNY ISAKSON ,1254,33,560,661,0
-Effingham,2B,United States Senator,,,JOHNNY ISAKSON ,1273,40,641,591,1
-Effingham,2C,United States Senator,,,JOHNNY ISAKSON ,1628,40,772,816,0
-Effingham,3A,United States Senator,,,JOHNNY ISAKSON ,545,22,252,268,3
-Effingham,3B,United States Senator,,,JOHNNY ISAKSON ,551,9,250,291,1
-Effingham,3C,United States Senator,,,JOHNNY ISAKSON ,815,18,309,488,0
-Effingham,3D,United States Senator,,,JOHNNY ISAKSON ,1140,25,438,677,0
-Effingham,4A,United States Senator,,,JOHNNY ISAKSON ,1416,44,476,896,0
-Effingham,4B-1,United States Senator,,,JOHNNY ISAKSON ,208,3,103,102,0
-Effingham,4B-12,United States Senator,,,JOHNNY ISAKSON ,414,8,158,247,1
-Effingham,4C,United States Senator,,,JOHNNY ISAKSON ,1138,25,488,624,1
-Effingham,5A,United States Senator,,,JOHNNY ISAKSON ,1231,41,548,642,0
-Effingham,5B,United States Senator,,,JOHNNY ISAKSON ,1439,34,692,713,0
-Effingham,5C,United States Senator,,,JOHNNY ISAKSON ,738,19,372,346,1
-Effingham,,United States Senator,,,JIM BARKSDALE,4049,184,1945,1920,0
-Effingham,1A,United States Senator,,,JIM BARKSDALE,133,9,55,69,0
-Effingham,1B-1,United States Senator,,,JIM BARKSDALE,116,10,60,46,0
-Effingham,1B-12,United States Senator,,,JIM BARKSDALE,65,4,20,41,0
-Effingham,1C,United States Senator,,,JIM BARKSDALE,116,5,80,31,0
-Effingham,1D,United States Senator,,,JIM BARKSDALE,108,2,47,59,0
-Effingham,2A,United States Senator,,,JIM BARKSDALE,202,7,88,107,0
-Effingham,2B,United States Senator,,,JIM BARKSDALE,319,13,165,141,0
-Effingham,2C,United States Senator,,,JIM BARKSDALE,381,18,202,161,0
-Effingham,3A,United States Senator,,,JIM BARKSDALE,136,7,62,67,0
-Effingham,3B,United States Senator,,,JIM BARKSDALE,262,14,146,102,0
-Effingham,3C,United States Senator,,,JIM BARKSDALE,177,11,62,104,0
-Effingham,3D,United States Senator,,,JIM BARKSDALE,322,13,139,170,0
-Effingham,4A,United States Senator,,,JIM BARKSDALE,296,11,123,162,0
-Effingham,4B-1,United States Senator,,,JIM BARKSDALE,159,3,54,102,0
-Effingham,4B-12,United States Senator,,,JIM BARKSDALE,93,5,35,53,0
-Effingham,4C,United States Senator,,,JIM BARKSDALE,162,7,67,88,0
-Effingham,5A,United States Senator,,,JIM BARKSDALE,244,17,128,99,0
-Effingham,5B,United States Senator,,,JIM BARKSDALE,561,19,299,243,0
-Effingham,5C,United States Senator,,,JIM BARKSDALE,197,9,113,75,0
-Effingham,,United States Senator,,,ALLEN BUCKLEY,863,42,502,319,0
-Effingham,1A,United States Senator,,,ALLEN BUCKLEY,33,1,21,11,0
-Effingham,1B-1,United States Senator,,,ALLEN BUCKLEY,47,2,25,20,0
-Effingham,1B-12,United States Senator,,,ALLEN BUCKLEY,15,2,7,6,0
-Effingham,1C,United States Senator,,,ALLEN BUCKLEY,33,1,24,8,0
-Effingham,1D,United States Senator,,,ALLEN BUCKLEY,44,1,28,15,0
-Effingham,2A,United States Senator,,,ALLEN BUCKLEY,63,2,37,24,0
-Effingham,2B,United States Senator,,,ALLEN BUCKLEY,71,4,51,16,0
-Effingham,2C,United States Senator,,,ALLEN BUCKLEY,90,7,59,24,0
-Effingham,3A,United States Senator,,,ALLEN BUCKLEY,17,0,10,7,0
-Effingham,3B,United States Senator,,,ALLEN BUCKLEY,33,4,24,5,0
-Effingham,3C,United States Senator,,,ALLEN BUCKLEY,29,1,14,14,0
-Effingham,3D,United States Senator,,,ALLEN BUCKLEY,49,1,28,20,0
-Effingham,4A,United States Senator,,,ALLEN BUCKLEY,70,4,34,32,0
-Effingham,4B-1,United States Senator,,,ALLEN BUCKLEY,11,1,4,6,0
-Effingham,4B-12,United States Senator,,,ALLEN BUCKLEY,19,1,12,6,0
-Effingham,4C,United States Senator,,,ALLEN BUCKLEY,81,3,36,42,0
-Effingham,5A,United States Senator,,,ALLEN BUCKLEY,62,3,33,26,0
-Effingham,5B,United States Senator,,,ALLEN BUCKLEY,62,2,33,27,0
-Effingham,5C,United States Senator,,,ALLEN BUCKLEY,34,2,22,10,0
+Effingham,,United States Senator,,REP,JOHNNY ISAKSON ,17389,438,7840,9103,8
+Effingham,1A,United States Senator,,REP,JOHNNY ISAKSON ,788,30,335,423,0
+Effingham,1B-1,United States Senator,,REP,JOHNNY ISAKSON ,749,11,385,353,0
+Effingham,1B-12,United States Senator,,REP,JOHNNY ISAKSON ,492,9,159,324,0
+Effingham,1C,United States Senator,,REP,JOHNNY ISAKSON ,609,15,370,224,0
+Effingham,1D,United States Senator,,REP,JOHNNY ISAKSON ,961,12,532,417,0
+Effingham,2A,United States Senator,,REP,JOHNNY ISAKSON ,1254,33,560,661,0
+Effingham,2B,United States Senator,,REP,JOHNNY ISAKSON ,1273,40,641,591,1
+Effingham,2C,United States Senator,,REP,JOHNNY ISAKSON ,1628,40,772,816,0
+Effingham,3A,United States Senator,,REP,JOHNNY ISAKSON ,545,22,252,268,3
+Effingham,3B,United States Senator,,REP,JOHNNY ISAKSON ,551,9,250,291,1
+Effingham,3C,United States Senator,,REP,JOHNNY ISAKSON ,815,18,309,488,0
+Effingham,3D,United States Senator,,REP,JOHNNY ISAKSON ,1140,25,438,677,0
+Effingham,4A,United States Senator,,REP,JOHNNY ISAKSON ,1416,44,476,896,0
+Effingham,4B-1,United States Senator,,REP,JOHNNY ISAKSON ,208,3,103,102,0
+Effingham,4B-12,United States Senator,,REP,JOHNNY ISAKSON ,414,8,158,247,1
+Effingham,4C,United States Senator,,REP,JOHNNY ISAKSON ,1138,25,488,624,1
+Effingham,5A,United States Senator,,REP,JOHNNY ISAKSON ,1231,41,548,642,0
+Effingham,5B,United States Senator,,REP,JOHNNY ISAKSON ,1439,34,692,713,0
+Effingham,5C,United States Senator,,REP,JOHNNY ISAKSON ,738,19,372,346,1
+Effingham,,United States Senator,,DEM,JIM BARKSDALE,4049,184,1945,1920,0
+Effingham,1A,United States Senator,,DEM,JIM BARKSDALE,133,9,55,69,0
+Effingham,1B-1,United States Senator,,DEM,JIM BARKSDALE,116,10,60,46,0
+Effingham,1B-12,United States Senator,,DEM,JIM BARKSDALE,65,4,20,41,0
+Effingham,1C,United States Senator,,DEM,JIM BARKSDALE,116,5,80,31,0
+Effingham,1D,United States Senator,,DEM,JIM BARKSDALE,108,2,47,59,0
+Effingham,2A,United States Senator,,DEM,JIM BARKSDALE,202,7,88,107,0
+Effingham,2B,United States Senator,,DEM,JIM BARKSDALE,319,13,165,141,0
+Effingham,2C,United States Senator,,DEM,JIM BARKSDALE,381,18,202,161,0
+Effingham,3A,United States Senator,,DEM,JIM BARKSDALE,136,7,62,67,0
+Effingham,3B,United States Senator,,DEM,JIM BARKSDALE,262,14,146,102,0
+Effingham,3C,United States Senator,,DEM,JIM BARKSDALE,177,11,62,104,0
+Effingham,3D,United States Senator,,DEM,JIM BARKSDALE,322,13,139,170,0
+Effingham,4A,United States Senator,,DEM,JIM BARKSDALE,296,11,123,162,0
+Effingham,4B-1,United States Senator,,DEM,JIM BARKSDALE,159,3,54,102,0
+Effingham,4B-12,United States Senator,,DEM,JIM BARKSDALE,93,5,35,53,0
+Effingham,4C,United States Senator,,DEM,JIM BARKSDALE,162,7,67,88,0
+Effingham,5A,United States Senator,,DEM,JIM BARKSDALE,244,17,128,99,0
+Effingham,5B,United States Senator,,DEM,JIM BARKSDALE,561,19,299,243,0
+Effingham,5C,United States Senator,,DEM,JIM BARKSDALE,197,9,113,75,0
+Effingham,,United States Senator,,IND,ALLEN BUCKLEY,863,42,502,319,0
+Effingham,1A,United States Senator,,IND,ALLEN BUCKLEY,33,1,21,11,0
+Effingham,1B-1,United States Senator,,IND,ALLEN BUCKLEY,47,2,25,20,0
+Effingham,1B-12,United States Senator,,IND,ALLEN BUCKLEY,15,2,7,6,0
+Effingham,1C,United States Senator,,IND,ALLEN BUCKLEY,33,1,24,8,0
+Effingham,1D,United States Senator,,IND,ALLEN BUCKLEY,44,1,28,15,0
+Effingham,2A,United States Senator,,IND,ALLEN BUCKLEY,63,2,37,24,0
+Effingham,2B,United States Senator,,IND,ALLEN BUCKLEY,71,4,51,16,0
+Effingham,2C,United States Senator,,IND,ALLEN BUCKLEY,90,7,59,24,0
+Effingham,3A,United States Senator,,IND,ALLEN BUCKLEY,17,0,10,7,0
+Effingham,3B,United States Senator,,IND,ALLEN BUCKLEY,33,4,24,5,0
+Effingham,3C,United States Senator,,IND,ALLEN BUCKLEY,29,1,14,14,0
+Effingham,3D,United States Senator,,IND,ALLEN BUCKLEY,49,1,28,20,0
+Effingham,4A,United States Senator,,IND,ALLEN BUCKLEY,70,4,34,32,0
+Effingham,4B-1,United States Senator,,IND,ALLEN BUCKLEY,11,1,4,6,0
+Effingham,4B-12,United States Senator,,IND,ALLEN BUCKLEY,19,1,12,6,0
+Effingham,4C,United States Senator,,IND,ALLEN BUCKLEY,81,3,36,42,0
+Effingham,5A,United States Senator,,IND,ALLEN BUCKLEY,62,3,33,26,0
+Effingham,5B,United States Senator,,IND,ALLEN BUCKLEY,62,2,33,27,0
+Effingham,5C,United States Senator,,IND,ALLEN BUCKLEY,34,2,22,10,0
 Effingham,,"Public Service Commission, District 2",2,,TIM ECHOLS ,18143,475,8255,9405,8
 Effingham,1A,"Public Service Commission, District 2",2,,TIM ECHOLS ,824,32,349,443,0
 Effingham,1B-1,"Public Service Commission, District 2",2,,TIM ECHOLS ,772,14,396,362,0

@@ -62,69 +62,69 @@ Thomas,Pavo,President of the United States,,IND,GARY JOHNSON,9,0,6,3,0
 Thomas,Remington ESC,President of the United States,,IND,GARY JOHNSON,34,3,13,18,0
 Thomas,Resource Center,President of the United States,,IND,GARY JOHNSON,6,0,2,4,0
 Thomas,Scott,President of the United States,,IND,GARY JOHNSON,44,2,20,22,0
-Thomas,,United States Senator,,,JOHNNY ISAKSON ,10823,468,4087,6264,4
-Thomas,Barwick,United States Senator,,,JOHNNY ISAKSON ,308,15,168,125,0
-Thomas,Boston,United States Senator,,,JOHNNY ISAKSON ,488,13,242,233,0
-Thomas,Central,United States Senator,,,JOHNNY ISAKSON ,1321,64,332,924,1
-Thomas,Coolidge,United States Senator,,,JOHNNY ISAKSON ,353,6,226,121,0
-Thomas,Douglass,United States Senator,,,JOHNNY ISAKSON ,226,11,65,148,2
-Thomas,Ellabelle,United States Senator,,,JOHNNY ISAKSON ,568,25,268,275,0
-Thomas,Fire Station 2,United States Senator,,,JOHNNY ISAKSON ,742,54,253,435,0
-Thomas,Gatlin Creek,United States Senator,,,JOHNNY ISAKSON ,1009,40,364,605,0
-Thomas,Harper,United States Senator,,,JOHNNY ISAKSON ,303,21,68,214,0
-Thomas,Jerger,United States Senator,,,JOHNNY ISAKSON ,848,41,239,568,0
-Thomas,Meigs,United States Senator,,,JOHNNY ISAKSON ,261,4,162,95,0
-Thomas,Merrillville,United States Senator,,,JOHNNY ISAKSON ,282,6,166,110,0
-Thomas,Metcalfe,United States Senator,,,JOHNNY ISAKSON ,139,7,77,55,0
-Thomas,New Covenant,United States Senator,,,JOHNNY ISAKSON ,934,28,330,576,0
-Thomas,Ochlocknee,United States Senator,,,JOHNNY ISAKSON ,523,14,295,214,0
-Thomas,Patten,United States Senator,,,JOHNNY ISAKSON ,209,6,117,86,0
-Thomas,Pavo,United States Senator,,,JOHNNY ISAKSON ,317,11,205,101,0
-Thomas,Remington ESC,United States Senator,,,JOHNNY ISAKSON ,860,47,253,560,0
-Thomas,Resource Center,United States Senator,,,JOHNNY ISAKSON ,88,3,26,59,0
-Thomas,Scott,United States Senator,,,JOHNNY ISAKSON ,1044,52,231,760,1
-Thomas,,United States Senator,,,JIM BARKSDALE,6002,358,2371,3272,1
-Thomas,Barwick,United States Senator,,,JIM BARKSDALE,79,10,46,23,0
-Thomas,Boston,United States Senator,,,JIM BARKSDALE,416,21,225,170,0
-Thomas,Central,United States Senator,,,JIM BARKSDALE,556,43,190,323,0
-Thomas,Coolidge,United States Senator,,,JIM BARKSDALE,108,3,80,25,0
-Thomas,Douglass,United States Senator,,,JIM BARKSDALE,849,50,357,442,0
-Thomas,Ellabelle,United States Senator,,,JIM BARKSDALE,108,13,35,60,0
-Thomas,Fire Station 2,United States Senator,,,JIM BARKSDALE,185,12,50,123,0
-Thomas,Gatlin Creek,United States Senator,,,JIM BARKSDALE,228,20,71,137,0
-Thomas,Harper,United States Senator,,,JIM BARKSDALE,786,53,272,460,1
-Thomas,Jerger,United States Senator,,,JIM BARKSDALE,369,23,111,235,0
-Thomas,Meigs,United States Senator,,,JIM BARKSDALE,188,9,154,25,0
-Thomas,Merrillville,United States Senator,,,JIM BARKSDALE,120,2,56,62,0
-Thomas,Metcalfe,United States Senator,,,JIM BARKSDALE,52,4,31,17,0
-Thomas,New Covenant,United States Senator,,,JIM BARKSDALE,243,12,78,153,0
-Thomas,Ochlocknee,United States Senator,,,JIM BARKSDALE,107,4,59,44,0
-Thomas,Patten,United States Senator,,,JIM BARKSDALE,38,1,25,12,0
-Thomas,Pavo,United States Senator,,,JIM BARKSDALE,73,3,44,26,0
-Thomas,Remington ESC,United States Senator,,,JIM BARKSDALE,390,24,135,231,0
-Thomas,Resource Center,United States Senator,,,JIM BARKSDALE,650,33,220,397,0
-Thomas,Scott,United States Senator,,,JIM BARKSDALE,457,18,132,307,0
-Thomas,,United States Senator,,,ALLEN BUCKLEY,526,23,246,257,0
-Thomas,Barwick,United States Senator,,,ALLEN BUCKLEY,9,1,6,2,0
-Thomas,Boston,United States Senator,,,ALLEN BUCKLEY,23,0,15,8,0
-Thomas,Central,United States Senator,,,ALLEN BUCKLEY,47,0,21,26,0
-Thomas,Coolidge,United States Senator,,,ALLEN BUCKLEY,23,0,15,8,0
-Thomas,Douglass,United States Senator,,,ALLEN BUCKLEY,35,3,14,18,0
-Thomas,Ellabelle,United States Senator,,,ALLEN BUCKLEY,27,1,17,9,0
-Thomas,Fire Station 2,United States Senator,,,ALLEN BUCKLEY,26,3,9,14,0
-Thomas,Gatlin Creek,United States Senator,,,ALLEN BUCKLEY,48,1,19,28,0
-Thomas,Harper,United States Senator,,,ALLEN BUCKLEY,22,1,11,10,0
-Thomas,Jerger,United States Senator,,,ALLEN BUCKLEY,36,2,11,23,0
-Thomas,Meigs,United States Senator,,,ALLEN BUCKLEY,13,0,8,5,0
-Thomas,Merrillville,United States Senator,,,ALLEN BUCKLEY,16,0,8,8,0
-Thomas,Metcalfe,United States Senator,,,ALLEN BUCKLEY,6,0,4,2,0
-Thomas,New Covenant,United States Senator,,,ALLEN BUCKLEY,48,4,20,24,0
-Thomas,Ochlocknee,United States Senator,,,ALLEN BUCKLEY,30,1,17,12,0
-Thomas,Patten,United States Senator,,,ALLEN BUCKLEY,2,0,1,1,0
-Thomas,Pavo,United States Senator,,,ALLEN BUCKLEY,16,0,8,8,0
-Thomas,Remington ESC,United States Senator,,,ALLEN BUCKLEY,29,3,12,14,0
-Thomas,Resource Center,United States Senator,,,ALLEN BUCKLEY,10,0,6,4,0
-Thomas,Scott,United States Senator,,,ALLEN BUCKLEY,60,3,24,33,0
+Thomas,,United States Senator,,REP,JOHNNY ISAKSON ,10823,468,4087,6264,4
+Thomas,Barwick,United States Senator,,REP,JOHNNY ISAKSON ,308,15,168,125,0
+Thomas,Boston,United States Senator,,REP,JOHNNY ISAKSON ,488,13,242,233,0
+Thomas,Central,United States Senator,,REP,JOHNNY ISAKSON ,1321,64,332,924,1
+Thomas,Coolidge,United States Senator,,REP,JOHNNY ISAKSON ,353,6,226,121,0
+Thomas,Douglass,United States Senator,,REP,JOHNNY ISAKSON ,226,11,65,148,2
+Thomas,Ellabelle,United States Senator,,REP,JOHNNY ISAKSON ,568,25,268,275,0
+Thomas,Fire Station 2,United States Senator,,REP,JOHNNY ISAKSON ,742,54,253,435,0
+Thomas,Gatlin Creek,United States Senator,,REP,JOHNNY ISAKSON ,1009,40,364,605,0
+Thomas,Harper,United States Senator,,REP,JOHNNY ISAKSON ,303,21,68,214,0
+Thomas,Jerger,United States Senator,,REP,JOHNNY ISAKSON ,848,41,239,568,0
+Thomas,Meigs,United States Senator,,REP,JOHNNY ISAKSON ,261,4,162,95,0
+Thomas,Merrillville,United States Senator,,REP,JOHNNY ISAKSON ,282,6,166,110,0
+Thomas,Metcalfe,United States Senator,,REP,JOHNNY ISAKSON ,139,7,77,55,0
+Thomas,New Covenant,United States Senator,,REP,JOHNNY ISAKSON ,934,28,330,576,0
+Thomas,Ochlocknee,United States Senator,,REP,JOHNNY ISAKSON ,523,14,295,214,0
+Thomas,Patten,United States Senator,,REP,JOHNNY ISAKSON ,209,6,117,86,0
+Thomas,Pavo,United States Senator,,REP,JOHNNY ISAKSON ,317,11,205,101,0
+Thomas,Remington ESC,United States Senator,,REP,JOHNNY ISAKSON ,860,47,253,560,0
+Thomas,Resource Center,United States Senator,,REP,JOHNNY ISAKSON ,88,3,26,59,0
+Thomas,Scott,United States Senator,,REP,JOHNNY ISAKSON ,1044,52,231,760,1
+Thomas,,United States Senator,,DEM,JIM BARKSDALE,6002,358,2371,3272,1
+Thomas,Barwick,United States Senator,,DEM,JIM BARKSDALE,79,10,46,23,0
+Thomas,Boston,United States Senator,,DEM,JIM BARKSDALE,416,21,225,170,0
+Thomas,Central,United States Senator,,DEM,JIM BARKSDALE,556,43,190,323,0
+Thomas,Coolidge,United States Senator,,DEM,JIM BARKSDALE,108,3,80,25,0
+Thomas,Douglass,United States Senator,,DEM,JIM BARKSDALE,849,50,357,442,0
+Thomas,Ellabelle,United States Senator,,DEM,JIM BARKSDALE,108,13,35,60,0
+Thomas,Fire Station 2,United States Senator,,DEM,JIM BARKSDALE,185,12,50,123,0
+Thomas,Gatlin Creek,United States Senator,,DEM,JIM BARKSDALE,228,20,71,137,0
+Thomas,Harper,United States Senator,,DEM,JIM BARKSDALE,786,53,272,460,1
+Thomas,Jerger,United States Senator,,DEM,JIM BARKSDALE,369,23,111,235,0
+Thomas,Meigs,United States Senator,,DEM,JIM BARKSDALE,188,9,154,25,0
+Thomas,Merrillville,United States Senator,,DEM,JIM BARKSDALE,120,2,56,62,0
+Thomas,Metcalfe,United States Senator,,DEM,JIM BARKSDALE,52,4,31,17,0
+Thomas,New Covenant,United States Senator,,DEM,JIM BARKSDALE,243,12,78,153,0
+Thomas,Ochlocknee,United States Senator,,DEM,JIM BARKSDALE,107,4,59,44,0
+Thomas,Patten,United States Senator,,DEM,JIM BARKSDALE,38,1,25,12,0
+Thomas,Pavo,United States Senator,,DEM,JIM BARKSDALE,73,3,44,26,0
+Thomas,Remington ESC,United States Senator,,DEM,JIM BARKSDALE,390,24,135,231,0
+Thomas,Resource Center,United States Senator,,DEM,JIM BARKSDALE,650,33,220,397,0
+Thomas,Scott,United States Senator,,DEM,JIM BARKSDALE,457,18,132,307,0
+Thomas,,United States Senator,,IND,ALLEN BUCKLEY,526,23,246,257,0
+Thomas,Barwick,United States Senator,,IND,ALLEN BUCKLEY,9,1,6,2,0
+Thomas,Boston,United States Senator,,IND,ALLEN BUCKLEY,23,0,15,8,0
+Thomas,Central,United States Senator,,IND,ALLEN BUCKLEY,47,0,21,26,0
+Thomas,Coolidge,United States Senator,,IND,ALLEN BUCKLEY,23,0,15,8,0
+Thomas,Douglass,United States Senator,,IND,ALLEN BUCKLEY,35,3,14,18,0
+Thomas,Ellabelle,United States Senator,,IND,ALLEN BUCKLEY,27,1,17,9,0
+Thomas,Fire Station 2,United States Senator,,IND,ALLEN BUCKLEY,26,3,9,14,0
+Thomas,Gatlin Creek,United States Senator,,IND,ALLEN BUCKLEY,48,1,19,28,0
+Thomas,Harper,United States Senator,,IND,ALLEN BUCKLEY,22,1,11,10,0
+Thomas,Jerger,United States Senator,,IND,ALLEN BUCKLEY,36,2,11,23,0
+Thomas,Meigs,United States Senator,,IND,ALLEN BUCKLEY,13,0,8,5,0
+Thomas,Merrillville,United States Senator,,IND,ALLEN BUCKLEY,16,0,8,8,0
+Thomas,Metcalfe,United States Senator,,IND,ALLEN BUCKLEY,6,0,4,2,0
+Thomas,New Covenant,United States Senator,,IND,ALLEN BUCKLEY,48,4,20,24,0
+Thomas,Ochlocknee,United States Senator,,IND,ALLEN BUCKLEY,30,1,17,12,0
+Thomas,Patten,United States Senator,,IND,ALLEN BUCKLEY,2,0,1,1,0
+Thomas,Pavo,United States Senator,,IND,ALLEN BUCKLEY,16,0,8,8,0
+Thomas,Remington ESC,United States Senator,,IND,ALLEN BUCKLEY,29,3,12,14,0
+Thomas,Resource Center,United States Senator,,IND,ALLEN BUCKLEY,10,0,6,4,0
+Thomas,Scott,United States Senator,,IND,ALLEN BUCKLEY,60,3,24,33,0
 Thomas,,"Public Service Commission, District 2",2,,TIM ECHOLS ,12272,529,4663,7075,5
 Thomas,Barwick,"Public Service Commission, District 2",2,,TIM ECHOLS ,325,12,177,136,0
 Thomas,Boston,"Public Service Commission, District 2",2,,TIM ECHOLS ,583,15,290,278,0

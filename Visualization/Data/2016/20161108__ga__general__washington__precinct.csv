@@ -26,33 +26,33 @@ Washington,HARRISON,President of the United States,,IND,GARY JOHNSON,9,0,6,3,0
 Washington,DAVISBORO,President of the United States,,IND,GARY JOHNSON,4,1,1,2,0
 Washington,SANDERSVILLE,President of the United States,,IND,GARY JOHNSON,50,5,18,26,1
 Washington,DEEPSTEP,President of the United States,,IND,GARY JOHNSON,2,0,2,0,0
-Washington,,United States Senator,,,JOHNNY ISAKSON ,4092,273,1745,2065,9
-Washington,RIDDLEVILLE,United States Senator,,,JOHNNY ISAKSON ,269,15,169,85,0
-Washington,WARTHEN,United States Senator,,,JOHNNY ISAKSON ,275,12,173,89,1
-Washington,TENNILLE,United States Senator,,,JOHNNY ISAKSON ,633,32,271,330,0
-Washington,OCONEE,United States Senator,,,JOHNNY ISAKSON ,202,11,124,67,0
-Washington,HARRISON,United States Senator,,,JOHNNY ISAKSON ,402,22,208,171,1
-Washington,DAVISBORO,United States Senator,,,JOHNNY ISAKSON ,292,21,162,108,1
-Washington,SANDERSVILLE,United States Senator,,,JOHNNY ISAKSON ,1763,146,470,1141,6
-Washington,DEEPSTEP,United States Senator,,,JOHNNY ISAKSON ,256,14,168,74,0
-Washington,,United States Senator,,,JIM BARKSDALE,3608,417,1568,1609,14
-Washington,RIDDLEVILLE,United States Senator,,,JIM BARKSDALE,122,10,68,44,0
-Washington,WARTHEN,United States Senator,,,JIM BARKSDALE,182,9,106,65,2
-Washington,TENNILLE,United States Senator,,,JIM BARKSDALE,766,59,348,355,4
-Washington,OCONEE,United States Senator,,,JIM BARKSDALE,146,20,69,57,0
-Washington,HARRISON,United States Senator,,,JIM BARKSDALE,191,39,98,54,0
-Washington,DAVISBORO,United States Senator,,,JIM BARKSDALE,236,46,130,58,2
-Washington,SANDERSVILLE,United States Senator,,,JIM BARKSDALE,1871,215,707,943,6
-Washington,DEEPSTEP,United States Senator,,,JIM BARKSDALE,94,19,42,33,0
-Washington,,United States Senator,,,ALLEN BUCKLEY,107,6,57,44,0
-Washington,RIDDLEVILLE,United States Senator,,,ALLEN BUCKLEY,4,0,0,4,0
-Washington,WARTHEN,United States Senator,,,ALLEN BUCKLEY,8,1,5,2,0
-Washington,TENNILLE,United States Senator,,,ALLEN BUCKLEY,22,0,10,12,0
-Washington,OCONEE,United States Senator,,,ALLEN BUCKLEY,4,0,4,0,0
-Washington,HARRISON,United States Senator,,,ALLEN BUCKLEY,13,0,10,3,0
-Washington,DAVISBORO,United States Senator,,,ALLEN BUCKLEY,5,0,5,0,0
-Washington,SANDERSVILLE,United States Senator,,,ALLEN BUCKLEY,44,4,18,22,0
-Washington,DEEPSTEP,United States Senator,,,ALLEN BUCKLEY,7,1,5,1,0
+Washington,,United States Senator,,REP,JOHNNY ISAKSON ,4092,273,1745,2065,9
+Washington,RIDDLEVILLE,United States Senator,,REP,JOHNNY ISAKSON ,269,15,169,85,0
+Washington,WARTHEN,United States Senator,,REP,JOHNNY ISAKSON ,275,12,173,89,1
+Washington,TENNILLE,United States Senator,,REP,JOHNNY ISAKSON ,633,32,271,330,0
+Washington,OCONEE,United States Senator,,REP,JOHNNY ISAKSON ,202,11,124,67,0
+Washington,HARRISON,United States Senator,,REP,JOHNNY ISAKSON ,402,22,208,171,1
+Washington,DAVISBORO,United States Senator,,REP,JOHNNY ISAKSON ,292,21,162,108,1
+Washington,SANDERSVILLE,United States Senator,,REP,JOHNNY ISAKSON ,1763,146,470,1141,6
+Washington,DEEPSTEP,United States Senator,,REP,JOHNNY ISAKSON ,256,14,168,74,0
+Washington,,United States Senator,,DEM,JIM BARKSDALE,3608,417,1568,1609,14
+Washington,RIDDLEVILLE,United States Senator,,DEM,JIM BARKSDALE,122,10,68,44,0
+Washington,WARTHEN,United States Senator,,DEM,JIM BARKSDALE,182,9,106,65,2
+Washington,TENNILLE,United States Senator,,DEM,JIM BARKSDALE,766,59,348,355,4
+Washington,OCONEE,United States Senator,,DEM,JIM BARKSDALE,146,20,69,57,0
+Washington,HARRISON,United States Senator,,DEM,JIM BARKSDALE,191,39,98,54,0
+Washington,DAVISBORO,United States Senator,,DEM,JIM BARKSDALE,236,46,130,58,2
+Washington,SANDERSVILLE,United States Senator,,DEM,JIM BARKSDALE,1871,215,707,943,6
+Washington,DEEPSTEP,United States Senator,,DEM,JIM BARKSDALE,94,19,42,33,0
+Washington,,United States Senator,,IND,ALLEN BUCKLEY,107,6,57,44,0
+Washington,RIDDLEVILLE,United States Senator,,IND,ALLEN BUCKLEY,4,0,0,4,0
+Washington,WARTHEN,United States Senator,,IND,ALLEN BUCKLEY,8,1,5,2,0
+Washington,TENNILLE,United States Senator,,IND,ALLEN BUCKLEY,22,0,10,12,0
+Washington,OCONEE,United States Senator,,IND,ALLEN BUCKLEY,4,0,4,0,0
+Washington,HARRISON,United States Senator,,IND,ALLEN BUCKLEY,13,0,10,3,0
+Washington,DAVISBORO,United States Senator,,IND,ALLEN BUCKLEY,5,0,5,0,0
+Washington,SANDERSVILLE,United States Senator,,IND,ALLEN BUCKLEY,44,4,18,22,0
+Washington,DEEPSTEP,United States Senator,,IND,ALLEN BUCKLEY,7,1,5,1,0
 Washington,,"Public Service Commission, District 2",2,,TIM ECHOLS ,4536,340,1922,2262,12
 Washington,RIDDLEVILLE,"Public Service Commission, District 2",2,,TIM ECHOLS ,274,14,166,94,0
 Washington,WARTHEN,"Public Service Commission, District 2",2,,TIM ECHOLS ,284,14,172,95,3

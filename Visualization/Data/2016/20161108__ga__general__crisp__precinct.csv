@@ -17,24 +17,24 @@ Crisp,Coney,President of the United States,,IND,GARY JOHNSON,7,0,4,3,0
 Crisp,Cordele,President of the United States,,IND,GARY JOHNSON,80,6,31,43,0
 Crisp,Jamestown,President of the United States,,IND,GARY JOHNSON,13,3,6,4,0
 Crisp,Listonia,President of the United States,,IND,GARY JOHNSON,20,1,7,12,0
-Crisp,,United States Senator,,,JOHNNY ISAKSON ,4546,214,1369,2955,8
-Crisp,Arabi,United States Senator,,,JOHNNY ISAKSON ,376,17,201,157,1
-Crisp,Coney,United States Senator,,,JOHNNY ISAKSON ,574,18,202,351,3
-Crisp,Cordele,United States Senator,,,JOHNNY ISAKSON ,2413,136,482,1795,0
-Crisp,Jamestown,United States Senator,,,JOHNNY ISAKSON ,714,31,263,419,1
-Crisp,Listonia,United States Senator,,,JOHNNY ISAKSON ,469,12,221,233,3
-Crisp,,United States Senator,,,JIM BARKSDALE,2245,109,783,1352,1
-Crisp,Arabi,United States Senator,,,JIM BARKSDALE,70,6,35,29,0
-Crisp,Coney,United States Senator,,,JIM BARKSDALE,52,4,18,30,0
-Crisp,Cordele,United States Senator,,,JIM BARKSDALE,2020,94,693,1233,0
-Crisp,Jamestown,United States Senator,,,JIM BARKSDALE,67,4,22,40,1
-Crisp,Listonia,United States Senator,,,JIM BARKSDALE,36,1,15,20,0
-Crisp,,United States Senator,,,ALLEN BUCKLEY,171,5,67,98,1
-Crisp,Arabi,United States Senator,,,ALLEN BUCKLEY,10,0,9,1,0
-Crisp,Coney,United States Senator,,,ALLEN BUCKLEY,8,0,4,4,0
-Crisp,Cordele,United States Senator,,,ALLEN BUCKLEY,113,4,42,66,1
-Crisp,Jamestown,United States Senator,,,ALLEN BUCKLEY,24,1,8,15,0
-Crisp,Listonia,United States Senator,,,ALLEN BUCKLEY,16,0,4,12,0
+Crisp,,United States Senator,,REP,JOHNNY ISAKSON ,4546,214,1369,2955,8
+Crisp,Arabi,United States Senator,,REP,JOHNNY ISAKSON ,376,17,201,157,1
+Crisp,Coney,United States Senator,,REP,JOHNNY ISAKSON ,574,18,202,351,3
+Crisp,Cordele,United States Senator,,REP,JOHNNY ISAKSON ,2413,136,482,1795,0
+Crisp,Jamestown,United States Senator,,REP,JOHNNY ISAKSON ,714,31,263,419,1
+Crisp,Listonia,United States Senator,,REP,JOHNNY ISAKSON ,469,12,221,233,3
+Crisp,,United States Senator,,DEM,JIM BARKSDALE,2245,109,783,1352,1
+Crisp,Arabi,United States Senator,,DEM,JIM BARKSDALE,70,6,35,29,0
+Crisp,Coney,United States Senator,,DEM,JIM BARKSDALE,52,4,18,30,0
+Crisp,Cordele,United States Senator,,DEM,JIM BARKSDALE,2020,94,693,1233,0
+Crisp,Jamestown,United States Senator,,DEM,JIM BARKSDALE,67,4,22,40,1
+Crisp,Listonia,United States Senator,,DEM,JIM BARKSDALE,36,1,15,20,0
+Crisp,,United States Senator,,IND,ALLEN BUCKLEY,171,5,67,98,1
+Crisp,Arabi,United States Senator,,IND,ALLEN BUCKLEY,10,0,9,1,0
+Crisp,Coney,United States Senator,,IND,ALLEN BUCKLEY,8,0,4,4,0
+Crisp,Cordele,United States Senator,,IND,ALLEN BUCKLEY,113,4,42,66,1
+Crisp,Jamestown,United States Senator,,IND,ALLEN BUCKLEY,24,1,8,15,0
+Crisp,Listonia,United States Senator,,IND,ALLEN BUCKLEY,16,0,4,12,0
 Crisp,,"Public Service Commission, District 2",2,,TIM ECHOLS ,4885,246,1476,3155,8
 Crisp,Arabi,"Public Service Commission, District 2",2,,TIM ECHOLS ,384,22,203,158,1
 Crisp,Coney,"Public Service Commission, District 2",2,,TIM ECHOLS ,587,20,208,356,3

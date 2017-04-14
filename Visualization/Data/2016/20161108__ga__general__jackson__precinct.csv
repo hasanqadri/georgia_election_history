@@ -50,57 +50,57 @@ Jackson,Talmo,President of the United States,,IND,GARY JOHNSON,16,0,9,7,0
 Jackson,Center,President of the United States,,IND,GARY JOHNSON,12,0,7,5,0
 Jackson,Attica,President of the United States,,IND,GARY JOHNSON,34,0,27,7,0
 Jackson,Porter,President of the United States,,IND,GARY JOHNSON,75,6,31,38,0
-Jackson,,United States Senator,,,JOHNNY ISAKSON ,20965,631,7496,12808,30
-Jackson,North Jefferson,United States Senator,,,JOHNNY ISAKSON ,3578,93,888,2593,4
-Jackson,North Minish,United States Senator,,,JOHNNY ISAKSON ,1009,48,274,683,4
-Jackson,South Jefferson,United States Senator,,,JOHNNY ISAKSON ,1864,46,497,1319,2
-Jackson,South Minish,United States Senator,,,JOHNNY ISAKSON ,1623,50,448,1123,2
-Jackson,Redstone,United States Senator,,,JOHNNY ISAKSON ,822,29,366,426,1
-Jackson,Randolph,United States Senator,,,JOHNNY ISAKSON ,3369,107,1072,2179,11
-Jackson,Newtown,United States Senator,,,JOHNNY ISAKSON ,1245,44,617,584,0
-Jackson,Harrisburg,United States Senator,,,JOHNNY ISAKSON ,965,32,382,551,0
-Jackson,Cunningham,United States Senator,,,JOHNNY ISAKSON ,498,10,253,235,0
-Jackson,Miller,United States Senator,,,JOHNNY ISAKSON ,976,22,526,427,1
-Jackson,Wilson,United States Senator,,,JOHNNY ISAKSON ,433,16,245,172,0
-Jackson,Hoschton,United States Senator,,,JOHNNY ISAKSON ,712,13,270,426,3
-Jackson,Talmo,United States Senator,,,JOHNNY ISAKSON ,597,17,332,247,1
-Jackson,Center,United States Senator,,,JOHNNY ISAKSON ,429,22,274,133,0
-Jackson,Attica,United States Senator,,,JOHNNY ISAKSON ,677,24,401,252,0
-Jackson,Porter,United States Senator,,,JOHNNY ISAKSON ,2168,58,651,1458,1
-Jackson,,United States Senator,,,JIM BARKSDALE,3906,138,1438,2312,18
-Jackson,North Jefferson,United States Senator,,,JIM BARKSDALE,513,12,137,361,3
-Jackson,North Minish,United States Senator,,,JIM BARKSDALE,308,12,101,194,1
-Jackson,South Jefferson,United States Senator,,,JIM BARKSDALE,509,22,137,349,1
-Jackson,South Minish,United States Senator,,,JIM BARKSDALE,400,13,139,247,1
-Jackson,Redstone,United States Senator,,,JIM BARKSDALE,240,7,121,112,0
-Jackson,Randolph,United States Senator,,,JIM BARKSDALE,411,21,112,277,1
-Jackson,Newtown,United States Senator,,,JIM BARKSDALE,159,8,86,65,0
-Jackson,Harrisburg,United States Senator,,,JIM BARKSDALE,179,9,62,106,2
-Jackson,Cunningham,United States Senator,,,JIM BARKSDALE,62,7,22,33,0
-Jackson,Miller,United States Senator,,,JIM BARKSDALE,109,4,62,43,0
-Jackson,Wilson,United States Senator,,,JIM BARKSDALE,66,2,33,30,1
-Jackson,Hoschton,United States Senator,,,JIM BARKSDALE,124,2,51,71,0
-Jackson,Talmo,United States Senator,,,JIM BARKSDALE,89,1,43,44,1
-Jackson,Center,United States Senator,,,JIM BARKSDALE,114,5,75,33,1
-Jackson,Attica,United States Senator,,,JIM BARKSDALE,232,3,135,94,0
-Jackson,Porter,United States Senator,,,JIM BARKSDALE,391,10,122,253,6
-Jackson,,United States Senator,,,ALLEN BUCKLEY,1217,28,533,654,2
-Jackson,North Jefferson,United States Senator,,,ALLEN BUCKLEY,227,7,76,144,0
-Jackson,North Minish,United States Senator,,,ALLEN BUCKLEY,56,2,18,36,0
-Jackson,South Jefferson,United States Senator,,,ALLEN BUCKLEY,112,1,33,78,0
-Jackson,South Minish,United States Senator,,,ALLEN BUCKLEY,92,2,38,51,1
-Jackson,Redstone,United States Senator,,,ALLEN BUCKLEY,55,0,32,23,0
-Jackson,Randolph,United States Senator,,,ALLEN BUCKLEY,167,7,63,96,1
-Jackson,Newtown,United States Senator,,,ALLEN BUCKLEY,51,0,31,20,0
-Jackson,Harrisburg,United States Senator,,,ALLEN BUCKLEY,57,1,32,24,0
-Jackson,Cunningham,United States Senator,,,ALLEN BUCKLEY,23,2,10,11,0
-Jackson,Miller,United States Senator,,,ALLEN BUCKLEY,59,0,39,20,0
-Jackson,Wilson,United States Senator,,,ALLEN BUCKLEY,20,1,14,5,0
-Jackson,Hoschton,United States Senator,,,ALLEN BUCKLEY,62,0,25,37,0
-Jackson,Talmo,United States Senator,,,ALLEN BUCKLEY,25,0,18,7,0
-Jackson,Center,United States Senator,,,ALLEN BUCKLEY,30,0,22,8,0
-Jackson,Attica,United States Senator,,,ALLEN BUCKLEY,42,1,29,12,0
-Jackson,Porter,United States Senator,,,ALLEN BUCKLEY,139,4,53,82,0
+Jackson,,United States Senator,,REP,JOHNNY ISAKSON ,20965,631,7496,12808,30
+Jackson,North Jefferson,United States Senator,,REP,JOHNNY ISAKSON ,3578,93,888,2593,4
+Jackson,North Minish,United States Senator,,REP,JOHNNY ISAKSON ,1009,48,274,683,4
+Jackson,South Jefferson,United States Senator,,REP,JOHNNY ISAKSON ,1864,46,497,1319,2
+Jackson,South Minish,United States Senator,,REP,JOHNNY ISAKSON ,1623,50,448,1123,2
+Jackson,Redstone,United States Senator,,REP,JOHNNY ISAKSON ,822,29,366,426,1
+Jackson,Randolph,United States Senator,,REP,JOHNNY ISAKSON ,3369,107,1072,2179,11
+Jackson,Newtown,United States Senator,,REP,JOHNNY ISAKSON ,1245,44,617,584,0
+Jackson,Harrisburg,United States Senator,,REP,JOHNNY ISAKSON ,965,32,382,551,0
+Jackson,Cunningham,United States Senator,,REP,JOHNNY ISAKSON ,498,10,253,235,0
+Jackson,Miller,United States Senator,,REP,JOHNNY ISAKSON ,976,22,526,427,1
+Jackson,Wilson,United States Senator,,REP,JOHNNY ISAKSON ,433,16,245,172,0
+Jackson,Hoschton,United States Senator,,REP,JOHNNY ISAKSON ,712,13,270,426,3
+Jackson,Talmo,United States Senator,,REP,JOHNNY ISAKSON ,597,17,332,247,1
+Jackson,Center,United States Senator,,REP,JOHNNY ISAKSON ,429,22,274,133,0
+Jackson,Attica,United States Senator,,REP,JOHNNY ISAKSON ,677,24,401,252,0
+Jackson,Porter,United States Senator,,REP,JOHNNY ISAKSON ,2168,58,651,1458,1
+Jackson,,United States Senator,,DEM,JIM BARKSDALE,3906,138,1438,2312,18
+Jackson,North Jefferson,United States Senator,,DEM,JIM BARKSDALE,513,12,137,361,3
+Jackson,North Minish,United States Senator,,DEM,JIM BARKSDALE,308,12,101,194,1
+Jackson,South Jefferson,United States Senator,,DEM,JIM BARKSDALE,509,22,137,349,1
+Jackson,South Minish,United States Senator,,DEM,JIM BARKSDALE,400,13,139,247,1
+Jackson,Redstone,United States Senator,,DEM,JIM BARKSDALE,240,7,121,112,0
+Jackson,Randolph,United States Senator,,DEM,JIM BARKSDALE,411,21,112,277,1
+Jackson,Newtown,United States Senator,,DEM,JIM BARKSDALE,159,8,86,65,0
+Jackson,Harrisburg,United States Senator,,DEM,JIM BARKSDALE,179,9,62,106,2
+Jackson,Cunningham,United States Senator,,DEM,JIM BARKSDALE,62,7,22,33,0
+Jackson,Miller,United States Senator,,DEM,JIM BARKSDALE,109,4,62,43,0
+Jackson,Wilson,United States Senator,,DEM,JIM BARKSDALE,66,2,33,30,1
+Jackson,Hoschton,United States Senator,,DEM,JIM BARKSDALE,124,2,51,71,0
+Jackson,Talmo,United States Senator,,DEM,JIM BARKSDALE,89,1,43,44,1
+Jackson,Center,United States Senator,,DEM,JIM BARKSDALE,114,5,75,33,1
+Jackson,Attica,United States Senator,,DEM,JIM BARKSDALE,232,3,135,94,0
+Jackson,Porter,United States Senator,,DEM,JIM BARKSDALE,391,10,122,253,6
+Jackson,,United States Senator,,IND,ALLEN BUCKLEY,1217,28,533,654,2
+Jackson,North Jefferson,United States Senator,,IND,ALLEN BUCKLEY,227,7,76,144,0
+Jackson,North Minish,United States Senator,,IND,ALLEN BUCKLEY,56,2,18,36,0
+Jackson,South Jefferson,United States Senator,,IND,ALLEN BUCKLEY,112,1,33,78,0
+Jackson,South Minish,United States Senator,,IND,ALLEN BUCKLEY,92,2,38,51,1
+Jackson,Redstone,United States Senator,,IND,ALLEN BUCKLEY,55,0,32,23,0
+Jackson,Randolph,United States Senator,,IND,ALLEN BUCKLEY,167,7,63,96,1
+Jackson,Newtown,United States Senator,,IND,ALLEN BUCKLEY,51,0,31,20,0
+Jackson,Harrisburg,United States Senator,,IND,ALLEN BUCKLEY,57,1,32,24,0
+Jackson,Cunningham,United States Senator,,IND,ALLEN BUCKLEY,23,2,10,11,0
+Jackson,Miller,United States Senator,,IND,ALLEN BUCKLEY,59,0,39,20,0
+Jackson,Wilson,United States Senator,,IND,ALLEN BUCKLEY,20,1,14,5,0
+Jackson,Hoschton,United States Senator,,IND,ALLEN BUCKLEY,62,0,25,37,0
+Jackson,Talmo,United States Senator,,IND,ALLEN BUCKLEY,25,0,18,7,0
+Jackson,Center,United States Senator,,IND,ALLEN BUCKLEY,30,0,22,8,0
+Jackson,Attica,United States Senator,,IND,ALLEN BUCKLEY,42,1,29,12,0
+Jackson,Porter,United States Senator,,IND,ALLEN BUCKLEY,139,4,53,82,0
 Jackson,,"Public Service Commission, District 2",2,,TIM ECHOLS ,21813,655,7795,13334,29
 Jackson,North Jefferson,"Public Service Commission, District 2",2,,TIM ECHOLS ,3665,90,915,2654,6
 Jackson,North Minish,"Public Service Commission, District 2",2,,TIM ECHOLS ,1089,52,297,736,4

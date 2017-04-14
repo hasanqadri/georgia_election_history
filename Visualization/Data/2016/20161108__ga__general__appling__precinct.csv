@@ -44,21 +44,21 @@ Appling,4D,President of the United States,,IND,GARY JOHNSON,10,1,6,3,0
 Appling,5A,President of the United States,,IND,GARY JOHNSON,12,1,5,6,0
 Appling,5B,President of the United States,,IND,GARY JOHNSON,3,0,3,0,0
 Appling,5C,President of the United States,,IND,GARY JOHNSON,5,1,4,0,0
-Appling,,United States Senator,,(REP,JOHNNY ISAKSON ,5170,360,2793,2015,2
-Appling,1B,United States Senator,,(REP,JOHNNY ISAKSON ,636,54,328,253,1
-Appling,1C,United States Senator,,(REP,JOHNNY ISAKSON ,455,38,262,155,0
-Appling,2,United States Senator,,(REP,JOHNNY ISAKSON ,445,37,231,177,0
-Appling,3A,United States Senator,,(REP,JOHNNY ISAKSON ,194,5,145,43,1
-Appling,3A1,United States Senator,,(REP,JOHNNY ISAKSON ,295,23,177,95,0
-Appling,3B,United States Senator,,(REP,JOHNNY ISAKSON ,93,3,64,26,0
-Appling,3C,United States Senator,,(REP,JOHNNY ISAKSON ,651,56,249,346,0
-Appling,4A,United States Senator,,(REP,JOHNNY ISAKSON ,244,10,179,55,0
-Appling,4B,United States Senator,,(REP,JOHNNY ISAKSON ,291,12,194,85,0
-Appling,4C,United States Senator,,(REP,JOHNNY ISAKSON ,259,18,168,73,0
-Appling,4D,United States Senator,,(REP,JOHNNY ISAKSON ,574,42,263,269,0
-Appling,5A,United States Senator,,(REP,JOHNNY ISAKSON ,492,31,206,255,0
-Appling,5B,United States Senator,,(REP,JOHNNY ISAKSON ,318,14,176,128,0
-Appling,5C,United States Senator,,(REP,JOHNNY ISAKSON ,223,17,151,55,0
+Appling,,United States Senator,,REP,JOHNNY ISAKSON ,5170,360,2793,2015,2
+Appling,1B,United States Senator,,REP,JOHNNY ISAKSON ,636,54,328,253,1
+Appling,1C,United States Senator,,REP,JOHNNY ISAKSON ,455,38,262,155,0
+Appling,2,United States Senator,,REP,JOHNNY ISAKSON ,445,37,231,177,0
+Appling,3A,United States Senator,,REP,JOHNNY ISAKSON ,194,5,145,43,1
+Appling,3A1,United States Senator,,REP,JOHNNY ISAKSON ,295,23,177,95,0
+Appling,3B,United States Senator,,REP,JOHNNY ISAKSON ,93,3,64,26,0
+Appling,3C,United States Senator,,REP,JOHNNY ISAKSON ,651,56,249,346,0
+Appling,4A,United States Senator,,REP,JOHNNY ISAKSON ,244,10,179,55,0
+Appling,4B,United States Senator,,REP,JOHNNY ISAKSON ,291,12,194,85,0
+Appling,4C,United States Senator,,REP,JOHNNY ISAKSON ,259,18,168,73,0
+Appling,4D,United States Senator,,REP,JOHNNY ISAKSON ,574,42,263,269,0
+Appling,5A,United States Senator,,REP,JOHNNY ISAKSON ,492,31,206,255,0
+Appling,5B,United States Senator,,REP,JOHNNY ISAKSON ,318,14,176,128,0
+Appling,5C,United States Senator,,REP,JOHNNY ISAKSON ,223,17,151,55,0
 Appling,,United States Senator,,DEM,JIM BARKSDALE,1187,149,564,474,0
 Appling,1B,United States Senator,,DEM,JIM BARKSDALE,81,21,34,26,0
 Appling,1C,United States Senator,,DEM,JIM BARKSDALE,45,1,29,15,0
@@ -74,21 +74,21 @@ Appling,4D,United States Senator,,DEM,JIM BARKSDALE,79,10,24,45,0
 Appling,5A,United States Senator,,DEM,JIM BARKSDALE,54,5,18,31,0
 Appling,5B,United States Senator,,DEM,JIM BARKSDALE,61,5,41,15,0
 Appling,5C,United States Senator,,DEM,JIM BARKSDALE,31,2,18,11,0
-Appling,,United States Senator,,LIB,ALLEN BUCKLEY,154,11,79,64,0
-Appling,1B,United States Senator,,LIB,ALLEN BUCKLEY,14,2,9,3,0
-Appling,1C,United States Senator,,LIB,ALLEN BUCKLEY,13,0,8,5,0
-Appling,2,United States Senator,,LIB,ALLEN BUCKLEY,28,3,11,14,0
-Appling,3A,United States Senator,,LIB,ALLEN BUCKLEY,3,0,2,1,0
-Appling,3A1,United States Senator,,LIB,ALLEN BUCKLEY,9,2,5,2,0
-Appling,3B,United States Senator,,LIB,ALLEN BUCKLEY,4,0,3,1,0
-Appling,3C,United States Senator,,LIB,ALLEN BUCKLEY,22,1,6,15,0
-Appling,4A,United States Senator,,LIB,ALLEN BUCKLEY,8,0,5,3,0
-Appling,4B,United States Senator,,LIB,ALLEN BUCKLEY,3,0,1,2,0
-Appling,4C,United States Senator,,LIB,ALLEN BUCKLEY,5,0,2,3,0
-Appling,4D,United States Senator,,LIB,ALLEN BUCKLEY,14,1,7,6,0
-Appling,5A,United States Senator,,LIB,ALLEN BUCKLEY,18,1,10,7,0
-Appling,5B,United States Senator,,LIB,ALLEN BUCKLEY,10,0,9,1,0
-Appling,5C,United States Senator,,LIB,ALLEN BUCKLEY,3,1,1,1,0
+Appling,,United States Senator,,IND,ALLEN BUCKLEY,154,11,79,64,0
+Appling,1B,United States Senator,,IND,ALLEN BUCKLEY,14,2,9,3,0
+Appling,1C,United States Senator,,IND,ALLEN BUCKLEY,13,0,8,5,0
+Appling,2,United States Senator,,IND,ALLEN BUCKLEY,28,3,11,14,0
+Appling,3A,United States Senator,,IND,ALLEN BUCKLEY,3,0,2,1,0
+Appling,3A1,United States Senator,,IND,ALLEN BUCKLEY,9,2,5,2,0
+Appling,3B,United States Senator,,IND,ALLEN BUCKLEY,4,0,3,1,0
+Appling,3C,United States Senator,,IND,ALLEN BUCKLEY,22,1,6,15,0
+Appling,4A,United States Senator,,IND,ALLEN BUCKLEY,8,0,5,3,0
+Appling,4B,United States Senator,,IND,ALLEN BUCKLEY,3,0,1,2,0
+Appling,4C,United States Senator,,IND,ALLEN BUCKLEY,5,0,2,3,0
+Appling,4D,United States Senator,,IND,ALLEN BUCKLEY,14,1,7,6,0
+Appling,5A,United States Senator,,IND,ALLEN BUCKLEY,18,1,10,7,0
+Appling,5B,United States Senator,,IND,ALLEN BUCKLEY,10,0,9,1,0
+Appling,5C,United States Senator,,IND,ALLEN BUCKLEY,3,1,1,1,0
 Appling,,"Public Service Commission, District 2",2,(REP,TIM ECHOLS ,5420,389,2868,2161,2
 Appling,1B,"Public Service Commission, District 2",2,(REP,TIM ECHOLS ,655,61,336,257,1
 Appling,1C,"Public Service Commission, District 2",2,(REP,TIM ECHOLS ,464,40,260,164,0

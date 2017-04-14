@@ -41,48 +41,48 @@ Grady,Spence,President of the United States,,IND,GARY JOHNSON,10,0,7,3,0
 Grady,Spring Hill,President of the United States,,IND,GARY JOHNSON,5,0,4,1,0
 Grady,Whigham,President of the United States,,IND,GARY JOHNSON,11,1,5,5,0
 Grady,Woodland,President of the United States,,IND,GARY JOHNSON,20,1,12,7,0
-Grady,,United States Senator,,,JOHNNY ISAKSON ,5534,176,2348,3006,4
-Grady,Blowing Cave,United States Senator,,,JOHNNY ISAKSON ,389,7,196,185,1
-Grady,Cairo 4th District,United States Senator,,,JOHNNY ISAKSON ,268,21,61,186,0
-Grady,Cairo 5th District,United States Senator,,,JOHNNY ISAKSON ,796,28,258,510,0
-Grady,Duncanville,United States Senator,,,JOHNNY ISAKSON ,189,2,123,64,0
-Grady,Higdon,United States Senator,,,JOHNNY ISAKSON ,306,6,186,114,0
-Grady,Limesink,United States Senator,,,JOHNNY ISAKSON ,153,4,93,56,0
-Grady,Midway,United States Senator,,,JOHNNY ISAKSON ,595,24,205,365,1
-Grady,Pine Park,United States Senator,,,JOHNNY ISAKSON ,323,7,161,155,0
-Grady,Ragan,United States Senator,,,JOHNNY ISAKSON ,204,5,107,92,0
-Grady,Spence,United States Senator,,,JOHNNY ISAKSON ,375,21,197,156,1
-Grady,Spring Hill,United States Senator,,,JOHNNY ISAKSON ,302,3,178,121,0
-Grady,Whigham,United States Senator,,,JOHNNY ISAKSON ,485,16,218,251,0
-Grady,Woodland,United States Senator,,,JOHNNY ISAKSON ,1149,32,365,751,1
-Grady,,United States Senator,,,JIM BARKSDALE,2671,102,1090,1471,8
-Grady,Blowing Cave,United States Senator,,,JIM BARKSDALE,70,1,29,38,2
-Grady,Cairo 4th District,United States Senator,,,JIM BARKSDALE,943,40,333,568,2
-Grady,Cairo 5th District,United States Senator,,,JIM BARKSDALE,542,20,221,300,1
-Grady,Duncanville,United States Senator,,,JIM BARKSDALE,109,1,66,42,0
-Grady,Higdon,United States Senator,,,JIM BARKSDALE,155,6,96,52,1
-Grady,Limesink,United States Senator,,,JIM BARKSDALE,23,0,6,17,0
-Grady,Midway,United States Senator,,,JIM BARKSDALE,155,8,56,91,0
-Grady,Pine Park,United States Senator,,,JIM BARKSDALE,146,7,63,76,0
-Grady,Ragan,United States Senator,,,JIM BARKSDALE,84,3,38,43,0
-Grady,Spence,United States Senator,,,JIM BARKSDALE,41,2,21,18,0
-Grady,Spring Hill,United States Senator,,,JIM BARKSDALE,39,0,23,14,2
-Grady,Whigham,United States Senator,,,JIM BARKSDALE,161,6,77,78,0
-Grady,Woodland,United States Senator,,,JIM BARKSDALE,203,8,61,134,0
-Grady,,United States Senator,,,ALLEN BUCKLEY,261,14,133,114,0
-Grady,Blowing Cave,United States Senator,,,ALLEN BUCKLEY,12,0,6,6,0
-Grady,Cairo 4th District,United States Senator,,,ALLEN BUCKLEY,31,0,16,15,0
-Grady,Cairo 5th District,United States Senator,,,ALLEN BUCKLEY,40,5,7,28,0
-Grady,Duncanville,United States Senator,,,ALLEN BUCKLEY,4,0,4,0,0
-Grady,Higdon,United States Senator,,,ALLEN BUCKLEY,19,0,13,6,0
-Grady,Limesink,United States Senator,,,ALLEN BUCKLEY,4,0,4,0,0
-Grady,Midway,United States Senator,,,ALLEN BUCKLEY,34,2,19,13,0
-Grady,Pine Park,United States Senator,,,ALLEN BUCKLEY,14,0,9,5,0
-Grady,Ragan,United States Senator,,,ALLEN BUCKLEY,8,1,5,2,0
-Grady,Spence,United States Senator,,,ALLEN BUCKLEY,18,1,16,1,0
-Grady,Spring Hill,United States Senator,,,ALLEN BUCKLEY,9,0,7,2,0
-Grady,Whigham,United States Senator,,,ALLEN BUCKLEY,25,2,14,9,0
-Grady,Woodland,United States Senator,,,ALLEN BUCKLEY,43,3,13,27,0
+Grady,,United States Senator,,REP,JOHNNY ISAKSON ,5534,176,2348,3006,4
+Grady,Blowing Cave,United States Senator,,REP,JOHNNY ISAKSON ,389,7,196,185,1
+Grady,Cairo 4th District,United States Senator,,REP,JOHNNY ISAKSON ,268,21,61,186,0
+Grady,Cairo 5th District,United States Senator,,REP,JOHNNY ISAKSON ,796,28,258,510,0
+Grady,Duncanville,United States Senator,,REP,JOHNNY ISAKSON ,189,2,123,64,0
+Grady,Higdon,United States Senator,,REP,JOHNNY ISAKSON ,306,6,186,114,0
+Grady,Limesink,United States Senator,,REP,JOHNNY ISAKSON ,153,4,93,56,0
+Grady,Midway,United States Senator,,REP,JOHNNY ISAKSON ,595,24,205,365,1
+Grady,Pine Park,United States Senator,,REP,JOHNNY ISAKSON ,323,7,161,155,0
+Grady,Ragan,United States Senator,,REP,JOHNNY ISAKSON ,204,5,107,92,0
+Grady,Spence,United States Senator,,REP,JOHNNY ISAKSON ,375,21,197,156,1
+Grady,Spring Hill,United States Senator,,REP,JOHNNY ISAKSON ,302,3,178,121,0
+Grady,Whigham,United States Senator,,REP,JOHNNY ISAKSON ,485,16,218,251,0
+Grady,Woodland,United States Senator,,REP,JOHNNY ISAKSON ,1149,32,365,751,1
+Grady,,United States Senator,,DEM,JIM BARKSDALE,2671,102,1090,1471,8
+Grady,Blowing Cave,United States Senator,,DEM,JIM BARKSDALE,70,1,29,38,2
+Grady,Cairo 4th District,United States Senator,,DEM,JIM BARKSDALE,943,40,333,568,2
+Grady,Cairo 5th District,United States Senator,,DEM,JIM BARKSDALE,542,20,221,300,1
+Grady,Duncanville,United States Senator,,DEM,JIM BARKSDALE,109,1,66,42,0
+Grady,Higdon,United States Senator,,DEM,JIM BARKSDALE,155,6,96,52,1
+Grady,Limesink,United States Senator,,DEM,JIM BARKSDALE,23,0,6,17,0
+Grady,Midway,United States Senator,,DEM,JIM BARKSDALE,155,8,56,91,0
+Grady,Pine Park,United States Senator,,DEM,JIM BARKSDALE,146,7,63,76,0
+Grady,Ragan,United States Senator,,DEM,JIM BARKSDALE,84,3,38,43,0
+Grady,Spence,United States Senator,,DEM,JIM BARKSDALE,41,2,21,18,0
+Grady,Spring Hill,United States Senator,,DEM,JIM BARKSDALE,39,0,23,14,2
+Grady,Whigham,United States Senator,,DEM,JIM BARKSDALE,161,6,77,78,0
+Grady,Woodland,United States Senator,,DEM,JIM BARKSDALE,203,8,61,134,0
+Grady,,United States Senator,,IND,ALLEN BUCKLEY,261,14,133,114,0
+Grady,Blowing Cave,United States Senator,,IND,ALLEN BUCKLEY,12,0,6,6,0
+Grady,Cairo 4th District,United States Senator,,IND,ALLEN BUCKLEY,31,0,16,15,0
+Grady,Cairo 5th District,United States Senator,,IND,ALLEN BUCKLEY,40,5,7,28,0
+Grady,Duncanville,United States Senator,,IND,ALLEN BUCKLEY,4,0,4,0,0
+Grady,Higdon,United States Senator,,IND,ALLEN BUCKLEY,19,0,13,6,0
+Grady,Limesink,United States Senator,,IND,ALLEN BUCKLEY,4,0,4,0,0
+Grady,Midway,United States Senator,,IND,ALLEN BUCKLEY,34,2,19,13,0
+Grady,Pine Park,United States Senator,,IND,ALLEN BUCKLEY,14,0,9,5,0
+Grady,Ragan,United States Senator,,IND,ALLEN BUCKLEY,8,1,5,2,0
+Grady,Spence,United States Senator,,IND,ALLEN BUCKLEY,18,1,16,1,0
+Grady,Spring Hill,United States Senator,,IND,ALLEN BUCKLEY,9,0,7,2,0
+Grady,Whigham,United States Senator,,IND,ALLEN BUCKLEY,25,2,14,9,0
+Grady,Woodland,United States Senator,,IND,ALLEN BUCKLEY,43,3,13,27,0
 Grady,,"Public Service Commission, District 2",2,,TIM ECHOLS ,6198,185,2665,3342,6
 Grady,Blowing Cave,"Public Service Commission, District 2",2,,TIM ECHOLS ,408,5,205,196,2
 Grady,Cairo 4th District,"Public Service Commission, District 2",2,,TIM ECHOLS ,432,19,121,292,0

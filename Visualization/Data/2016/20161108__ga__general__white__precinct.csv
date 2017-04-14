@@ -35,42 +35,42 @@ White,Shoal Creek,President of the United States,,IND,GARY JOHNSON,42,2,19,21,0
 White,Tesnatee,President of the United States,,IND,GARY JOHNSON,22,0,13,9,0
 White,Town Creek,President of the United States,,IND,GARY JOHNSON,37,2,20,15,0
 White,White Creek,President of the United States,,IND,GARY JOHNSON,25,3,14,8,0
-White,,United States Senator,,,JOHNNY ISAKSON ,9212,478,3840,4886,8
-White,Blue Creek,United States Senator,,,JOHNNY ISAKSON ,1098,52,488,556,2
-White,Blue Ridge,United States Senator,,,JOHNNY ISAKSON ,397,20,204,173,0
-White,Helen,United States Senator,,,JOHNNY ISAKSON ,246,9,134,103,0
-White,Mossy Creek,United States Senator,,,JOHNNY ISAKSON ,1432,78,646,706,2
-White,Mt. Yonah,United States Senator,,,JOHNNY ISAKSON ,1989,116,600,1272,1
-White,Nacoochee,United States Senator,,,JOHNNY ISAKSON ,724,46,281,396,1
-White,Robertstown,United States Senator,,,JOHNNY ISAKSON ,173,11,93,69,0
-White,Shoal Creek,United States Senator,,,JOHNNY ISAKSON ,1053,40,503,509,1
-White,Tesnatee,United States Senator,,,JOHNNY ISAKSON ,523,25,180,318,0
-White,Town Creek,United States Senator,,,JOHNNY ISAKSON ,707,25,325,357,0
-White,White Creek,United States Senator,,,JOHNNY ISAKSON ,870,56,386,427,1
-White,,United States Senator,,,JIM BARKSDALE,1541,117,561,860,3
-White,Blue Creek,United States Senator,,,JIM BARKSDALE,214,12,68,133,1
-White,Blue Ridge,United States Senator,,,JIM BARKSDALE,56,3,25,28,0
-White,Helen,United States Senator,,,JIM BARKSDALE,66,3,34,29,0
-White,Mossy Creek,United States Senator,,,JIM BARKSDALE,170,14,69,86,1
-White,Mt. Yonah,United States Senator,,,JIM BARKSDALE,307,34,85,187,1
-White,Nacoochee,United States Senator,,,JIM BARKSDALE,235,20,98,117,0
-White,Robertstown,United States Senator,,,JIM BARKSDALE,42,1,20,21,0
-White,Shoal Creek,United States Senator,,,JIM BARKSDALE,149,8,57,84,0
-White,Tesnatee,United States Senator,,,JIM BARKSDALE,101,5,30,66,0
-White,Town Creek,United States Senator,,,JIM BARKSDALE,108,8,41,59,0
-White,White Creek,United States Senator,,,JIM BARKSDALE,93,9,34,50,0
-White,,United States Senator,,,ALLEN BUCKLEY,586,26,271,288,1
-White,Blue Creek,United States Senator,,,ALLEN BUCKLEY,90,6,33,51,0
-White,Blue Ridge,United States Senator,,,ALLEN BUCKLEY,31,2,17,12,0
-White,Helen,United States Senator,,,ALLEN BUCKLEY,21,1,14,6,0
-White,Mossy Creek,United States Senator,,,ALLEN BUCKLEY,77,2,42,33,0
-White,Mt. Yonah,United States Senator,,,ALLEN BUCKLEY,127,9,49,69,0
-White,Nacoochee,United States Senator,,,ALLEN BUCKLEY,48,1,20,27,0
-White,Robertstown,United States Senator,,,ALLEN BUCKLEY,8,0,4,4,0
-White,Shoal Creek,United States Senator,,,ALLEN BUCKLEY,71,4,33,34,0
-White,Tesnatee,United States Senator,,,ALLEN BUCKLEY,18,0,9,8,1
-White,Town Creek,United States Senator,,,ALLEN BUCKLEY,52,0,24,28,0
-White,White Creek,United States Senator,,,ALLEN BUCKLEY,43,1,26,16,0
+White,,United States Senator,,REP,JOHNNY ISAKSON ,9212,478,3840,4886,8
+White,Blue Creek,United States Senator,,REP,JOHNNY ISAKSON ,1098,52,488,556,2
+White,Blue Ridge,United States Senator,,REP,JOHNNY ISAKSON ,397,20,204,173,0
+White,Helen,United States Senator,,REP,JOHNNY ISAKSON ,246,9,134,103,0
+White,Mossy Creek,United States Senator,,REP,JOHNNY ISAKSON ,1432,78,646,706,2
+White,Mt. Yonah,United States Senator,,REP,JOHNNY ISAKSON ,1989,116,600,1272,1
+White,Nacoochee,United States Senator,,REP,JOHNNY ISAKSON ,724,46,281,396,1
+White,Robertstown,United States Senator,,REP,JOHNNY ISAKSON ,173,11,93,69,0
+White,Shoal Creek,United States Senator,,REP,JOHNNY ISAKSON ,1053,40,503,509,1
+White,Tesnatee,United States Senator,,REP,JOHNNY ISAKSON ,523,25,180,318,0
+White,Town Creek,United States Senator,,REP,JOHNNY ISAKSON ,707,25,325,357,0
+White,White Creek,United States Senator,,REP,JOHNNY ISAKSON ,870,56,386,427,1
+White,,United States Senator,,DEM,JIM BARKSDALE,1541,117,561,860,3
+White,Blue Creek,United States Senator,,DEM,JIM BARKSDALE,214,12,68,133,1
+White,Blue Ridge,United States Senator,,DEM,JIM BARKSDALE,56,3,25,28,0
+White,Helen,United States Senator,,DEM,JIM BARKSDALE,66,3,34,29,0
+White,Mossy Creek,United States Senator,,DEM,JIM BARKSDALE,170,14,69,86,1
+White,Mt. Yonah,United States Senator,,DEM,JIM BARKSDALE,307,34,85,187,1
+White,Nacoochee,United States Senator,,DEM,JIM BARKSDALE,235,20,98,117,0
+White,Robertstown,United States Senator,,DEM,JIM BARKSDALE,42,1,20,21,0
+White,Shoal Creek,United States Senator,,DEM,JIM BARKSDALE,149,8,57,84,0
+White,Tesnatee,United States Senator,,DEM,JIM BARKSDALE,101,5,30,66,0
+White,Town Creek,United States Senator,,DEM,JIM BARKSDALE,108,8,41,59,0
+White,White Creek,United States Senator,,DEM,JIM BARKSDALE,93,9,34,50,0
+White,,United States Senator,,IND,ALLEN BUCKLEY,586,26,271,288,1
+White,Blue Creek,United States Senator,,IND,ALLEN BUCKLEY,90,6,33,51,0
+White,Blue Ridge,United States Senator,,IND,ALLEN BUCKLEY,31,2,17,12,0
+White,Helen,United States Senator,,IND,ALLEN BUCKLEY,21,1,14,6,0
+White,Mossy Creek,United States Senator,,IND,ALLEN BUCKLEY,77,2,42,33,0
+White,Mt. Yonah,United States Senator,,IND,ALLEN BUCKLEY,127,9,49,69,0
+White,Nacoochee,United States Senator,,IND,ALLEN BUCKLEY,48,1,20,27,0
+White,Robertstown,United States Senator,,IND,ALLEN BUCKLEY,8,0,4,4,0
+White,Shoal Creek,United States Senator,,IND,ALLEN BUCKLEY,71,4,33,34,0
+White,Tesnatee,United States Senator,,IND,ALLEN BUCKLEY,18,0,9,8,1
+White,Town Creek,United States Senator,,IND,ALLEN BUCKLEY,52,0,24,28,0
+White,White Creek,United States Senator,,IND,ALLEN BUCKLEY,43,1,26,16,0
 White,,"Public Service Commission, District 2",2,,TIM ECHOLS ,9585,492,3982,5102,9
 White,Blue Creek,"Public Service Commission, District 2",2,,TIM ECHOLS ,1129,49,505,572,3
 White,Blue Ridge,"Public Service Commission, District 2",2,,TIM ECHOLS ,404,21,207,176,0

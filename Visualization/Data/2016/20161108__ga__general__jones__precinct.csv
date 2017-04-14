@@ -32,39 +32,39 @@ Jones,POPE,President of the United States,,IND,GARY JOHNSON,22,1,13,8,0
 Jones,BARRON,President of the United States,,IND,GARY JOHNSON,14,1,7,6,0
 Jones,SANDERS,President of the United States,,IND,GARY JOHNSON,3,0,3,0,0
 Jones,FINNEY,President of the United States,,IND,GARY JOHNSON,46,3,25,18,0
-Jones,,United States Senator,,,JOHNNY ISAKSON ,8125,415,3012,4697,1
-Jones,GRAY,United States Senator,,,JOHNNY ISAKSON ,1272,61,314,897,0
-Jones,HAWKINS,United States Senator,,,JOHNNY ISAKSON ,720,44,223,453,0
-Jones,ETHRIDGE,United States Senator,,,JOHNNY ISAKSON ,716,52,210,454,0
-Jones,CLINTON,United States Senator,,,JOHNNY ISAKSON ,1084,60,317,707,0
-Jones,ROBERTS,United States Senator,,,JOHNNY ISAKSON ,953,52,469,432,0
-Jones,DAVIDSON,United States Senator,,,JOHNNY ISAKSON ,751,23,306,422,0
-Jones,POPE,United States Senator,,,JOHNNY ISAKSON ,709,23,284,401,1
-Jones,BARRON,United States Senator,,,JOHNNY ISAKSON ,606,44,230,332,0
-Jones,SANDERS,United States Senator,,,JOHNNY ISAKSON ,86,0,67,19,0
-Jones,FINNEY,United States Senator,,,JOHNNY ISAKSON ,1228,56,592,580,0
-Jones,,United States Senator,,,JIM BARKSDALE,3482,299,1234,1949,0
-Jones,GRAY,United States Senator,,,JIM BARKSDALE,364,28,98,238,0
-Jones,HAWKINS,United States Senator,,,JIM BARKSDALE,1001,83,348,570,0
-Jones,ETHRIDGE,United States Senator,,,JIM BARKSDALE,360,50,117,193,0
-Jones,CLINTON,United States Senator,,,JIM BARKSDALE,322,34,71,217,0
-Jones,ROBERTS,United States Senator,,,JIM BARKSDALE,421,29,189,203,0
-Jones,DAVIDSON,United States Senator,,,JIM BARKSDALE,123,8,36,79,0
-Jones,POPE,United States Senator,,,JIM BARKSDALE,327,18,146,163,0
-Jones,BARRON,United States Senator,,,JIM BARKSDALE,209,25,65,119,0
-Jones,SANDERS,United States Senator,,,JIM BARKSDALE,20,0,12,8,0
-Jones,FINNEY,United States Senator,,,JIM BARKSDALE,335,24,152,159,0
-Jones,,United States Senator,,,ALLEN BUCKLEY,344,14,157,173,0
-Jones,GRAY,United States Senator,,,ALLEN BUCKLEY,43,2,9,32,0
-Jones,HAWKINS,United States Senator,,,ALLEN BUCKLEY,42,1,23,18,0
-Jones,ETHRIDGE,United States Senator,,,ALLEN BUCKLEY,36,1,18,17,0
-Jones,CLINTON,United States Senator,,,ALLEN BUCKLEY,43,0,19,24,0
-Jones,ROBERTS,United States Senator,,,ALLEN BUCKLEY,39,0,21,18,0
-Jones,DAVIDSON,United States Senator,,,ALLEN BUCKLEY,21,2,10,9,0
-Jones,POPE,United States Senator,,,ALLEN BUCKLEY,51,4,24,23,0
-Jones,BARRON,United States Senator,,,ALLEN BUCKLEY,29,0,13,16,0
-Jones,SANDERS,United States Senator,,,ALLEN BUCKLEY,3,0,3,0,0
-Jones,FINNEY,United States Senator,,,ALLEN BUCKLEY,37,4,17,16,0
+Jones,,United States Senator,,REP,JOHNNY ISAKSON ,8125,415,3012,4697,1
+Jones,GRAY,United States Senator,,REP,JOHNNY ISAKSON ,1272,61,314,897,0
+Jones,HAWKINS,United States Senator,,REP,JOHNNY ISAKSON ,720,44,223,453,0
+Jones,ETHRIDGE,United States Senator,,REP,JOHNNY ISAKSON ,716,52,210,454,0
+Jones,CLINTON,United States Senator,,REP,JOHNNY ISAKSON ,1084,60,317,707,0
+Jones,ROBERTS,United States Senator,,REP,JOHNNY ISAKSON ,953,52,469,432,0
+Jones,DAVIDSON,United States Senator,,REP,JOHNNY ISAKSON ,751,23,306,422,0
+Jones,POPE,United States Senator,,REP,JOHNNY ISAKSON ,709,23,284,401,1
+Jones,BARRON,United States Senator,,REP,JOHNNY ISAKSON ,606,44,230,332,0
+Jones,SANDERS,United States Senator,,REP,JOHNNY ISAKSON ,86,0,67,19,0
+Jones,FINNEY,United States Senator,,REP,JOHNNY ISAKSON ,1228,56,592,580,0
+Jones,,United States Senator,,DEM,JIM BARKSDALE,3482,299,1234,1949,0
+Jones,GRAY,United States Senator,,DEM,JIM BARKSDALE,364,28,98,238,0
+Jones,HAWKINS,United States Senator,,DEM,JIM BARKSDALE,1001,83,348,570,0
+Jones,ETHRIDGE,United States Senator,,DEM,JIM BARKSDALE,360,50,117,193,0
+Jones,CLINTON,United States Senator,,DEM,JIM BARKSDALE,322,34,71,217,0
+Jones,ROBERTS,United States Senator,,DEM,JIM BARKSDALE,421,29,189,203,0
+Jones,DAVIDSON,United States Senator,,DEM,JIM BARKSDALE,123,8,36,79,0
+Jones,POPE,United States Senator,,DEM,JIM BARKSDALE,327,18,146,163,0
+Jones,BARRON,United States Senator,,DEM,JIM BARKSDALE,209,25,65,119,0
+Jones,SANDERS,United States Senator,,DEM,JIM BARKSDALE,20,0,12,8,0
+Jones,FINNEY,United States Senator,,DEM,JIM BARKSDALE,335,24,152,159,0
+Jones,,United States Senator,,IND,ALLEN BUCKLEY,344,14,157,173,0
+Jones,GRAY,United States Senator,,IND,ALLEN BUCKLEY,43,2,9,32,0
+Jones,HAWKINS,United States Senator,,IND,ALLEN BUCKLEY,42,1,23,18,0
+Jones,ETHRIDGE,United States Senator,,IND,ALLEN BUCKLEY,36,1,18,17,0
+Jones,CLINTON,United States Senator,,IND,ALLEN BUCKLEY,43,0,19,24,0
+Jones,ROBERTS,United States Senator,,IND,ALLEN BUCKLEY,39,0,21,18,0
+Jones,DAVIDSON,United States Senator,,IND,ALLEN BUCKLEY,21,2,10,9,0
+Jones,POPE,United States Senator,,IND,ALLEN BUCKLEY,51,4,24,23,0
+Jones,BARRON,United States Senator,,IND,ALLEN BUCKLEY,29,0,13,16,0
+Jones,SANDERS,United States Senator,,IND,ALLEN BUCKLEY,3,0,3,0,0
+Jones,FINNEY,United States Senator,,IND,ALLEN BUCKLEY,37,4,17,16,0
 Jones,,"Public Service Commission, District 2",2,,TIM ECHOLS ,8742,461,3197,5083,1
 Jones,GRAY,"Public Service Commission, District 2",2,,TIM ECHOLS ,1331,58,311,962,0
 Jones,HAWKINS,"Public Service Commission, District 2",2,,TIM ECHOLS ,901,64,279,558,0

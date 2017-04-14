@@ -44,51 +44,51 @@ Monroe,KELSEYS,President of the United States,,IND,GARY JOHNSON,4,0,3,1,0
 Monroe,MIDDLEBROOKS,President of the United States,,IND,GARY JOHNSON,22,0,11,11,0
 Monroe,PROCTORS,President of the United States,,IND,GARY JOHNSON,17,0,10,7,0
 Monroe,RUSSELLVILLE,President of the United States,,IND,GARY JOHNSON,1,1,0,0,0
-Monroe,,United States Senator,,,JOHNNY ISAKSON ,8719,316,4082,4314,7
-Monroe,BENTONS,United States Senator,,,JOHNNY ISAKSON ,1269,53,566,647,3
-Monroe,BRANTLEYS,United States Senator,,,JOHNNY ISAKSON ,588,20,274,293,1
-Monroe,BURGAYS,United States Senator,,,JOHNNY ISAKSON ,1355,70,705,580,0
-Monroe,CABANISS,United States Senator,,,JOHNNY ISAKSON ,296,5,169,122,0
-Monroe,COX,United States Senator,,,JOHNNY ISAKSON ,355,11,200,144,0
-Monroe,CULLODEN,United States Senator,,,JOHNNY ISAKSON ,178,10,122,46,0
-Monroe,DILLARDS,United States Senator,,,JOHNNY ISAKSON ,471,12,220,238,1
-Monroe,EVERS,United States Senator,,,JOHNNY ISAKSON ,856,31,325,500,0
-Monroe,FORSYTH,United States Senator,,,JOHNNY ISAKSON ,1090,43,301,745,1
-Monroe,HIGH FALLS,United States Senator,,,JOHNNY ISAKSON ,716,15,395,306,0
-Monroe,KELSEYS,United States Senator,,,JOHNNY ISAKSON ,229,2,135,91,1
-Monroe,MIDDLEBROOKS,United States Senator,,,JOHNNY ISAKSON ,671,20,282,369,0
-Monroe,PROCTORS,United States Senator,,,JOHNNY ISAKSON ,430,12,245,173,0
-Monroe,RUSSELLVILLE,United States Senator,,,JOHNNY ISAKSON ,215,12,143,60,0
-Monroe,,United States Senator,,,JIM BARKSDALE,2965,225,1159,1580,1
-Monroe,BENTONS,United States Senator,,,JIM BARKSDALE,264,26,95,143,0
-Monroe,BRANTLEYS,United States Senator,,,JIM BARKSDALE,74,3,37,34,0
-Monroe,BURGAYS,United States Senator,,,JIM BARKSDALE,222,10,84,128,0
-Monroe,CABANISS,United States Senator,,,JIM BARKSDALE,97,3,42,52,0
-Monroe,COX,United States Senator,,,JIM BARKSDALE,86,1,36,49,0
-Monroe,CULLODEN,United States Senator,,,JIM BARKSDALE,74,4,45,25,0
-Monroe,DILLARDS,United States Senator,,,JIM BARKSDALE,91,2,41,48,0
-Monroe,EVERS,United States Senator,,,JIM BARKSDALE,200,6,81,113,0
-Monroe,FORSYTH,United States Senator,,,JIM BARKSDALE,1239,135,377,727,0
-Monroe,HIGH FALLS,United States Senator,,,JIM BARKSDALE,152,6,77,69,0
-Monroe,KELSEYS,United States Senator,,,JIM BARKSDALE,168,16,86,66,0
-Monroe,MIDDLEBROOKS,United States Senator,,,JIM BARKSDALE,121,3,52,65,1
-Monroe,PROCTORS,United States Senator,,,JIM BARKSDALE,127,3,73,51,0
-Monroe,RUSSELLVILLE,United States Senator,,,JIM BARKSDALE,50,7,33,10,0
-Monroe,,United States Senator,,,ALLEN BUCKLEY,385,18,207,159,1
-Monroe,BENTONS,United States Senator,,,ALLEN BUCKLEY,58,0,36,22,0
-Monroe,BRANTLEYS,United States Senator,,,ALLEN BUCKLEY,24,0,19,5,0
-Monroe,BURGAYS,United States Senator,,,ALLEN BUCKLEY,34,3,18,13,0
-Monroe,CABANISS,United States Senator,,,ALLEN BUCKLEY,15,0,10,5,0
-Monroe,COX,United States Senator,,,ALLEN BUCKLEY,11,1,7,3,0
-Monroe,CULLODEN,United States Senator,,,ALLEN BUCKLEY,11,0,10,1,0
-Monroe,DILLARDS,United States Senator,,,ALLEN BUCKLEY,11,1,8,2,0
-Monroe,EVERS,United States Senator,,,ALLEN BUCKLEY,44,3,21,20,0
-Monroe,FORSYTH,United States Senator,,,ALLEN BUCKLEY,66,4,21,41,0
-Monroe,HIGH FALLS,United States Senator,,,ALLEN BUCKLEY,43,5,20,18,0
-Monroe,KELSEYS,United States Senator,,,ALLEN BUCKLEY,9,0,7,2,0
-Monroe,MIDDLEBROOKS,United States Senator,,,ALLEN BUCKLEY,26,0,12,14,0
-Monroe,PROCTORS,United States Senator,,,ALLEN BUCKLEY,28,1,15,11,1
-Monroe,RUSSELLVILLE,United States Senator,,,ALLEN BUCKLEY,5,0,3,2,0
+Monroe,,United States Senator,,REP,JOHNNY ISAKSON ,8719,316,4082,4314,7
+Monroe,BENTONS,United States Senator,,REP,JOHNNY ISAKSON ,1269,53,566,647,3
+Monroe,BRANTLEYS,United States Senator,,REP,JOHNNY ISAKSON ,588,20,274,293,1
+Monroe,BURGAYS,United States Senator,,REP,JOHNNY ISAKSON ,1355,70,705,580,0
+Monroe,CABANISS,United States Senator,,REP,JOHNNY ISAKSON ,296,5,169,122,0
+Monroe,COX,United States Senator,,REP,JOHNNY ISAKSON ,355,11,200,144,0
+Monroe,CULLODEN,United States Senator,,REP,JOHNNY ISAKSON ,178,10,122,46,0
+Monroe,DILLARDS,United States Senator,,REP,JOHNNY ISAKSON ,471,12,220,238,1
+Monroe,EVERS,United States Senator,,REP,JOHNNY ISAKSON ,856,31,325,500,0
+Monroe,FORSYTH,United States Senator,,REP,JOHNNY ISAKSON ,1090,43,301,745,1
+Monroe,HIGH FALLS,United States Senator,,REP,JOHNNY ISAKSON ,716,15,395,306,0
+Monroe,KELSEYS,United States Senator,,REP,JOHNNY ISAKSON ,229,2,135,91,1
+Monroe,MIDDLEBROOKS,United States Senator,,REP,JOHNNY ISAKSON ,671,20,282,369,0
+Monroe,PROCTORS,United States Senator,,REP,JOHNNY ISAKSON ,430,12,245,173,0
+Monroe,RUSSELLVILLE,United States Senator,,REP,JOHNNY ISAKSON ,215,12,143,60,0
+Monroe,,United States Senator,,DEM,JIM BARKSDALE,2965,225,1159,1580,1
+Monroe,BENTONS,United States Senator,,DEM,JIM BARKSDALE,264,26,95,143,0
+Monroe,BRANTLEYS,United States Senator,,DEM,JIM BARKSDALE,74,3,37,34,0
+Monroe,BURGAYS,United States Senator,,DEM,JIM BARKSDALE,222,10,84,128,0
+Monroe,CABANISS,United States Senator,,DEM,JIM BARKSDALE,97,3,42,52,0
+Monroe,COX,United States Senator,,DEM,JIM BARKSDALE,86,1,36,49,0
+Monroe,CULLODEN,United States Senator,,DEM,JIM BARKSDALE,74,4,45,25,0
+Monroe,DILLARDS,United States Senator,,DEM,JIM BARKSDALE,91,2,41,48,0
+Monroe,EVERS,United States Senator,,DEM,JIM BARKSDALE,200,6,81,113,0
+Monroe,FORSYTH,United States Senator,,DEM,JIM BARKSDALE,1239,135,377,727,0
+Monroe,HIGH FALLS,United States Senator,,DEM,JIM BARKSDALE,152,6,77,69,0
+Monroe,KELSEYS,United States Senator,,DEM,JIM BARKSDALE,168,16,86,66,0
+Monroe,MIDDLEBROOKS,United States Senator,,DEM,JIM BARKSDALE,121,3,52,65,1
+Monroe,PROCTORS,United States Senator,,DEM,JIM BARKSDALE,127,3,73,51,0
+Monroe,RUSSELLVILLE,United States Senator,,DEM,JIM BARKSDALE,50,7,33,10,0
+Monroe,,United States Senator,,IND,ALLEN BUCKLEY,385,18,207,159,1
+Monroe,BENTONS,United States Senator,,IND,ALLEN BUCKLEY,58,0,36,22,0
+Monroe,BRANTLEYS,United States Senator,,IND,ALLEN BUCKLEY,24,0,19,5,0
+Monroe,BURGAYS,United States Senator,,IND,ALLEN BUCKLEY,34,3,18,13,0
+Monroe,CABANISS,United States Senator,,IND,ALLEN BUCKLEY,15,0,10,5,0
+Monroe,COX,United States Senator,,IND,ALLEN BUCKLEY,11,1,7,3,0
+Monroe,CULLODEN,United States Senator,,IND,ALLEN BUCKLEY,11,0,10,1,0
+Monroe,DILLARDS,United States Senator,,IND,ALLEN BUCKLEY,11,1,8,2,0
+Monroe,EVERS,United States Senator,,IND,ALLEN BUCKLEY,44,3,21,20,0
+Monroe,FORSYTH,United States Senator,,IND,ALLEN BUCKLEY,66,4,21,41,0
+Monroe,HIGH FALLS,United States Senator,,IND,ALLEN BUCKLEY,43,5,20,18,0
+Monroe,KELSEYS,United States Senator,,IND,ALLEN BUCKLEY,9,0,7,2,0
+Monroe,MIDDLEBROOKS,United States Senator,,IND,ALLEN BUCKLEY,26,0,12,14,0
+Monroe,PROCTORS,United States Senator,,IND,ALLEN BUCKLEY,28,1,15,11,1
+Monroe,RUSSELLVILLE,United States Senator,,IND,ALLEN BUCKLEY,5,0,3,2,0
 Monroe,,"Public Service Commission, District 2",2,,TIM ECHOLS ,9170,331,4256,4576,7
 Monroe,BENTONS,"Public Service Commission, District 2",2,,TIM ECHOLS ,1309,58,580,668,3
 Monroe,BRANTLEYS,"Public Service Commission, District 2",2,,TIM ECHOLS ,591,21,279,290,1

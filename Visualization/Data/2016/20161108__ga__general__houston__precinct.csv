@@ -53,60 +53,60 @@ Houston,ROZR,President of the United States,,IND,GARY JOHNSON,195,10,70,115,0
 Houston,TMS,President of the United States,,IND,GARY JOHNSON,87,3,45,39,0
 Houston,TWPK,President of the United States,,IND,GARY JOHNSON,106,4,40,62,0
 Houston,VHS,President of the United States,,IND,GARY JOHNSON,89,3,39,47,0
-Houston,,United States Senator,,,JOHNNY ISAKSON ,35289,1571,10594,23069,55
-Houston,ANNX,United States Senator,,,JOHNNY ISAKSON ,2058,129,503,1425,1
-Houston,BMS,United States Senator,,,JOHNNY ISAKSON ,3822,171,1172,2478,1
-Houston,CENT,United States Senator,,,JOHNNY ISAKSON ,2704,115,961,1622,6
-Houston,CGTC,United States Senator,,,JOHNNY ISAKSON ,1795,58,372,1362,3
-Houston,FMMS,United States Senator,,,JOHNNY ISAKSON ,3151,117,1052,1979,3
-Houston,HAFS,United States Senator,,,JOHNNY ISAKSON ,763,14,363,386,0
-Houston,HCTC,United States Senator,,,JOHNNY ISAKSON ,1954,170,540,1241,3
-Houston,HEFS,United States Senator,,,JOHNNY ISAKSON ,479,19,214,245,1
-Houston,HHPC,United States Senator,,,JOHNNY ISAKSON ,1950,110,550,1284,6
-Houston,MCMS,United States Senator,,,JOHNNY ISAKSON ,3349,117,919,2294,19
-Houston,MILL,United States Senator,,,JOHNNY ISAKSON ,805,39,336,429,1
-Houston,NSES,United States Senator,,,JOHNNY ISAKSON ,982,53,406,522,1
-Houston,RECR,United States Senator,,,JOHNNY ISAKSON ,1092,57,397,635,3
-Houston,ROZR,United States Senator,,,JOHNNY ISAKSON ,4934,207,1086,3640,1
-Houston,TMS,United States Senator,,,JOHNNY ISAKSON ,1315,54,418,841,2
-Houston,TWPK,United States Senator,,,JOHNNY ISAKSON ,1778,68,569,1139,2
-Houston,VHS,United States Senator,,,JOHNNY ISAKSON ,2358,73,736,1547,2
-Houston,,United States Senator,,,JIM BARKSDALE,19191,978,6364,11784,65
-Houston,ANNX,United States Senator,,,JIM BARKSDALE,707,32,178,495,2
-Houston,BMS,United States Senator,,,JIM BARKSDALE,1275,57,373,845,0
-Houston,CENT,United States Senator,,,JIM BARKSDALE,1313,60,443,807,3
-Houston,CGTC,United States Senator,,,JIM BARKSDALE,727,39,161,527,0
-Houston,FMMS,United States Senator,,,JIM BARKSDALE,1814,76,557,1175,6
-Houston,HAFS,United States Senator,,,JIM BARKSDALE,217,15,88,112,2
-Houston,HCTC,United States Senator,,,JIM BARKSDALE,1275,78,453,739,5
-Houston,HEFS,United States Senator,,,JIM BARKSDALE,251,10,138,101,2
-Houston,HHPC,United States Senator,,,JIM BARKSDALE,1595,62,536,982,15
-Houston,MCMS,United States Senator,,,JIM BARKSDALE,1448,65,357,1016,10
-Houston,MILL,United States Senator,,,JIM BARKSDALE,410,25,178,205,2
-Houston,NSES,United States Senator,,,JIM BARKSDALE,445,17,158,270,0
-Houston,RECR,United States Senator,,,JIM BARKSDALE,2698,168,1147,1377,6
-Houston,ROZR,United States Senator,,,JIM BARKSDALE,2053,136,601,1313,3
-Houston,TMS,United States Senator,,,JIM BARKSDALE,1310,59,468,779,4
-Houston,TWPK,United States Senator,,,JIM BARKSDALE,914,47,302,564,1
-Houston,VHS,United States Senator,,,JIM BARKSDALE,739,32,226,477,4
-Houston,,United States Senator,,,ALLEN BUCKLEY,2063,94,837,1124,8
-Houston,ANNX,United States Senator,,,ALLEN BUCKLEY,107,8,38,60,1
-Houston,BMS,United States Senator,,,ALLEN BUCKLEY,204,20,88,96,0
-Houston,CENT,United States Senator,,,ALLEN BUCKLEY,170,8,84,78,0
-Houston,CGTC,United States Senator,,,ALLEN BUCKLEY,106,5,31,70,0
-Houston,FMMS,United States Senator,,,ALLEN BUCKLEY,203,10,74,119,0
-Houston,HAFS,United States Senator,,,ALLEN BUCKLEY,39,2,20,17,0
-Houston,HCTC,United States Senator,,,ALLEN BUCKLEY,150,10,61,79,0
-Houston,HEFS,United States Senator,,,ALLEN BUCKLEY,14,0,6,8,0
-Houston,HHPC,United States Senator,,,ALLEN BUCKLEY,140,6,64,68,2
-Houston,MCMS,United States Senator,,,ALLEN BUCKLEY,180,4,59,115,2
-Houston,MILL,United States Senator,,,ALLEN BUCKLEY,48,2,26,20,0
-Houston,NSES,United States Senator,,,ALLEN BUCKLEY,48,1,19,28,0
-Houston,RECR,United States Senator,,,ALLEN BUCKLEY,133,8,60,64,1
-Houston,ROZR,United States Senator,,,ALLEN BUCKLEY,196,4,66,126,0
-Houston,TMS,United States Senator,,,ALLEN BUCKLEY,100,3,47,49,1
-Houston,TWPK,United States Senator,,,ALLEN BUCKLEY,107,2,48,57,0
-Houston,VHS,United States Senator,,,ALLEN BUCKLEY,118,1,46,70,1
+Houston,,United States Senator,,REP,JOHNNY ISAKSON ,35289,1571,10594,23069,55
+Houston,ANNX,United States Senator,,REP,JOHNNY ISAKSON ,2058,129,503,1425,1
+Houston,BMS,United States Senator,,REP,JOHNNY ISAKSON ,3822,171,1172,2478,1
+Houston,CENT,United States Senator,,REP,JOHNNY ISAKSON ,2704,115,961,1622,6
+Houston,CGTC,United States Senator,,REP,JOHNNY ISAKSON ,1795,58,372,1362,3
+Houston,FMMS,United States Senator,,REP,JOHNNY ISAKSON ,3151,117,1052,1979,3
+Houston,HAFS,United States Senator,,REP,JOHNNY ISAKSON ,763,14,363,386,0
+Houston,HCTC,United States Senator,,REP,JOHNNY ISAKSON ,1954,170,540,1241,3
+Houston,HEFS,United States Senator,,REP,JOHNNY ISAKSON ,479,19,214,245,1
+Houston,HHPC,United States Senator,,REP,JOHNNY ISAKSON ,1950,110,550,1284,6
+Houston,MCMS,United States Senator,,REP,JOHNNY ISAKSON ,3349,117,919,2294,19
+Houston,MILL,United States Senator,,REP,JOHNNY ISAKSON ,805,39,336,429,1
+Houston,NSES,United States Senator,,REP,JOHNNY ISAKSON ,982,53,406,522,1
+Houston,RECR,United States Senator,,REP,JOHNNY ISAKSON ,1092,57,397,635,3
+Houston,ROZR,United States Senator,,REP,JOHNNY ISAKSON ,4934,207,1086,3640,1
+Houston,TMS,United States Senator,,REP,JOHNNY ISAKSON ,1315,54,418,841,2
+Houston,TWPK,United States Senator,,REP,JOHNNY ISAKSON ,1778,68,569,1139,2
+Houston,VHS,United States Senator,,REP,JOHNNY ISAKSON ,2358,73,736,1547,2
+Houston,,United States Senator,,DEM,JIM BARKSDALE,19191,978,6364,11784,65
+Houston,ANNX,United States Senator,,DEM,JIM BARKSDALE,707,32,178,495,2
+Houston,BMS,United States Senator,,DEM,JIM BARKSDALE,1275,57,373,845,0
+Houston,CENT,United States Senator,,DEM,JIM BARKSDALE,1313,60,443,807,3
+Houston,CGTC,United States Senator,,DEM,JIM BARKSDALE,727,39,161,527,0
+Houston,FMMS,United States Senator,,DEM,JIM BARKSDALE,1814,76,557,1175,6
+Houston,HAFS,United States Senator,,DEM,JIM BARKSDALE,217,15,88,112,2
+Houston,HCTC,United States Senator,,DEM,JIM BARKSDALE,1275,78,453,739,5
+Houston,HEFS,United States Senator,,DEM,JIM BARKSDALE,251,10,138,101,2
+Houston,HHPC,United States Senator,,DEM,JIM BARKSDALE,1595,62,536,982,15
+Houston,MCMS,United States Senator,,DEM,JIM BARKSDALE,1448,65,357,1016,10
+Houston,MILL,United States Senator,,DEM,JIM BARKSDALE,410,25,178,205,2
+Houston,NSES,United States Senator,,DEM,JIM BARKSDALE,445,17,158,270,0
+Houston,RECR,United States Senator,,DEM,JIM BARKSDALE,2698,168,1147,1377,6
+Houston,ROZR,United States Senator,,DEM,JIM BARKSDALE,2053,136,601,1313,3
+Houston,TMS,United States Senator,,DEM,JIM BARKSDALE,1310,59,468,779,4
+Houston,TWPK,United States Senator,,DEM,JIM BARKSDALE,914,47,302,564,1
+Houston,VHS,United States Senator,,DEM,JIM BARKSDALE,739,32,226,477,4
+Houston,,United States Senator,,IND,ALLEN BUCKLEY,2063,94,837,1124,8
+Houston,ANNX,United States Senator,,IND,ALLEN BUCKLEY,107,8,38,60,1
+Houston,BMS,United States Senator,,IND,ALLEN BUCKLEY,204,20,88,96,0
+Houston,CENT,United States Senator,,IND,ALLEN BUCKLEY,170,8,84,78,0
+Houston,CGTC,United States Senator,,IND,ALLEN BUCKLEY,106,5,31,70,0
+Houston,FMMS,United States Senator,,IND,ALLEN BUCKLEY,203,10,74,119,0
+Houston,HAFS,United States Senator,,IND,ALLEN BUCKLEY,39,2,20,17,0
+Houston,HCTC,United States Senator,,IND,ALLEN BUCKLEY,150,10,61,79,0
+Houston,HEFS,United States Senator,,IND,ALLEN BUCKLEY,14,0,6,8,0
+Houston,HHPC,United States Senator,,IND,ALLEN BUCKLEY,140,6,64,68,2
+Houston,MCMS,United States Senator,,IND,ALLEN BUCKLEY,180,4,59,115,2
+Houston,MILL,United States Senator,,IND,ALLEN BUCKLEY,48,2,26,20,0
+Houston,NSES,United States Senator,,IND,ALLEN BUCKLEY,48,1,19,28,0
+Houston,RECR,United States Senator,,IND,ALLEN BUCKLEY,133,8,60,64,1
+Houston,ROZR,United States Senator,,IND,ALLEN BUCKLEY,196,4,66,126,0
+Houston,TMS,United States Senator,,IND,ALLEN BUCKLEY,100,3,47,49,1
+Houston,TWPK,United States Senator,,IND,ALLEN BUCKLEY,107,2,48,57,0
+Houston,VHS,United States Senator,,IND,ALLEN BUCKLEY,118,1,46,70,1
 Houston,,"Public Service Commission, District 2",2,,TIM ECHOLS ,39031,1708,11732,25526,65
 Houston,ANNX,"Public Service Commission, District 2",2,,TIM ECHOLS ,2220,137,522,1559,2
 Houston,BMS,"Public Service Commission, District 2",2,,TIM ECHOLS ,4167,190,1264,2712,1

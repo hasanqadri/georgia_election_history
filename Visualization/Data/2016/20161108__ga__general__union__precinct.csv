@@ -35,42 +35,42 @@ Union,Trackrock,President of the United States,,IND,GARY JOHNSON,8,0,6,2,0
 Union,Dooley,President of the United States,,IND,GARY JOHNSON,16,0,11,5,0
 Union,Gumlog,President of the United States,,IND,GARY JOHNSON,24,3,8,12,1
 Union,Pat Colwell,President of the United States,,IND,GARY JOHNSON,21,1,6,14,0
-Union,,United States Senator,,,JOHNNY ISAKSON ,9181,459,3063,5656,3
-Union,Blairsville,United States Senator,,,JOHNNY ISAKSON ,1205,95,304,805,1
-Union,Coosa,United States Senator,,,JOHNNY ISAKSON ,1152,59,346,747,0
-Union,Choestoe,United States Senator,,,JOHNNY ISAKSON ,654,27,247,380,0
-Union,Jones Creek,United States Senator,,,JOHNNY ISAKSON ,936,51,347,538,0
-Union,Owltown,United States Senator,,,JOHNNY ISAKSON ,775,25,219,531,0
-Union,Ivy Log,United States Senator,,,JOHNNY ISAKSON ,934,35,286,613,0
-Union,Suches,United States Senator,,,JOHNNY ISAKSON ,308,18,206,84,0
-Union,Trackrock,United States Senator,,,JOHNNY ISAKSON ,559,29,210,320,0
-Union,Dooley,United States Senator,,,JOHNNY ISAKSON ,702,28,306,368,0
-Union,Gumlog,United States Senator,,,JOHNNY ISAKSON ,995,50,301,642,2
-Union,Pat Colwell,United States Senator,,,JOHNNY ISAKSON ,961,42,291,628,0
-Union,,United States Senator,,,JIM BARKSDALE,1820,154,538,1127,1
-Union,Blairsville,United States Senator,,,JIM BARKSDALE,222,34,51,137,0
-Union,Coosa,United States Senator,,,JIM BARKSDALE,181,15,46,120,0
-Union,Choestoe,United States Senator,,,JIM BARKSDALE,119,14,31,74,0
-Union,Jones Creek,United States Senator,,,JIM BARKSDALE,187,9,65,113,0
-Union,Owltown,United States Senator,,,JIM BARKSDALE,187,13,49,125,0
-Union,Ivy Log,United States Senator,,,JIM BARKSDALE,162,16,44,102,0
-Union,Suches,United States Senator,,,JIM BARKSDALE,71,5,42,24,0
-Union,Trackrock,United States Senator,,,JIM BARKSDALE,121,12,41,67,1
-Union,Dooley,United States Senator,,,JIM BARKSDALE,171,13,63,95,0
-Union,Gumlog,United States Senator,,,JIM BARKSDALE,185,8,40,137,0
-Union,Pat Colwell,United States Senator,,,JIM BARKSDALE,214,15,66,133,0
-Union,,United States Senator,,,ALLEN BUCKLEY,432,19,183,229,1
-Union,Blairsville,United States Senator,,,ALLEN BUCKLEY,50,4,18,28,0
-Union,Coosa,United States Senator,,,ALLEN BUCKLEY,54,0,25,29,0
-Union,Choestoe,United States Senator,,,ALLEN BUCKLEY,26,0,12,14,0
-Union,Jones Creek,United States Senator,,,ALLEN BUCKLEY,45,1,22,22,0
-Union,Owltown,United States Senator,,,ALLEN BUCKLEY,40,0,13,27,0
-Union,Ivy Log,United States Senator,,,ALLEN BUCKLEY,46,0,20,26,0
-Union,Suches,United States Senator,,,ALLEN BUCKLEY,20,4,11,5,0
-Union,Trackrock,United States Senator,,,ALLEN BUCKLEY,28,1,12,14,1
-Union,Dooley,United States Senator,,,ALLEN BUCKLEY,39,2,21,16,0
-Union,Gumlog,United States Senator,,,ALLEN BUCKLEY,50,4,20,26,0
-Union,Pat Colwell,United States Senator,,,ALLEN BUCKLEY,34,3,9,22,0
+Union,,United States Senator,,REP,JOHNNY ISAKSON ,9181,459,3063,5656,3
+Union,Blairsville,United States Senator,,REP,JOHNNY ISAKSON ,1205,95,304,805,1
+Union,Coosa,United States Senator,,REP,JOHNNY ISAKSON ,1152,59,346,747,0
+Union,Choestoe,United States Senator,,REP,JOHNNY ISAKSON ,654,27,247,380,0
+Union,Jones Creek,United States Senator,,REP,JOHNNY ISAKSON ,936,51,347,538,0
+Union,Owltown,United States Senator,,REP,JOHNNY ISAKSON ,775,25,219,531,0
+Union,Ivy Log,United States Senator,,REP,JOHNNY ISAKSON ,934,35,286,613,0
+Union,Suches,United States Senator,,REP,JOHNNY ISAKSON ,308,18,206,84,0
+Union,Trackrock,United States Senator,,REP,JOHNNY ISAKSON ,559,29,210,320,0
+Union,Dooley,United States Senator,,REP,JOHNNY ISAKSON ,702,28,306,368,0
+Union,Gumlog,United States Senator,,REP,JOHNNY ISAKSON ,995,50,301,642,2
+Union,Pat Colwell,United States Senator,,REP,JOHNNY ISAKSON ,961,42,291,628,0
+Union,,United States Senator,,DEM,JIM BARKSDALE,1820,154,538,1127,1
+Union,Blairsville,United States Senator,,DEM,JIM BARKSDALE,222,34,51,137,0
+Union,Coosa,United States Senator,,DEM,JIM BARKSDALE,181,15,46,120,0
+Union,Choestoe,United States Senator,,DEM,JIM BARKSDALE,119,14,31,74,0
+Union,Jones Creek,United States Senator,,DEM,JIM BARKSDALE,187,9,65,113,0
+Union,Owltown,United States Senator,,DEM,JIM BARKSDALE,187,13,49,125,0
+Union,Ivy Log,United States Senator,,DEM,JIM BARKSDALE,162,16,44,102,0
+Union,Suches,United States Senator,,DEM,JIM BARKSDALE,71,5,42,24,0
+Union,Trackrock,United States Senator,,DEM,JIM BARKSDALE,121,12,41,67,1
+Union,Dooley,United States Senator,,DEM,JIM BARKSDALE,171,13,63,95,0
+Union,Gumlog,United States Senator,,DEM,JIM BARKSDALE,185,8,40,137,0
+Union,Pat Colwell,United States Senator,,DEM,JIM BARKSDALE,214,15,66,133,0
+Union,,United States Senator,,IND,ALLEN BUCKLEY,432,19,183,229,1
+Union,Blairsville,United States Senator,,IND,ALLEN BUCKLEY,50,4,18,28,0
+Union,Coosa,United States Senator,,IND,ALLEN BUCKLEY,54,0,25,29,0
+Union,Choestoe,United States Senator,,IND,ALLEN BUCKLEY,26,0,12,14,0
+Union,Jones Creek,United States Senator,,IND,ALLEN BUCKLEY,45,1,22,22,0
+Union,Owltown,United States Senator,,IND,ALLEN BUCKLEY,40,0,13,27,0
+Union,Ivy Log,United States Senator,,IND,ALLEN BUCKLEY,46,0,20,26,0
+Union,Suches,United States Senator,,IND,ALLEN BUCKLEY,20,4,11,5,0
+Union,Trackrock,United States Senator,,IND,ALLEN BUCKLEY,28,1,12,14,1
+Union,Dooley,United States Senator,,IND,ALLEN BUCKLEY,39,2,21,16,0
+Union,Gumlog,United States Senator,,IND,ALLEN BUCKLEY,50,4,20,26,0
+Union,Pat Colwell,United States Senator,,IND,ALLEN BUCKLEY,34,3,9,22,0
 Union,,"Public Service Commission, District 2",2,,TIM ECHOLS ,9414,480,3099,5833,2
 Union,Blairsville,"Public Service Commission, District 2",2,,TIM ECHOLS ,1219,93,308,818,0
 Union,Coosa,"Public Service Commission, District 2",2,,TIM ECHOLS ,1169,61,353,755,0

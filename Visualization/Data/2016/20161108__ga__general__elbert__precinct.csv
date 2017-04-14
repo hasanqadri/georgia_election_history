@@ -35,42 +35,42 @@ Elbert,Gaines,President of the United States,,IND,GARY JOHNSON,5,1,4,0,0
 Elbert,Goshen,President of the United States,,IND,GARY JOHNSON,18,1,10,6,1
 Elbert,Webbsboro,President of the United States,,IND,GARY JOHNSON,10,0,4,6,0
 Elbert,Centerville,President of the United States,,IND,GARY JOHNSON,10,1,4,5,0
-Elbert,,United States Senator,,,JOHNNY ISAKSON ,4960,278,1799,2859,24
-Elbert,Elberton,United States Senator,,,JOHNNY ISAKSON ,1131,105,165,858,3
-Elbert,Longstreet,United States Senator,,,JOHNNY ISAKSON ,306,15,110,178,3
-Elbert,Eliam,United States Senator,,,JOHNNY ISAKSON ,391,24,156,209,2
-Elbert,Petersburg,United States Senator,,,JOHNNY ISAKSON ,190,8,113,68,1
-Elbert,Wyche,United States Senator,,,JOHNNY ISAKSON ,529,26,149,352,2
-Elbert,Moss-Ruckersville,United States Senator,,,JOHNNY ISAKSON ,189,9,68,112,0
-Elbert,Pike,United States Senator,,,JOHNNY ISAKSON ,595,29,229,331,6
-Elbert,Gaines,United States Senator,,,JOHNNY ISAKSON ,270,5,160,104,1
-Elbert,Goshen,United States Senator,,,JOHNNY ISAKSON ,696,23,364,307,2
-Elbert,Webbsboro,United States Senator,,,JOHNNY ISAKSON ,203,13,96,92,2
-Elbert,Centerville,United States Senator,,,JOHNNY ISAKSON ,460,21,189,248,2
-Elbert,,United States Senator,,,JIM BARKSDALE,2154,183,773,1167,31
-Elbert,Elberton,United States Senator,,,JIM BARKSDALE,918,78,296,543,1
-Elbert,Longstreet,United States Senator,,,JIM BARKSDALE,73,6,35,28,4
-Elbert,Eliam,United States Senator,,,JIM BARKSDALE,87,5,25,54,3
-Elbert,Petersburg,United States Senator,,,JIM BARKSDALE,48,9,21,17,1
-Elbert,Wyche,United States Senator,,,JIM BARKSDALE,185,8,42,131,4
-Elbert,Moss-Ruckersville,United States Senator,,,JIM BARKSDALE,81,8,26,46,1
-Elbert,Pike,United States Senator,,,JIM BARKSDALE,336,24,100,203,9
-Elbert,Gaines,United States Senator,,,JIM BARKSDALE,43,3,34,6,0
-Elbert,Goshen,United States Senator,,,JIM BARKSDALE,194,25,97,68,4
-Elbert,Webbsboro,United States Senator,,,JIM BARKSDALE,64,4,33,26,1
-Elbert,Centerville,United States Senator,,,JIM BARKSDALE,125,13,64,45,3
-Elbert,,United States Senator,,,ALLEN BUCKLEY,231,17,88,122,4
-Elbert,Elberton,United States Senator,,,ALLEN BUCKLEY,60,5,12,43,0
-Elbert,Longstreet,United States Senator,,,ALLEN BUCKLEY,15,1,5,7,2
-Elbert,Eliam,United States Senator,,,ALLEN BUCKLEY,11,1,4,5,1
-Elbert,Petersburg,United States Senator,,,ALLEN BUCKLEY,8,1,7,0,0
-Elbert,Wyche,United States Senator,,,ALLEN BUCKLEY,17,0,4,13,0
-Elbert,Moss-Ruckersville,United States Senator,,,ALLEN BUCKLEY,16,4,6,6,0
-Elbert,Pike,United States Senator,,,ALLEN BUCKLEY,38,2,14,21,1
-Elbert,Gaines,United States Senator,,,ALLEN BUCKLEY,11,1,9,1,0
-Elbert,Goshen,United States Senator,,,ALLEN BUCKLEY,30,2,14,14,0
-Elbert,Webbsboro,United States Senator,,,ALLEN BUCKLEY,7,0,3,4,0
-Elbert,Centerville,United States Senator,,,ALLEN BUCKLEY,18,0,10,8,0
+Elbert,,United States Senator,,REP,JOHNNY ISAKSON ,4960,278,1799,2859,24
+Elbert,Elberton,United States Senator,,REP,JOHNNY ISAKSON ,1131,105,165,858,3
+Elbert,Longstreet,United States Senator,,REP,JOHNNY ISAKSON ,306,15,110,178,3
+Elbert,Eliam,United States Senator,,REP,JOHNNY ISAKSON ,391,24,156,209,2
+Elbert,Petersburg,United States Senator,,REP,JOHNNY ISAKSON ,190,8,113,68,1
+Elbert,Wyche,United States Senator,,REP,JOHNNY ISAKSON ,529,26,149,352,2
+Elbert,Moss-Ruckersville,United States Senator,,REP,JOHNNY ISAKSON ,189,9,68,112,0
+Elbert,Pike,United States Senator,,REP,JOHNNY ISAKSON ,595,29,229,331,6
+Elbert,Gaines,United States Senator,,REP,JOHNNY ISAKSON ,270,5,160,104,1
+Elbert,Goshen,United States Senator,,REP,JOHNNY ISAKSON ,696,23,364,307,2
+Elbert,Webbsboro,United States Senator,,REP,JOHNNY ISAKSON ,203,13,96,92,2
+Elbert,Centerville,United States Senator,,REP,JOHNNY ISAKSON ,460,21,189,248,2
+Elbert,,United States Senator,,DEM,JIM BARKSDALE,2154,183,773,1167,31
+Elbert,Elberton,United States Senator,,DEM,JIM BARKSDALE,918,78,296,543,1
+Elbert,Longstreet,United States Senator,,DEM,JIM BARKSDALE,73,6,35,28,4
+Elbert,Eliam,United States Senator,,DEM,JIM BARKSDALE,87,5,25,54,3
+Elbert,Petersburg,United States Senator,,DEM,JIM BARKSDALE,48,9,21,17,1
+Elbert,Wyche,United States Senator,,DEM,JIM BARKSDALE,185,8,42,131,4
+Elbert,Moss-Ruckersville,United States Senator,,DEM,JIM BARKSDALE,81,8,26,46,1
+Elbert,Pike,United States Senator,,DEM,JIM BARKSDALE,336,24,100,203,9
+Elbert,Gaines,United States Senator,,DEM,JIM BARKSDALE,43,3,34,6,0
+Elbert,Goshen,United States Senator,,DEM,JIM BARKSDALE,194,25,97,68,4
+Elbert,Webbsboro,United States Senator,,DEM,JIM BARKSDALE,64,4,33,26,1
+Elbert,Centerville,United States Senator,,DEM,JIM BARKSDALE,125,13,64,45,3
+Elbert,,United States Senator,,IND,ALLEN BUCKLEY,231,17,88,122,4
+Elbert,Elberton,United States Senator,,IND,ALLEN BUCKLEY,60,5,12,43,0
+Elbert,Longstreet,United States Senator,,IND,ALLEN BUCKLEY,15,1,5,7,2
+Elbert,Eliam,United States Senator,,IND,ALLEN BUCKLEY,11,1,4,5,1
+Elbert,Petersburg,United States Senator,,IND,ALLEN BUCKLEY,8,1,7,0,0
+Elbert,Wyche,United States Senator,,IND,ALLEN BUCKLEY,17,0,4,13,0
+Elbert,Moss-Ruckersville,United States Senator,,IND,ALLEN BUCKLEY,16,4,6,6,0
+Elbert,Pike,United States Senator,,IND,ALLEN BUCKLEY,38,2,14,21,1
+Elbert,Gaines,United States Senator,,IND,ALLEN BUCKLEY,11,1,9,1,0
+Elbert,Goshen,United States Senator,,IND,ALLEN BUCKLEY,30,2,14,14,0
+Elbert,Webbsboro,United States Senator,,IND,ALLEN BUCKLEY,7,0,3,4,0
+Elbert,Centerville,United States Senator,,IND,ALLEN BUCKLEY,18,0,10,8,0
 Elbert,,"Public Service Commission, District 2",2,,TIM ECHOLS ,5565,331,2066,3136,32
 Elbert,Elberton,"Public Service Commission, District 2",2,,TIM ECHOLS ,1359,130,250,976,3
 Elbert,Longstreet,"Public Service Commission, District 2",2,,TIM ECHOLS ,335,18,123,187,7

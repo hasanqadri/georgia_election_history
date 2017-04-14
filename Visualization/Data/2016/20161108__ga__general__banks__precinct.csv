@@ -41,48 +41,48 @@ Banks,Homer,President of the United States,,IND,GARY JOHNSON,16,1,11,4,0
 Banks,Poplar Springs,President of the United States,,IND,GARY JOHNSON,18,1,10,7,0
 Banks,Washington,President of the United States,,IND,GARY JOHNSON,8,1,5,2,0
 Banks,Wilmonts,President of the United States,,IND,GARY JOHNSON,4,0,2,2,0
-Banks,,United States Senator,,,JOHNNY ISAKSON ,5705,182,2819,2703,1
-Banks,Anderson,United States Senator,,,JOHNNY ISAKSON ,710,13,349,347,1
-Banks,Baldwin,United States Senator,,,JOHNNY ISAKSON ,417,25,216,176,0
-Banks,Berlin,United States Senator,,,JOHNNY ISAKSON ,177,1,79,97,0
-Banks,Bushville,United States Senator,,,JOHNNY ISAKSON ,345,12,145,188,0
-Banks,Columbia,United States Senator,,,JOHNNY ISAKSON ,201,2,151,48,0
-Banks,Davids,United States Senator,,,JOHNNY ISAKSON ,759,19,363,377,0
-Banks,Golden Hill,United States Senator,,,JOHNNY ISAKSON ,366,16,213,137,0
-Banks,Grove River,United States Senator,,,JOHNNY ISAKSON ,290,18,184,88,0
-Banks,Hollingsworth,United States Senator,,,JOHNNY ISAKSON ,344,8,191,145,0
-Banks,Homer,United States Senator,,,JOHNNY ISAKSON ,704,23,250,431,0
-Banks,Poplar Springs,United States Senator,,,JOHNNY ISAKSON ,761,23,344,394,0
-Banks,Washington,United States Senator,,,JOHNNY ISAKSON ,327,11,178,138,0
-Banks,Wilmonts,United States Senator,,,JOHNNY ISAKSON ,304,11,156,137,0
-Banks,,United States Senator,,,JIM BARKSDALE,673,40,349,284,0
-Banks,Anderson,United States Senator,,,JIM BARKSDALE,67,1,41,25,0
-Banks,Baldwin,United States Senator,,,JIM BARKSDALE,59,7,28,24,0
-Banks,Berlin,United States Senator,,,JIM BARKSDALE,12,0,7,5,0
-Banks,Bushville,United States Senator,,,JIM BARKSDALE,35,2,22,11,0
-Banks,Columbia,United States Senator,,,JIM BARKSDALE,19,1,12,6,0
-Banks,Davids,United States Senator,,,JIM BARKSDALE,109,2,54,53,0
-Banks,Golden Hill,United States Senator,,,JIM BARKSDALE,61,4,28,29,0
-Banks,Grove River,United States Senator,,,JIM BARKSDALE,17,2,11,4,0
-Banks,Hollingsworth,United States Senator,,,JIM BARKSDALE,43,6,15,22,0
-Banks,Homer,United States Senator,,,JIM BARKSDALE,82,7,32,43,0
-Banks,Poplar Springs,United States Senator,,,JIM BARKSDALE,92,3,53,36,0
-Banks,Washington,United States Senator,,,JIM BARKSDALE,46,3,30,13,0
-Banks,Wilmonts,United States Senator,,,JIM BARKSDALE,31,2,16,13,0
-Banks,,United States Senator,,,ALLEN BUCKLEY,304,17,172,115,0
-Banks,Anderson,United States Senator,,,ALLEN BUCKLEY,30,1,21,8,0
-Banks,Baldwin,United States Senator,,,ALLEN BUCKLEY,20,2,15,3,0
-Banks,Berlin,United States Senator,,,ALLEN BUCKLEY,5,0,3,2,0
-Banks,Bushville,United States Senator,,,ALLEN BUCKLEY,19,0,11,8,0
-Banks,Columbia,United States Senator,,,ALLEN BUCKLEY,16,1,10,5,0
-Banks,Davids,United States Senator,,,ALLEN BUCKLEY,44,1,26,17,0
-Banks,Golden Hill,United States Senator,,,ALLEN BUCKLEY,28,3,17,8,0
-Banks,Grove River,United States Senator,,,ALLEN BUCKLEY,13,0,8,5,0
-Banks,Hollingsworth,United States Senator,,,ALLEN BUCKLEY,18,1,10,7,0
-Banks,Homer,United States Senator,,,ALLEN BUCKLEY,30,2,15,13,0
-Banks,Poplar Springs,United States Senator,,,ALLEN BUCKLEY,51,3,25,23,0
-Banks,Washington,United States Senator,,,ALLEN BUCKLEY,16,3,8,5,0
-Banks,Wilmonts,United States Senator,,,ALLEN BUCKLEY,14,0,3,11,0
+Banks,,United States Senator,,REP,JOHNNY ISAKSON ,5705,182,2819,2703,1
+Banks,Anderson,United States Senator,,REP,JOHNNY ISAKSON ,710,13,349,347,1
+Banks,Baldwin,United States Senator,,REP,JOHNNY ISAKSON ,417,25,216,176,0
+Banks,Berlin,United States Senator,,REP,JOHNNY ISAKSON ,177,1,79,97,0
+Banks,Bushville,United States Senator,,REP,JOHNNY ISAKSON ,345,12,145,188,0
+Banks,Columbia,United States Senator,,REP,JOHNNY ISAKSON ,201,2,151,48,0
+Banks,Davids,United States Senator,,REP,JOHNNY ISAKSON ,759,19,363,377,0
+Banks,Golden Hill,United States Senator,,REP,JOHNNY ISAKSON ,366,16,213,137,0
+Banks,Grove River,United States Senator,,REP,JOHNNY ISAKSON ,290,18,184,88,0
+Banks,Hollingsworth,United States Senator,,REP,JOHNNY ISAKSON ,344,8,191,145,0
+Banks,Homer,United States Senator,,REP,JOHNNY ISAKSON ,704,23,250,431,0
+Banks,Poplar Springs,United States Senator,,REP,JOHNNY ISAKSON ,761,23,344,394,0
+Banks,Washington,United States Senator,,REP,JOHNNY ISAKSON ,327,11,178,138,0
+Banks,Wilmonts,United States Senator,,REP,JOHNNY ISAKSON ,304,11,156,137,0
+Banks,,United States Senator,,DEM,JIM BARKSDALE,673,40,349,284,0
+Banks,Anderson,United States Senator,,DEM,JIM BARKSDALE,67,1,41,25,0
+Banks,Baldwin,United States Senator,,DEM,JIM BARKSDALE,59,7,28,24,0
+Banks,Berlin,United States Senator,,DEM,JIM BARKSDALE,12,0,7,5,0
+Banks,Bushville,United States Senator,,DEM,JIM BARKSDALE,35,2,22,11,0
+Banks,Columbia,United States Senator,,DEM,JIM BARKSDALE,19,1,12,6,0
+Banks,Davids,United States Senator,,DEM,JIM BARKSDALE,109,2,54,53,0
+Banks,Golden Hill,United States Senator,,DEM,JIM BARKSDALE,61,4,28,29,0
+Banks,Grove River,United States Senator,,DEM,JIM BARKSDALE,17,2,11,4,0
+Banks,Hollingsworth,United States Senator,,DEM,JIM BARKSDALE,43,6,15,22,0
+Banks,Homer,United States Senator,,DEM,JIM BARKSDALE,82,7,32,43,0
+Banks,Poplar Springs,United States Senator,,DEM,JIM BARKSDALE,92,3,53,36,0
+Banks,Washington,United States Senator,,DEM,JIM BARKSDALE,46,3,30,13,0
+Banks,Wilmonts,United States Senator,,DEM,JIM BARKSDALE,31,2,16,13,0
+Banks,,United States Senator,,IND,ALLEN BUCKLEY,304,17,172,115,0
+Banks,Anderson,United States Senator,,IND,ALLEN BUCKLEY,30,1,21,8,0
+Banks,Baldwin,United States Senator,,IND,ALLEN BUCKLEY,20,2,15,3,0
+Banks,Berlin,United States Senator,,IND,ALLEN BUCKLEY,5,0,3,2,0
+Banks,Bushville,United States Senator,,IND,ALLEN BUCKLEY,19,0,11,8,0
+Banks,Columbia,United States Senator,,IND,ALLEN BUCKLEY,16,1,10,5,0
+Banks,Davids,United States Senator,,IND,ALLEN BUCKLEY,44,1,26,17,0
+Banks,Golden Hill,United States Senator,,IND,ALLEN BUCKLEY,28,3,17,8,0
+Banks,Grove River,United States Senator,,IND,ALLEN BUCKLEY,13,0,8,5,0
+Banks,Hollingsworth,United States Senator,,IND,ALLEN BUCKLEY,18,1,10,7,0
+Banks,Homer,United States Senator,,IND,ALLEN BUCKLEY,30,2,15,13,0
+Banks,Poplar Springs,United States Senator,,IND,ALLEN BUCKLEY,51,3,25,23,0
+Banks,Washington,United States Senator,,IND,ALLEN BUCKLEY,16,3,8,5,0
+Banks,Wilmonts,United States Senator,,IND,ALLEN BUCKLEY,14,0,3,11,0
 Banks,,"Public Service Commission, District 2",2,,TIM ECHOLS ,5909,185,2947,2776,1
 Banks,Anderson,"Public Service Commission, District 2",2,,TIM ECHOLS ,721,15,360,345,1
 Banks,Baldwin,"Public Service Commission, District 2",2,,TIM ECHOLS ,419,23,222,174,0

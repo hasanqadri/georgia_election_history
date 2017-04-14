@@ -38,45 +38,45 @@ Gordon,LILY POND,President of the United States,,IND,GARY JOHNSON,24,1,17,6,0
 Gordon,FAIRMOUNT,President of the United States,,IND,GARY JOHNSON,29,0,19,10,0
 Gordon,RED BUD,President of the United States,,IND,GARY JOHNSON,44,0,26,18,0
 Gordon,RESACA,President of the United States,,IND,GARY JOHNSON,22,0,15,7,0
-Gordon,,United States Senator,,,JOHNNY ISAKSON ,14092,424,6626,7026,16
-Gordon,SUGAR VALLEY,United States Senator,,,JOHNNY ISAKSON ,663,10,422,230,1
-Gordon,PLAINVILLE,United States Senator,,,JOHNNY ISAKSON ,779,26,449,303,1
-Gordon,SONORAVILLE,United States Senator,,,JOHNNY ISAKSON ,2433,50,1180,1200,3
-Gordon,PINE CHAPEL,United States Senator,,,JOHNNY ISAKSON ,447,8,259,179,1
-Gordon,OOSTANAULA,United States Senator,,,JOHNNY ISAKSON ,282,11,184,86,1
-Gordon,OAKMAN,United States Senator,,,JOHNNY ISAKSON ,488,17,318,153,0
-Gordon,GORDON COUNTY,United States Senator,,,JOHNNY ISAKSON ,2414,76,919,1416,3
-Gordon,CALHOUN CITY,United States Senator,,,JOHNNY ISAKSON ,3141,123,985,2030,3
-Gordon,LILY POND,United States Senator,,,JOHNNY ISAKSON ,802,24,343,435,0
-Gordon,FAIRMOUNT,United States Senator,,,JOHNNY ISAKSON ,866,31,598,236,1
-Gordon,RED BUD,United States Senator,,,JOHNNY ISAKSON ,1171,27,612,530,2
-Gordon,RESACA,United States Senator,,,JOHNNY ISAKSON ,606,21,357,228,0
-Gordon,,United States Senator,,,JIM BARKSDALE,2854,138,1337,1374,5
-Gordon,SUGAR VALLEY,United States Senator,,,JIM BARKSDALE,87,1,55,31,0
-Gordon,PLAINVILLE,United States Senator,,,JIM BARKSDALE,137,4,77,56,0
-Gordon,SONORAVILLE,United States Senator,,,JIM BARKSDALE,400,16,193,190,1
-Gordon,PINE CHAPEL,United States Senator,,,JIM BARKSDALE,55,3,29,23,0
-Gordon,OOSTANAULA,United States Senator,,,JIM BARKSDALE,78,3,43,32,0
-Gordon,OAKMAN,United States Senator,,,JIM BARKSDALE,92,2,62,28,0
-Gordon,GORDON COUNTY,United States Senator,,,JIM BARKSDALE,508,21,212,275,0
-Gordon,CALHOUN CITY,United States Senator,,,JIM BARKSDALE,912,61,338,510,3
-Gordon,LILY POND,United States Senator,,,JIM BARKSDALE,125,8,53,64,0
-Gordon,FAIRMOUNT,United States Senator,,,JIM BARKSDALE,111,2,81,27,1
-Gordon,RED BUD,United States Senator,,,JIM BARKSDALE,237,14,121,102,0
-Gordon,RESACA,United States Senator,,,JIM BARKSDALE,112,3,73,36,0
-Gordon,,United States Senator,,,ALLEN BUCKLEY,816,22,448,344,2
-Gordon,SUGAR VALLEY,United States Senator,,,ALLEN BUCKLEY,48,1,36,11,0
-Gordon,PLAINVILLE,United States Senator,,,ALLEN BUCKLEY,45,2,30,13,0
-Gordon,SONORAVILLE,United States Senator,,,ALLEN BUCKLEY,115,2,66,47,0
-Gordon,PINE CHAPEL,United States Senator,,,ALLEN BUCKLEY,22,0,14,8,0
-Gordon,OOSTANAULA,United States Senator,,,ALLEN BUCKLEY,15,0,10,5,0
-Gordon,OAKMAN,United States Senator,,,ALLEN BUCKLEY,44,2,26,16,0
-Gordon,GORDON COUNTY,United States Senator,,,ALLEN BUCKLEY,105,6,43,56,0
-Gordon,CALHOUN CITY,United States Senator,,,ALLEN BUCKLEY,211,5,88,117,1
-Gordon,LILY POND,United States Senator,,,ALLEN BUCKLEY,47,0,32,15,0
-Gordon,FAIRMOUNT,United States Senator,,,ALLEN BUCKLEY,62,3,48,11,0
-Gordon,RED BUD,United States Senator,,,ALLEN BUCKLEY,68,1,34,32,1
-Gordon,RESACA,United States Senator,,,ALLEN BUCKLEY,34,0,21,13,0
+Gordon,,United States Senator,,REP,JOHNNY ISAKSON ,14092,424,6626,7026,16
+Gordon,SUGAR VALLEY,United States Senator,,REP,JOHNNY ISAKSON ,663,10,422,230,1
+Gordon,PLAINVILLE,United States Senator,,REP,JOHNNY ISAKSON ,779,26,449,303,1
+Gordon,SONORAVILLE,United States Senator,,REP,JOHNNY ISAKSON ,2433,50,1180,1200,3
+Gordon,PINE CHAPEL,United States Senator,,REP,JOHNNY ISAKSON ,447,8,259,179,1
+Gordon,OOSTANAULA,United States Senator,,REP,JOHNNY ISAKSON ,282,11,184,86,1
+Gordon,OAKMAN,United States Senator,,REP,JOHNNY ISAKSON ,488,17,318,153,0
+Gordon,GORDON COUNTY,United States Senator,,REP,JOHNNY ISAKSON ,2414,76,919,1416,3
+Gordon,CALHOUN CITY,United States Senator,,REP,JOHNNY ISAKSON ,3141,123,985,2030,3
+Gordon,LILY POND,United States Senator,,REP,JOHNNY ISAKSON ,802,24,343,435,0
+Gordon,FAIRMOUNT,United States Senator,,REP,JOHNNY ISAKSON ,866,31,598,236,1
+Gordon,RED BUD,United States Senator,,REP,JOHNNY ISAKSON ,1171,27,612,530,2
+Gordon,RESACA,United States Senator,,REP,JOHNNY ISAKSON ,606,21,357,228,0
+Gordon,,United States Senator,,DEM,JIM BARKSDALE,2854,138,1337,1374,5
+Gordon,SUGAR VALLEY,United States Senator,,DEM,JIM BARKSDALE,87,1,55,31,0
+Gordon,PLAINVILLE,United States Senator,,DEM,JIM BARKSDALE,137,4,77,56,0
+Gordon,SONORAVILLE,United States Senator,,DEM,JIM BARKSDALE,400,16,193,190,1
+Gordon,PINE CHAPEL,United States Senator,,DEM,JIM BARKSDALE,55,3,29,23,0
+Gordon,OOSTANAULA,United States Senator,,DEM,JIM BARKSDALE,78,3,43,32,0
+Gordon,OAKMAN,United States Senator,,DEM,JIM BARKSDALE,92,2,62,28,0
+Gordon,GORDON COUNTY,United States Senator,,DEM,JIM BARKSDALE,508,21,212,275,0
+Gordon,CALHOUN CITY,United States Senator,,DEM,JIM BARKSDALE,912,61,338,510,3
+Gordon,LILY POND,United States Senator,,DEM,JIM BARKSDALE,125,8,53,64,0
+Gordon,FAIRMOUNT,United States Senator,,DEM,JIM BARKSDALE,111,2,81,27,1
+Gordon,RED BUD,United States Senator,,DEM,JIM BARKSDALE,237,14,121,102,0
+Gordon,RESACA,United States Senator,,DEM,JIM BARKSDALE,112,3,73,36,0
+Gordon,,United States Senator,,IND,ALLEN BUCKLEY,816,22,448,344,2
+Gordon,SUGAR VALLEY,United States Senator,,IND,ALLEN BUCKLEY,48,1,36,11,0
+Gordon,PLAINVILLE,United States Senator,,IND,ALLEN BUCKLEY,45,2,30,13,0
+Gordon,SONORAVILLE,United States Senator,,IND,ALLEN BUCKLEY,115,2,66,47,0
+Gordon,PINE CHAPEL,United States Senator,,IND,ALLEN BUCKLEY,22,0,14,8,0
+Gordon,OOSTANAULA,United States Senator,,IND,ALLEN BUCKLEY,15,0,10,5,0
+Gordon,OAKMAN,United States Senator,,IND,ALLEN BUCKLEY,44,2,26,16,0
+Gordon,GORDON COUNTY,United States Senator,,IND,ALLEN BUCKLEY,105,6,43,56,0
+Gordon,CALHOUN CITY,United States Senator,,IND,ALLEN BUCKLEY,211,5,88,117,1
+Gordon,LILY POND,United States Senator,,IND,ALLEN BUCKLEY,47,0,32,15,0
+Gordon,FAIRMOUNT,United States Senator,,IND,ALLEN BUCKLEY,62,3,48,11,0
+Gordon,RED BUD,United States Senator,,IND,ALLEN BUCKLEY,68,1,34,32,1
+Gordon,RESACA,United States Senator,,IND,ALLEN BUCKLEY,34,0,21,13,0
 Gordon,,"Public Service Commission, District 2",2,,TIM ECHOLS ,14245,450,6733,7047,15
 Gordon,SUGAR VALLEY,"Public Service Commission, District 2",2,,TIM ECHOLS ,663,9,424,229,1
 Gordon,PLAINVILLE,"Public Service Commission, District 2",2,,TIM ECHOLS ,789,27,449,313,0

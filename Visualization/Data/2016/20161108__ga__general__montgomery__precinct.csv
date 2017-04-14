@@ -23,30 +23,30 @@ Montgomery,Kibbee,President of the United States,,IND,GARY JOHNSON,5,0,4,1,0
 Montgomery,Mount Vernon,President of the United States,,IND,GARY JOHNSON,13,1,7,5,0
 Montgomery,Tarrytown,President of the United States,,IND,GARY JOHNSON,1,0,1,0,0
 Montgomery,Uvalda,President of the United States,,IND,GARY JOHNSON,6,0,4,2,0
-Montgomery,,United States Senator,,,JOHNNY ISAKSON ,2532,88,1500,944,0
-Montgomery,Ailey,United States Senator,,,JOHNNY ISAKSON ,223,9,96,118,0
-Montgomery,Alston,United States Senator,,,JOHNNY ISAKSON ,278,5,180,93,0
-Montgomery,Higgston,United States Senator,,,JOHNNY ISAKSON ,654,19,411,224,0
-Montgomery,Kibbee,United States Senator,,,JOHNNY ISAKSON ,289,14,197,78,0
-Montgomery,Mount Vernon,United States Senator,,,JOHNNY ISAKSON ,496,21,217,258,0
-Montgomery,Tarrytown,United States Senator,,,JOHNNY ISAKSON ,189,5,147,37,0
-Montgomery,Uvalda,United States Senator,,,JOHNNY ISAKSON ,403,15,252,136,0
-Montgomery,,United States Senator,,,JIM BARKSDALE,676,37,403,236,0
-Montgomery,Ailey,United States Senator,,,JIM BARKSDALE,64,3,40,21,0
-Montgomery,Alston,United States Senator,,,JIM BARKSDALE,30,2,20,8,0
-Montgomery,Higgston,United States Senator,,,JIM BARKSDALE,130,7,78,45,0
-Montgomery,Kibbee,United States Senator,,,JIM BARKSDALE,24,1,13,10,0
-Montgomery,Mount Vernon,United States Senator,,,JIM BARKSDALE,299,21,158,120,0
-Montgomery,Tarrytown,United States Senator,,,JIM BARKSDALE,16,0,14,2,0
-Montgomery,Uvalda,United States Senator,,,JIM BARKSDALE,113,3,80,30,0
-Montgomery,,United States Senator,,,ALLEN BUCKLEY,93,0,57,36,0
-Montgomery,Ailey,United States Senator,,,ALLEN BUCKLEY,6,0,4,2,0
-Montgomery,Alston,United States Senator,,,ALLEN BUCKLEY,3,0,1,2,0
-Montgomery,Higgston,United States Senator,,,ALLEN BUCKLEY,30,0,14,16,0
-Montgomery,Kibbee,United States Senator,,,ALLEN BUCKLEY,5,0,4,1,0
-Montgomery,Mount Vernon,United States Senator,,,ALLEN BUCKLEY,21,0,14,7,0
-Montgomery,Tarrytown,United States Senator,,,ALLEN BUCKLEY,10,0,9,1,0
-Montgomery,Uvalda,United States Senator,,,ALLEN BUCKLEY,18,0,11,7,0
+Montgomery,,United States Senator,,REP,JOHNNY ISAKSON ,2532,88,1500,944,0
+Montgomery,Ailey,United States Senator,,REP,JOHNNY ISAKSON ,223,9,96,118,0
+Montgomery,Alston,United States Senator,,REP,JOHNNY ISAKSON ,278,5,180,93,0
+Montgomery,Higgston,United States Senator,,REP,JOHNNY ISAKSON ,654,19,411,224,0
+Montgomery,Kibbee,United States Senator,,REP,JOHNNY ISAKSON ,289,14,197,78,0
+Montgomery,Mount Vernon,United States Senator,,REP,JOHNNY ISAKSON ,496,21,217,258,0
+Montgomery,Tarrytown,United States Senator,,REP,JOHNNY ISAKSON ,189,5,147,37,0
+Montgomery,Uvalda,United States Senator,,REP,JOHNNY ISAKSON ,403,15,252,136,0
+Montgomery,,United States Senator,,DEM,JIM BARKSDALE,676,37,403,236,0
+Montgomery,Ailey,United States Senator,,DEM,JIM BARKSDALE,64,3,40,21,0
+Montgomery,Alston,United States Senator,,DEM,JIM BARKSDALE,30,2,20,8,0
+Montgomery,Higgston,United States Senator,,DEM,JIM BARKSDALE,130,7,78,45,0
+Montgomery,Kibbee,United States Senator,,DEM,JIM BARKSDALE,24,1,13,10,0
+Montgomery,Mount Vernon,United States Senator,,DEM,JIM BARKSDALE,299,21,158,120,0
+Montgomery,Tarrytown,United States Senator,,DEM,JIM BARKSDALE,16,0,14,2,0
+Montgomery,Uvalda,United States Senator,,DEM,JIM BARKSDALE,113,3,80,30,0
+Montgomery,,United States Senator,,IND,ALLEN BUCKLEY,93,0,57,36,0
+Montgomery,Ailey,United States Senator,,IND,ALLEN BUCKLEY,6,0,4,2,0
+Montgomery,Alston,United States Senator,,IND,ALLEN BUCKLEY,3,0,1,2,0
+Montgomery,Higgston,United States Senator,,IND,ALLEN BUCKLEY,30,0,14,16,0
+Montgomery,Kibbee,United States Senator,,IND,ALLEN BUCKLEY,5,0,4,1,0
+Montgomery,Mount Vernon,United States Senator,,IND,ALLEN BUCKLEY,21,0,14,7,0
+Montgomery,Tarrytown,United States Senator,,IND,ALLEN BUCKLEY,10,0,9,1,0
+Montgomery,Uvalda,United States Senator,,IND,ALLEN BUCKLEY,18,0,11,7,0
 Montgomery,,"Public Service Commission, District 2",2,,TIM ECHOLS ,2589,92,1536,961,0
 Montgomery,Ailey,"Public Service Commission, District 2",2,,TIM ECHOLS ,219,11,93,115,0
 Montgomery,Alston,"Public Service Commission, District 2",2,,TIM ECHOLS ,272,5,178,89,0

@@ -17,24 +17,24 @@ Baker,Elmodel,President of the United States,,IND,GARY JOHNSON,4,1,1,2,0
 Baker,Hoggard Mill,President of the United States,,IND,GARY JOHNSON,3,0,3,0,0
 Baker,Milford,President of the United States,,IND,GARY JOHNSON,2,0,2,0,0
 Baker,Newton,President of the United States,,IND,GARY JOHNSON,6,0,5,1,0
-Baker,,United States Senator,,,JOHNNY ISAKSON ,763,75,388,299,1
-Baker,Anna,United States Senator,,,JOHNNY ISAKSON ,71,3,58,10,0
-Baker,Elmodel,United States Senator,,,JOHNNY ISAKSON ,119,7,62,50,0
-Baker,Hoggard Mill,United States Senator,,,JOHNNY ISAKSON ,93,9,57,27,0
-Baker,Milford,United States Senator,,,JOHNNY ISAKSON ,130,15,86,29,0
-Baker,Newton,United States Senator,,,JOHNNY ISAKSON ,350,41,125,183,1
-Baker,,United States Senator,,,JIM BARKSDALE,531,66,259,205,1
-Baker,Anna,United States Senator,,,JIM BARKSDALE,17,1,11,5,0
-Baker,Elmodel,United States Senator,,,JIM BARKSDALE,107,15,36,56,0
-Baker,Hoggard Mill,United States Senator,,,JIM BARKSDALE,88,11,54,22,1
-Baker,Milford,United States Senator,,,JIM BARKSDALE,64,3,49,12,0
-Baker,Newton,United States Senator,,,JIM BARKSDALE,255,36,109,110,0
-Baker,,United States Senator,,,ALLEN BUCKLEY,29,3,16,10,0
-Baker,Anna,United States Senator,,,ALLEN BUCKLEY,3,0,2,1,0
-Baker,Elmodel,United States Senator,,,ALLEN BUCKLEY,6,1,2,3,0
-Baker,Hoggard Mill,United States Senator,,,ALLEN BUCKLEY,2,0,2,0,0
-Baker,Milford,United States Senator,,,ALLEN BUCKLEY,2,0,2,0,0
-Baker,Newton,United States Senator,,,ALLEN BUCKLEY,16,2,8,6,0
+Baker,,United States Senator,,REP,JOHNNY ISAKSON ,763,75,388,299,1
+Baker,Anna,United States Senator,,REP,JOHNNY ISAKSON ,71,3,58,10,0
+Baker,Elmodel,United States Senator,,REP,JOHNNY ISAKSON ,119,7,62,50,0
+Baker,Hoggard Mill,United States Senator,,REP,JOHNNY ISAKSON ,93,9,57,27,0
+Baker,Milford,United States Senator,,REP,JOHNNY ISAKSON ,130,15,86,29,0
+Baker,Newton,United States Senator,,REP,JOHNNY ISAKSON ,350,41,125,183,1
+Baker,,United States Senator,,DEM,JIM BARKSDALE,531,66,259,205,1
+Baker,Anna,United States Senator,,DEM,JIM BARKSDALE,17,1,11,5,0
+Baker,Elmodel,United States Senator,,DEM,JIM BARKSDALE,107,15,36,56,0
+Baker,Hoggard Mill,United States Senator,,DEM,JIM BARKSDALE,88,11,54,22,1
+Baker,Milford,United States Senator,,DEM,JIM BARKSDALE,64,3,49,12,0
+Baker,Newton,United States Senator,,DEM,JIM BARKSDALE,255,36,109,110,0
+Baker,,United States Senator,,IND,ALLEN BUCKLEY,29,3,16,10,0
+Baker,Anna,United States Senator,,IND,ALLEN BUCKLEY,3,0,2,1,0
+Baker,Elmodel,United States Senator,,IND,ALLEN BUCKLEY,6,1,2,3,0
+Baker,Hoggard Mill,United States Senator,,IND,ALLEN BUCKLEY,2,0,2,0,0
+Baker,Milford,United States Senator,,IND,ALLEN BUCKLEY,2,0,2,0,0
+Baker,Newton,United States Senator,,IND,ALLEN BUCKLEY,16,2,8,6,0
 Baker,,"Public Service Commission, District 2",2,,TIM ECHOLS ,816,92,412,312,0
 Baker,Anna,"Public Service Commission, District 2",2,,TIM ECHOLS ,66,3,51,12,0
 Baker,Elmodel,"Public Service Commission, District 2",2,,TIM ECHOLS ,133,10,65,58,0

@@ -35,42 +35,42 @@ Early,Hilton,President of the United States,,IND,GARY JOHNSON,3,0,0,3,0
 Early,Jakin,President of the United States,,IND,GARY JOHNSON,5,0,5,0,0
 Early,Lucille,President of the United States,,IND,GARY JOHNSON,2,0,1,1,0
 Early,Urquhart,President of the United States,,IND,GARY JOHNSON,3,0,2,1,0
-Early,,United States Senator,,,JOHNNY ISAKSON ,2515,136,1071,1308,0
-Early,Arlington,United States Senator,,,JOHNNY ISAKSON ,137,7,104,26,0
-Early,Blakely,United States Senator,,,JOHNNY ISAKSON ,803,53,202,548,0
-Early,Colomokee,United States Senator,,,JOHNNY ISAKSON ,116,5,38,73,0
-Early,Cedar Springs,United States Senator,,,JOHNNY ISAKSON ,146,7,100,39,0
-Early,Cuba,United States Senator,,,JOHNNY ISAKSON ,305,9,142,154,0
-Early,Damascus,United States Senator,,,JOHNNY ISAKSON ,169,7,95,67,0
-Early,Freeman,United States Senator,,,JOHNNY ISAKSON ,138,8,37,93,0
-Early,Hilton,United States Senator,,,JOHNNY ISAKSON ,139,12,52,75,0
-Early,Jakin,United States Senator,,,JOHNNY ISAKSON ,224,15,155,54,0
-Early,Lucille,United States Senator,,,JOHNNY ISAKSON ,212,8,72,132,0
-Early,Urquhart,United States Senator,,,JOHNNY ISAKSON ,126,5,74,47,0
-Early,,United States Senator,,,JIM BARKSDALE,1877,210,946,720,1
-Early,Arlington,United States Senator,,,JIM BARKSDALE,124,35,70,19,0
-Early,Blakely,United States Senator,,,JIM BARKSDALE,1065,122,491,451,1
-Early,Colomokee,United States Senator,,,JIM BARKSDALE,38,0,17,21,0
-Early,Cedar Springs,United States Senator,,,JIM BARKSDALE,36,3,26,7,0
-Early,Cuba,United States Senator,,,JIM BARKSDALE,93,6,32,55,0
-Early,Damascus,United States Senator,,,JIM BARKSDALE,188,12,138,38,0
-Early,Freeman,United States Senator,,,JIM BARKSDALE,25,1,10,14,0
-Early,Hilton,United States Senator,,,JIM BARKSDALE,41,1,28,12,0
-Early,Jakin,United States Senator,,,JIM BARKSDALE,98,8,66,24,0
-Early,Lucille,United States Senator,,,JIM BARKSDALE,145,17,55,73,0
-Early,Urquhart,United States Senator,,,JIM BARKSDALE,24,5,13,6,0
-Early,,United States Senator,,,ALLEN BUCKLEY,112,9,63,40,0
-Early,Arlington,United States Senator,,,ALLEN BUCKLEY,5,2,2,1,0
-Early,Blakely,United States Senator,,,ALLEN BUCKLEY,46,6,19,21,0
-Early,Colomokee,United States Senator,,,ALLEN BUCKLEY,5,1,2,2,0
-Early,Cedar Springs,United States Senator,,,ALLEN BUCKLEY,9,0,9,0,0
-Early,Cuba,United States Senator,,,ALLEN BUCKLEY,7,0,7,0,0
-Early,Damascus,United States Senator,,,ALLEN BUCKLEY,5,0,3,2,0
-Early,Freeman,United States Senator,,,ALLEN BUCKLEY,5,0,1,4,0
-Early,Hilton,United States Senator,,,ALLEN BUCKLEY,9,0,4,5,0
-Early,Jakin,United States Senator,,,ALLEN BUCKLEY,9,0,9,0,0
-Early,Lucille,United States Senator,,,ALLEN BUCKLEY,7,0,3,4,0
-Early,Urquhart,United States Senator,,,ALLEN BUCKLEY,5,0,4,1,0
+Early,,United States Senator,,REP,JOHNNY ISAKSON ,2515,136,1071,1308,0
+Early,Arlington,United States Senator,,REP,JOHNNY ISAKSON ,137,7,104,26,0
+Early,Blakely,United States Senator,,REP,JOHNNY ISAKSON ,803,53,202,548,0
+Early,Colomokee,United States Senator,,REP,JOHNNY ISAKSON ,116,5,38,73,0
+Early,Cedar Springs,United States Senator,,REP,JOHNNY ISAKSON ,146,7,100,39,0
+Early,Cuba,United States Senator,,REP,JOHNNY ISAKSON ,305,9,142,154,0
+Early,Damascus,United States Senator,,REP,JOHNNY ISAKSON ,169,7,95,67,0
+Early,Freeman,United States Senator,,REP,JOHNNY ISAKSON ,138,8,37,93,0
+Early,Hilton,United States Senator,,REP,JOHNNY ISAKSON ,139,12,52,75,0
+Early,Jakin,United States Senator,,REP,JOHNNY ISAKSON ,224,15,155,54,0
+Early,Lucille,United States Senator,,REP,JOHNNY ISAKSON ,212,8,72,132,0
+Early,Urquhart,United States Senator,,REP,JOHNNY ISAKSON ,126,5,74,47,0
+Early,,United States Senator,,DEM,JIM BARKSDALE,1877,210,946,720,1
+Early,Arlington,United States Senator,,DEM,JIM BARKSDALE,124,35,70,19,0
+Early,Blakely,United States Senator,,DEM,JIM BARKSDALE,1065,122,491,451,1
+Early,Colomokee,United States Senator,,DEM,JIM BARKSDALE,38,0,17,21,0
+Early,Cedar Springs,United States Senator,,DEM,JIM BARKSDALE,36,3,26,7,0
+Early,Cuba,United States Senator,,DEM,JIM BARKSDALE,93,6,32,55,0
+Early,Damascus,United States Senator,,DEM,JIM BARKSDALE,188,12,138,38,0
+Early,Freeman,United States Senator,,DEM,JIM BARKSDALE,25,1,10,14,0
+Early,Hilton,United States Senator,,DEM,JIM BARKSDALE,41,1,28,12,0
+Early,Jakin,United States Senator,,DEM,JIM BARKSDALE,98,8,66,24,0
+Early,Lucille,United States Senator,,DEM,JIM BARKSDALE,145,17,55,73,0
+Early,Urquhart,United States Senator,,DEM,JIM BARKSDALE,24,5,13,6,0
+Early,,United States Senator,,IND,ALLEN BUCKLEY,112,9,63,40,0
+Early,Arlington,United States Senator,,IND,ALLEN BUCKLEY,5,2,2,1,0
+Early,Blakely,United States Senator,,IND,ALLEN BUCKLEY,46,6,19,21,0
+Early,Colomokee,United States Senator,,IND,ALLEN BUCKLEY,5,1,2,2,0
+Early,Cedar Springs,United States Senator,,IND,ALLEN BUCKLEY,9,0,9,0,0
+Early,Cuba,United States Senator,,IND,ALLEN BUCKLEY,7,0,7,0,0
+Early,Damascus,United States Senator,,IND,ALLEN BUCKLEY,5,0,3,2,0
+Early,Freeman,United States Senator,,IND,ALLEN BUCKLEY,5,0,1,4,0
+Early,Hilton,United States Senator,,IND,ALLEN BUCKLEY,9,0,4,5,0
+Early,Jakin,United States Senator,,IND,ALLEN BUCKLEY,9,0,9,0,0
+Early,Lucille,United States Senator,,IND,ALLEN BUCKLEY,7,0,3,4,0
+Early,Urquhart,United States Senator,,IND,ALLEN BUCKLEY,5,0,4,1,0
 Early,,"Public Service Commission, District 2",2,,TIM ECHOLS ,2803,163,1223,1417,0
 Early,Arlington,"Public Service Commission, District 2",2,,TIM ECHOLS ,150,14,108,28,0
 Early,Blakely,"Public Service Commission, District 2",2,,TIM ECHOLS ,958,64,275,619,0

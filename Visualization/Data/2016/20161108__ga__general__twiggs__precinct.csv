@@ -17,24 +17,24 @@ Twiggs,GOLDEN ISLES,President of the United States,,IND,GARY JOHNSON,10,0,7,3,0
 Twiggs,HIGGSVILLE,President of the United States,,IND,GARY JOHNSON,14,1,7,6,0
 Twiggs,JEFFERSONVILLE/WARE,President of the United States,,IND,GARY JOHNSON,9,1,6,2,0
 Twiggs,SHADY GROVE/TARVERS,President of the United States,,IND,GARY JOHNSON,6,0,3,3,0
-Twiggs,,United States Senator,,,JOHNNY ISAKSON ,1975,98,1112,764,1
-Twiggs,DRY BRANCH,United States Senator,,,JOHNNY ISAKSON ,612,30,412,170,0
-Twiggs,GOLDEN ISLES,United States Senator,,,JOHNNY ISAKSON ,419,20,243,156,0
-Twiggs,HIGGSVILLE,United States Senator,,,JOHNNY ISAKSON ,314,13,181,120,0
-Twiggs,JEFFERSONVILLE/WARE,United States Senator,,,JOHNNY ISAKSON ,366,19,146,200,1
-Twiggs,SHADY GROVE/TARVERS,United States Senator,,,JOHNNY ISAKSON ,264,16,130,118,0
-Twiggs,,United States Senator,,,JIM BARKSDALE,1655,220,787,648,0
-Twiggs,DRY BRANCH,United States Senator,,,JIM BARKSDALE,170,15,101,54,0
-Twiggs,GOLDEN ISLES,United States Senator,,,JIM BARKSDALE,533,51,305,177,0
-Twiggs,HIGGSVILLE,United States Senator,,,JIM BARKSDALE,123,15,68,40,0
-Twiggs,JEFFERSONVILLE/WARE,United States Senator,,,JIM BARKSDALE,589,119,196,274,0
-Twiggs,SHADY GROVE/TARVERS,United States Senator,,,JIM BARKSDALE,240,20,117,103,0
-Twiggs,,United States Senator,,,ALLEN BUCKLEY,95,6,57,32,0
-Twiggs,DRY BRANCH,United States Senator,,,ALLEN BUCKLEY,24,0,18,6,0
-Twiggs,GOLDEN ISLES,United States Senator,,,ALLEN BUCKLEY,29,2,19,8,0
-Twiggs,HIGGSVILLE,United States Senator,,,ALLEN BUCKLEY,17,2,7,8,0
-Twiggs,JEFFERSONVILLE/WARE,United States Senator,,,ALLEN BUCKLEY,19,2,10,7,0
-Twiggs,SHADY GROVE/TARVERS,United States Senator,,,ALLEN BUCKLEY,6,0,3,3,0
+Twiggs,,United States Senator,,REP,JOHNNY ISAKSON ,1975,98,1112,764,1
+Twiggs,DRY BRANCH,United States Senator,,REP,JOHNNY ISAKSON ,612,30,412,170,0
+Twiggs,GOLDEN ISLES,United States Senator,,REP,JOHNNY ISAKSON ,419,20,243,156,0
+Twiggs,HIGGSVILLE,United States Senator,,REP,JOHNNY ISAKSON ,314,13,181,120,0
+Twiggs,JEFFERSONVILLE/WARE,United States Senator,,REP,JOHNNY ISAKSON ,366,19,146,200,1
+Twiggs,SHADY GROVE/TARVERS,United States Senator,,REP,JOHNNY ISAKSON ,264,16,130,118,0
+Twiggs,,United States Senator,,DEM,JIM BARKSDALE,1655,220,787,648,0
+Twiggs,DRY BRANCH,United States Senator,,DEM,JIM BARKSDALE,170,15,101,54,0
+Twiggs,GOLDEN ISLES,United States Senator,,DEM,JIM BARKSDALE,533,51,305,177,0
+Twiggs,HIGGSVILLE,United States Senator,,DEM,JIM BARKSDALE,123,15,68,40,0
+Twiggs,JEFFERSONVILLE/WARE,United States Senator,,DEM,JIM BARKSDALE,589,119,196,274,0
+Twiggs,SHADY GROVE/TARVERS,United States Senator,,DEM,JIM BARKSDALE,240,20,117,103,0
+Twiggs,,United States Senator,,IND,ALLEN BUCKLEY,95,6,57,32,0
+Twiggs,DRY BRANCH,United States Senator,,IND,ALLEN BUCKLEY,24,0,18,6,0
+Twiggs,GOLDEN ISLES,United States Senator,,IND,ALLEN BUCKLEY,29,2,19,8,0
+Twiggs,HIGGSVILLE,United States Senator,,IND,ALLEN BUCKLEY,17,2,7,8,0
+Twiggs,JEFFERSONVILLE/WARE,United States Senator,,IND,ALLEN BUCKLEY,19,2,10,7,0
+Twiggs,SHADY GROVE/TARVERS,United States Senator,,IND,ALLEN BUCKLEY,6,0,3,3,0
 Twiggs,,"Public Service Commission, District 2",2,,TIM ECHOLS ,2092,117,1157,817,1
 Twiggs,DRY BRANCH,"Public Service Commission, District 2",2,,TIM ECHOLS ,631,30,419,182,0
 Twiggs,GOLDEN ISLES,"Public Service Commission, District 2",2,,TIM ECHOLS ,476,24,282,170,0

@@ -41,48 +41,48 @@ Gilmer,ELLIJAY NORTH,President of the United States,,IND,GARY JOHNSON,31,3,14,14
 Gilmer,YUKON,President of the United States,,IND,GARY JOHNSON,26,2,17,7,0
 Gilmer,BIG CREEK,President of the United States,,IND,GARY JOHNSON,22,0,10,12,0
 Gilmer,ELLIJAY NORTHEAST,President of the United States,,IND,GARY JOHNSON,12,1,2,9,0
-Gilmer,,United States Senator,,,JOHNNY ISAKSON ,9508,503,3990,5009,6
-Gilmer,ELLIJAY SOUTH,United States Senator,,,JOHNNY ISAKSON ,1251,73,390,787,1
-Gilmer,CARTECAY,United States Senator,,,JOHNNY ISAKSON ,771,39,384,347,1
-Gilmer,TAILS CREEK,United States Senator,,,JOHNNY ISAKSON ,672,23,347,301,1
-Gilmer,TOWN CREEK,United States Senator,,,JOHNNY ISAKSON ,490,14,255,221,0
-Gilmer,LEACHES,United States Senator,,,JOHNNY ISAKSON ,1109,54,450,605,0
-Gilmer,CHERRY LOG,United States Senator,,,JOHNNY ISAKSON ,421,27,249,145,0
-Gilmer,BOARDTOWN,United States Senator,,,JOHNNY ISAKSON ,682,36,329,317,0
-Gilmer,MOUNTAINTOWN,United States Senator,,,JOHNNY ISAKSON ,524,25,244,254,1
-Gilmer,EAST ELLIJAY,United States Senator,,,JOHNNY ISAKSON ,737,48,247,442,0
-Gilmer,ELLIJAY NORTH,United States Senator,,,JOHNNY ISAKSON ,712,50,271,391,0
-Gilmer,YUKON,United States Senator,,,JOHNNY ISAKSON ,588,19,317,251,1
-Gilmer,BIG CREEK,United States Senator,,,JOHNNY ISAKSON ,672,34,288,350,0
-Gilmer,ELLIJAY NORTHEAST,United States Senator,,,JOHNNY ISAKSON ,879,61,219,598,1
-Gilmer,,United States Senator,,,JIM BARKSDALE,1795,125,688,979,3
-Gilmer,ELLIJAY SOUTH,United States Senator,,,JIM BARKSDALE,262,24,69,169,0
-Gilmer,CARTECAY,United States Senator,,,JIM BARKSDALE,127,9,53,64,1
-Gilmer,TAILS CREEK,United States Senator,,,JIM BARKSDALE,126,3,76,46,1
-Gilmer,TOWN CREEK,United States Senator,,,JIM BARKSDALE,86,8,45,33,0
-Gilmer,LEACHES,United States Senator,,,JIM BARKSDALE,220,11,80,129,0
-Gilmer,CHERRY LOG,United States Senator,,,JIM BARKSDALE,110,5,63,42,0
-Gilmer,BOARDTOWN,United States Senator,,,JIM BARKSDALE,119,11,44,64,0
-Gilmer,MOUNTAINTOWN,United States Senator,,,JIM BARKSDALE,87,9,44,34,0
-Gilmer,EAST ELLIJAY,United States Senator,,,JIM BARKSDALE,127,11,43,73,0
-Gilmer,ELLIJAY NORTH,United States Senator,,,JIM BARKSDALE,119,9,41,69,0
-Gilmer,YUKON,United States Senator,,,JIM BARKSDALE,83,1,45,37,0
-Gilmer,BIG CREEK,United States Senator,,,JIM BARKSDALE,148,13,54,81,0
-Gilmer,ELLIJAY NORTHEAST,United States Senator,,,JIM BARKSDALE,181,11,31,138,1
-Gilmer,,United States Senator,,,ALLEN BUCKLEY,614,26,277,308,3
-Gilmer,ELLIJAY SOUTH,United States Senator,,,ALLEN BUCKLEY,76,3,25,48,0
-Gilmer,CARTECAY,United States Senator,,,ALLEN BUCKLEY,43,2,24,16,1
-Gilmer,TAILS CREEK,United States Senator,,,ALLEN BUCKLEY,52,1,28,22,1
-Gilmer,TOWN CREEK,United States Senator,,,ALLEN BUCKLEY,24,1,10,13,0
-Gilmer,LEACHES,United States Senator,,,ALLEN BUCKLEY,70,2,29,38,1
-Gilmer,CHERRY LOG,United States Senator,,,ALLEN BUCKLEY,27,2,21,4,0
-Gilmer,BOARDTOWN,United States Senator,,,ALLEN BUCKLEY,46,2,25,19,0
-Gilmer,MOUNTAINTOWN,United States Senator,,,ALLEN BUCKLEY,44,1,22,21,0
-Gilmer,EAST ELLIJAY,United States Senator,,,ALLEN BUCKLEY,50,4,15,31,0
-Gilmer,ELLIJAY NORTH,United States Senator,,,ALLEN BUCKLEY,55,5,24,26,0
-Gilmer,YUKON,United States Senator,,,ALLEN BUCKLEY,35,1,16,18,0
-Gilmer,BIG CREEK,United States Senator,,,ALLEN BUCKLEY,40,1,24,15,0
-Gilmer,ELLIJAY NORTHEAST,United States Senator,,,ALLEN BUCKLEY,52,1,14,37,0
+Gilmer,,United States Senator,,REP,JOHNNY ISAKSON ,9508,503,3990,5009,6
+Gilmer,ELLIJAY SOUTH,United States Senator,,REP,JOHNNY ISAKSON ,1251,73,390,787,1
+Gilmer,CARTECAY,United States Senator,,REP,JOHNNY ISAKSON ,771,39,384,347,1
+Gilmer,TAILS CREEK,United States Senator,,REP,JOHNNY ISAKSON ,672,23,347,301,1
+Gilmer,TOWN CREEK,United States Senator,,REP,JOHNNY ISAKSON ,490,14,255,221,0
+Gilmer,LEACHES,United States Senator,,REP,JOHNNY ISAKSON ,1109,54,450,605,0
+Gilmer,CHERRY LOG,United States Senator,,REP,JOHNNY ISAKSON ,421,27,249,145,0
+Gilmer,BOARDTOWN,United States Senator,,REP,JOHNNY ISAKSON ,682,36,329,317,0
+Gilmer,MOUNTAINTOWN,United States Senator,,REP,JOHNNY ISAKSON ,524,25,244,254,1
+Gilmer,EAST ELLIJAY,United States Senator,,REP,JOHNNY ISAKSON ,737,48,247,442,0
+Gilmer,ELLIJAY NORTH,United States Senator,,REP,JOHNNY ISAKSON ,712,50,271,391,0
+Gilmer,YUKON,United States Senator,,REP,JOHNNY ISAKSON ,588,19,317,251,1
+Gilmer,BIG CREEK,United States Senator,,REP,JOHNNY ISAKSON ,672,34,288,350,0
+Gilmer,ELLIJAY NORTHEAST,United States Senator,,REP,JOHNNY ISAKSON ,879,61,219,598,1
+Gilmer,,United States Senator,,DEM,JIM BARKSDALE,1795,125,688,979,3
+Gilmer,ELLIJAY SOUTH,United States Senator,,DEM,JIM BARKSDALE,262,24,69,169,0
+Gilmer,CARTECAY,United States Senator,,DEM,JIM BARKSDALE,127,9,53,64,1
+Gilmer,TAILS CREEK,United States Senator,,DEM,JIM BARKSDALE,126,3,76,46,1
+Gilmer,TOWN CREEK,United States Senator,,DEM,JIM BARKSDALE,86,8,45,33,0
+Gilmer,LEACHES,United States Senator,,DEM,JIM BARKSDALE,220,11,80,129,0
+Gilmer,CHERRY LOG,United States Senator,,DEM,JIM BARKSDALE,110,5,63,42,0
+Gilmer,BOARDTOWN,United States Senator,,DEM,JIM BARKSDALE,119,11,44,64,0
+Gilmer,MOUNTAINTOWN,United States Senator,,DEM,JIM BARKSDALE,87,9,44,34,0
+Gilmer,EAST ELLIJAY,United States Senator,,DEM,JIM BARKSDALE,127,11,43,73,0
+Gilmer,ELLIJAY NORTH,United States Senator,,DEM,JIM BARKSDALE,119,9,41,69,0
+Gilmer,YUKON,United States Senator,,DEM,JIM BARKSDALE,83,1,45,37,0
+Gilmer,BIG CREEK,United States Senator,,DEM,JIM BARKSDALE,148,13,54,81,0
+Gilmer,ELLIJAY NORTHEAST,United States Senator,,DEM,JIM BARKSDALE,181,11,31,138,1
+Gilmer,,United States Senator,,IND,ALLEN BUCKLEY,614,26,277,308,3
+Gilmer,ELLIJAY SOUTH,United States Senator,,IND,ALLEN BUCKLEY,76,3,25,48,0
+Gilmer,CARTECAY,United States Senator,,IND,ALLEN BUCKLEY,43,2,24,16,1
+Gilmer,TAILS CREEK,United States Senator,,IND,ALLEN BUCKLEY,52,1,28,22,1
+Gilmer,TOWN CREEK,United States Senator,,IND,ALLEN BUCKLEY,24,1,10,13,0
+Gilmer,LEACHES,United States Senator,,IND,ALLEN BUCKLEY,70,2,29,38,1
+Gilmer,CHERRY LOG,United States Senator,,IND,ALLEN BUCKLEY,27,2,21,4,0
+Gilmer,BOARDTOWN,United States Senator,,IND,ALLEN BUCKLEY,46,2,25,19,0
+Gilmer,MOUNTAINTOWN,United States Senator,,IND,ALLEN BUCKLEY,44,1,22,21,0
+Gilmer,EAST ELLIJAY,United States Senator,,IND,ALLEN BUCKLEY,50,4,15,31,0
+Gilmer,ELLIJAY NORTH,United States Senator,,IND,ALLEN BUCKLEY,55,5,24,26,0
+Gilmer,YUKON,United States Senator,,IND,ALLEN BUCKLEY,35,1,16,18,0
+Gilmer,BIG CREEK,United States Senator,,IND,ALLEN BUCKLEY,40,1,24,15,0
+Gilmer,ELLIJAY NORTHEAST,United States Senator,,IND,ALLEN BUCKLEY,52,1,14,37,0
 Gilmer,,"Public Service Commission, District 2",2,,TIM ECHOLS ,9504,499,3970,5029,6
 Gilmer,ELLIJAY SOUTH,"Public Service Commission, District 2",2,,TIM ECHOLS ,1263,72,396,794,1
 Gilmer,CARTECAY,"Public Service Commission, District 2",2,,TIM ECHOLS ,753,39,364,350,0

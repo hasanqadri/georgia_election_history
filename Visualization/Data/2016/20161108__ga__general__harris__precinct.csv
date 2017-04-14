@@ -38,45 +38,45 @@ Harris,UPPER 19TH,President of the United States,,IND,GARY JOHNSON,20,3,11,6,0
 Harris,VALLEY PLAINS,President of the United States,,IND,GARY JOHNSON,6,1,4,1,0
 Harris,WAVERLY HALL,President of the United States,,IND,GARY JOHNSON,46,6,16,24,0
 Harris,WHITESVILLE,President of the United States,,IND,GARY JOHNSON,19,1,12,6,0
-Harris,,United States Senator,,,JOHNNY ISAKSON ,11608,482,4915,6210,1
-Harris,CATAULA,United States Senator,,,JOHNNY ISAKSON ,1441,51,560,830,0
-Harris,ELLERSLIE,United States Senator,,,JOHNNY ISAKSON ,1988,84,803,1101,0
-Harris,GOODMAN,United States Senator,,,JOHNNY ISAKSON ,624,19,247,358,0
-Harris,HAMILTON,United States Senator,,,JOHNNY ISAKSON ,954,33,248,673,0
-Harris,LOWER 19TH,United States Senator,,,JOHNNY ISAKSON ,1277,49,634,594,0
-Harris,MULBERRY GROVE,United States Senator,,,JOHNNY ISAKSON ,1564,81,570,912,1
-Harris,PINE MOUNTAIN VALLEY,United States Senator,,,JOHNNY ISAKSON ,581,23,257,301,0
-Harris,SKINNER,United States Senator,,,JOHNNY ISAKSON ,355,8,280,67,0
-Harris,UPPER 19TH,United States Senator,,,JOHNNY ISAKSON ,791,45,344,402,0
-Harris,VALLEY PLAINS,United States Senator,,,JOHNNY ISAKSON ,317,5,172,140,0
-Harris,WAVERLY HALL,United States Senator,,,JOHNNY ISAKSON ,1068,58,497,513,0
-Harris,WHITESVILLE,United States Senator,,,JOHNNY ISAKSON ,648,26,303,319,0
-Harris,,United States Senator,,,JIM BARKSDALE,3395,198,1429,1768,0
-Harris,CATAULA,United States Senator,,,JIM BARKSDALE,302,15,109,178,0
-Harris,ELLERSLIE,United States Senator,,,JIM BARKSDALE,595,34,193,368,0
-Harris,GOODMAN,United States Senator,,,JIM BARKSDALE,306,9,165,132,0
-Harris,HAMILTON,United States Senator,,,JIM BARKSDALE,422,17,114,291,0
-Harris,LOWER 19TH,United States Senator,,,JIM BARKSDALE,284,24,133,127,0
-Harris,MULBERRY GROVE,United States Senator,,,JIM BARKSDALE,268,24,94,150,0
-Harris,PINE MOUNTAIN VALLEY,United States Senator,,,JIM BARKSDALE,99,5,40,54,0
-Harris,SKINNER,United States Senator,,,JIM BARKSDALE,172,10,122,40,0
-Harris,UPPER 19TH,United States Senator,,,JIM BARKSDALE,128,4,66,58,0
-Harris,VALLEY PLAINS,United States Senator,,,JIM BARKSDALE,120,4,75,41,0
-Harris,WAVERLY HALL,United States Senator,,,JIM BARKSDALE,506,42,210,254,0
-Harris,WHITESVILLE,United States Senator,,,JIM BARKSDALE,193,10,108,75,0
-Harris,,United States Senator,,,ALLEN BUCKLEY,582,31,297,254,0
-Harris,CATAULA,United States Senator,,,ALLEN BUCKLEY,50,3,26,21,0
-Harris,ELLERSLIE,United States Senator,,,ALLEN BUCKLEY,79,4,42,33,0
-Harris,GOODMAN,United States Senator,,,ALLEN BUCKLEY,31,1,15,15,0
-Harris,HAMILTON,United States Senator,,,ALLEN BUCKLEY,60,0,20,40,0
-Harris,LOWER 19TH,United States Senator,,,ALLEN BUCKLEY,84,3,49,32,0
-Harris,MULBERRY GROVE,United States Senator,,,ALLEN BUCKLEY,80,5,30,45,0
-Harris,PINE MOUNTAIN VALLEY,United States Senator,,,ALLEN BUCKLEY,28,2,14,12,0
-Harris,SKINNER,United States Senator,,,ALLEN BUCKLEY,18,1,14,3,0
-Harris,UPPER 19TH,United States Senator,,,ALLEN BUCKLEY,29,4,20,5,0
-Harris,VALLEY PLAINS,United States Senator,,,ALLEN BUCKLEY,12,1,8,3,0
-Harris,WAVERLY HALL,United States Senator,,,ALLEN BUCKLEY,75,6,39,30,0
-Harris,WHITESVILLE,United States Senator,,,ALLEN BUCKLEY,36,1,20,15,0
+Harris,,United States Senator,,REP,JOHNNY ISAKSON ,11608,482,4915,6210,1
+Harris,CATAULA,United States Senator,,REP,JOHNNY ISAKSON ,1441,51,560,830,0
+Harris,ELLERSLIE,United States Senator,,REP,JOHNNY ISAKSON ,1988,84,803,1101,0
+Harris,GOODMAN,United States Senator,,REP,JOHNNY ISAKSON ,624,19,247,358,0
+Harris,HAMILTON,United States Senator,,REP,JOHNNY ISAKSON ,954,33,248,673,0
+Harris,LOWER 19TH,United States Senator,,REP,JOHNNY ISAKSON ,1277,49,634,594,0
+Harris,MULBERRY GROVE,United States Senator,,REP,JOHNNY ISAKSON ,1564,81,570,912,1
+Harris,PINE MOUNTAIN VALLEY,United States Senator,,REP,JOHNNY ISAKSON ,581,23,257,301,0
+Harris,SKINNER,United States Senator,,REP,JOHNNY ISAKSON ,355,8,280,67,0
+Harris,UPPER 19TH,United States Senator,,REP,JOHNNY ISAKSON ,791,45,344,402,0
+Harris,VALLEY PLAINS,United States Senator,,REP,JOHNNY ISAKSON ,317,5,172,140,0
+Harris,WAVERLY HALL,United States Senator,,REP,JOHNNY ISAKSON ,1068,58,497,513,0
+Harris,WHITESVILLE,United States Senator,,REP,JOHNNY ISAKSON ,648,26,303,319,0
+Harris,,United States Senator,,DEM,JIM BARKSDALE,3395,198,1429,1768,0
+Harris,CATAULA,United States Senator,,DEM,JIM BARKSDALE,302,15,109,178,0
+Harris,ELLERSLIE,United States Senator,,DEM,JIM BARKSDALE,595,34,193,368,0
+Harris,GOODMAN,United States Senator,,DEM,JIM BARKSDALE,306,9,165,132,0
+Harris,HAMILTON,United States Senator,,DEM,JIM BARKSDALE,422,17,114,291,0
+Harris,LOWER 19TH,United States Senator,,DEM,JIM BARKSDALE,284,24,133,127,0
+Harris,MULBERRY GROVE,United States Senator,,DEM,JIM BARKSDALE,268,24,94,150,0
+Harris,PINE MOUNTAIN VALLEY,United States Senator,,DEM,JIM BARKSDALE,99,5,40,54,0
+Harris,SKINNER,United States Senator,,DEM,JIM BARKSDALE,172,10,122,40,0
+Harris,UPPER 19TH,United States Senator,,DEM,JIM BARKSDALE,128,4,66,58,0
+Harris,VALLEY PLAINS,United States Senator,,DEM,JIM BARKSDALE,120,4,75,41,0
+Harris,WAVERLY HALL,United States Senator,,DEM,JIM BARKSDALE,506,42,210,254,0
+Harris,WHITESVILLE,United States Senator,,DEM,JIM BARKSDALE,193,10,108,75,0
+Harris,,United States Senator,,IND,ALLEN BUCKLEY,582,31,297,254,0
+Harris,CATAULA,United States Senator,,IND,ALLEN BUCKLEY,50,3,26,21,0
+Harris,ELLERSLIE,United States Senator,,IND,ALLEN BUCKLEY,79,4,42,33,0
+Harris,GOODMAN,United States Senator,,IND,ALLEN BUCKLEY,31,1,15,15,0
+Harris,HAMILTON,United States Senator,,IND,ALLEN BUCKLEY,60,0,20,40,0
+Harris,LOWER 19TH,United States Senator,,IND,ALLEN BUCKLEY,84,3,49,32,0
+Harris,MULBERRY GROVE,United States Senator,,IND,ALLEN BUCKLEY,80,5,30,45,0
+Harris,PINE MOUNTAIN VALLEY,United States Senator,,IND,ALLEN BUCKLEY,28,2,14,12,0
+Harris,SKINNER,United States Senator,,IND,ALLEN BUCKLEY,18,1,14,3,0
+Harris,UPPER 19TH,United States Senator,,IND,ALLEN BUCKLEY,29,4,20,5,0
+Harris,VALLEY PLAINS,United States Senator,,IND,ALLEN BUCKLEY,12,1,8,3,0
+Harris,WAVERLY HALL,United States Senator,,IND,ALLEN BUCKLEY,75,6,39,30,0
+Harris,WHITESVILLE,United States Senator,,IND,ALLEN BUCKLEY,36,1,20,15,0
 Harris,,"Public Service Commission, District 2",2,,TIM ECHOLS ,12363,505,5207,6650,1
 Harris,CATAULA,"Public Service Commission, District 2",2,,TIM ECHOLS ,1503,56,568,879,0
 Harris,ELLERSLIE,"Public Service Commission, District 2",2,,TIM ECHOLS ,2162,88,872,1202,0
