@@ -17,7 +17,6 @@
 <script src="js/lib/topojson.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <link rel="stylesheet" href="css/w3.css">
-
 <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 
 <!-- add divs here-->
@@ -27,33 +26,41 @@
 <div class="w3-top " >
     <ul class="w3-navbar w3-grey w3-wide w3-padding-0 w3-card-2">
         <li>
-            <a href="#home" class="w3-margin-left w3-margin-bottom"><font color="white" font-family = "Impact, Charcoal, sans-serif"><h3>Visualize Georgia</h3></font></a>
+            <!-- <a href="#home" class="w3-margin-left w3-margin-bottom">--><font color="white" font-family = "Impact, Charcoal, sans-serif"><h3>Visualize Georgia</h3></font><!--</a>-->
         </li>
     </ul>
 </div>
 
 <!-- Selector for years -->
-
-<div class = "w3-margin-top-50 w3-margin-left">
+<div class = "w3-margin-top-custom w3-margin-left-custom w3-padding-top ">
     <select class = "w3-select" id="yearDropdown">
         <option value="2016">2016</option>
         <option value="2012">2012</option>
     </select>
 </div>
 
+<!-- Holds the left and right divs -->
+<div class = "container w3-container">
 
-<!-- Ga map -->
 
-<div class = "w3-margin-left" >
 
-  <div id="countyInfo"><h1 id="name">Hover over a county to see more info!</h1></div>
-  <div id="voteInfo"><h3 id="voteInfoName">Hover over a county to see more info!</h3></div>
-	<div class = "ga-map"></div>
+    <!-- Ga map -->
+    <div style = "float: left;" class = "w3-margin-left w3-left-align" >
+      <div id="countyInfo"><h1 id="name">Hover over a county to see more info!</h1></div>
+      <div id="voteInfo"><h3 id="voteInfoName">Hover over a county to see more info!</h3></div>
+      <div class = "ga-map"></div>
+    </div>
+
+    <!-- Right float for divs -->
+    <div style = "width: 100%; float: right; height: 1000px; overflow: hidden"  class = "w3-margin-left  flex-item" >
+        <div id = "image"> hi </div>
+    </div>
+
+
 </div>
 
 
-<!-- <br>
- -->
+<!-- <br> -->
 
 
 <!-- add your script files here-->
