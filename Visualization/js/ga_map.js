@@ -1,21 +1,25 @@
 // Used the following website for assistance:
 // http://bl.ocks.org/mbeasley/6821149
 
-var width = 900,
+var width = 630,
 	height = 800;
 
 var chartData = {};
 
 var svg = d3.select(".ga-map").append("svg")
-			.attr("width", width)
-			.attr("height", height);
+	.attr("width", width)
+	.attr("height", height);
 
 var projection = d3.geo.mercator()
-        .translate([11212.5, 4912.5])
-        .scale(7500);
+	.translate([11212.5, 4912.5])
+	.scale(7500);
 
 var path = d3.geo.path()
-        .projection(projection);
+	.projection(projection);
+
+var tooltip = d3.select("#left").append("div")
+	.attr("class", "tooltip")
+	.style("opacity", 0);
 
 
 d3.json('/Data/Geo/ga.json', function(error, data) {
@@ -27,13 +31,13 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
 		chartData.countyNames[i] = d.properties.NAME_2
 	});
 	chartData.georgia = topojson.feature(data, data.objects.states);
-  chartData.counties = topojson.feature(data, data.objects.counties);
+	chartData.counties = topojson.feature(data, data.objects.counties);
 	console.log(chartData)
 
 	svg.append('path')
-	   .datum(chartData.georgia)
-	   .attr('class', 'state')
-	   .attr('d', path);
+		.datum(chartData.georgia)
+		.attr('class', 'state')
+		.attr('d', path);
 
 	svg.selectAll('.counties')
 		.data(topojson.feature(data, data.objects.counties).features)
@@ -45,13 +49,17 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
 		.style('fill', function(d) {
 			var countyName = d.properties.NAME_2;
 			determineElectionWinner(countyName);
-		})
-		.on('mouseover', function(d){
+		}).on("mouseover", function(d) {
 			var countyName = d.properties.NAME_2;
-			displayStatistics(countyName);
-			return document.getElementById('name').innerHTML=countyName;
-		});
-
+			var statz = displayStatistics(countyName);
+			document.getElementById('name').innerHTML=countyName;
+			tooltip.transition()
+				.duration(200)
+				.style("opacity", 1);
+			tooltip.html(countyName + statz)
+				.style("left", (d3.event.pageX + 5) + "px")
+				.style("top", (d3.event.pageY - 28) + "px");
+	})
 });
 
 function determineElectionWinner(countyName) {
@@ -60,8 +68,8 @@ function determineElectionWinner(countyName) {
 	//var color;
 	d3.csv(csvName, function(error, data) {
 		var groupByOffice = d3.nest()
-													.key(function(d) {return d.office})
-													.entries(data);
+			.key(function(d) {return d.office})
+			.entries(data);
 		presCandidateVotes = getVotesByOffice(groupByOffice, 'President of the United States');
 		var maxParty = presCandidateVotes[0].party;
 		var maxVotes = presCandidateVotes[0].votes;
@@ -73,26 +81,27 @@ function determineElectionWinner(countyName) {
 				maxParty = curParty;
 			}
 		}
-		//var countyElement = document.getElementById('county-' + countyName);
+		var countyElement = document.getElementById('county-' + countyName);
 		if (maxParty.includes("R")) {
 			//console.log(countyName)
 			//countyElement.style.fill = "#c91f10"
+			countyName = countyName.replace(" ", "_");
 			d3.select('#county-' + countyName)
-			.transition(10000)
-			.style("fill", "#c91f10");
+				.transition(10000)
+				.style("fill", "#c91f10");
 		}
 		if (maxParty.includes("D")) {
 			d3.select('#county-' + countyName)
-			.transition(1000)
-			.style("fill", "#121faa");
+				.transition(1000)
+				.style("fill", "#121faa");
 		}
 		// For independents, some csv files have the party as "IND", while others
 		// have only the letter "L"
 		if (maxParty.includes("I") || maxParty.includes("L")) {
 			//countyElement.style.fill = "green"
 			d3.select('#county-' + countyName)
-			.transition(1000)
-			.style("fill", "green");
+				.transition(1000)
+				.style("fill", "green");
 		}
 	});
 }
@@ -136,7 +145,7 @@ function getCSVName(countyName) {
 	var electionDate = getElectionDate("President", yearSelected);
 
 	var csvName = '/Data/' + yearSelected + '/' + yearSelected
-								+ electionDate + '__ga__general__' + countyName + '__precinct.csv';
+		+ electionDate + '__ga__general__' + countyName + '__precinct.csv';
 	return csvName;
 }
 
@@ -145,8 +154,8 @@ function displayStatistics(countyName) {
 
 	d3.csv(csvName, function(error, data) {
 		var groupByOffice = d3.nest()
-													.key(function(d) {return d.office})
-													.entries(data);
+			.key(function(d) {return d.office})
+			.entries(data);
 		presCandidateVotes = getVotesByOffice(groupByOffice, 'President of the United States');
 		var voteSummaryString = ''
 		for (var i = 0; i < presCandidateVotes.length; i++) {
@@ -155,6 +164,7 @@ function displayStatistics(countyName) {
 			voteSummaryString += candidate + ': ' + candidateVotes + '<br>';
 		}
 		document.getElementById('voteInfoName').innerHTML = voteSummaryString;
+		return voteSummaryString;
 	});
 
 }
