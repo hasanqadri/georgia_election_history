@@ -21,6 +21,7 @@ var tooltip = d3.select("#left").append("div")
 	.attr("class", "tooltip")
 	.style("opacity", 0);
 
+//setUpPieChart();
 
 d3.json('/Data/Geo/ga.json', function(error, data) {
 
@@ -32,7 +33,7 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
 	});
 	chartData.georgia = topojson.feature(data, data.objects.states);
 	chartData.counties = topojson.feature(data, data.objects.counties);
-	console.log(chartData)
+	//console.log(chartData)
 
 	svg.append('path')
 		.datum(chartData.georgia)
@@ -52,7 +53,9 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
 		})
 		.on('mouseover', function(d){
 			var countyName = d.properties.NAME_2;
-			displayStatistics(countyName, getSelectedRace());
+			var raceVotes = displayStatistics(countyName, getSelectedRace());
+			//console.log(raceVotes)
+			// displayPieGraph(raceVotes);
 			return document.getElementById('name').innerHTML=countyName;
 		});
 
@@ -76,7 +79,7 @@ function determineElectionWinner(countyName, race) {
 		var groupByOffice = d3.nest()
 													.key(function(d) {return d.office})
 													.entries(data);
-		console.log(groupByOffice)
+		//console.log(groupByOffice)
 		votesByRace = getVotesByOffice(groupByOffice, race);
 		//console.log(votesByRace);
 		var maxParty = votesByRace[0].party;
@@ -149,6 +152,10 @@ function displayStatistics(countyName, race) {
 													.key(function(d) {return d.office})
 													.entries(data);
 		raceVotes = getVotesByOffice(groupByOffice, race);
+		//console.log(raceVotes);
+		displayPieGraph(raceVotes);
+
+		// pass raceVotes data to piechart so that we can display the pie graph
 		var voteSummaryString = ''
 		for (var i = 0; i < raceVotes.length; i++) {
 			candidate = raceVotes[i].candidate;
@@ -156,9 +163,9 @@ function displayStatistics(countyName, race) {
 			voteSummaryString += candidate + ': ' + candidateVotes + '<br>';
 		}
 		document.getElementById('voteInfoName').innerHTML = voteSummaryString;
-		return voteSummaryString;
-	});
 
+	});
+//return raceVotes;
 }
 
 // This function takes an array that has all the votes by office of a
@@ -180,7 +187,7 @@ function getVotesByOffice(groupedVotes, office) {
 d3.select('#yearDropdown')
 	.on('change', function() {
 		svg.selectAll('.counties').forEach( function(d) {
-			for (var i = 0; i < chartData.countyNames.length; i++) {                             // neeeeeeeeerd
+			for (var i = 0; i < chartData.countyNames.length; i++) {
 				var countyName = chartData.countyNames[i];
 				determineElectionWinner(countyName, getSelectedRace());
 			}
@@ -191,7 +198,7 @@ d3.select('#yearDropdown')
 d3.select('#raceDropdown')
 	.on('change', function() {
 		svg.selectAll('.counties').forEach( function(d) {
-			for (var i = 0; i < chartData.countyNames.length; i++) {                             // neeeeeeeeerd
+			for (var i = 0; i < chartData.countyNames.length; i++) {
 				var countyName = chartData.countyNames[i];
 				determineElectionWinner(countyName, getSelectedRace());
 			}
