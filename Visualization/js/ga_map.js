@@ -17,14 +17,16 @@ var projection = d3.geo.mercator()
 var path = d3.geo.path()
 	.projection(projection);
 
-var tooltip = d3.select("#left").append("div")
+
+var tooltip = d3.select("body").append("div")
 	.attr("class", "tooltip")
 	.style("opacity", 0);
 
 
+
 d3.json('/Data/Geo/ga.json', function(error, data) {
 
-	chartData.countyNames = []
+	chartData.countyNames = [];
 	// Getting the names of all the counties and storing them so that they can
 	// be used later on
 	data.objects.counties.geometries.forEach(function(d, i) {
@@ -32,7 +34,7 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
 	});
 	chartData.georgia = topojson.feature(data, data.objects.states);
 	chartData.counties = topojson.feature(data, data.objects.counties);
-	console.log(chartData)
+	console.log(chartData);
 
 	svg.append('path')
 		.datum(chartData.georgia)
@@ -50,11 +52,22 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
 			var countyName = d.properties.NAME_2.replace(" ", "_");
 			determineElectionWinner(countyName, getSelectedRace());
 		})
-		.on('mouseover', function(d){
+		.on("mouseover", function(d) {
 			var countyName = d.properties.NAME_2;
-			displayStatistics(countyName, getSelectedRace());
-			return document.getElementById('name').innerHTML=countyName;
-		});
+			tooltip.transition()
+				.duration(200)
+				.style("opacity", .75);
+			tooltip.html( function() {
+				return d.properties.NAME_2 + "<br>" + displayStatistics(countyName);
+			})
+				.style("left", (d3.event.pageX + 5) + "px")
+				.style("top", (d3.event.pageY - 28) + "px");
+		})
+		.on("mouseout", function(d) {
+			tooltip.transition()
+				.duration(500)
+				.style("opacity", 0);
+		})
 
 });
 
@@ -74,8 +87,8 @@ function determineElectionWinner(countyName, race) {
 	csvName = getCSVName(countyName);
 	d3.csv(csvName, function(error, data) {
 		var groupByOffice = d3.nest()
-													.key(function(d) {return d.office})
-													.entries(data);
+			.key(function(d) {return d.office})
+			.entries(data);
 	  //console.log(groupByOffice);
 		votesByRace = getVotesByOffice(groupByOffice, race);
 		console.log(votesByRace);
