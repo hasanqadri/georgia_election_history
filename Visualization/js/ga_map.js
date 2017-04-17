@@ -38,7 +38,6 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
     }
 	chartData.georgia = topojson.feature(data, data.objects.states);
 	chartData.counties = topojson.feature(data, data.objects.counties);
-	//console.log(chartData)
 
 	svg.append('path')
 		.datum(chartData.georgia)
@@ -110,19 +109,22 @@ function determineElectionWinner(countyName, race) {
 		}
 		if (maxParty.includes("R")) {
 			d3.select('#county-' + countyName)
-				.transition(10000)
+				.transition()
+				.duration(1000)
 				.style("fill", "#c91f10");
 		}
 		if (maxParty.includes("D")) {
 			d3.select('#county-' + countyName)
-				.transition(1000)
+				.transition()
+				.duration(1000)
 				.style("fill", "#121faa");
 		}
 		// For independents, some csv files have the party as "IND", while others
 		// have only the letter "L"
 		if (maxParty.includes("I") || maxParty.includes("L")) {
 			d3.select('#county-' + countyName)
-				.transition(1000)
+				.transition()
+				.duration(1000)
 				.style("fill", "green");
 		}
 	});
@@ -167,7 +169,6 @@ function displayStatistics(countyName, race) {
 			.key(function(d) {return d.office})
 			.entries(data);
 		raceVotes = getVotesByOffice(groupByOffice, race);
-		//console.log(raceVotes);
 		displayPieGraph(raceVotes);
 
 		// pass raceVotes data to piechart so that we can display the pie graph

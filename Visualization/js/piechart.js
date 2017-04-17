@@ -1,14 +1,16 @@
 // Reference this site for aid:
 // http://zeroviscosity.com/d3-js-step-by-step/step-1-a-basic-pie-chart
 
-var dataset = [1,2,3]
+var dataset = [{county:"Sumter", votes:"4876", party:"REP"},
+               {county:"asd", votes:"123", party:"DEM"},
+               {county:"asd", votes:"5345", party:"IND"}]
 
 var width = 300,
 	  height = 300,
     radius = Math.min(width, height) / 2;
 
 var color = d3.scale.ordinal()
-  .range(['red', 'blue', 'green']);
+  .range(['#c91f10', '#121faa', 'green']);
 
 var pieSVG = d3.select(".pie-chart")
   .append("svg")
@@ -22,7 +24,7 @@ var arc = d3.svg.arc()
   .outerRadius(radius);
 
 var pie = d3.layout.pie()
-  .value(function(d) { console.log(d); return d; })
+  .value(function(d) { return +d.votes; })
   .sort(null);
 
 var piePath = pieSVG.selectAll('path')
@@ -31,25 +33,17 @@ var piePath = pieSVG.selectAll('path')
           .append('path')
           .attr('d', arc)
           .attr('fill', function(d) {
-            return color(d.data);
-          });
+            return color(d.data.party);
+          })
+          .each(function(d) { this._current = d; });
 
-// var g = svg.selectAll("arc")
-// 	.data(pie(dataset))
-// 	.enter()
-//   .append("g")
-// 	.attr("class", "arc");
-//
-// g.append("path")
-// 	.attr("d", arc)
-// 	.style("fill", function(d, i) { return color(i);});
-
-// piePath = pieSVG.selectAll('path')
-//   .data(pie(dataset))
-//   .enter()
-//   .append('path')
-//   .attr('d', arc)
-//   .style('fill', function(d, i) { return color(i); });
+function arcTween(a) {
+  var i = d3.interpolate(this._current, a);
+  this._current = i(0);
+  return function(t) {
+    return arc(i(t));
+  };
+}
 
 function displayPieGraph(data) {
 
@@ -57,30 +51,13 @@ function displayPieGraph(data) {
     .value(function(d) { return +d.votes; })
     .sort(null);
 
-  console.log(data);
-  // piePath = pieSVG.selectAll('path')
-  //   .data(pie(data))
-  //   .enter()
-  //   .append('path')
-  //   .attr('d', arc)
-  //   .style('fill', function(d, i) { return color(d.data.party); });
-  // console.log("after")
-
   piePath = d3.select('.pie-chart')
     .selectAll('path')
     .data(pie(data));
 
-    piePath.attr("d", arc);
+    piePath
+      .transition()
+      .duration(500)
+      .attrTween("d", arcTween);
 
 }
-
-
-//
-// var piePath = pieSVG.selectAll('path')
-//   .data(pie(dataset))
-//   .enter()
-//   .append('path')
-//   .attr('d', arc)
-//   .attr('fill', function(d, i) {
-//     return color(i);
-//   });
