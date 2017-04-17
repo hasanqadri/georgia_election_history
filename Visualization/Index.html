@@ -7,7 +7,7 @@
     <link href="css/styling.css" rel="stylesheet">
 </head>
 
-<body>
+<body >
 
 <!-- add js libraries here-->
 <script src="http://d3js.org/d3.v3.min.js"></script>
@@ -46,28 +46,28 @@
 
 </div>
 <!-- Holds the left and right divs -->
-<div class = "container " style = "width: 100%;">
+<div class = "container " style = "width: 100%;   ">
 
     <!-- Ga map -->
-    <div style = "float: left; width:60%;" class = "w3-margin-left w3-left-align"  id = "left">
+    <div style = "float: left; width:1000px; display:block;" class = "w3-margin-left w3-left-align"  id = "left">
         <div id="countyInfo"><h1 id="name">Hover over a county to see more info!</h1></div>
         <div id="voteInfo"><h3 id="voteInfoName">Hover over a county to see more info!</h3></div>
         <div class = "ga-map"></div>
     </div>
 
     <!-- Right float for divs -->
-    <div style = " float: right; overflow: hidden; width: auto; overflow-x: scroll;
-    overflow-y: hidden; white-space: nowrap;"  class = "flex-item" id = "right" >
-        <div class = "ga-county"></div>
-        <!-- <div class = "pie-chart"></div> -->
-        <div class = "county-treemap"></div>
+    <div style = " float: right; width: auto; border-left: thin solid #000000; display:block;"  class = "flex-item" id = "right" >
+        <!-- <div class = "ga-county"></div>
+        <div class = "pie-chart"></div>
+        <div class = "county-treemap"></div>-->
+        <div class = "pie-chart w3-margin-left"></div>
+
     </div>
 
 
 
 </div>
 
-<div class = "pie-chart"></div>
 
 
 <!-- <br> -->

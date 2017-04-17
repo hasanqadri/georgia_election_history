@@ -234,7 +234,7 @@ d3.select('#yearDropdown')
 		});
 	});
 
-// handle on selection event whenever a new race is chosen
+// handle on selection 1event whenever a new race is chosen
 d3.select('#raceDropdown')
 	.on('change', function() {
         for (x = 0; x < chartData.countyNames.length; x++) {
