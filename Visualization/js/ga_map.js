@@ -17,11 +17,11 @@ var projection = d3.geo.mercator()
 var path = d3.geo.path()
 	.projection(projection);
 
-
 var tooltip = d3.select("body").append("div")
-	.attr("class", "tooltip")
-	.style("opacity", 0);
+    .attr("class", "tooltip")
+    .style("opacity", 0);
 
+var map =  {};
 
 
 d3.json('/Data/Geo/ga.json', function(error, data) {
@@ -32,9 +32,12 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
 	data.objects.counties.geometries.forEach(function(d, i) {
 		chartData.countyNames[i] = d.properties.NAME_2.replace(" ", "_");
 	});
+    for (x = 0; x < chartData.countyNames.length; x++) {
+        tooltipStats(chartData.countyNames[x], getSelectedRace());
+    }
 	chartData.georgia = topojson.feature(data, data.objects.states);
 	chartData.counties = topojson.feature(data, data.objects.counties);
-	console.log(chartData);
+	//console.log(chartData)
 
 	svg.append('path')
 		.datum(chartData.georgia)
@@ -52,22 +55,25 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
 			var countyName = d.properties.NAME_2.replace(" ", "_");
 			determineElectionWinner(countyName, getSelectedRace());
 		})
-		.on("mouseover", function(d) {
-			var countyName = d.properties.NAME_2;
-			tooltip.transition()
-				.duration(200)
-				.style("opacity", .75);
-			tooltip.html( function() {
-				return d.properties.NAME_2 + "<br>" + displayStatistics(countyName);
-			})
-				.style("left", (d3.event.pageX + 5) + "px")
-				.style("top", (d3.event.pageY - 28) + "px");
-		})
-		.on("mouseout", function(d) {
-			tooltip.transition()
-				.duration(500)
-				.style("opacity", 0);
-		})
+        .on('mouseover', function(d){
+            var countyName = d.properties.NAME_2;
+            displayStatistics(countyName, getSelectedRace());
+            tooltip.transition()
+                .duration(200)
+                .style("opacity", .75);
+            tooltip.html( function() {
+                document.getElementById('name').innerHTML=countyName;
+
+                return d.properties.NAME_2 + "<br>" + map[countyName];
+            })
+                .style("left", (d3.event.pageX + 5) + "px")
+                .style("top", (d3.event.pageY - 28) + "px");
+        })
+        .on("mouseout", function(d) {
+            tooltip.transition()
+                .duration(500)
+                .style("opacity", 0);
+        })
 
 });
 
@@ -89,9 +95,7 @@ function determineElectionWinner(countyName, race) {
 		var groupByOffice = d3.nest()
 			.key(function(d) {return d.office})
 			.entries(data);
-	  //console.log(groupByOffice);
 		votesByRace = getVotesByOffice(groupByOffice, race);
-		console.log(votesByRace);
 		var maxParty = votesByRace[0].party;
 		var maxVotes = votesByRace[0].votes;
 		for (var i = 1; i < votesByRace.length; i++) {
@@ -126,12 +130,16 @@ function determineElectionWinner(countyName, race) {
 // This function determines what date the election was held based on
 // The year and the office
 function getElectionDate(office, year) {
-	if (office == 'President') {
+	if (office == 'President of the United States') {
 		if (year == 2016) return '1108';
 		if (year == 2012) return '1106';
 		if (year == 2008) return '1104';
 		if (year == 2004) return '1102';
 		if (year == 2000) return '1107';
+	}
+	if (office == 'United States Senator') {
+		if (year == 2016) return '1108';
+		if (year == 2014) return '1104';
 	}
 }
 
@@ -142,8 +150,8 @@ function getCSVName(countyName) {
 	// stackoverflow.com/questions/1085801/get-selected-value-in-
 	// dropdown-list-using-javascript
 	var yearSelected = getSelectedYear();
-
-	var electionDate = getElectionDate("President", yearSelected);
+	var raceSelected = getSelectedRace();
+	var electionDate = getElectionDate(raceSelected, yearSelected);
 
 	var csvName = '/Data/' + yearSelected + '/' + yearSelected
 		+ electionDate + '__ga__general__' + countyName + '__precinct.csv';
@@ -152,11 +160,10 @@ function getCSVName(countyName) {
 
 function displayStatistics(countyName, race) {
 	csvName = getCSVName(countyName);
-
 	d3.csv(csvName, function(error, data) {
 		var groupByOffice = d3.nest()
-													.key(function(d) {return d.office})
-													.entries(data);
+			.key(function(d) {return d.office})
+			.entries(data);
 		raceVotes = getVotesByOffice(groupByOffice, race);
 		var voteSummaryString = ''
 		for (var i = 0; i < raceVotes.length; i++) {
@@ -165,10 +172,31 @@ function displayStatistics(countyName, race) {
 			voteSummaryString += candidate + ': ' + candidateVotes + '<br>';
 		}
 		document.getElementById('voteInfoName').innerHTML = voteSummaryString;
+        map[countyName] = voteSummaryString;
 		return voteSummaryString;
 	});
-
 }
+
+
+function tooltipStats(countyName, race) {
+    csvName = getCSVName(countyName);
+    d3.csv(csvName, function(error, data) {
+        var groupByOffice = d3.nest()
+            .key(function(d) {return d.office})
+            .entries(data);
+        raceVotes = getVotesByOffice(groupByOffice, race);
+        var voteSummaryString = ''
+        for (var i = 0; i < raceVotes.length; i++) {
+            candidate = raceVotes[i].candidate;
+            candidateVotes = raceVotes[i].votes;
+            voteSummaryString += candidate + ': ' + candidateVotes + '<br>';
+        }
+        map[countyName] = voteSummaryString;
+        return voteSummaryString;
+    });
+}
+
+
 
 // This function takes an array that has all the votes by office of a
 // certain county.
@@ -188,11 +216,12 @@ function getVotesByOffice(groupedVotes, office) {
 // handle on selection event whenever a new year is chosen
 d3.select('#yearDropdown')
 	.on('change', function() {
-		console.log("called")
+        for (x = 0; x < chartData.countyNames.length; x++) {
+            tooltipStats(chartData.countyNames[x], getSelectedRace());
+        }
 		svg.selectAll('.counties').forEach( function(d) {
 			for (var i = 0; i < chartData.countyNames.length; i++) {                             // neeeeeeeeerd
 				var countyName = chartData.countyNames[i];
-				console.log(countyName);
 				determineElectionWinner(countyName, getSelectedRace());
 			}
 		});
@@ -201,11 +230,12 @@ d3.select('#yearDropdown')
 // handle on selection event whenever a new race is chosen
 d3.select('#raceDropdown')
 	.on('change', function() {
-		console.log("called")
+        for (x = 0; x < chartData.countyNames.length; x++) {
+            tooltipStats(chartData.countyNames[x], getSelectedRace());
+        }
 		svg.selectAll('.counties').forEach( function(d) {
 			for (var i = 0; i < chartData.countyNames.length; i++) {                             // neeeeeeeeerd
 				var countyName = chartData.countyNames[i];
-				console.log(countyName);
 				determineElectionWinner(countyName, getSelectedRace());
 			}
 		});
