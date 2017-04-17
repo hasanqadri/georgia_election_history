@@ -46,17 +46,18 @@
 
 </div>
 <!-- Holds the left and right divs -->
-<div class = "container ">
+<div class = "container " style = "width: 100%;">
 
     <!-- Ga map -->
-    <div style = "float: left;" class = "w3-margin-left w3-left-align"  id = "left">
+    <div style = "float: left; width:60%;" class = "w3-margin-left w3-left-align"  id = "left">
         <div id="countyInfo"><h1 id="name">Hover over a county to see more info!</h1></div>
         <div id="voteInfo"><h3 id="voteInfoName">Hover over a county to see more info!</h3></div>
         <div class = "ga-map"></div>
     </div>
 
     <!-- Right float for divs -->
-    <div style = "width: 100%; float: right; height: 1000px; overflow: hidden"  class = "w3-margin-left-custom  flex-item" id = "right" >
+    <div style = " float: right; overflow: hidden; width: auto; overflow-x: scroll;
+    overflow-y: hidden; white-space: nowrap;"  class = "flex-item" id = "right" >
         <div class = "ga-county"></div>
         <!-- <div class = "pie-chart"></div> -->
         <div class = "county-treemap"></div>
