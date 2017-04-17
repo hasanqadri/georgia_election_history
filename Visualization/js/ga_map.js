@@ -17,20 +17,25 @@ var projection = d3.geo.mercator()
 var path = d3.geo.path()
 	.projection(projection);
 
-var tooltip = d3.select("#left").append("div")
-	.attr("class", "tooltip")
-	.style("opacity", 0);
+var tooltip = d3.select("body").append("div")
+    .attr("class", "tooltip")
+    .style("opacity", 0);
+
+var map =  {};
 
 //setUpPieChart();
 
 d3.json('/Data/Geo/ga.json', function(error, data) {
 
-	chartData.countyNames = []
+	chartData.countyNames = [];
 	// Getting the names of all the counties and storing them so that they can
 	// be used later on
 	data.objects.counties.geometries.forEach(function(d, i) {
 		chartData.countyNames[i] = d.properties.NAME_2.replace(" ", "_");
 	});
+    for (x = 0; x < chartData.countyNames.length; x++) {
+        tooltipStats(chartData.countyNames[x], getSelectedRace());
+    }
 	chartData.georgia = topojson.feature(data, data.objects.states);
 	chartData.counties = topojson.feature(data, data.objects.counties);
 	//console.log(chartData)
@@ -51,13 +56,25 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
 			var countyName = d.properties.NAME_2.replace(" ", "_");
 			determineElectionWinner(countyName, getSelectedRace());
 		})
-		.on('mouseover', function(d){
-			var countyName = d.properties.NAME_2;
-			var raceVotes = displayStatistics(countyName, getSelectedRace());
-			//console.log(raceVotes)
-			// displayPieGraph(raceVotes);
-			return document.getElementById('name').innerHTML=countyName;
-		});
+      .on('mouseover', function(d){
+          var countyName = d.properties.NAME_2;
+          displayStatistics(countyName, getSelectedRace());
+          tooltip.transition()
+              .duration(200)
+              .style("opacity", .75);
+          tooltip.html( function() {
+              document.getElementById('name').innerHTML=countyName;
+
+              return d.properties.NAME_2 + "<br>" + map[countyName];
+          })
+              .style("left", (d3.event.pageX + 5) + "px")
+              .style("top", (d3.event.pageY - 28) + "px");
+      })
+      .on("mouseout", function(d) {
+          tooltip.transition()
+              .duration(500)
+              .style("opacity", 0);
+      })
 
 });
 
@@ -77,11 +94,10 @@ function determineElectionWinner(countyName, race) {
 	csvName = getCSVName(countyName);
 	d3.csv(csvName, function(error, data) {
 		var groupByOffice = d3.nest()
-													.key(function(d) {return d.office})
-													.entries(data);
-		//console.log(groupByOffice)
+			.key(function(d) {return d.office})
+			.entries(data);
+
 		votesByRace = getVotesByOffice(groupByOffice, race);
-		//console.log(votesByRace);
 		var maxParty = votesByRace[0].party;
 		var maxVotes = votesByRace[0].votes;
 		for (var i = 1; i < votesByRace.length; i++) {
@@ -146,11 +162,10 @@ function getCSVName(countyName) {
 
 function displayStatistics(countyName, race) {
 	csvName = getCSVName(countyName);
-
 	d3.csv(csvName, function(error, data) {
 		var groupByOffice = d3.nest()
-													.key(function(d) {return d.office})
-													.entries(data);
+			.key(function(d) {return d.office})
+			.entries(data);
 		raceVotes = getVotesByOffice(groupByOffice, race);
 		//console.log(raceVotes);
 		displayPieGraph(raceVotes);
@@ -164,9 +179,31 @@ function displayStatistics(countyName, race) {
 		}
 		document.getElementById('voteInfoName').innerHTML = voteSummaryString;
 
+        map[countyName] = voteSummaryString;
+		return voteSummaryString;
 	});
-//return raceVotes;
 }
+
+
+function tooltipStats(countyName, race) {
+    csvName = getCSVName(countyName);
+    d3.csv(csvName, function(error, data) {
+        var groupByOffice = d3.nest()
+            .key(function(d) {return d.office})
+            .entries(data);
+        raceVotes = getVotesByOffice(groupByOffice, race);
+        var voteSummaryString = ''
+        for (var i = 0; i < raceVotes.length; i++) {
+            candidate = raceVotes[i].candidate;
+            candidateVotes = raceVotes[i].votes;
+            voteSummaryString += candidate + ': ' + candidateVotes + '<br>';
+        }
+        map[countyName] = voteSummaryString;
+        return voteSummaryString;
+    });
+}
+
+
 
 // This function takes an array that has all the votes by office of a
 // certain county.
@@ -186,6 +223,9 @@ function getVotesByOffice(groupedVotes, office) {
 // handle on selection event whenever a new year is chosen
 d3.select('#yearDropdown')
 	.on('change', function() {
+        for (x = 0; x < chartData.countyNames.length; x++) {
+            tooltipStats(chartData.countyNames[x], getSelectedRace());
+        }
 		svg.selectAll('.counties').forEach( function(d) {
 			for (var i = 0; i < chartData.countyNames.length; i++) {
 				var countyName = chartData.countyNames[i];
@@ -197,6 +237,9 @@ d3.select('#yearDropdown')
 // handle on selection event whenever a new race is chosen
 d3.select('#raceDropdown')
 	.on('change', function() {
+        for (x = 0; x < chartData.countyNames.length; x++) {
+            tooltipStats(chartData.countyNames[x], getSelectedRace());
+        }
 		svg.selectAll('.counties').forEach( function(d) {
 			for (var i = 0; i < chartData.countyNames.length; i++) {
 				var countyName = chartData.countyNames[i];
