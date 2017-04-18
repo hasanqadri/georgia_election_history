@@ -36,8 +36,13 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
     for (x = 0; x < chartData.countyNames.length; x++) {
         tooltipStats(chartData.countyNames[x], getSelectedRace());
     }
+// console.log(data);
 	chartData.georgia = topojson.feature(data, data.objects.states);
 	chartData.counties = topojson.feature(data, data.objects.counties);
+	// Store the features so that we can use them for the right county diplay
+	chartData.countyFeatures = topojson.feature(data, data.objects.counties).features;
+
+	//console.log(chartData.counties);
 
 	svg.append('path')
 		.datum(chartData.georgia)
@@ -58,6 +63,9 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
       .on('mouseover', function(d){
           var countyName = d.properties.NAME_2;
           displayStatistics(countyName, getSelectedRace());
+					// send the data to right_county to draw the county
+					// console.log(d)
+					drawRightCounty(d);
           tooltip.transition()
               .duration(200)
               .style("opacity", .75);

@@ -92,8 +92,6 @@ function displayPieGraph(data) {
     .duration(500)
     .attrTween("d", arcTween);
 
-  console.log(data);
-
   // g.selectAll('text')
   //  .text(function(d) { return d.data.candidate;})
 
