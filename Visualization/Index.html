@@ -3,11 +3,11 @@
 <meta charset="utf-8">
 
 <head>
-  <!-- add stylesheets here-->
-  <link href="css/styling.css" rel="stylesheet">
+    <!-- add stylesheets here-->
+    <link href="css/styling.css" rel="stylesheet">
 </head>
 
-<body>
+<body >
 
 <!-- add js libraries here-->
 <script src="http://d3js.org/d3.v3.min.js"></script>
@@ -38,33 +38,36 @@
         <option value="2014">2014</option>
         <option value="2012">2012</option>
     </select>
-</div>
 
-<!-- Selector for race -->
-<div class = "w3-margin-top-custom w3-margin-left-custom w3-padding-top ">
     <select class = "w3-select" id="raceDropdown">
         <option value="United States Senator">Senate</option>
         <option value="President of the United States">Presidential</option>
     </select>
-</div>
 
+</div>
 <!-- Holds the left and right divs -->
-<div class = "container ">
+<div class = "container " style = "width: 100%;   ">
 
     <!-- Ga map -->
-    <div style = "float: left;" class = "w3-margin-left w3-left-align"  id = "left">
-      <div id="countyInfo"><h1 id="name">Hover over a county to see more info!</h1></div>
-      <div id="voteInfo"><h3 id="voteInfoName">Hover over a county to see more info!</h3></div>
-      <div class = "ga-map"></div>
+    <div style = "float: left; width:1000px; display:block;" class = "w3-margin-left w3-left-align"  id = "left">
+        <div id="countyInfo"><h1 id="name">Hover over a county to see more info!</h1></div>
+        <div id="voteInfo"><h3 id="voteInfoName">Hover over a county to see more info!</h3></div>
+        <div class = "ga-map"></div>
     </div>
 
     <!-- Right float for divs -->
-    <div style = "width: 100%; float: right; height: 1000px; overflow: hidden"  class = "w3-margin-left-custom  flex-item" id = "right" >
-        <div class = "ga-county"></div>
-        <div class = "county-treemap"></div>
+    <div style = " float: right; width: auto; border-left: thin solid #000000; display:block;"  class = "flex-item" id = "right" >
+        <!-- <div class = "ga-county"></div>
+        <div class = "pie-chart"></div>
+        <div class = "county-treemap"></div>-->
+        <div class = "right-county w3-margin-left"></div>
+        <div class = "pie-chart w3-margin-left"></div>
     </div>
 
+
+
 </div>
+<!-- <div class = "right-county w3-margin-left"></div> -->
 
 
 <!-- <br> -->
@@ -72,6 +75,8 @@
 
 <!-- add your script files here-->
 <script src="js/ga_map.js"></script>
+<script src="js/piechart.js"></script>
+<script src="js/right_county.js"></script>
 <!-- <script src="js/scatter.js"></script> -->
 </body>
 </html>
