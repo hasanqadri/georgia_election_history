@@ -19,6 +19,21 @@
 <link rel="stylesheet" href="css/w3.css">
 <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 
+
+<style type="text/css">
+path {
+    stroke: steelBlue;
+    stroke-width: 2;
+    fill: none;
+}
+.axis path,
+.axis line {
+    fill: none;
+    stroke: grey;
+    stroke-width: 1;
+    shape-rendering: crispEdges;
+}
+</style>
 <!-- add divs here-->
 <!-- <br> -->
 
@@ -50,7 +65,7 @@
 
     <!-- Ga map -->
     <div style = "float: left; width:1000px; display:block;" class = "w3-margin-left w3-left-align"  id = "left">
-        <div id="countyInfo"><h1 id="name">Hover over a county to see more info!</h1></div>
+        <div id="countytyInfo"><h1 id="name">Hover over a county to see more info!</h1></div>
         <div id="voteInfo"><h3 id="voteInfoName">Hover over a county to see more info!</h3></div>
         <div class = "ga-map"></div>
     </div>
@@ -60,8 +75,12 @@
         <!-- <div class = "ga-county"></div>
         <div class = "pie-chart"></div>
         <div class = "county-treemap"></div>-->
-        <div class = "right-county w3-margin-left"></div>
+        <p>testing text here</p>
         <div class = "pie-chart w3-margin-left"></div>
+
+        <div class = "line-graph w3-margin-left"></div>
+        <div class = "right-county w3-margin-left"></div>
+
     </div>
 
 
@@ -75,6 +94,8 @@
 
 <!-- add your script files here-->
 <script src="js/ga_map.js"></script>
+<script src="js/line_graph.js"></script>
+
 <script src="js/piechart.js"></script>
 <script src="js/right_county.js"></script>
 <!-- <script src="js/scatter.js"></script> -->

@@ -31,7 +31,8 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
 	// Getting the names of all the counties and storing them so that they can
 	// be used later on
 	data.objects.counties.geometries.forEach(function(d, i) {
-		chartData.countyNames[i] = d.properties.NAME_2.replace(" ", "_");
+		chartData.countyNames[i] = d.properties.NAME_2.replace(" ", "_").toLowerCase();
+		// console.log(chartData.countyNames[i])
 	});
     for (x = 0; x < chartData.countyNames.length; x++) {
         tooltipStats(chartData.countyNames[x], getSelectedRace());
@@ -57,7 +58,7 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
 		.attr("id", function (d) {return "county-" + d.properties.NAME_2.replace(" ", "_")})
 		.attr('d', path)
 		.style('fill', function(d) {
-			var countyName = d.properties.NAME_2.replace(" ", "_");
+			var countyName = d.properties.NAME_2.replace(" ", "_").toLowerCase();
 			determineElectionWinner(countyName, getSelectedRace());
 		})
       .on('mouseover', function(d){
@@ -88,6 +89,7 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
 function getSelectedRace() {
 	var raceDropdown = document.getElementById("raceDropdown");
 	var raceSelected = raceDropdown.options[raceDropdown.selectedIndex].value;
+	console.log(raceSelected)
 	return raceSelected;
 }
 
@@ -237,7 +239,7 @@ d3.select('#yearDropdown')
         }
 		svg.selectAll('.counties').forEach( function(d) {
 			for (var i = 0; i < chartData.countyNames.length; i++) {
-				var countyName = chartData.countyNames[i];
+				var countyName = chartData.countyNames[i].toLowerCase();
 				determineElectionWinner(countyName, getSelectedRace());
 			}
 		});
@@ -247,12 +249,13 @@ d3.select('#yearDropdown')
 d3.select('#raceDropdown')
 	.on('change', function() {
         for (x = 0; x < chartData.countyNames.length; x++) {
-            tooltipStats(chartData.countyNames[x], getSelectedRace());
+            tooltipStats(chartData.countyNames[x].toLowerCase(), getSelectedRace());
         }
 		svg.selectAll('.counties').forEach( function(d) {
 			for (var i = 0; i < chartData.countyNames.length; i++) {
-				var countyName = chartData.countyNames[i];
+				var countyName = chartData.countyNames[i].toLowerCase();
 				determineElectionWinner(countyName, getSelectedRace());
 			}
 		});
+		updateLineGraph(getSelectedRace());
 	});

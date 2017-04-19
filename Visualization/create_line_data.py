@@ -31,6 +31,7 @@ for i,line in enumerate(read_data[1:]):
 
 		office = arr[1].strip().lower()
 		party = arr[3].strip().lower()
+		candidate = arr[4].strip().lower().replace('\"','')
 		electionType = arr[6].strip().lower()						
 		votes = arr[5].strip()
 
@@ -51,10 +52,12 @@ for i,line in enumerate(read_data[1:]):
 			final[year][office] = {}
 		if party not in final[year][office]:
 			final[year][office][party] = {}
-		if electionType not in final[year][office][party]:
-			final[year][office][party][electionType] = int(votes)
+		if candidate not in final[year][office][party]:
+			final[year][office][party][candidate] = {}			
+		if electionType not in final[year][office][party][candidate]:
+			final[year][office][party][candidate][electionType] = int(votes)
 		else:
-			final[year][office][party][electionType] += int(votes)	
+			final[year][office][party][candidate][electionType] += int(votes)	
 
 # print final
 
@@ -63,5 +66,6 @@ for k,v in final.iteritems():
 	for k1,v1 in v.iteritems():
 		for k2,v2 in v1.iteritems():
 			for k3,v3 in v2.iteritems():
-				s = ",".join([k,k1,k2,k3,str(v3)])
-				print s
+				for k4,v4 in v3.iteritems():
+					s = ",".join([k,k1,k2,k3,k4,str(v4)])
+					print s
