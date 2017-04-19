@@ -82,10 +82,14 @@ h3 {
 
 .right-county{
   position: relative;
+  /*margin-left: auto;
+  margin-left: auto;*/
 }
 
 #test{
   position: relative;
+  margin-left: auto;
+  margin-left: auto;
 }
 
 /*#innerdiv {
