@@ -1,0 +1,83 @@
+year,office,party,candidate,electionType,votes
+2002,senate,libertarian,sandy thomas,general,26981
+2002,senate,republican,robert (bob) brown,primary,59109
+2002,senate,republican,bob irvin,primary,132132
+2002,senate,republican,saxby chambliss,primary,300371
+2002,senate,republican,saxby chambliss,general,1071153
+2002,senate,democratic,max cleveland,primary,454733
+2002,senate,democratic,max cleland,general,931857
+2004,senate,libertarian,allen buckley,general,69051
+2004,senate,republican,mac collins,primary,134053
+2004,senate,republican,johnny isakson,primary,346765
+2004,senate,republican,johnny isakson,general,1864205
+2004,senate,republican,herman cain,primary,170464
+2004,senate,democratic,mary squires,primary,55046
+2004,senate,democratic,jim finkelstein,primary,22533
+2004,senate,democratic,cliff oxford,primary,128540
+2004,senate,democratic,govind patel,primary,9166
+2004,senate,democratic,sid cottingham,primary,16200
+2004,senate,democratic,jim boyd,primary,87702
+2004,senate,democratic,leigh baier,primary,47487
+2004,senate,democratic,denise majette,primary,258480
+2004,senate,democratic,denise majette,general,1287695
+2004,president,libertarian,michael badnarik,general,18387
+2004,president,republican,george bush,general,1914256
+2004,president,democratic,john kerry,general,1366155
+2014,senate,libertarian,amanda c. swafford,general,97724
+2014,senate,republican,derrick e. grayson,primary,12090
+2014,senate,republican,j. h. jack kingston,primary,312314
+2014,senate,republican,paul collins broun,primary,116594
+2014,senate,republican,arthur a. art gardner,primary,11422
+2014,senate,republican,j. p. phil gingrey,primary,121470
+2014,senate,republican,david a. perdue,primary,370932
+2014,senate,republican,david a. perdue,general,2716176
+2014,senate,republican,karen c. handel,primary,265888
+2014,senate,democratic,branko rad radulovacki,primary,22202
+2014,senate,democratic,o. steen miles,primary,78836
+2014,senate,democratic,m. michelle nunn,primary,492738
+2014,senate,democratic,m. michelle nunn,general,2321622
+2014,senate,democratic,todd anthony robinson,primary,63644
+2008,senate,total,totals,primary,886128
+2008,senate,libertarian,allen buckley,general,127923
+2008,senate,republican,saxby chambliss,primary,392902
+2008,senate,republican,saxby chambliss,general,1867097
+2008,senate,democratic,josh lanier,primary,19717
+2008,senate,democratic,rand knight,primary,25667
+2008,senate,democratic,jim martin,primary,169635
+2008,senate,democratic,jim martin,general,1757393
+2008,senate,democratic,vernon jones,primary,199026
+2008,senate,democratic,dale cardwell,primary,79181
+2008,president,libertarian,bob barr,general,28731
+2008,president,total,totals,general,3924486
+2008,president,republican,john mccain,general,2048759
+2008,president,write-in,jonathan allen,general,8
+2008,president,write-in,brian russell brown,general,2
+2008,president,write-in,ralph nader,general,1158
+2008,president,write-in,david c. byrne,general,4
+2008,president,write-in,cynthia mckinney,general,250
+2008,president,write-in,james harris,general,20
+2008,president,write-in,frank moore,general,6
+2008,president,write-in,michael a. peroutka,general,23
+2008,president,write-in,chuck baldwin,general,1402
+2008,president,democratic,barack obama,general,1844123
+2016,senate,libertarian,allen buckley,general,324520
+2016,senate,republican,derrick grayson,primary,138202
+2016,senate,republican,mary kay bacallao,primary,121796
+2016,senate,republican,johnny isakson (i),primary,895322
+2016,senate,republican,johnny isakson (i),general,4271612
+2016,senate,democratic,jim barksdale,primary,333254
+2016,senate,democratic,jim barksdale,general,3199452
+2016,senate,democratic,john f coyne iii,primary,25208
+2016,senate,democratic,cheryl copeland,primary,261644
+2016,president,libertarian,gary johnson,general,250612
+2016,president,republican,donald j. trump,general,4178208
+2016,president,democratic,hillary clinton,general,3755926
+2010,senate,libertarian,donovan,general,68750
+2010,senate,republican,isakson,general,1489904
+2010,senate,write-in,davis,general,52
+2010,senate,write-in,brown,general,12
+2010,senate,write-in,beckworth,general,24
+2010,senate,democratic,thurmond,general,996516
+2012,president,libertarian,gary johnson,general,90648
+2012,president,republican,mitt romney,general,4157376
+2012,president,democratic,barack obama (i),general,3547654
