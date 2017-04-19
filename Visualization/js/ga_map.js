@@ -6,6 +6,11 @@ var width = 630,
 
 var chartData = {};
 
+var countyNames = []
+
+chartData.countyNames = [];
+//console.log(chartData.countyNames[1])
+
 var svg = d3.select(".ga-map").append("svg")
 	.attr("width", width)
 	.attr("height", height);
@@ -27,22 +32,24 @@ var map =  {};
 
 d3.json('/Data/Geo/ga.json', function(error, data) {
 
-	chartData.countyNames = [];
+	//chartData.countyNames = [];
 	// Getting the names of all the counties and storing them so that they can
 	// be used later on
 	data.objects.counties.geometries.forEach(function(d, i) {
 		chartData.countyNames[i] = d.properties.NAME_2.replace(" ", "_");
+		countyNames[i] = d.properties.NAME_2.replace(" ", "_");
 	});
-    for (x = 0; x < chartData.countyNames.length; x++) {
-        tooltipStats(chartData.countyNames[x], getSelectedRace());
-    }
-// console.log(data);
+
+	drawScatterPlot( chartData.countyNames);
+
+	for (x = 0; x < chartData.countyNames.length; x++) {
+      tooltipStats(chartData.countyNames[x], getSelectedRace());
+  }
+
 	chartData.georgia = topojson.feature(data, data.objects.states);
 	chartData.counties = topojson.feature(data, data.objects.counties);
 	// Store the features so that we can use them for the right county diplay
 	chartData.countyFeatures = topojson.feature(data, data.objects.counties).features;
-
-	//console.log(chartData.counties);
 
 	svg.append('path')
 		.datum(chartData.georgia)
@@ -83,7 +90,12 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
               .style("opacity", 0);
       })
 
+			//drawScatterPlot(data);
+
 });
+
+//drawScatterPlot();
+
 
 function getSelectedRace() {
 	var raceDropdown = document.getElementById("raceDropdown");
@@ -164,7 +176,6 @@ function getCSVName(countyName) {
 	var yearSelected = getSelectedYear();
 	var raceSelected = getSelectedRace();
 	var electionDate = getElectionDate(raceSelected, yearSelected);
-
 	var csvName = '/Data/' + yearSelected + '/' + yearSelected
 		+ electionDate + '__ga__general__' + countyName + '__precinct.csv';
 	return csvName;
@@ -177,8 +188,9 @@ function displayStatistics(countyName, race) {
 			.key(function(d) {return d.office})
 			.entries(data);
 		raceVotes = getVotesByOffice(groupByOffice, race);
+		//console.log(raceVotes);
 		displayPieGraph(raceVotes);
-
+		//drawScatterPlot(raceVotes);
 		// pass raceVotes data to piechart so that we can display the pie graph
 		var voteSummaryString = ''
 		for (var i = 0; i < raceVotes.length; i++) {
@@ -229,6 +241,7 @@ function getVotesByOffice(groupedVotes, office) {
 }
 
 
+
 // handle on selection event whenever a new year is chosen
 d3.select('#yearDropdown')
 	.on('change', function() {
@@ -256,3 +269,6 @@ d3.select('#raceDropdown')
 			}
 		});
 	});
+
+//console.log(chartData.countyNames)
+//drawScatterPlot();
