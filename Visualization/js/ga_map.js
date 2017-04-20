@@ -8,7 +8,7 @@ var chartData = {};
 
 var countyNames = []
 
-chartData.countyNames = [];
+//chartData.countyNames = [];
 //console.log(chartData.countyNames[1])
 
 var svg = d3.select(".ga-map").append("svg")
@@ -27,28 +27,37 @@ var tooltip = d3.select("body").append("div")
     .style("opacity", 0);
 
 var map =  {};
-
-//setUpPieChart();
+var treemap = {};
+var treemapTotal = {};
+var completeDemVotes = 0;
+var completeRepVotes = 0;
+var completeTotalVotes = 0;
+var count = 0;
+var treemapDem = [];
+var demCount = 0;
+var treemapRep = [];
+var repCount = 0;
+var dele = 0;
 
 d3.json('/Data/Geo/ga.json', function(error, data) {
 
-	//chartData.countyNames = [];
+	chartData.countyNames = [];
 	// Getting the names of all the counties and storing them so that they can
 	// be used later on
 	data.objects.counties.geometries.forEach(function(d, i) {
-		chartData.countyNames[i] = d.properties.NAME_2.replace(" ", "_").toLowerCase();
+		chartData.countyNames[i] = d.properties.NAME_2.replace(" ", "_");
 	});
-
-	drawScatterPlot( chartData.countyNames);
-
-	for (x = 0; x < chartData.countyNames.length; x++) {
-      tooltipStats(chartData.countyNames[x], getSelectedRace());
-  }
-
+    for (x = 0; x < chartData.countyNames.length; x++) {
+        tooltipStats(chartData.countyNames[x], getSelectedRace());
+        treemapStats(chartData.countyNames[x], getSelectedRace());
+    }
+// console.log(data);
 	chartData.georgia = topojson.feature(data, data.objects.states);
 	chartData.counties = topojson.feature(data, data.objects.counties);
 	// Store the features so that we can use them for the right county diplay
 	chartData.countyFeatures = topojson.feature(data, data.objects.counties).features;
+
+	//console.log(chartData.counties);
 
 	svg.append('path')
 		.datum(chartData.georgia)
@@ -63,20 +72,27 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
 		.attr("id", function (d) {return "county-" + d.properties.NAME_2.replace(" ", "_")})
 		.attr('d', path)
 		.style('fill', function(d) {
-			var countyName = d.properties.NAME_2.replace(" ", "_").toLowerCase();
+			var countyName = d.properties.NAME_2.replace(" ", "_");
 			determineElectionWinner(countyName, getSelectedRace());
 		})
       .on('mouseover', function(d){
           var countyName = d.properties.NAME_2;
+          document.getElementById('name').innerHTML=countyName;
+
           displayStatistics(countyName, getSelectedRace());
 					// send the data to right_county to draw the county
 					// console.log(d)
-					drawRightCounty(d);
-          tooltip.transition()
+          drawRightCounty(d);
+		  if (!dele) {
+			  start(treemapTotal, countyName, dele);
+			  dele++
+		  } else {
+			  start(treemapTotal, countyName, dele);
+		  }
+		  tooltip.transition()
               .duration(200)
               .style("opacity", .75);
           tooltip.html( function() {
-              document.getElementById('name').innerHTML=countyName;
 
               return d.properties.NAME_2 + "<br>" + map[countyName];
           })
@@ -89,17 +105,11 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
               .style("opacity", 0);
       })
 
-			//drawScatterPlot(data);
-
 });
-
-//drawScatterPlot();
-
 
 function getSelectedRace() {
 	var raceDropdown = document.getElementById("raceDropdown");
 	var raceSelected = raceDropdown.options[raceDropdown.selectedIndex].value;
-	console.log(raceSelected)
 	return raceSelected;
 }
 
@@ -176,11 +186,13 @@ function getCSVName(countyName) {
 	var yearSelected = getSelectedYear();
 	var raceSelected = getSelectedRace();
 	var electionDate = getElectionDate(raceSelected, yearSelected);
+
 	var csvName = '/Data/' + yearSelected + '/' + yearSelected
 		+ electionDate + '__ga__general__' + countyName + '__precinct.csv';
 	return csvName;
 }
 
+// Display statistics at top of HTML page
 function displayStatistics(countyName, race) {
 	csvName = getCSVName(countyName);
 	d3.csv(csvName, function(error, data) {
@@ -188,9 +200,8 @@ function displayStatistics(countyName, race) {
 			.key(function(d) {return d.office})
 			.entries(data);
 		raceVotes = getVotesByOffice(groupByOffice, race);
-		//console.log(raceVotes);
 		displayPieGraph(raceVotes);
-		//drawScatterPlot(raceVotes);
+
 		// pass raceVotes data to piechart so that we can display the pie graph
 		var voteSummaryString = ''
 		for (var i = 0; i < raceVotes.length; i++) {
@@ -213,7 +224,7 @@ function tooltipStats(countyName, race) {
             .key(function(d) {return d.office})
             .entries(data);
         raceVotes = getVotesByOffice(groupByOffice, race);
-        var voteSummaryString = ''
+        var voteSummaryString = '';
         for (var i = 0; i < raceVotes.length; i++) {
             candidate = raceVotes[i].candidate;
             candidateVotes = raceVotes[i].votes;
@@ -221,6 +232,46 @@ function tooltipStats(countyName, race) {
         }
         map[countyName] = voteSummaryString;
         return voteSummaryString;
+    });
+}
+
+function treemapStats(countyName, race) {
+    csvName = getCSVName(countyName);
+    var totalVotes = 0;
+    var demVotes = 0;
+    var repVotes = 0;
+    d3.csv(csvName, function(error, data) {
+        var groupByOffice = d3.nest()
+            .key(function(d) {return d.office})
+            .entries(data);
+        raceVotes = getVotesByOffice(groupByOffice, race);
+        for (var i = 0; i < raceVotes.length; i++) {
+            if (i == 0) {
+                repVotes = raceVotes[i].votes;
+            } else if (i == 1) {
+                demVotes = raceVotes[i].votes;
+            }
+        }
+        totalVotes = (+demVotes) + (+repVotes);
+        completeTotalVotes = (+completeTotalVotes) + (+totalVotes);
+        completeRepVotes = (+completeRepVotes) + (+repVotes);
+        completeDemVotes = (+completeDemVotes) + (+demVotes);
+        //var totalObj = {countyName: countyName, votes: totalVotes};
+        var demObj = {countyName: countyName, votes: demVotes};
+        var repObj = {countyName: countyName, votes: repVotes};
+
+        //treemapTotal[count] = totalObj;
+        treemapDem[demCount] = demObj;
+        treemapRep[repCount] = repObj;
+        demCount++;
+        repCount++;
+        count++;
+        if (count == 159) {
+            treemapTotal = {"name" : "Total", "children": [ {
+                "name": "Democrat Votes" ,  "children": treemapDem},
+                {"name":"Republican Votes", "children": treemapRep}]};
+
+        }
     });
 }
 
@@ -241,16 +292,16 @@ function getVotesByOffice(groupedVotes, office) {
 }
 
 
-
 // handle on selection event whenever a new year is chosen
 d3.select('#yearDropdown')
 	.on('change', function() {
         for (x = 0; x < chartData.countyNames.length; x++) {
             tooltipStats(chartData.countyNames[x], getSelectedRace());
+            treemapStats(chartData.countyNames[x], getSelectedRace());
         }
 		svg.selectAll('.counties').forEach( function(d) {
 			for (var i = 0; i < chartData.countyNames.length; i++) {
-				var countyName = chartData.countyNames[i].toLowerCase();
+				var countyName = chartData.countyNames[i];
 				determineElectionWinner(countyName, getSelectedRace());
 			}
 		});
@@ -260,16 +311,14 @@ d3.select('#yearDropdown')
 d3.select('#raceDropdown')
 	.on('change', function() {
         for (x = 0; x < chartData.countyNames.length; x++) {
-            tooltipStats(chartData.countyNames[x].toLowerCase(), getSelectedRace());
+            tooltipStats(chartData.countyNames[x], getSelectedRace());
+            treemapStats(chartData.countyNames[x], getSelectedRace());
         }
 		svg.selectAll('.counties').forEach( function(d) {
 			for (var i = 0; i < chartData.countyNames.length; i++) {
-				var countyName = chartData.countyNames[i].toLowerCase();
+				var countyName = chartData.countyNames[i];
 				determineElectionWinner(countyName, getSelectedRace());
 			}
 		});
 		updateLineGraph(getSelectedRace());
 	});
-
-//console.log(chartData.countyNames)
-//drawScatterPlot();

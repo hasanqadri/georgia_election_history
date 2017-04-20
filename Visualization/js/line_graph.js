@@ -21,15 +21,15 @@ var yAxis1 = d3.svg.axis().scale(y1)
 // Define the line
 var valueline = d3.svg.line()
     .x(function(d) { return x1(d.year); })
-    .y(function(d) { return y1(d.value); });       
-    
+    .y(function(d) { return y1(d.value); });
+
 // Adds the svg canvas
 var svg1 = d3.select(".line-graph")
     .append("svg")
         .attr("width", width1 + margin1.left + margin1.right)
         .attr("height", height1 + margin1.top + margin1.bottom)
     .append("g")
-        .attr("transform", 
+        .attr("transform",
               "translate(" + margin1.left + "," + margin1.top + ")");
 var allData;
 var titleRace = "for U.S. Senate"
@@ -80,9 +80,9 @@ d3.csv("Data/aggregated_votes.csv", function(error, data) {
     // Add the valueline path.
     svg1.append("path")
         .attr("class", "line")
-        .style("stroke", "red")        
+        .style("stroke", "red")
         .attr("d", valueline(republican));
-    
+
     // Add the valueline path.
     svg1.append("path")
         .attr("class", "line")
@@ -91,8 +91,8 @@ d3.csv("Data/aggregated_votes.csv", function(error, data) {
         // Add the valueline path.
     svg1.append("path")
         .attr("class", "line")
-        .style("stroke", "green")                
-        .attr("d", valueline(libertarian));            
+        .style("stroke", "green")
+        .attr("d", valueline(libertarian));
 
     // Add the X Axis
     svg1.append("g")
@@ -112,7 +112,7 @@ d3.csv("Data/aggregated_votes.csv", function(error, data) {
    .style("color", "#333333")
    .attr("transform", "translate ("+ (-90) + "," +(height1/2)+") rotate(-90)")
    .text("Number of votes")
-   .style("font-family", "Arial"); 
+   .style("font-family", "Arial");
 
    // X-axis labels
    svg1.append("text")
@@ -121,9 +121,9 @@ d3.csv("Data/aggregated_votes.csv", function(error, data) {
    .style("color", "#333333")
    .attr("transform", "translate("+ (width1/2) + "," +(height1+50) + ")")
    .text("Year")
-   .style("font-family", "Arial"); 
-  
-  //title for the chart 
+   .style("font-family", "Arial");
+
+  //title for the chart
    svg1.append("text")
    .attr("text-anchor", "middle")
    .style("font-size", "16px")
@@ -151,7 +151,7 @@ d3.csv("Data/aggregated_votes.csv", function(error, data) {
     .attr("dy", ".35em")
     .attr("text-anchor", "start")
     .style("fill", "green")
-    .text("Libertarian");    
+    .text("Libertarian");
 
 });
 
@@ -167,7 +167,7 @@ function updateLineGraph(officeType){
       var democratic = allData.filter(function(d){
         return d.office == "president" && d.party == "democratic" && d.electionType == "general";
       })
-      titleRace = "for U.S. President"      
+      titleRace = "for U.S. President"
     }
 
     else if (officeType == "United States Senator"){
@@ -190,9 +190,9 @@ function updateLineGraph(officeType){
     // Add the valueline path.
     svg1.append("path")
         .attr("class", "line")
-        .style("stroke", "red")        
+        .style("stroke", "red")
         .attr("d", valueline(republican));
-    
+
     // Add the valueline path.
     svg1.append("path")
         .attr("class", "line")
@@ -201,8 +201,8 @@ function updateLineGraph(officeType){
         // Add the valueline path.
     svg1.append("path")
         .attr("class", "line")
-        .style("stroke", "green")                
-        .attr("d", valueline(libertarian));            
+        .style("stroke", "green")
+        .attr("d", valueline(libertarian));
 
     // Add the X Axis
     svg1.append("g")
@@ -222,7 +222,7 @@ function updateLineGraph(officeType){
    .style("color", "#333333")
    .attr("transform", "translate ("+ (-90) + "," +(height1/2)+") rotate(-90)")
    .text("Number of votes")
-   .style("font-family", "Arial"); 
+   .style("font-family", "Arial");
 
    // X-axis labels
    svg1.append("text")
@@ -231,9 +231,9 @@ function updateLineGraph(officeType){
    .style("color", "#333333")
    .attr("transform", "translate("+ (width1/2) + "," +(height1+50) + ")")
    .text("Year")
-   .style("font-family", "Arial"); 
-  
-  //title for the chart 
+   .style("font-family", "Arial");
+
+  //title for the chart
    svg1.append("text")
    .attr("text-anchor", "middle")
    .style("font-size", "16px")
@@ -261,5 +261,5 @@ function updateLineGraph(officeType){
     .attr("dy", ".35em")
     .attr("text-anchor", "start")
     .style("fill", "green")
-    .text("Libertarian");    
+    .text("Libertarian");
 }

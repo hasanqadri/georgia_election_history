@@ -65,7 +65,7 @@ path {
 
     <!-- Ga map -->
     <div style = "float: left; width:1000px; display:block;" class = "w3-margin-left w3-left-align"  id = "left">
-        <div id="countytyInfo"><h1 id="name">Hover over a county to see more info!</h1></div>
+        <div id="countyInfo"><h1 id="name">Hover over a county to see more info!</h1></div>
         <div id="voteInfo"><h3 id="voteInfoName">Hover over a county to see more info!</h3></div>
         <div class = "ga-map"></div>
     </div>
@@ -75,20 +75,20 @@ path {
         <!-- <div class = "ga-county"></div>
         <div class = "pie-chart"></div>
         <div class = "county-treemap"></div>-->
-        <p>testing text here</p>
-        <div class = "pie-chart w3-margin-left"></div>
-        <div class = "line-graph w3-margin-left"></div>
+        <h3 class = "w3-text w3-margin-bottom w3-margin-left">County Representation</h3>
         <div class = "right-county w3-margin-left"></div>
+        <h3 class = "w3-text w3-margin-bottom w3-margin-left">Party Percentage</h3>
+        <div class = "pie-chart w3-margin-left"></div>
+        <h3 class = "w3-text w3-margin-left">Democrats vs Republicans by County</h3>
+        <div class = "treemap w3-margin-left w3-margin-right w3-margin-bottom" id ="treemap"></div>
+        <h3 class = "w3-text w3-margin-left">Votes over Time</h3>
+        <div class = "line-graph w3-margin-left"></div>
 
-        <!-- <div class = "scatter-plot w3-margin-left"></div> -->
     </div>
 
 
 
 </div>
-
-<div class = "scatter-plot w3-margin-left"></div>
-
 <!-- <div class = "right-county w3-margin-left"></div> -->
 
 
@@ -96,14 +96,12 @@ path {
 
 
 <!-- add your script files here-->
-<!-- <script src="js/scatter.js"></script> -->
-
 <script src="js/ga_map.js"></script>
-<script src="js/line_graph.js"></script>
-
-<script src="js/scatter.js"></script>
 <script src="js/piechart.js"></script>
 <script src="js/right_county.js"></script>
+<script src="js/treemap.js"></script>
+<script src="js/line_graph.js"></script>
+
 <!-- <script src="js/scatter.js"></script> -->
 </body>
 </html>

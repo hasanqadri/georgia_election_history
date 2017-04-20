@@ -82,16 +82,22 @@ h3 {
 
 .right-county{
   position: relative;
-  /*margin-left: auto;
-  margin-left: auto;*/
 }
 
 #test{
   position: relative;
-  margin-left: auto;
-  margin-left: auto;
 }
 
+.node {
+    border: solid 1px white;
+    font: 14px sans-serif;
+    line-height: 12px;
+    overflow: hidden;
+    position: absolute;
+    text-indent: 2px;
+    font-weight: bold;
+    color:#fff;
+}
 /*#innerdiv {
   overflow: auto;
   posi
@@ -100,4 +106,19 @@ h3 {
 #rightCountyChild {
   position:absolute;
   bottom:0;
+}
+
+
+.chart {
+    display: block;
+    margin: auto;
+    margin-top: 40px;
+}
+
+text {
+    font-size: 11px;
+}
+
+rect {
+    fill: none;
 }
