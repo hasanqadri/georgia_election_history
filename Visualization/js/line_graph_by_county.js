@@ -16,7 +16,7 @@ var xAxix2 = d3.svg.axis().scale(x2)
     .orient("bottom").ticks(5);
 
 var yAxix2 = d3.svg.axis().scale(y2)
-    .orient("left").ticks(5);
+    .orient("left").ticks(15);
 
 // Define the line
 var valueline1 = d3.svg.line()
@@ -72,10 +72,12 @@ d3.csv("Data/aggregated_votes_by_county.csv", function(error, data) {
         return d.office == "senate" && d.party == "democratic" && d.electionType == "general" && d.county == currentCounty;
       })
     }
-    console.log("------------", republican)
+
+    //combining all parties' objects to find the max value of all the data
+    allParties = republican.concat(democratic).concat(libertarian)
     // Scale the range of the data
     x2.domain(d3.extent(republican, function(d) { return d.year; }));
-    y2.domain([0, d3.max(republican, function(d) { return d.value; })]);
+    y2.domain([0, d3.max(allParties, function(d) { return d.value; })]);
 
     // Add the valueline1 path.
     county_line_svg.append("path")
@@ -196,9 +198,11 @@ function updateCountyLineGraph1(officeType, county){
       titleRace = "for U.S. Senate"
     }
 
+    //combining all parties' objects to find the max value of all the data
+    allParties = republican.concat(democratic).concat(libertarian)
     // Scale the range of the data
     x2.domain(d3.extent(republican, function(d) { return d.year; }));
-    y2.domain([0, d3.max(republican, function(d) { return d.value; })]);
+    y2.domain([0, d3.max(allParties, function(d) { return d.value; })]);
 
     // Add the valueline1 path.
     county_line_svg.append("path")
