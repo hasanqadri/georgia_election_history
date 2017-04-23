@@ -16,7 +16,7 @@ var xAxix2 = d3.svg.axis().scale(x2)
     .orient("bottom").ticks(5);
 
 var yAxix2 = d3.svg.axis().scale(y2)
-    .orient("left").ticks(15);
+    .orient("left").ticks(8);
 
 // Define the line
 var valueline1 = d3.svg.line()
