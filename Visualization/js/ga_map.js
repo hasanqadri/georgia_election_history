@@ -77,7 +77,10 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
 		})
       .on('mouseover', function(d){
           var countyName = d.properties.NAME_2;
+
           document.getElementById('name').innerHTML=countyName;
+
+		  updateCountyLineGraph1(getSelectedRace(), countyName.toLowerCase());
 
           displayStatistics(countyName, getSelectedRace());
 					// send the data to right_county to draw the county
@@ -321,4 +324,5 @@ d3.select('#raceDropdown')
 			}
 		});
 		updateLineGraph(getSelectedRace());
+		updateCountyLineGraph1(getSelectedRace(), null);
 	});
