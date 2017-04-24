@@ -6,7 +6,7 @@ var width = 630,
 
 var chartData = {};
 
-var countyNames = []
+var countyName = []
 
 //chartData.countyNames = [];
 //console.log(chartData.countyNames[1])
@@ -78,26 +78,26 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
       .on('mouseover', function(d){
           var countyName = d.properties.NAME_2;
 
-          document.getElementById('name').innerHTML=countyName;
+          document.getElementById('name').innerHTML=countyName.toLowerCase();
 
-		  		updateCountyLineGraph1(getSelectedRace(), countyName.toLowerCase());
+		  		updateCountyLineGraph1(getSelectedRace(), countyName.toLowerCase().toLowerCase());
 
-          displayStatistics(countyName, getSelectedRace());
+          displayStatistics(countyName.toLowerCase(), getSelectedRace());
 					// send the data to right_county to draw the county
 					// console.log(d)
           drawRightCounty(d);
 				  // if (!dele) {
-					//   start(treemapTotal, countyName, dele);
+					//   start(treemapTotal, countyName.toLowerCase(), dele);
 					//   dele++
 				  // } else {
-					//   start(treemapTotal, countyName, dele);
+					//   start(treemapTotal, countyName.toLowerCase(), dele);
 				  // }
 		  tooltip.transition()
               .duration(200)
               .style("opacity", .75);
           tooltip.html( function() {
 
-              return d.properties.NAME_2 + "<br>" + map[countyName];
+              return d.properties.NAME_2 + "<br>" + map[countyName.toLowerCase()];
           })
               .style("left", (d3.event.pageX + 5) + "px")
               .style("top", (d3.event.pageY - 28) + "px");
@@ -123,7 +123,7 @@ function getSelectedYear() {
 }
 
 function determineElectionWinner(countyName, race) {
-	csvName = getCSVName(countyName);
+	csvName = getCSVName(countyName.toLowerCase());
 	d3.csv(csvName, function(error, data) {
 		var groupByOffice = d3.nest()
 			.key(function(d) {return d.office})
@@ -181,7 +181,7 @@ function getElectionDate(office, year) {
 }
 
 function getCSVName(countyName) {
-	countyName = countyName.replace(' ', '_');
+	countyName = countyName.toLowerCase().replace(' ', '_');
 
 	// Getting the value of the dropdown. Got it from:
 	// stackoverflow.com/questions/1085801/get-selected-value-in-
@@ -191,13 +191,13 @@ function getCSVName(countyName) {
 	var electionDate = getElectionDate(raceSelected, yearSelected);
 
 	var csvName = '/Data/' + yearSelected + '/' + yearSelected
-		+ electionDate + '__ga__general__' + countyName + '__precinct.csv';
+		+ electionDate + '__ga__general__' + countyName.toLowerCase() + '__precinct.csv';
 	return csvName;
 }
 
 // Display statistics at top of HTML page
 function displayStatistics(countyName, race) {
-	csvName = getCSVName(countyName);
+	csvName = getCSVName(countyName.toLowerCase());
 	d3.csv(csvName, function(error, data) {
 		var groupByOffice = d3.nest()
 			.key(function(d) {return d.office})
@@ -214,14 +214,14 @@ function displayStatistics(countyName, race) {
 		}
 		document.getElementById('voteInfoName').innerHTML = voteSummaryString;
 
-        map[countyName] = voteSummaryString;
+        map[countyName.toLowerCase()] = voteSummaryString;
 		return voteSummaryString;
 	});
 }
 
 
 function tooltipStats(countyName, race) {
-    csvName = getCSVName(countyName);
+    csvName = getCSVName(countyName.toLowerCase());
     d3.csv(csvName, function(error, data) {
         var groupByOffice = d3.nest()
             .key(function(d) {return d.office})
@@ -233,13 +233,13 @@ function tooltipStats(countyName, race) {
             candidateVotes = raceVotes[i].votes;
             voteSummaryString += candidate + ': ' + candidateVotes + '<br>';
         }
-        map[countyName] = voteSummaryString;
+        map[countyName.toLowerCase()] = voteSummaryString;
         return voteSummaryString;
     });
 }
 
 function treemapStats(countyName, race) {
-    csvName = getCSVName(countyName);
+    csvName = getCSVName(countyName.toLowerCase());
     var totalVotes = 0;
     var demVotes = 0;
     var repVotes = 0;
@@ -259,9 +259,9 @@ function treemapStats(countyName, race) {
         completeTotalVotes = (+completeTotalVotes) + (+totalVotes);
         completeRepVotes = (+completeRepVotes) + (+repVotes);
         completeDemVotes = (+completeDemVotes) + (+demVotes);
-        //var totalObj = {countyName: countyName, votes: totalVotes};
-        var demObj = {countyName: countyName, votes: demVotes};
-        var repObj = {countyName: countyName, votes: repVotes};
+        //var totalObj = {countyName.toLowerCase(): countyName.toLowerCase(), votes: totalVotes};
+        var demObj = {countyName: countyName.toLowerCase(), votes: demVotes};
+        var repObj = {countyName: countyName.toLowerCase(), votes: repVotes};
 
         //treemapTotal[count] = totalObj;
         treemapDem[demCount] = demObj;
