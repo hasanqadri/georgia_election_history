@@ -8,9 +8,6 @@ var chartData = {};
 
 var countyName = []
 
-//chartData.countyNames = [];
-//console.log(chartData.countyNames[1])
-
 var svg = d3.select(".ga-map").append("svg")
 	.attr("width", width)
 	.attr("height", height);
@@ -57,7 +54,6 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
 	// Store the features so that we can use them for the right county diplay
 	chartData.countyFeatures = topojson.feature(data, data.objects.counties).features;
 
-	//console.log(chartData.counties);
 
 	svg.append('path')
 		.datum(chartData.georgia)
@@ -69,7 +65,7 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
 		.enter()
 		.append('path')
 		.attr('class', 'counties')
-		.attr("id", function (d) {return "county-" + d.properties.NAME_2.replace(" ", "_")})
+		.attr("id", function (d) {return "county-" + d.properties.NAME_2.replace(" ", "_").toLowerCase()})
 		.attr('d', path)
 		.style('fill', function(d) {
 			var countyName = d.properties.NAME_2.replace(" ", "_");
@@ -80,11 +76,10 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
 
           document.getElementById('name').innerHTML=countyName.toLowerCase();
 
-		  		updateCountyLineGraph1(getSelectedRace(), countyName.toLowerCase().toLowerCase());
+		  updateCountyLineGraph1(getSelectedRace(), countyName.toLowerCase());
 
           displayStatistics(countyName.toLowerCase(), getSelectedRace());
 					// send the data to right_county to draw the county
-					// console.log(d)
           drawRightCounty(d);
 				  // if (!dele) {
 					//   start(treemapTotal, countyName.toLowerCase(), dele);
@@ -109,6 +104,31 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
       })
 
 });
+
+d3.select("#inputCounty").on('change',function() { 
+
+	// chartData.countyNames
+	countyTyped = document.getElementById('inputCounty').value.toLowerCase()
+	console.log(chartData.countyNames)
+	for(var x = 0; x < chartData.countyNames.length; x++) {
+		currentCounty = chartData.countyNames[x].toLowerCase()
+		// console.log(countyTyped)
+		if (currentCounty == countyTyped){
+			document.getElementById('name').innerHTML=countyTyped.toLowerCase();
+
+		    updateCountyLineGraph1(getSelectedRace(), countyTyped.toLowerCase());
+
+		    displayStatistics(countyTyped.toLowerCase(), getSelectedRace());
+		}
+	}
+
+})
+
+function updateCountyFromInput(){
+	county = document.getElementById('inputCounty').innerHTML
+	console.log(county)
+}
+
 
 function getSelectedRace() {
 	var raceDropdown = document.getElementById("raceDropdown");
@@ -140,6 +160,7 @@ function determineElectionWinner(countyName, race) {
 				maxParty = curParty;
 			}
 		}
+		countyName=countyName.toLowerCase();
 		if (maxParty.includes("R")) {
 			d3.select('#county-' + countyName)
 				.transition()
