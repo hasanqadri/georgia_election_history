@@ -27,7 +27,7 @@ var tooltip = d3.select("body").append("div")
     .style("opacity", 0);
 
 var map =  {};
-var treemap = {};
+
 var treemapTotal = {};
 var completeDemVotes = 0;
 var completeRepVotes = 0;
@@ -46,6 +46,7 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
 	// be used later on
 	data.objects.counties.geometries.forEach(function(d, i) {
 		chartData.countyNames[i] = d.properties.NAME_2.replace(" ", "_");
+		countyNames[i] = d.properties.NAME_2.replace(" ", "_");
 	});
     for (x = 0; x < chartData.countyNames.length; x++) {
         tooltipStats(chartData.countyNames[x], getSelectedRace());
@@ -86,6 +87,7 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
 					// send the data to right_county to draw the county
 					// console.log(d)
           drawRightCounty(d);
+		  console.log(treemapTotal);
 		  if (!dele) {
 			  start(treemapTotal, countyName, dele);
 			  dele++
@@ -284,6 +286,7 @@ function treemapStats(countyName, race) {
 // certain county.
 function getVotesByOffice(groupedVotes, office) {
 	for (var i = 0; i < groupedVotes.length; i++) {
+
 		if (groupedVotes[i].key == office) {
 			// The csv files are structured such that rows that have no
 			// 'precinct' values are aggregate rows.
@@ -298,8 +301,17 @@ function getVotesByOffice(groupedVotes, office) {
 // handle on selection event whenever a new year is chosen
 d3.select('#yearDropdown')
 	.on('change', function() {
+		treemapTotal = {};
+		completeDemVotes = 0;
+		completeRepVotes = 0;
+		completeTotalVotes = 0;
+		count = 0;
+		treemapDem = [];
+		demCount = 0;
+		treemapRep = [];
+		repCount = 0;
+		dele = 0;
         for (x = 0; x < chartData.countyNames.length; x++) {
-            tooltipStats(chartData.countyNames[x], getSelectedRace());
             treemapStats(chartData.countyNames[x], getSelectedRace());
         }
 		svg.selectAll('.counties').forEach( function(d) {
@@ -313,6 +325,16 @@ d3.select('#yearDropdown')
 // handle on selection 1event whenever a new race is chosen
 d3.select('#raceDropdown')
 	.on('change', function() {
+		treemapTotal = {};
+		completeDemVotes = 0;
+		completeRepVotes = 0;
+		completeTotalVotes = 0;
+		count = 0;
+		treemapDem = [];
+		demCount = 0;
+		treemapRep = [];
+		repCount = 0;
+		dele = 0;
         for (x = 0; x < chartData.countyNames.length; x++) {
             tooltipStats(chartData.countyNames[x], getSelectedRace());
             treemapStats(chartData.countyNames[x], getSelectedRace());
