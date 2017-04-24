@@ -40,7 +40,7 @@ d3.csv("Data/aggregated_votes_by_county.csv", function(error, data) {
         d.year = parseyear(d.year);
         d.value = +d.votes;
     });
-
+    console.log(data)
     allData1 = data
     ///////////////////////////////////////toggle this to change from president to senate
     var officeType = "senate"
@@ -162,7 +162,7 @@ function capitalizeCounty(string){
 }
 
 function updateCountyLineGraph1(officeType, county){
-  
+
   if(county == null){
     county = currentCounty;
   }

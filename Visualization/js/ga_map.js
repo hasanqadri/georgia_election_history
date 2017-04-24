@@ -80,18 +80,18 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
 
           document.getElementById('name').innerHTML=countyName;
 
-		  updateCountyLineGraph1(getSelectedRace(), countyName.toLowerCase());
+		  		updateCountyLineGraph1(getSelectedRace(), countyName.toLowerCase());
 
           displayStatistics(countyName, getSelectedRace());
 					// send the data to right_county to draw the county
 					// console.log(d)
           drawRightCounty(d);
-		  if (!dele) {
-			  start(treemapTotal, countyName, dele);
-			  dele++
-		  } else {
-			  start(treemapTotal, countyName, dele);
-		  }
+				  // if (!dele) {
+					//   start(treemapTotal, countyName, dele);
+					//   dele++
+				  // } else {
+					//   start(treemapTotal, countyName, dele);
+				  // }
 		  tooltip.transition()
               .duration(200)
               .style("opacity", .75);
@@ -323,6 +323,6 @@ d3.select('#raceDropdown')
 				determineElectionWinner(countyName, getSelectedRace());
 			}
 		});
-		updateLineGraph(getSelectedRace());
-		updateCountyLineGraph1(getSelectedRace(), null);
+		// updateLineGraph(getSelectedRace());
+		// updateCountyLineGraph1(getSelectedRace(), null);
 	});
