@@ -74,7 +74,7 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
 		  var countyName = d.properties.NAME_2;
 
           document.getElementById('name').innerHTML=countyName;
-		  start(treemapTotal, countyName, getSelectedRace());
+		  start(treemapTotal, countyName.toLowerCase(), getSelectedRace());
 
 		  updateCountyLineGraph1(getSelectedRace(), countyName.toLowerCase());
 
@@ -364,6 +364,16 @@ function getVotesByOffice(groupedVotes, office) {
 // handle on selection event whenever a new year is chosen
 d3.select('#yearDropdown')
 	.on('change', function() {
+
+        treemapTotal = {};
+        completeDemVotes = 0;
+        completeRepVotes = 0;
+        completeTotalVotes = 0;
+        count = 0;
+        treemapDem = [];
+        demCount = 0;
+        treemapRep = [];
+        repCount = 0;
         for (x = 0; x < chartData.countyNames.length; x++) {
             tooltipStats(chartData.countyNames[x], getSelectedRace());
             treemapStats(chartData.countyNames[x], getSelectedRace());
