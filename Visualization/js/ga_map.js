@@ -73,7 +73,6 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
       .on('click', function(d){
 		  var countyName = d.properties.NAME_2;
 
-          document.getElementById('name').innerHTML=countyName;
           start(treemapTotal, countyName.toLowerCase(), getSelectedRace(), getSelectedYear());
 
 		  updateCountyLineGraph1(getSelectedRace(), countyName.toLowerCase());
@@ -114,8 +113,6 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
 
 function resetMap(){
 	resetAllCountyOpacities()
-	document.getElementById('name').innerHTML = "Hover over a county to see more info!";
-
 }
 
 function resetAllCountyOpacities(){
@@ -149,7 +146,6 @@ d3.select("#inputCounty").on('change',function() {
 
 	if (isValidCounty(countyTyped)){
 
-		document.getElementById('name').innerHTML=countyTyped.toLowerCase();
 	    updateCountyLineGraph1(getSelectedRace(), countyTyped.toLowerCase());
 	    displayStatistics(countyTyped.toLowerCase(), getSelectedRace());
 
@@ -276,8 +272,6 @@ function displayStatistics(countyName, race) {
 			candidateVotes = raceVotes[i].votes;
 			voteSummaryString += candidate + ': ' + candidateVotes + '<br>';
 		}
-		document.getElementById('voteInfoName').innerHTML = voteSummaryString;
-
         map[countyName.toLowerCase()] = voteSummaryString;
 		return voteSummaryString;
 	});
