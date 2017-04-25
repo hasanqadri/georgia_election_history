@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="962c9dce-0067-45b2-acee-e8ede4c4c5b6" name="Default" comment="Implemented Scrolling in the webpage.">
+    <list default="true" id="962c9dce-0067-45b2-acee-e8ede4c4c5b6" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/ga_map.js" afterPath="$PROJECT_DIR$/js/ga_map.js" />
     </list>
@@ -29,8 +29,8 @@
       <file leaf-file-name="Index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1683">
-              <caret line="99" column="13" selection-start-line="99" selection-start-column="13" selection-end-line="99" selection-end-column="13" />
+            <state relative-caret-position="17">
+              <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
               <folding>
                 <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -43,8 +43,8 @@
       <file leaf-file-name="ga_map.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/ga_map.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="756">
-              <caret line="415" column="8" selection-start-line="415" selection-start-column="8" selection-end-line="415" selection-end-column="8" />
+            <state relative-caret-position="527">
+              <caret line="393" column="9" selection-start-line="393" selection-start-column="9" selection-end-line="393" selection-end-column="9" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -101,8 +101,8 @@
       <file leaf-file-name="ga_map.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../../cs4460_election_history/Visualization/js/ga_map.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="756">
+              <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -132,6 +132,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="Hasan Qadri &lt;hqadri6@gatech.edu&gt;" />
         <option value="Hasan Qadri" />
         <option value="Hasan Qadri &lt;hqadri6.edu&gt;" />
       </list>
@@ -308,7 +309,7 @@
       <workItem from="1492544056174" duration="36880000" />
       <workItem from="1492640737277" duration="8720000" />
       <workItem from="1493074666818" duration="11653000" />
-      <workItem from="1493093652321" duration="1202000" />
+      <workItem from="1493093652321" duration="2623000" />
     </task>
     <task id="LOCAL-00001" summary="Div restructuring">
       <created>1492399383389</created>
@@ -324,11 +325,18 @@
       <option name="project" value="LOCAL" />
       <updated>1492401664436</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Treemap fully functional">
+      <created>1493094874111</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1493094874111</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96103000" />
+    <option name="totallyTimeSpent" value="97524000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -385,7 +393,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Div restructuring" />
     <MESSAGE value="Implemented Scrolling in the webpage." />
-    <option name="LAST_COMMIT_MESSAGE" value="Implemented Scrolling in the webpage." />
+    <MESSAGE value="Treemap fully functional" />
+    <option name="LAST_COMMIT_MESSAGE" value="Treemap fully functional" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -673,16 +682,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../cs4460_election_history/Visualization/js/ga_map.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../../cs4460_election_history/Visualization/js/treemap.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="850">
@@ -719,18 +718,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1683">
-          <caret line="99" column="13" selection-start-line="99" selection-start-column="13" selection-end-line="99" selection-end-column="13" />
-          <folding>
-            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/treemap_county.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="236">
@@ -741,10 +728,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/ga_map.js">
+    <entry file="file://$PROJECT_DIR$/../../../cs4460_election_history/Visualization/js/ga_map.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="756">
-          <caret line="415" column="8" selection-start-line="415" selection-start-column="8" selection-end-line="415" selection-end-column="8" />
+          <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
+          <folding>
+            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/ga_map.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="393" column="9" selection-start-line="393" selection-start-column="9" selection-end-line="393" selection-end-column="9" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>

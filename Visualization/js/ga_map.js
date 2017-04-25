@@ -364,59 +364,74 @@ function getVotesByOffice(groupedVotes, office) {
 // handle on selection event whenever a new year is chosen
 d3.select('#yearDropdown')
 	.on('change', function() {
-
-        treemapTotal = {};
-        completeDemVotes = 0;
-        completeRepVotes = 0;
-        completeTotalVotes = 0;
-        count = 0;
-        treemapDem = [];
-        demCount = 0;
-        treemapRep = [];
-        repCount = 0;
-        for (x = 0; x < chartData.countyNames.length; x++) {
-            tooltipStats(chartData.countyNames[x], getSelectedRace());
-            treemapStats(chartData.countyNames[x], getSelectedRace());
+        console.log(getSelectedRace());
+        if ((getSelectedRace() === "President of the United States" && getSelectedYear() == 2014) || (getSelectedRace() === "United States Senator" && getSelectedYear() == 2012)) {
+            if (getSelectedRace() == "President of the United States") {
+                alert("There was no Presidential race in 2014.");
+            } else {
+                alert("There was no Senator race in 2012");
+            }
+        } else {
+            treemapTotal = {};
+            completeDemVotes = 0;
+            completeRepVotes = 0;
+            completeTotalVotes = 0;
+            count = 0;
+            treemapDem = [];
+            demCount = 0;
+            treemapRep = [];
+            repCount = 0;
+            for (x = 0; x < chartData.countyNames.length; x++) {
+                tooltipStats(chartData.countyNames[x], getSelectedRace());
+                treemapStats(chartData.countyNames[x], getSelectedRace());
+            }
+            svg.selectAll('.counties').forEach(function (d) {
+                for (var i = 0; i < chartData.countyNames.length; i++) {
+                    var countyName = chartData.countyNames[i];
+                    determineElectionWinner(countyName, getSelectedRace());
+                }
+            });
         }
-		svg.selectAll('.counties').forEach( function(d) {
-			for (var i = 0; i < chartData.countyNames.length; i++) {
-				var countyName = chartData.countyNames[i];
-				determineElectionWinner(countyName, getSelectedRace());
-			}
-		});
 	});
 
 // handle on selection 1event whenever a new race is chosen
 d3.select('#raceDropdown')
 	.on('change', function() {
-		console.log("treemap after");
-		console.log(treemapTotal);
-		console.log(count);
-		treemapTotal = {};
-		completeDemVotes = 0;
-		completeRepVotes = 0;
-		completeTotalVotes = 0;
-		count = 0;
-		treemapDem = [];
-		demCount = 0;
-		treemapRep = [];
-		repCount = 0;
-        for (x = 0; x < chartData.countyNames.length; x++) {
-            tooltipStats(chartData.countyNames[x], getSelectedRace());
-            treemapTotal = treemapStats(chartData.countyNames[x], getSelectedRace());
-		}
-        console.log("treemap b4 ");
-		console.log(treemapTotal);
-		console.log(count);
+        if ((getSelectedRace() === "President of the United States" && getSelectedYear() == 2014) || (getSelectedRace() == "United States Senator" && getSelectedYear() === 2012)) {
+            if (getSelectedRace() == "President of the United States") {
+                alert("There was no Presidential race in 2014.");
+            } else {
+                alert("There was no Senator race in 2012");
+            }
+        } else {
+            console.log("treemap after");
+            console.log(treemapTotal);
+            console.log(count);
+            treemapTotal = {};
+            completeDemVotes = 0;
+            completeRepVotes = 0;
+            completeTotalVotes = 0;
+            count = 0;
+            treemapDem = [];
+            demCount = 0;
+            treemapRep = [];
+            repCount = 0;
+            for (x = 0; x < chartData.countyNames.length; x++) {
+                tooltipStats(chartData.countyNames[x], getSelectedRace());
+                treemapTotal = treemapStats(chartData.countyNames[x], getSelectedRace());
+            }
+            console.log("treemap b4 ");
+            console.log(treemapTotal);
+            console.log(count);
 
 
-
-		svg.selectAll('.counties').forEach( function(d) {
-			for (var i = 0; i < chartData.countyNames.length; i++) {
-				var countyName = chartData.countyNames[i];
-				determineElectionWinner(countyName, getSelectedRace());
-			}
-		});
-		// updateLineGraph(getSelectedRace());
-		// updateCountyLineGraph1(getSelectedRace(), null);
+            svg.selectAll('.counties').forEach(function (d) {
+                for (var i = 0; i < chartData.countyNames.length; i++) {
+                    var countyName = chartData.countyNames[i];
+                    determineElectionWinner(countyName, getSelectedRace());
+                }
+            });
+            // updateLineGraph(getSelectedRace());
+            // updateCountyLineGraph1(getSelectedRace(), null);
+        }
 	});
