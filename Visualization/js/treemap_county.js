@@ -15,6 +15,18 @@
                 "name": "Democrat Votes" , "votes" : completeDemVotes, "children": [treemapDem]},
                 {"name":"Republican Votes", "votes" : completeRepVotes, "children": [treemapRep]}]};
      **/
+  
+
+/*
+ In terms of added functionality to the treemap, when a user clicks on a county 
+ in the Georgia map, I had to essentially pass the county’s name to the treemap.js 
+ as well as a JSON of the relevant computed democratic and republican vote numbers 
+ to essentially structure into a treemap and color the Democratic county votes as blue
+ and Republican county votes as red. Using this data, I highlighted on the map the selected 
+ county as gold. I also altered the text to be smaller to display more county names on the actual visualization.   
+*/
+
+
     var count = 1;
     var curr = "";
 var yr = 0;
