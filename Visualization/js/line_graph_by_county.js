@@ -1,7 +1,7 @@
 // console.log("asdfasfd");
 // Set the dimensions of the canvas / graph
 var margin2 = {top: 80, right: 120, bottom: 80, left: 100},
-    width2 = 300,
+    width2 = 350,
     height2 = 250;
 // Parse the year / time
 var parseyear = d3.time.format("%Y").parse;

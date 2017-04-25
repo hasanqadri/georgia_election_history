@@ -34,6 +34,8 @@ var treemapDem = [];
 var demCount = 0;
 var treemapRep = [];
 var repCount = 0;
+var hide = 1;
+var x;
 
 d3.json('/Data/Geo/ga.json', function(error, data) {
 
@@ -71,9 +73,14 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
 			determineElectionWinner(countyName, getSelectedRace());
 		})
       .on('click', function(d){
+          if (hide) {
+              x = document.getElementById('right');
+              x.style.display = 'block';
+              hide = 0;
+          }
+
 		  var countyName = d.properties.NAME_2;
 
-          document.getElementById('name').innerHTML=countyName;
           start(treemapTotal, countyName.toLowerCase(), getSelectedRace(), getSelectedYear());
 
 		  updateCountyLineGraph1(getSelectedRace(), countyName.toLowerCase());
@@ -114,8 +121,6 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
 
 function resetMap(){
 	resetAllCountyOpacities()
-	document.getElementById('name').innerHTML = "Hover over a county to see more info!";
-
 }
 
 function resetAllCountyOpacities(){
@@ -149,7 +154,6 @@ d3.select("#inputCounty").on('change',function() {
 
 	if (isValidCounty(countyTyped)){
 
-		document.getElementById('name').innerHTML=countyTyped.toLowerCase();
 	    updateCountyLineGraph1(getSelectedRace(), countyTyped.toLowerCase());
 	    displayStatistics(countyTyped.toLowerCase(), getSelectedRace());
 
@@ -276,8 +280,6 @@ function displayStatistics(countyName, race) {
 			candidateVotes = raceVotes[i].votes;
 			voteSummaryString += candidate + ': ' + candidateVotes + '<br>';
 		}
-		document.getElementById('voteInfoName').innerHTML = voteSummaryString;
-
         map[countyName.toLowerCase()] = voteSummaryString;
 		return voteSummaryString;
 	});
@@ -364,6 +366,9 @@ function getVotesByOffice(groupedVotes, office) {
 // handle on selection event whenever a new year is chosen
 d3.select('#yearDropdown')
 	.on('change', function() {
+        x = document.getElementById('right');
+        x.style.display = 'none';
+        hide = 1;
         console.log(getSelectedRace());
         if ((getSelectedRace() === "President of the United States" && getSelectedYear() == 2014) || (getSelectedRace() === "United States Senator" && getSelectedYear() == 2012)) {
             if (getSelectedRace() == "President of the United States") {
@@ -397,6 +402,9 @@ d3.select('#yearDropdown')
 // handle on selection 1event whenever a new race is chosen
 d3.select('#raceDropdown')
 	.on('change', function() {
+        x = document.getElementById('right');
+        x.style.display = 'none';
+        hide = 1;
         if ((getSelectedRace() === "President of the United States" && getSelectedYear() == 2014) || (getSelectedRace() == "United States Senator" && getSelectedYear() === 2012)) {
             if (getSelectedRace() == "President of the United States") {
                 alert("There was no Presidential race in 2014.");
