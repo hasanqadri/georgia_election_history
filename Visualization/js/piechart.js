@@ -6,8 +6,8 @@ var dataset = [{county:"Sumter", votes:"4876", party:"REP", candidate:"test"},
                {county:"asd", votes:"123", party:"DEM", candidate:"test"},
                {county:"asd", votes:"5345", party:"IND", candidate:"test"}]
 
-var width = 300,
-	  height = 300,
+var width = 250,
+    height = 250,
     radius = Math.min(width, height) / 2;
 
 var color = d3.scale.ordinal()

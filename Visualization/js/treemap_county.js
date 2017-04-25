@@ -20,8 +20,8 @@
     var nodes;
     var cell;
     function start(totalData, countyName, race) {
-        var w = 800 - 80,
-            h = 600 - 180,
+        var w = 600 - 80,
+            h = 500 - 180,
             x = d3.scale.linear().range([0, w]),
             y = d3.scale.linear().range([0, h]),
             color = d3.scale.category20c(),

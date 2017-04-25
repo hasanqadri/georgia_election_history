@@ -99,7 +99,7 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
               .style("opacity", .75);
           tooltip.html( function() {
 
-              return d.properties.NAME_2 + "<br>" + map[countyName.toLowerCase()];
+              return (d.properties.NAME_2).toUpperCase() + " COUNTY" + "<br>" + map[countyName.toLowerCase()];
           })
               .style("left", (d3.event.pageX + 5) + "px")
               .style("top", (d3.event.pageY - 28) + "px");
