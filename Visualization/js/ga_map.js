@@ -27,7 +27,7 @@ var tooltip = d3.select("body").append("div")
     .style("opacity", 0);
 
 var map =  {};
-var treemap = {};
+
 var treemapTotal = {};
 var completeDemVotes = 0;
 var completeRepVotes = 0;
@@ -37,7 +37,6 @@ var treemapDem = [];
 var demCount = 0;
 var treemapRep = [];
 var repCount = 0;
-var dele = 0;
 
 d3.json('/Data/Geo/ga.json', function(error, data) {
 
@@ -79,6 +78,7 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
           var countyName = d.properties.NAME_2;
 
           document.getElementById('name').innerHTML=countyName;
+		  start(treemapTotal, countyName, getSelectedRace());
 
 		  		updateCountyLineGraph1(getSelectedRace(), countyName.toLowerCase());
 
@@ -86,12 +86,11 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
 					// send the data to right_county to draw the county
 					// console.log(d)
           drawRightCounty(d);
-				  // if (!dele) {
-					//   start(treemapTotal, countyName, dele);
-					//   dele++
+				  //if (!dele) {
+				//	   start(treemapTotal, countyName, dele);
+				//	     dele++
 				  // } else {
-					//   start(treemapTotal, countyName, dele);
-				  // }
+				 //
 		  tooltip.transition()
               .duration(200)
               .style("opacity", .75);
@@ -269,11 +268,13 @@ function treemapStats(countyName, race) {
         demCount++;
         repCount++;
         count++;
-        if (count == 159) {
+		console.log(count);
+
+		if (count == 159) {
             treemapTotal = {"name" : "Total", "children": [ {
                 "name": "Democrat Votes" ,  "children": treemapDem},
                 {"name":"Republican Votes", "children": treemapRep}]};
-
+			return treemapTotal;
         }
     });
 }
@@ -313,10 +314,28 @@ d3.select('#yearDropdown')
 // handle on selection 1event whenever a new race is chosen
 d3.select('#raceDropdown')
 	.on('change', function() {
+		console.log("treemap after");
+		console.log(treemapTotal);
+		console.log(count);
+		treemapTotal = {};
+		completeDemVotes = 0;
+		completeRepVotes = 0;
+		completeTotalVotes = 0;
+		count = 0;
+		treemapDem = [];
+		demCount = 0;
+		treemapRep = [];
+		repCount = 0;
         for (x = 0; x < chartData.countyNames.length; x++) {
             tooltipStats(chartData.countyNames[x], getSelectedRace());
-            treemapStats(chartData.countyNames[x], getSelectedRace());
-        }
+            treemapTotal = treemapStats(chartData.countyNames[x], getSelectedRace());
+		}
+        console.log("treemap b4 ");
+		console.log(treemapTotal);
+		console.log(count);
+
+
+
 		svg.selectAll('.counties').forEach( function(d) {
 			for (var i = 0; i < chartData.countyNames.length; i++) {
 				var countyName = chartData.countyNames[i];

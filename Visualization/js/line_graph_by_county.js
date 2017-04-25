@@ -3,7 +3,6 @@
 var margin2 = {top: 80, right: 120, bottom: 80, left: 100},
     width2 = 300,
     height2 = 300;
-console.log("ASDFASF")
 // Parse the year / time
 var parseyear = d3.time.format("%Y").parse;
 
@@ -40,7 +39,6 @@ d3.csv("Data/aggregated_votes_by_county.csv", function(error, data) {
         d.year = parseyear(d.year);
         d.value = +d.votes;
     });
-    console.log(data)
     allData1 = data
     ///////////////////////////////////////toggle this to change from president to senate
     var officeType = "senate"
@@ -170,7 +168,6 @@ function updateCountyLineGraph1(officeType, county){
     currentCounty = county;
   }
 
-  console.log("updating with county: ", county);
   county_line_svg.selectAll("*").remove();
   if (officeType == "President of the United States"){
       var republican = allData1.filter(function(d){
