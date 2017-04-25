@@ -79,6 +79,8 @@ function labelarcTween(a) {
 
 function displayPieGraph(data) {
 
+  console.log(data)
+
   var pie = d3.layout.pie()
     .value(function(d) { return +d.votes; })
     .sort(null);

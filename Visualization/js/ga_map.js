@@ -47,7 +47,6 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
         tooltipStats(chartData.countyNames[x], getSelectedRace());
         treemapStats(chartData.countyNames[x], getSelectedRace());
     }
-// console.log(data);
 	chartData.georgia = topojson.feature(data, data.objects.states);
 	chartData.counties = topojson.feature(data, data.objects.counties);
 	// Store the features so that we can use them for the right county diplay
@@ -135,7 +134,7 @@ function isValidCounty(county){
 	return false
 }
 
-d3.select("#inputCounty").on('change',function() {
+d3.select("#inputCounty").on('keyup',function() {
 
 	resetAllCountyOpacities()
 
@@ -157,15 +156,14 @@ d3.select("#inputCounty").on('change',function() {
 			}
 		}
 	}
-	else{
-		alert("Invalid county - Please Try Again")
-	}
+	// else{
+	// 	alert("Invalid county - Please Try Again")
+	// }
 
 })
 
 function updateCountyFromInput(){
 	county = document.getElementById('inputCounty').innerHTML
-	console.log(county)
 }
 
 
@@ -358,7 +356,6 @@ function getVotesByOffice(groupedVotes, office) {
 // handle on selection event whenever a new year is chosen
 d3.select('#yearDropdown')
 	.on('change', function() {
-        console.log(getSelectedRace());
         if ((getSelectedRace() === "President of the United States" && getSelectedYear() == 2014) || (getSelectedRace() === "United States Senator" && getSelectedYear() == 2012)) {
             if (getSelectedRace() == "President of the United States") {
                 alert("There was no Presidential race in 2014.");
@@ -398,9 +395,7 @@ d3.select('#raceDropdown')
                 alert("There was no Senator race in 2012");
             }
         } else {
-            console.log("treemap after");
-            console.log(treemapTotal);
-            console.log(count);
+
             treemapTotal = {};
             completeDemVotes = 0;
             completeRepVotes = 0;
@@ -414,9 +409,6 @@ d3.select('#raceDropdown')
                 tooltipStats(chartData.countyNames[x], getSelectedRace());
                 treemapTotal = treemapStats(chartData.countyNames[x], getSelectedRace());
             }
-            console.log("treemap b4 ");
-            console.log(treemapTotal);
-            console.log(count);
 
 
             svg.selectAll('.counties').forEach(function (d) {
