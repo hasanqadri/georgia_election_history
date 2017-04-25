@@ -11,7 +11,7 @@ var width = 250,
     radius = Math.min(width, height) / 2;
 
 var color = d3.scale.ordinal()
-  .range(['#c91f10', '#121faa', 'green']);
+    .range(['#ff4c4c', '#4c4cff', 'green']);
 
 var pieSVG = d3.select(".pie-chart")
   .append("svg")
@@ -21,8 +21,8 @@ var pieSVG = d3.select(".pie-chart")
   .attr('transform', 'translate(' + (height / 2) +  ',' + (width / 2) + ')');
 
 var arc = d3.svg.arc()
-  .innerRadius(0)
-  .outerRadius(radius);
+    .innerRadius(radius - 100)
+    .outerRadius(radius - 20);
 
 var textArc = d3.svg.arc()
 	.outerRadius(radius - 40)

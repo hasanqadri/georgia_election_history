@@ -185,10 +185,6 @@ function start(totalData, countyName, race, year) {
 
         });**/
 
-        function size(d) {
-            return d.votes;
-        }
-
 
         function zoom(d) {
             var kx = w / d.dx, ky = h / d.dy;

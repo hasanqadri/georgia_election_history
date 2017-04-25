@@ -80,6 +80,7 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
           }
 
 		  var countyName = d.properties.NAME_2;
+          document.getElementById("nam").innerHTML = countyName + " County";
 
           start(treemapTotal, countyName.toLowerCase(), getSelectedRace(), getSelectedYear());
 
@@ -120,7 +121,11 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
 });
 
 function resetMap(){
+    x = document.getElementById('right');
+    x.style.display = 'none';
+    hide = 1;
 	resetAllCountyOpacities()
+
 }
 
 function resetAllCountyOpacities(){
@@ -150,13 +155,16 @@ d3.select("#inputCounty").on('keyup',function() {
 	// chartData.countyNames
 	validCountyTyped = false;
 
-	countyTyped = document.getElementById('inputCounty').value.toLowerCase()
+    countyTyped = document.getElementById('inputCounty').value.toLowerCase()
 
 	if (isValidCounty(countyTyped)){
 			x = document.getElementById('right');
 			x.style.display = 'block';
+        start(treemapTotal, countyTyped.toLowerCase(), getSelectedRace(), getSelectedYear());
+
 	    updateCountyLineGraph1(getSelectedRace(), countyTyped.toLowerCase());
-	    displayStatistics(countyTyped.toLowerCase(), getSelectedRace());
+
+        displayStatistics(countyTyped.toLowerCase(), getSelectedRace());
 
 		for(var x = 0; x < chartData.countyNames.length; x++) {
 			currentCounty = chartData.countyNames[x].toLowerCase()
