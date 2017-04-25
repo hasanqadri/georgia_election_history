@@ -71,22 +71,29 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
 			var countyName = d.properties.NAME_2.replace(" ", "_");
 			determineElectionWinner(countyName, getSelectedRace());
 		})
-      .on('mouseover', function(d){
-          var countyName = d.properties.NAME_2;
+      .on('click', function(d){
+		  var countyName = d.properties.NAME_2;
 
-          document.getElementById('name').innerHTML=countyName.toLowerCase();
+	      document.getElementById('name').innerHTML=countyName.toLowerCase();
 
 		  updateCountyLineGraph1(getSelectedRace(), countyName.toLowerCase());
 
-          displayStatistics(countyName.toLowerCase(), getSelectedRace());
-					// send the data to right_county to draw the county
-          drawRightCounty(d);
-				  // if (!dele) {
-					//   start(treemapTotal, countyName.toLowerCase(), dele);
-					//   dele++
-				  // } else {
-					//   start(treemapTotal, countyName.toLowerCase(), dele);
-				  // }
+	      displayStatistics(countyName.toLowerCase(), getSelectedRace());
+	      
+	      resetAllCountyOpacities()
+
+	      for(var x = 0; x < chartData.countyNames.length; x++) {
+			currentCounty = chartData.countyNames[x].toLowerCase()		
+			if (currentCounty != countyName.toLowerCase()){
+				elem = document.getElementById('county-'+currentCounty)
+				elem.style.opacity = .25;
+			}
+		  }
+
+	   })		
+      .on('mouseover', function(d){
+		  var countyName = d.properties.NAME_2;
+
 		  tooltip.transition()
               .duration(200)
               .style("opacity", .75);
@@ -105,6 +112,19 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
 
 });
 
+function resetMap(){
+	resetAllCountyOpacities()
+	document.getElementById('name').innerHTML = "Hover over a county to see more info!";
+
+}
+
+function resetAllCountyOpacities(){
+	for(var x = 0; x < chartData.countyNames.length; x++) {
+		currentCounty = chartData.countyNames[x].toLowerCase()		
+		elem = document.getElementById('county-'+currentCounty)
+		elem.style.opacity = 1;
+	}
+}
 
 function isValidCounty(county){
 	for(var x = 0; x < chartData.countyNames.length; x++) {
@@ -120,12 +140,7 @@ function isValidCounty(county){
 
 d3.select("#inputCounty").on('change',function() { 
 
-	for(var x = 0; x < chartData.countyNames.length; x++) {
-		currentCounty = chartData.countyNames[x].toLowerCase()		
-		elem = document.getElementById('county-'+currentCounty)
-		elem.style.opacity = 1;
-	}
-
+	resetAllCountyOpacities()
 
 	// chartData.countyNames
 	validCountyTyped = false;
