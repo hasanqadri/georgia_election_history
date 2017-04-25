@@ -105,21 +105,49 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
 
 });
 
-d3.select("#inputCounty").on('change',function() { 
 
-	// chartData.countyNames
-	countyTyped = document.getElementById('inputCounty').value.toLowerCase()
-	console.log(chartData.countyNames)
+function isValidCounty(county){
 	for(var x = 0; x < chartData.countyNames.length; x++) {
 		currentCounty = chartData.countyNames[x].toLowerCase()
 		// console.log(countyTyped)
 		if (currentCounty == countyTyped){
-			document.getElementById('name').innerHTML=countyTyped.toLowerCase();
+			return true
 
-		    updateCountyLineGraph1(getSelectedRace(), countyTyped.toLowerCase());
-
-		    displayStatistics(countyTyped.toLowerCase(), getSelectedRace());
 		}
+	}
+	return false
+}	
+
+d3.select("#inputCounty").on('change',function() { 
+
+	for(var x = 0; x < chartData.countyNames.length; x++) {
+		currentCounty = chartData.countyNames[x].toLowerCase()		
+		elem = document.getElementById('county-'+currentCounty)
+		elem.style.opacity = 1;
+	}
+
+
+	// chartData.countyNames
+	validCountyTyped = false;
+
+	countyTyped = document.getElementById('inputCounty').value.toLowerCase()
+
+	if (isValidCounty(countyTyped)){
+
+		document.getElementById('name').innerHTML=countyTyped.toLowerCase();
+	    updateCountyLineGraph1(getSelectedRace(), countyTyped.toLowerCase());
+	    displayStatistics(countyTyped.toLowerCase(), getSelectedRace());	
+
+		for(var x = 0; x < chartData.countyNames.length; x++) {
+			currentCounty = chartData.countyNames[x].toLowerCase()		
+			if (currentCounty != countyTyped){
+				elem = document.getElementById('county-'+currentCounty)
+				elem.style.opacity = .25;
+			}
+		}
+	}
+	else{
+		alert("Invalid county - Please Try Again")
 	}
 
 })
@@ -166,6 +194,7 @@ function determineElectionWinner(countyName, race) {
 				.transition()
 				.duration(1000)
 				.style("fill", "#c91f10");
+				// console.log(s, "[[[[[[[[[[[")
 		}
 		if (maxParty.includes("D")) {
 			d3.select('#county-' + countyName)
