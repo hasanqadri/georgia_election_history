@@ -68,7 +68,7 @@ path {
 <!-- Holds the left and right divs -->
 <div class = "container " style = "width: 100%;   ">
     <!-- Ga map -->
-    <div style = "float: left; width:1000px; display:block;" class = "w3-margin-left w3-left-align"  id = "left">
+    <div style="float: left; width:800px; display:block;" class="w3-margin-left w3-left-align" id="left">
         <!-- <div id="countyInfo"><h1 id="name">Hover over a county to see more info!</h1></div> -->
         <!-- <div id="voteInfo"><h3 id="voteInfoName">Hover over a county to see more info!</h3></div> -->
         <div class = "ga-map"></div>
@@ -76,12 +76,13 @@ path {
     </div>
 
     <!-- Right float for divs -->
-    <div style = " float: right; width: auto; border-left: thin solid #000000; display:block;"  class = "flex-item" id = "right" >
-        <h3 class = "w3-text w3-margin-bottom w3-margin-left">Party Percentage</h3>
-        <div class = "pie-chart w3-margin-left"></div>
-        <h3 class = "w3-text w3-margin-left">Democrats vs Republicans by County</h3>
+    <div style=" float: right; width: auto; border-left: thin solid #000000; display:none;" class="flex-item"
+         id="right">
+        <h4 class="w3-text w3-margin-bottom w3-margin-left">Party Percentage</h4>
+        <div class="pie-chart w3-margin-left w3-margin-right w3-margin-bottom"></div>
+        <h4 class="w3-text w3-margin-left">Democrats vs Republicans by County</h4>
         <div class = "treemap w3-margin-left w3-margin-right w3-margin-bottom" id ="treemap"></div>
-        <h3 class = "w3-text w3-margin-left">Votes over Time</h3>
+        <h4 class="w3-text w3-margin-left">Votes over Time</h4>
         <div class = "county-line-graph w3-margin-left"></div>
 
     </div>

@@ -34,6 +34,8 @@ var treemapDem = [];
 var demCount = 0;
 var treemapRep = [];
 var repCount = 0;
+var hide = 1;
+var x;
 
 d3.json('/Data/Geo/ga.json', function(error, data) {
 
@@ -70,6 +72,12 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
 			determineElectionWinner(countyName, getSelectedRace());
 		})
       .on('click', function(d){
+          if (hide) {
+              x = document.getElementById('right');
+              x.style.display = 'block';
+              hide = 0;
+          }
+
 		  var countyName = d.properties.NAME_2;
 
           start(treemapTotal, countyName.toLowerCase(), getSelectedRace(), getSelectedYear());
@@ -126,7 +134,7 @@ function isValidCounty(county){
 	for(var x = 0; x < chartData.countyNames.length; x++) {
 		currentCounty = chartData.countyNames[x].toLowerCase()
 		// console.log(countyTyped)
-		if (currentCounty == countyTyped){
+		if (currentCounty == countyTyped)onKeyPress="edValueKeyPress()" onKeyUp="edValueKeyPress()"{
 			return true
 
 		}
@@ -356,6 +364,10 @@ function getVotesByOffice(groupedVotes, office) {
 // handle on selection event whenever a new year is chosen
 d3.select('#yearDropdown')
 	.on('change', function() {
+        x = document.getElementById('right');
+        x.style.display = 'none';
+        hide = 1;
+        console.log(getSelectedRace());
         if ((getSelectedRace() === "President of the United States" && getSelectedYear() == 2014) || (getSelectedRace() === "United States Senator" && getSelectedYear() == 2012)) {
             if (getSelectedRace() == "President of the United States") {
                 alert("There was no Presidential race in 2014.");
@@ -388,6 +400,9 @@ d3.select('#yearDropdown')
 // handle on selection 1event whenever a new race is chosen
 d3.select('#raceDropdown')
 	.on('change', function() {
+        x = document.getElementById('right');
+        x.style.display = 'none';
+        hide = 1;
         if ((getSelectedRace() === "President of the United States" && getSelectedYear() == 2014) || (getSelectedRace() == "United States Senator" && getSelectedYear() === 2012)) {
             if (getSelectedRace() == "President of the United States") {
                 alert("There was no Presidential race in 2014.");
