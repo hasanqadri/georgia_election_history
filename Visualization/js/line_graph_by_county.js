@@ -1,4 +1,3 @@
-// console.log("asdfasfd");
 // Set the dimensions of the canvas / graph
 var margin2 = {top: 80, right: 120, bottom: 80, left: 100},
     width2 = 350,
@@ -30,17 +29,19 @@ var county_line_svg = d3.select(".county-line-graph")
     .append("g")
         .attr("transform",
               "translate(" + margin2.left + "," + margin2.top + ")");
+
+//variable to hold all the data after first accessing it
 var allData1;
 var titleRace = "for U.S. Senate"
 
-// Get the data
+// Get the data from the csv file, filters it by the party, county, and office
 d3.csv("Data/aggregated_votes_by_county.csv", function(error, data) {
     data.forEach(function(d) {
         d.year = parseyear(d.year);
         d.value = +d.votes;
     });
     allData1 = data
-    ///////////////////////////////////////toggle this to change from president to senate
+
     var officeType = "senate"
 
     var currentCounty = "gwinnett"
@@ -71,24 +72,24 @@ d3.csv("Data/aggregated_votes_by_county.csv", function(error, data) {
       })
     }
 
-    //combining all parties' objects to find the max value of all the data
+    //combining all parties' objects to find the max value of all the filtered data
     allParties = republican.concat(democratic).concat(libertarian)
-    // Scale the range of the data
+    // Scale the range of the data, using the max of the values as the max of the range
     x2.domain(d3.extent(republican, function(d) { return d.year; }));
     y2.domain([0, d3.max(allParties, function(d) { return d.value; })]);
 
-    // Add the valueline1 path.
+    // Add the republican line path.
     county_line_svg.append("path")
         .attr("class", "line")
         .style("stroke", "red")
         .attr("d", valueline1(republican));
 
-    // Add the valueline1 path.
+    // Add the democratic line path.
     county_line_svg.append("path")
         .attr("class", "line")
         .attr("d", valueline1(democratic));
 
-        // Add the valueline1 path.
+        // Add the libertarian line path.
     county_line_svg.append("path")
         .attr("class", "line")
         .style("stroke", "green")
@@ -161,6 +162,7 @@ function capitalizeCounty(string){
 
 function updateCountyLineGraph1(officeType, county){
 
+  //updating the current county being selected
   if(county == null){
     county = currentCounty;
   }
@@ -168,6 +170,7 @@ function updateCountyLineGraph1(officeType, county){
     currentCounty = county;
   }
 
+  // removes all elements of the csv and redraws it using the data that is being filtered by party, county, and office
   county_line_svg.selectAll("*").remove();
   if (officeType == "President of the United States"){
       var republican = allData1.filter(function(d){
@@ -195,24 +198,27 @@ function updateCountyLineGraph1(officeType, county){
       titleRace = "for U.S. Senate"
     }
 
-    //combining all parties' objects to find the max value of all the data
+
+
+
+    //combining all parties' objects to find the max value of all the filtered data
     allParties = republican.concat(democratic).concat(libertarian)
-    // Scale the range of the data
+    // Scale the range of the data, using the max of the values as the max of the range
     x2.domain(d3.extent(republican, function(d) { return d.year; }));
     y2.domain([0, d3.max(allParties, function(d) { return d.value; })]);
 
-    // Add the valueline1 path.
+    // Add the republican line path.
     county_line_svg.append("path")
         .attr("class", "line")
         .style("stroke", "red")
         .attr("d", valueline1(republican));
 
-    // Add the valueline1 path.
+    // Add the democratic line path.
     county_line_svg.append("path")
         .attr("class", "line")
         .attr("d", valueline1(democratic));
 
-        // Add the valueline1 path.
+    // Add the libertarian line path.
     county_line_svg.append("path")
         .attr("class", "line")
         .style("stroke", "green")

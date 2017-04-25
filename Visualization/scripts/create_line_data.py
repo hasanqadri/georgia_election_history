@@ -20,14 +20,9 @@ for i,line in enumerate(read_data[1:]):
 	
 	arr = line.split(",")
 	
-
-	# print i
-	# print arr[5], i
 	if arr[1].strip() in ["President", "U.S. Senate", "US Senate", "United States Senator", "President of the United States"]: 
 	
 		year = arr[-1].strip()
-		# {year: {president:votes, type:type}}
-		# print arr[-1]
 
 		office = arr[1].strip().lower()
 		party = arr[3].strip().lower()
@@ -58,9 +53,6 @@ for i,line in enumerate(read_data[1:]):
 			final[year][office][party][candidate][electionType] = int(votes)
 		else:
 			final[year][office][party][candidate][electionType] += int(votes)	
-
-# print final
-
 
 for k,v in final.iteritems():
 	for k1,v1 in v.iteritems():

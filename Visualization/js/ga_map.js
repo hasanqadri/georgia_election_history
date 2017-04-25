@@ -1,6 +1,8 @@
 // Used the following website for assistance:
 // http://bl.ocks.org/mbeasley/6821149
 
+
+//setting up basic chart variables 
 var width = 630,
 	height = 800;
 
@@ -25,6 +27,8 @@ var tooltip = d3.select("body").append("div")
 
 var map =  {};
 
+
+//initializing variables needed throughout visualization
 var treemapTotal = {};
 var completeDemVotes = 0;
 var completeRepVotes = 0;
@@ -36,6 +40,7 @@ var treemapRep = [];
 var repCount = 0;
 var hide = 1;
 var x;
+
 
 d3.json('/Data/Geo/ga.json', function(error, data) {
 
@@ -51,6 +56,7 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
     }
 	chartData.georgia = topojson.feature(data, data.objects.states);
 	chartData.counties = topojson.feature(data, data.objects.counties);
+
 	// Store the features so that we can use them for the right county diplay
 	chartData.countyFeatures = topojson.feature(data, data.objects.counties).features;
 
@@ -60,6 +66,7 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
 		.attr('class', 'state')
 		.attr('d', path);
 
+	//goes through each county - for each, add path. Adds click, and hover listeners
 	svg.selectAll('.counties')
 		.data(topojson.feature(data, data.objects.counties).features)
 		.enter()
@@ -71,6 +78,7 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
 			var countyName = d.properties.NAME_2.replace(" ", "_");
 			determineElectionWinner(countyName, getSelectedRace());
 		})
+		//when a county is clicked, update each separate visualizations based on the county that was clicked
       .on('click', function(d){
 				document.getElementById('inputCounty').value = '';
           if (hide) {
@@ -90,6 +98,7 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
 
 	      resetAllCountyOpacities()
 
+	      //setting all county opacities other than the one clicked to .25
 	      for(var x = 0; x < chartData.countyNames.length; x++) {
 			currentCounty = chartData.countyNames[x].toLowerCase()
 			if (currentCounty != countyName.toLowerCase()){
@@ -99,6 +108,7 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
 		  }
 
 	   })
+      	//handling tooltips when a county is hovered upon 
       .on('mouseover', function(d){
 		  var countyName = d.properties.NAME_2;
 
@@ -120,6 +130,7 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
 
 });
 
+//reset the ga-map to its original state - called when 'Reset Vis' button is clicked
 function resetMap(){
     x = document.getElementById('right');
     x.style.display = 'none';
@@ -128,6 +139,7 @@ function resetMap(){
 
 }
 
+//makes all county opacities equal to 1 
 function resetAllCountyOpacities(){
 	for(var x = 0; x < chartData.countyNames.length; x++) {
 		currentCounty = chartData.countyNames[x].toLowerCase()
@@ -136,6 +148,7 @@ function resetAllCountyOpacities(){
 	}
 }
 
+//checks if the inputted county is a valid GA county name. Returns boolean value
 function isValidCounty(county){
 	for(var x = 0; x < chartData.countyNames.length; x++) {
 		currentCounty = chartData.countyNames[x].toLowerCase()
@@ -148,6 +161,7 @@ function isValidCounty(county){
 	return false
 }
 
+//handles updating the ga-map layout and changing the colors and opacities, as well as updating the other graphs on click of a county
 d3.select("#inputCounty").on('keyup',function() {
 
 	resetAllCountyOpacities()
@@ -181,23 +195,27 @@ d3.select("#inputCounty").on('keyup',function() {
 
 })
 
+//updates the county variable
 function updateCountyFromInput(){
 	county = document.getElementById('inputCounty').innerHTML
 }
 
-
+//gets the selected race from the dropdown html element
 function getSelectedRace() {
 	var raceDropdown = document.getElementById("raceDropdown");
 	var raceSelected = raceDropdown.options[raceDropdown.selectedIndex].value;
 	return raceSelected;
 }
 
+//gets the selected year from the dropdown html element
 function getSelectedYear() {
 	var yearDropdown = document.getElementById("yearDropdown");
 	var yearSelected = yearDropdown.options[yearDropdown.selectedIndex].text;
 	return yearSelected;
 }
 
+//goes through the relevant csv file, and calculates the candidate with the highest number of votes. Based on the number of votes, 
+//and the party, the colors are updated on the ga-map
 function determineElectionWinner(countyName, race) {
 	csvName = getCSVName(countyName.toLowerCase());
 	d3.csv(csvName, function(error, data) {
@@ -257,6 +275,7 @@ function getElectionDate(office, year) {
 	}
 }
 
+//returns the csv name from the '/Data' folder given some county's name
 function getCSVName(countyName) {
 	countyName = countyName.toLowerCase().replace(' ', '_');
 
@@ -294,7 +313,7 @@ function displayStatistics(countyName, race) {
 	});
 }
 
-
+//gets the statistics needed for tooltips
 function tooltipStats(countyName, race) {
     csvName = getCSVName(countyName.toLowerCase());
     d3.csv(csvName, function(error, data) {
@@ -313,6 +332,7 @@ function tooltipStats(countyName, race) {
     });
 }
 
+//gets the statistics needed for the treemap
 function treemapStats(countyName, race) {
     csvName = getCSVName(countyName.toLowerCase());
     var totalVotes = 0;
@@ -335,6 +355,7 @@ function treemapStats(countyName, race) {
                 demVotes = raceVotes[i].votes;
             }
         }
+        //calculating the total number of votes per party
         totalVotes = (+demVotes) + (+repVotes);
         completeTotalVotes = (+completeTotalVotes) + (+totalVotes);
         completeRepVotes = (+completeRepVotes) + (+repVotes);
