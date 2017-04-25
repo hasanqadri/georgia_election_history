@@ -72,6 +72,7 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
 			determineElectionWinner(countyName, getSelectedRace());
 		})
       .on('click', function(d){
+				document.getElementById('inputCounty').value = '';
           if (hide) {
               x = document.getElementById('right');
               x.style.display = 'block';
@@ -134,7 +135,7 @@ function isValidCounty(county){
 	for(var x = 0; x < chartData.countyNames.length; x++) {
 		currentCounty = chartData.countyNames[x].toLowerCase()
 		// console.log(countyTyped)
-		if (currentCounty == countyTyped)onKeyPress="edValueKeyPress()" onKeyUp="edValueKeyPress()"{
+		if (currentCounty == countyTyped){
 			return true
 
 		}
@@ -152,7 +153,8 @@ d3.select("#inputCounty").on('keyup',function() {
 	countyTyped = document.getElementById('inputCounty').value.toLowerCase()
 
 	if (isValidCounty(countyTyped)){
-
+			x = document.getElementById('right');
+			x.style.display = 'block';
 	    updateCountyLineGraph1(getSelectedRace(), countyTyped.toLowerCase());
 	    displayStatistics(countyTyped.toLowerCase(), getSelectedRace());
 
@@ -164,9 +166,10 @@ d3.select("#inputCounty").on('keyup',function() {
 			}
 		}
 	}
-	// else{
-	// 	alert("Invalid county - Please Try Again")
-	// }
+	else{
+		x = document.getElementById('right');
+		x.style.display = 'none';
+	}
 
 })
 
@@ -366,6 +369,7 @@ d3.select('#yearDropdown')
 	.on('change', function() {
         x = document.getElementById('right');
         x.style.display = 'none';
+				resetAllCountyOpacities()
         hide = 1;
         console.log(getSelectedRace());
         if ((getSelectedRace() === "President of the United States" && getSelectedYear() == 2014) || (getSelectedRace() === "United States Senator" && getSelectedYear() == 2012)) {
@@ -402,6 +406,7 @@ d3.select('#raceDropdown')
 	.on('change', function() {
         x = document.getElementById('right');
         x.style.display = 'none';
+				resetAllCountyOpacities()
         hide = 1;
         if ((getSelectedRace() === "President of the United States" && getSelectedYear() == 2014) || (getSelectedRace() == "United States Senator" && getSelectedYear() === 2012)) {
             if (getSelectedRace() == "President of the United States") {
