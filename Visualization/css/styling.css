@@ -45,6 +45,9 @@ h3 {
   stroke-width:2px;
 }
 
+.treemap-margin {
+    margin-right: 60px;
+}
 
 .counties:hover {
   /*fill: steelblue;*/
@@ -108,6 +111,9 @@ h3 {
   bottom:0;
 }
 
+.w3-margin-bot-custom {
+    margin-bottom: 80px;
+}
 
 .chart {
     display: block;
