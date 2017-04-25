@@ -318,6 +318,11 @@ function treemapStats(countyName, race) {
     var totalVotes = 0;
     var demVotes = 0;
     var repVotes = 0;
+    if (count < 158) {
+        document.getElementById("load").innerHTML = "Loading....";
+    } else {
+        document.getElementById("load").innerHTML = "Loaded";
+    }
     d3.csv(csvName, function(error, data) {
         var groupByOffice = d3.nest()
             .key(function(d) {return d.office})
@@ -347,6 +352,7 @@ function treemapStats(countyName, race) {
 		console.log(count);
 
 		if (count == 159) {
+            document.getElementById("load").innerHTML = "Loaded";
             treemapTotal = {"name" : "Total", "children": [ {
                 "name": "Democrat Votes" ,  "children": treemapDem},
                 {"name":"Republican Votes", "children": treemapRep}]};
