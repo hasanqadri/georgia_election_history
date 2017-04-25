@@ -17,9 +17,10 @@
      **/
     var count = 1;
     var curr = "";
+var yr = 0;
     var nodes;
     var cell;
-    function start(totalData, countyName, race) {
+function start(totalData, countyName, race, year) {
         var w = 600 - 80,
             h = 500 - 180,
             x = d3.scale.linear().range([0, w]),
@@ -36,9 +37,10 @@
                 return d.votes;
             });
 
-        if (curr == "") {
+    if (curr == "" || yr == 0) {
             curr = race;
-        } else if (curr != race) {
+        yr = year;
+    } else if (curr != race || yr != year) {
             d3.select("#tree").remove();
         }
         if (count) {

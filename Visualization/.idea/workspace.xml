@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="962c9dce-0067-45b2-acee-e8ede4c4c5b6" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Index.html" afterPath="$PROJECT_DIR$/Index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/ga_map.js" afterPath="$PROJECT_DIR$/js/ga_map.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/line_graph_by_county.js" afterPath="$PROJECT_DIR$/js/line_graph_by_county.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/piechart.js" afterPath="$PROJECT_DIR$/js/piechart.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/treemap_county.js" afterPath="$PROJECT_DIR$/js/treemap_county.js" />
     </list>
     <ignored path="Visualization.iws" />
@@ -44,11 +41,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ga_map.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ga_map.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/ga_map.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="536">
-              <caret line="296" column="0" selection-start-line="296" selection-start-column="0" selection-end-line="296" selection-end-column="0" />
+            <state relative-caret-position="253">
+              <caret line="76" column="92" selection-start-line="76" selection-start-column="92" selection-end-line="76" selection-end-column="92" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -66,11 +63,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="treemap_county.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="treemap_county.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/treemap_county.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+            <state relative-caret-position="612">
+              <caret line="43" column="40" selection-start-line="43" selection-start-column="40" selection-end-line="43" selection-end-column="40" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -93,8 +90,8 @@
       <file leaf-file-name="treemap.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../../cs4460_election_history/Visualization/js/treemap.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="706">
-              <caret line="50" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+            <state relative-caret-position="315">
+              <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -175,9 +172,9 @@
         <option value="$PROJECT_DIR$/../../../cs4460_election_history/Visualization/js/treemap.js" />
         <option value="$PROJECT_DIR$/Index.html" />
         <option value="$PROJECT_DIR$/js/piechart.js" />
-        <option value="$PROJECT_DIR$/js/treemap_county.js" />
         <option value="$PROJECT_DIR$/js/line_graph_by_county.js" />
         <option value="$PROJECT_DIR$/js/ga_map.js" />
+        <option value="$PROJECT_DIR$/js/treemap_county.js" />
       </list>
     </option>
   </component>
@@ -324,7 +321,7 @@
       <workItem from="1492544056174" duration="36880000" />
       <workItem from="1492640737277" duration="8720000" />
       <workItem from="1493074666818" duration="11653000" />
-      <workItem from="1493093652321" duration="4901000" />
+      <workItem from="1493093652321" duration="5392000" />
     </task>
     <task id="LOCAL-00001" summary="Div restructuring">
       <created>1492399383389</created>
@@ -361,11 +358,18 @@
       <option name="project" value="LOCAL" />
       <updated>1493096747899</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Changed Tooltip">
+      <created>1493098584722</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1493098584722</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="99802000" />
+    <option name="totallyTimeSpent" value="100293000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -425,7 +429,8 @@
     <MESSAGE value="Treemap fully functional" />
     <MESSAGE value="Dynamic Dropdowns" />
     <MESSAGE value="Deleted county representation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Deleted county representation" />
+    <MESSAGE value="Changed Tooltip" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed Tooltip" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -745,23 +750,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../cs4460_election_history/Visualization/js/treemap.js">
+    <entry file="file://$PROJECT_DIR$/js/piechart.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="706">
-          <caret line="50" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/treemap_county.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="119">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -775,18 +768,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/piechart.js">
+    <entry file="file://$PROJECT_DIR$/../../../cs4460_election_history/Visualization/js/treemap.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-          <folding />
+        <state relative-caret-position="315">
+          <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/ga_map.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="536">
-          <caret line="296" column="0" selection-start-line="296" selection-start-column="0" selection-end-line="296" selection-end-column="0" />
+        <state relative-caret-position="253">
+          <caret line="76" column="92" selection-start-line="76" selection-start-column="92" selection-end-line="76" selection-end-column="92" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/treemap_county.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="43" column="40" selection-start-line="43" selection-start-column="40" selection-end-line="43" selection-end-column="40" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>

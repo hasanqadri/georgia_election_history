@@ -74,7 +74,7 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
 		  var countyName = d.properties.NAME_2;
 
           document.getElementById('name').innerHTML=countyName;
-		  start(treemapTotal, countyName.toLowerCase(), getSelectedRace());
+          start(treemapTotal, countyName.toLowerCase(), getSelectedRace(), getSelectedYear());
 
 		  updateCountyLineGraph1(getSelectedRace(), countyName.toLowerCase());
 
