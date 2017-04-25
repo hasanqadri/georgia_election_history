@@ -6,10 +6,7 @@ var width = 630,
 
 var chartData = {};
 
-var countyNames = []
-
-//chartData.countyNames = [];
-//console.log(chartData.countyNames[1])
+var countyName = []
 
 var svg = d3.select(".ga-map").append("svg")
 	.attr("width", width)
@@ -56,7 +53,6 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
 	// Store the features so that we can use them for the right county diplay
 	chartData.countyFeatures = topojson.feature(data, data.objects.counties).features;
 
-	//console.log(chartData.counties);
 
 	svg.append('path')
 		.datum(chartData.georgia)
@@ -68,35 +64,42 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
 		.enter()
 		.append('path')
 		.attr('class', 'counties')
-		.attr("id", function (d) {return "county-" + d.properties.NAME_2.replace(" ", "_")})
+		.attr("id", function (d) {return "county-" + d.properties.NAME_2.replace(" ", "_").toLowerCase()})
 		.attr('d', path)
 		.style('fill', function(d) {
 			var countyName = d.properties.NAME_2.replace(" ", "_");
 			determineElectionWinner(countyName, getSelectedRace());
 		})
-      .on('mouseover', function(d){
-          var countyName = d.properties.NAME_2;
+      .on('click', function(d){
+		  var countyName = d.properties.NAME_2;
 
           document.getElementById('name').innerHTML=countyName;
 		  start(treemapTotal, countyName, getSelectedRace());
 
-		  		updateCountyLineGraph1(getSelectedRace(), countyName.toLowerCase());
+		  updateCountyLineGraph1(getSelectedRace(), countyName.toLowerCase());
 
-          displayStatistics(countyName, getSelectedRace());
-					// send the data to right_county to draw the county
-					// console.log(d)
-          drawRightCounty(d);
-				  //if (!dele) {
-				//	   start(treemapTotal, countyName, dele);
-				//	     dele++
-				  // } else {
-				 //
+	      displayStatistics(countyName.toLowerCase(), getSelectedRace());
+
+	      resetAllCountyOpacities()
+
+	      for(var x = 0; x < chartData.countyNames.length; x++) {
+			currentCounty = chartData.countyNames[x].toLowerCase()
+			if (currentCounty != countyName.toLowerCase()){
+				elem = document.getElementById('county-'+currentCounty)
+				elem.style.opacity = .25;
+			}
+		  }
+
+	   })
+      .on('mouseover', function(d){
+		  var countyName = d.properties.NAME_2;
+
 		  tooltip.transition()
               .duration(200)
               .style("opacity", .75);
           tooltip.html( function() {
 
-              return d.properties.NAME_2 + "<br>" + map[countyName];
+              return d.properties.NAME_2 + "<br>" + map[countyName.toLowerCase()];
           })
               .style("left", (d3.event.pageX + 5) + "px")
               .style("top", (d3.event.pageY - 28) + "px");
@@ -108,6 +111,67 @@ d3.json('/Data/Geo/ga.json', function(error, data) {
       })
 
 });
+
+function resetMap(){
+	resetAllCountyOpacities()
+	document.getElementById('name').innerHTML = "Hover over a county to see more info!";
+
+}
+
+function resetAllCountyOpacities(){
+	for(var x = 0; x < chartData.countyNames.length; x++) {
+		currentCounty = chartData.countyNames[x].toLowerCase()
+		elem = document.getElementById('county-'+currentCounty)
+		elem.style.opacity = 1;
+	}
+}
+
+function isValidCounty(county){
+	for(var x = 0; x < chartData.countyNames.length; x++) {
+		currentCounty = chartData.countyNames[x].toLowerCase()
+		// console.log(countyTyped)
+		if (currentCounty == countyTyped){
+			return true
+
+		}
+	}
+	return false
+}
+
+d3.select("#inputCounty").on('change',function() {
+
+	resetAllCountyOpacities()
+
+	// chartData.countyNames
+	validCountyTyped = false;
+
+	countyTyped = document.getElementById('inputCounty').value.toLowerCase()
+
+	if (isValidCounty(countyTyped)){
+
+		document.getElementById('name').innerHTML=countyTyped.toLowerCase();
+	    updateCountyLineGraph1(getSelectedRace(), countyTyped.toLowerCase());
+	    displayStatistics(countyTyped.toLowerCase(), getSelectedRace());
+
+		for(var x = 0; x < chartData.countyNames.length; x++) {
+			currentCounty = chartData.countyNames[x].toLowerCase()
+			if (currentCounty != countyTyped){
+				elem = document.getElementById('county-'+currentCounty)
+				elem.style.opacity = .25;
+			}
+		}
+	}
+	else{
+		alert("Invalid county - Please Try Again")
+	}
+
+})
+
+function updateCountyFromInput(){
+	county = document.getElementById('inputCounty').innerHTML
+	console.log(county)
+}
+
 
 function getSelectedRace() {
 	var raceDropdown = document.getElementById("raceDropdown");
@@ -122,7 +186,7 @@ function getSelectedYear() {
 }
 
 function determineElectionWinner(countyName, race) {
-	csvName = getCSVName(countyName);
+	csvName = getCSVName(countyName.toLowerCase());
 	d3.csv(csvName, function(error, data) {
 		var groupByOffice = d3.nest()
 			.key(function(d) {return d.office})
@@ -139,6 +203,7 @@ function determineElectionWinner(countyName, race) {
 				maxParty = curParty;
 			}
 		}
+		countyName=countyName.toLowerCase();
 		if (maxParty.includes("R")) {
 			d3.select('#county-' + countyName)
 				.transition()
@@ -180,7 +245,7 @@ function getElectionDate(office, year) {
 }
 
 function getCSVName(countyName) {
-	countyName = countyName.replace(' ', '_');
+	countyName = countyName.toLowerCase().replace(' ', '_');
 
 	// Getting the value of the dropdown. Got it from:
 	// stackoverflow.com/questions/1085801/get-selected-value-in-
@@ -190,13 +255,13 @@ function getCSVName(countyName) {
 	var electionDate = getElectionDate(raceSelected, yearSelected);
 
 	var csvName = '/Data/' + yearSelected + '/' + yearSelected
-		+ electionDate + '__ga__general__' + countyName + '__precinct.csv';
+		+ electionDate + '__ga__general__' + countyName.toLowerCase() + '__precinct.csv';
 	return csvName;
 }
 
 // Display statistics at top of HTML page
 function displayStatistics(countyName, race) {
-	csvName = getCSVName(countyName);
+	csvName = getCSVName(countyName.toLowerCase());
 	d3.csv(csvName, function(error, data) {
 		var groupByOffice = d3.nest()
 			.key(function(d) {return d.office})
@@ -213,14 +278,14 @@ function displayStatistics(countyName, race) {
 		}
 		document.getElementById('voteInfoName').innerHTML = voteSummaryString;
 
-        map[countyName] = voteSummaryString;
+        map[countyName.toLowerCase()] = voteSummaryString;
 		return voteSummaryString;
 	});
 }
 
 
 function tooltipStats(countyName, race) {
-    csvName = getCSVName(countyName);
+    csvName = getCSVName(countyName.toLowerCase());
     d3.csv(csvName, function(error, data) {
         var groupByOffice = d3.nest()
             .key(function(d) {return d.office})
@@ -232,13 +297,13 @@ function tooltipStats(countyName, race) {
             candidateVotes = raceVotes[i].votes;
             voteSummaryString += candidate + ': ' + candidateVotes + '<br>';
         }
-        map[countyName] = voteSummaryString;
+        map[countyName.toLowerCase()] = voteSummaryString;
         return voteSummaryString;
     });
 }
 
 function treemapStats(countyName, race) {
-    csvName = getCSVName(countyName);
+    csvName = getCSVName(countyName.toLowerCase());
     var totalVotes = 0;
     var demVotes = 0;
     var repVotes = 0;
@@ -258,9 +323,9 @@ function treemapStats(countyName, race) {
         completeTotalVotes = (+completeTotalVotes) + (+totalVotes);
         completeRepVotes = (+completeRepVotes) + (+repVotes);
         completeDemVotes = (+completeDemVotes) + (+demVotes);
-        //var totalObj = {countyName: countyName, votes: totalVotes};
-        var demObj = {countyName: countyName, votes: demVotes};
-        var repObj = {countyName: countyName, votes: repVotes};
+        //var totalObj = {countyName.toLowerCase(): countyName.toLowerCase(), votes: totalVotes};
+        var demObj = {countyName: countyName.toLowerCase(), votes: demVotes};
+        var repObj = {countyName: countyName.toLowerCase(), votes: repVotes};
 
         //treemapTotal[count] = totalObj;
         treemapDem[demCount] = demObj;
